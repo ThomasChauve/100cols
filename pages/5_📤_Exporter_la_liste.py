@@ -1,6 +1,5 @@
 import streamlit as st
 from pathlib import Path
-from directorypicker import st_directory_picker
 import time
 import numpy as np
 import pickle
