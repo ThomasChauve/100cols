@@ -3,7 +3,6 @@ import numpy as np
 import pickle
 import plotly.express as px
 import plotly.subplots
-from IPython.display import display, HTML
 
 pd.set_option('display.max_rows', None)
 
@@ -28,9 +27,7 @@ class list_biblio100cols():
             id2=pd.Series(self.database[self.database.columns[0]].str.contains(dep,case=False))
             id = id*id2
         if print_res:
-            display(HTML("<div style='height: 200px; overflow: auto; width: fit-content'>" +
-             self.database.loc[np.where(id==True)[0]].style.render() +
-             "</div>"))
+            print('Nothing')
         return id
 
     def plot_map(self,id,ww=1000):
