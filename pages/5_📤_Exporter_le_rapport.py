@@ -8,8 +8,6 @@ import datetime
 
 st.set_page_config(page_title="Exporter le rapport", page_icon="📤")
 
-st.markdown("Cette outil permet d'exporter un rapport pour envoyer au club des 100 cols.")
-st.warning("Cela ne fait pas une sauvegarde de vos données. Pour cela utilisé les bouttons *Téléchargement* à gauche.", icon="⚠️")
 
 if 'id_u' not in st.session_state:
     st.session_state['id_u'] = 0
@@ -37,6 +35,9 @@ if len(user_list)!=0:
 
 
 st.title('Export des cols')
+
+st.markdown("Cette outil permet d'exporter un rapport pour envoyer au club des 100 cols.")
+st.warning("Cela ne fait pas une sauvegarde de vos données. Pour cela utilisé les bouttons *Téléchargement* à gauche.", icon="⚠️")
 
 def send_pdf(adr):
     with open(adr, "rb") as pdf_file:
