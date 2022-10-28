@@ -30,7 +30,7 @@ if len(user_list)!=0:
         st.session_state['id_u']=user_list.index(option)
         k=0
         for data in st.session_state['data_list']:
-            st.download_button('Télécharger les donnée de '+ data.pseudo,pickle_model(data),file_name=data.pseudo+str(datetime.date.today())+'.100cols',key='uk-1'+str(k))
+            st.download_button('Télécharger les données de '+ data.pseudo,pickle_model(data),file_name=data.pseudo+str(datetime.date.today())+'.100cols',key='uk-1'+str(k))
             k+=1
 
 
