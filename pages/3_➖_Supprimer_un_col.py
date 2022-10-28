@@ -44,20 +44,13 @@ else:
 
     f_id=st.text_input('Code',label_visibility="visible")
     f_nom=st.text_input('Nom',label_visibility="visible")
-    f_alt=st.number_input('Altitude', label_visibility="visible",min_value=int(0))
 
-    if f_alt==0:
-        aa=None
-    else:
-        aa=f_alt
-
-
-    id=st.session_state['data_list'][st.session_state['id_u']].filter_name(f_nom,dep=f_id,alt=f_alt,date=None,print_res=False)
+    id=st.session_state['data_list'][st.session_state['id_u']].filter_name(f_nom,dep=f_id,alt=None,date=None,print_res=False)
     del_code = st.selectbox('Col à supprimer',st.session_state['data_list'][st.session_state['id_u']].cols.loc[id])
 
     
     if st.button('Supprimer'):
-        index=list(st.session_state['data_list'][st.session_state['id_u']].cols[colAll.database.columns[0]]).index(del_code)
+        index=list(st.session_state['data_list'][st.session_state['id_u']].cols[st.session_state['data_list'][st.session_state['id_u']].cols.columns[0]]).index(del_code)
         
         st.session_state['data_list'][st.session_state['id_u']].del_pass(index)
         
