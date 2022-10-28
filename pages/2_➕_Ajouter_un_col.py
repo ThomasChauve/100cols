@@ -28,10 +28,6 @@ if len(user_list)!=0:
     with st.sidebar:
         option = st.selectbox('Utilisateur',user_list,index=st.session_state['id_u'],key='u1')
         st.session_state['id_u']=user_list.index(option)
-        k=0
-        for data in st.session_state['data_list']:
-            st.download_button('Télécharger les données de '+ data.pseudo,pickle_model(data),file_name=data.pseudo+str(datetime.date.today())+'.100cols',key='uk-1'+str(k))
-            k+=1
 
 
 width = 1980
@@ -57,10 +53,11 @@ else:
 
     id=colAll.filter_name(f_nom,dep=f_id,alt=aa,print_res=False)
     st.dataframe(colAll.database.loc[id])
-
-    with st.expander("Montrer sur la carte :"):
-        fig_map=colAll.plot_map(id,ww=width)
-        st.plotly_chart(fig_map, use_container_width=True, sharing="streamlit")
+    
+    if np.sum(id)<5000:
+        with st.expander("Montrer sur la carte :"):
+            fig_map=colAll.plot_map(id,ww=width)
+            st.plotly_chart(fig_map, use_container_width=True, sharing="streamlit")
 
     st.header('Ajouter')
 
@@ -69,7 +66,7 @@ else:
     add_code = st.selectbox('Col à ajouter',colAll.database.loc[id])
 
     
-    if st.button('Ajouter et sauvegarder'):
+    if st.button('Ajouter'):
         index=list(colAll.database[colAll.database.columns[0]]).index(add_code)
         
         txt=st.session_state['data_list'][st.session_state['id_u']].add_pass(colAll.database.loc[index],f_date)
