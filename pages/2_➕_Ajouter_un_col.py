@@ -4,7 +4,6 @@ import numpy as np
 import libpy_100c.libpy_100c as lc
 import libpy_100c.lib_biblio100cols as lb100
 import pickle
-import wx
 import io
 import datetime
 
@@ -34,8 +33,8 @@ if len(user_list)!=0:
             st.download_button('Télécharger les donnée de '+ data.pseudo,pickle_model(data),file_name=data.pseudo+str(datetime.date.today())+'.100cols',key='uk-1'+str(k))
             k+=1
 
-app = wx.App(False)
-width, height = wx.GetDisplaySize()
+
+width = 1980
 
 if len(user_list)==0:
     st.title('Ajouter un col')
