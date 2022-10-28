@@ -58,3 +58,7 @@ if len(user_list)!=0:
             k+=1
 
 
+
+st.header('Première connection')
+
+st.markdown("Si c'est votre première utilisation et que vous n'avez pas encore un fichier '.100cols' compatible avec ce site commencé par crée un (ou plusieurs) nouvel utilisateur dans la section **Gestion des utilisateurs**.")
