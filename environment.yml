@@ -1,13 +1,9 @@
 channels:
   - conda-forge
 dependencies:
-  - ipykernel
   - streamlit
-  - numpy
   - pandas
-  - ipywidgets
   - plotly
-  - glob2
   - tabulate
   - nbconvert
   - wxpython
