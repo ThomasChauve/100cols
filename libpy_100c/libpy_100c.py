@@ -41,7 +41,8 @@ class list100cols:
             return txt
             
     def del_pass(self,id):
-        self.cols=self.cols.drop(index=id)
+        self.cols = self.cols[self.cols.Code != id]
+     
         
     ### Figures ###    
     def plot_evolution_col(self):
