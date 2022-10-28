@@ -49,9 +49,7 @@ else:
     del_code = st.selectbox('Col à supprimer',st.session_state['data_list'][st.session_state['id_u']].cols.loc[id])
 
     
-    if st.button('Supprimer'):
-        index=list(st.session_state['data_list'][st.session_state['id_u']].cols[st.session_state['data_list'][st.session_state['id_u']].cols.columns[0]]).index(del_code)
-        
-        st.session_state['data_list'][st.session_state['id_u']].del_pass(index)
+    if st.button('Supprimer'):        
+        st.session_state['data_list'][st.session_state['id_u']].del_pass(del_code)
         
         st.success('Col '+del_code+' supprimé', icon="✅")
