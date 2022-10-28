@@ -6,7 +6,7 @@ import pickle
 import io
 import datetime
 
-st.set_page_config(page_title="Export des cols", page_icon="📤")
+st.set_page_config(page_title="Exporter le rapport", page_icon="📤")
 
 if 'id_u' not in st.session_state:
     st.session_state['id_u'] = 0
