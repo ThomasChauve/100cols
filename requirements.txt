@@ -3,5 +3,4 @@ pandas
 plotly
 tabulate
 nbconvert
-wxpython
 pandoc
