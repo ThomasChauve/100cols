@@ -52,7 +52,7 @@ else:
         aa=f_alt
 
 
-    id=st.session_state['data_list'][st.session_state['id_u']].filter_name(fu_nom,dep=fu_id,alt=fu_alt,date=fu_date,print_res=False)
+    id=st.session_state['data_list'][st.session_state['id_u']].filter_name(f_nom,dep=f_id,alt=f_alt,date=None,print_res=False)
     del_code = st.selectbox('Col à supprimer',st.session_state['data_list'][st.session_state['id_u']].cols.loc[id])
 
     
