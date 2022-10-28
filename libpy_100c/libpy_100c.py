@@ -6,7 +6,6 @@ import pickle
 import streamlit as st
 import plotly.express as px
 import plotly.subplots
-import ipywidgets as widgets
 from IPython.display import display, HTML
 
 pd.set_option('display.max_rows', None)
@@ -114,63 +113,7 @@ class list100cols:
         fig = px.bar(df.sort_values(by=['Departement']), x='Departement', y="Nombre de col")
         return fig
     
-    def plot_main(self,show=False):
-        fig_hist=self.plot_histogram()
-        fig_cum=self.plot_evolution_col()
-        fig_map=self.plot_map()
-        fig_map.layout.mapbox.domain.x=(0.5,1)  
-        fig_pays=self.plot_pays()
-        
-        fig_all=plotly.subplots.make_subplots(rows=3,cols=2,specs=[[{'type': 'xy'},{"type": 'mapbox'}],[{'type': 'xy'},None],[{'type': 'pie'},None]],shared_xaxes = True)
-        
-        fig_all.layout.yaxis1.title.text='Nombre'
-        fig_all.layout.yaxis2.title.text='Nombre'
-        fig_all.layout.xaxis2.title.text='Date'
-        
-        fig_all.add_trace(fig_hist.data[0],1,1)
-        fig_all.add_trace(fig_hist.data[1],1,1)
-        fig_all.add_trace(fig_cum.data[0],2,1)
-        fig_all.add_trace(fig_cum.data[1],2,1)
-        fig_all.add_trace(fig_map.data[0],1,2)
-        fig_all.add_trace(fig_pays.data[0],3,1)
-        fig_all.update_layout(
-            fig_map.layout
-        )
-        fig_all.update_layout(height=800,width=1400)
-        fig_all.update_layout(legend=dict(
-            yanchor="bottom",
-            y=0,
-            xanchor="left",
-            x=0
-        ))
-        if show:
-            fig_all.show()
-        else:
-            return fig_all
-        
-    def summary(self):
     
-        sort_list=['Date','Code','Altitude']
-        sort=widgets.Dropdown(value=sort_list[0], options=sort_list, description='Ordre')
-
-        ds=pd.DataFrame(columns=['Total', '+2000 m'])
-        ds.loc[0]=[len(self.cols),np.sum(self.cols.Altitude>2000)]
-
-        nb_t=widgets.Text(value=str(ds.loc[0][0]),description='Nombre:',disabled=True)
-        nb_2000=widgets.Text(value=str(ds.loc[0][1]),description='+2000m:',disabled=True)
-
-        ui=widgets.VBox([sort,widgets.HBox([nb_t,nb_2000])])
-
-        def render_col(sort):
-            tt=self.cols.sort_values(by=sort)
-            display(HTML("<div style='height: 200px; overflow: auto; width: fit-content'>" +tt.style.render() +"</div>"))
-
-
-        out = widgets.interactive_output(render_col,{'sort': sort})
-        display(ui,out)
-
-        return
-
     def export_pdf(self,name,idclub,datelim,out):
         # Process the pass to send
         # remove unnacessary information
