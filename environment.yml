@@ -1,8 +1,6 @@
 name: cols100_n2
 channels:
   - conda-forge
-  - anaconda
-  - defaults
 dependencies:
   - ipykernel
   - streamlit
