@@ -1,0 +1,18 @@
+name: cols100_n2
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
+  - ipywidgets
+  - plotly
+  - glob2
+  - voila
+  - Jinja2==3.0.1
+  - nbconvert==6.4.4
+  - jupyterlab  
