@@ -15,7 +15,7 @@ st.set_page_config(
 
 st.title('Bienvenue dans votre gestionaire de cols')
 
-st.warning("Une fois les modifications réalisées n'oublier pas de télécharger vos données mise à jour.")
+st.warning("Une fois les modifications réalisées n'oublier pas de télécharger vos données mise à jour.", icon="⚠️")
 
 
 st.header('Charger les données')
