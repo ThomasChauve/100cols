@@ -1,4 +1,4 @@
-name: cols100_n2
+name: cols100
 channels:
   - conda-forge
 dependencies:
