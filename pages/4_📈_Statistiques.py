@@ -1,7 +1,6 @@
 import streamlit as st
 import time
 import numpy as np
-import wx
 import pickle
 from datetime import datetime
 import io
@@ -33,8 +32,7 @@ if len(user_list)!=0:
             st.download_button('Télécharger les donnée de '+ data.pseudo,pickle_model(data),file_name=data.pseudo+str(datetime.date.today())+'.100cols',key='uk-1'+str(k))
             k+=1
 
-app = wx.App(False)
-width, height = wx.GetDisplaySize()
+width, height = 1980
 
 if len(user_list)==0:
     st.title('Statistique des cols')
