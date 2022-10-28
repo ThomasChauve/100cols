@@ -46,6 +46,9 @@ else:
     f_nom=st.text_input('Nom',label_visibility="visible")
 
     id=st.session_state['data_list'][st.session_state['id_u']].filter_name(f_nom,dep=f_id,alt=None,date=None,print_res=False)
+    
+    st.dataframe(st.session_state['data_list'][st.session_state['id_u']].cols.loc[id])
+    
     del_code = st.selectbox('Col à supprimer',st.session_state['data_list'][st.session_state['id_u']].cols.loc[id])
 
     
