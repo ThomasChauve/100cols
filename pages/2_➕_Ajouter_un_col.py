@@ -5,6 +5,7 @@ import libpy_100c.libpy_100c as lc
 import libpy_100c.lib_biblio100cols as lb100
 import pickle
 import io
+import os
 import datetime
 
 st.set_page_config(page_title="Ajouter un col", page_icon="➕")
