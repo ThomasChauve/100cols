@@ -46,7 +46,7 @@ else:
 
     file=os.listdir('database/basecol/data_website/')
     option = st.multiselect('Librairie :',file,default='France.csv')
-    colAll=lb100.list_biblio100cols(filename='database/basecol/data_website/'+option)
+    colAll=lb100.list_biblio100cols(filename='database/basecol/data_website/'+option[0])
 
     if f_alt==0:
         aa=None
