@@ -41,11 +41,10 @@ else:
     file=os.listdir('database/basecol/data_website/')
     op_ly = st.multiselect('Librairie :',file,default='France.csv')
     for oo in op_ly:
-        colAll_list.append(lb100.list_biblio100cols(filename='database/basecol/data_website/'+oo)
-    colsAll = pd.concat(colAll_list)
-                           
+        colAll_list.append(lb100.list_biblio100cols(filename='database/basecol/data_website/'+oo).database)
     
-                           
+    colsAll = pd.concat(colAll_list)
+                  
     st.header('Recherche')
 
     f_id=st.text_input('Code',label_visibility="visible")
