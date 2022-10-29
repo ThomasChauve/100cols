@@ -37,10 +37,12 @@ for data in st.session_state['data_list']:
   st.download_button('Télécharger les données de '+ data.pseudo,pickle_model(data),file_name=data.pseudo+'.100cols',key='uk-1'+str(k))
   k+=1
  
-st.header('Fichier Excel')
+st.header('Fichier .csv')
+st.write('Un fichier csv peut etre facilement ouvert avec votre tableur préféré (Libre Office Calc, Excel, ...)')
+st.warning('Se fichier ne permet pas de recharger les données dans ce site internet',icon="⚠️")
 k=0
 for data in st.session_state['data_list']:
-  data.cols.to_excel('tmp'+str(k)+'.xlsx')
+  data.cols.to_csv('tmp'+str(k)+'.csv')
   st.download_button('Télécharger les données de '+ data.pseudo,Path('tmp'+str(k)+'.xlsx'),file_name=data.pseudo+'.xlsx',key='uke-1'+str(k))
   k+=1
   
