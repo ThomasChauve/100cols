@@ -45,7 +45,8 @@ else:
     f_alt=st.number_input('Altitude', label_visibility="visible",min_value=int(0))
 
     file=os.listdir('database/basecol/data_website/')
-    colAll=lb100.list_biblio100cols(filename='database/basecol/data_website/'+file[0])
+    option = st.selectbox('Librairie :',file)
+    colAll=lb100.list_biblio100cols(filename='database/basecol/data_website/'+option)
 
     if f_alt==0:
         aa=None
