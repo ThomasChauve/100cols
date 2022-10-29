@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 import time
 import numpy as np
 import libpy_100c.libpy_100c as lc
