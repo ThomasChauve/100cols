@@ -42,22 +42,6 @@ user_list=[]
 for du in st.session_state['data_list']:
     user_list.append(du.pseudo)
 
-def pickle_model(model):
-    f = io.BytesIO()
-    pickle.dump(model.__dict__, f)
-    return f    
-
-if len(user_list)!=0:
-    with st.sidebar:
-        option = st.selectbox('Utilisateur',user_list,index=st.session_state['id_u'],key='u1')
-        st.session_state['id_u']=user_list.index(option)
-
-        k=0
-        for data in st.session_state['data_list']:
-            st.download_button('Télécharger les donnée de '+ data.pseudo,pickle_model(data),file_name=data.pseudo+str(datetime.date.today())+'.100cols',key='uk-1'+str(k))
-            k+=1
-
-
 
 st.header('Première connection')
 
