@@ -45,7 +45,10 @@ else:
     for oo in op_ly:
         colAll_list.append(lb100.list_biblio100cols(filename='database/basecol/data_website/'+oo).database)
     
-    colsAll = pd.concat(colAll_list)
+    colsAll_tmp = pd.concat(colAll_list)
+    
+    colsAll=lb100.list_biblio100cols(filename='database/basecol/data_website/'+option[0])
+    colsAll.database=colsAll_tmp
                   
     st.header('Recherche')
 
