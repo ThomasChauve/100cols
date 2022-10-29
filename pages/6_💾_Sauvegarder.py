@@ -39,10 +39,10 @@ for data in st.session_state['data_list']:
  
 st.header('Fichier .csv')
 st.markdown("Un fichier .csv peut etre ouvert avec votre tableur favoris (Libre Office Calc, Excel, ...")
-st.warning('Se fichier ne permet pas de recharger les données dans ce site internet',icon="⚠️")
+st.warning('Ce fichier ne permet pas de recharger les données dans ce site internet',icon="⚠️")
 k=0
 for data in st.session_state['data_list']:
-  data.cols.to_csv('tmp'+str(k)+'.csv')
+  data.cols.to_csv('tmp'+str(k)+'.csv',delimiter=';')
   st.download_button('Télécharger les données .csv de '+ data.pseudo,data=Path('tmp'+str(k)+'.csv').read_text(),file_name=data.pseudo+'.csv',key='uke-1'+str(k))
   k+=1
   
