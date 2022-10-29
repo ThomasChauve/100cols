@@ -38,15 +38,20 @@ if len(user_list)==0:
     st.warning("Pas d'utilisateur enregistré")
 else:
     st.title('Ajouter un col à '+option)
+    file=os.listdir('database/basecol/data_website/')
+    op_ly = st.multiselect('Librairie :',file,default='France.csv')
+    for oo in op_ly:
+        colAll_list.append(lb100.list_biblio100cols(filename='database/basecol/data_website/'+oo)
+    colsAll = pd.concat(colAll_list)
+                           
+    
+                           
     st.header('Recherche')
 
     f_id=st.text_input('Code',label_visibility="visible")
     f_nom=st.text_input('Nom',label_visibility="visible")
     f_alt=st.number_input('Altitude', label_visibility="visible",min_value=int(0))
 
-    file=os.listdir('database/basecol/data_website/')
-    option = st.multiselect('Librairie :',file,default='France.csv')
-    colAll=lb100.list_biblio100cols(filename='database/basecol/data_website/'+option[0])
 
     if f_alt==0:
         aa=None
