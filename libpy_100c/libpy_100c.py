@@ -37,7 +37,7 @@ class list100cols:
             new_pass=list(cols)
             new_pass.append(date)
             #self.cols.loc[int(ii)]=new_pass
-            self.cols.append(new_pass,axis=0,ignore_index=True)
+            self.cols.append(new_pass,ignore_index=True)
             txt=new_pass[1]+'est ajouter'
             return txt
             
