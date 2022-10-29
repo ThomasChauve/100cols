@@ -38,7 +38,7 @@ for data in st.session_state['data_list']:
   k+=1
  
 st.header('Fichier .csv')
-st.writer("Un fichier .csv peut etre ouvert avec votre tableur favoris (Libre Office Calc, Excel, ..."))
+st.writer("Un fichier .csv peut etre ouvert avec votre tableur favoris (Libre Office Calc, Excel, ...")
 st.warning('Se fichier ne permet pas de recharger les données dans ce site internet',icon="⚠️")
 k=0
 for data in st.session_state['data_list']:
