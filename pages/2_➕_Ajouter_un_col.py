@@ -45,7 +45,7 @@ else:
     f_alt=st.number_input('Altitude', label_visibility="visible",min_value=int(0))
 
     file=os.listdir('database/basecol/data_website/')
-    option = st.multiselect('Librairie :',file)
+    option = st.multiselect('Librairie :',file,default='France.csv')
     colAll=lb100.list_biblio100cols(filename='database/basecol/data_website/'+option)
 
     if f_alt==0:
