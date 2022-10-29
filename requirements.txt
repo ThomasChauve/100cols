@@ -4,3 +4,4 @@ plotly
 tabulate
 nbconvert
 pandoc
+openpyxl
