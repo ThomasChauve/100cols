@@ -25,18 +25,17 @@ class list100cols:
     def add_pass(self,cols,date):
         
         idd = cols[0]
-        st.write(idd)
         if idd in list(self.cols.Code):
             index = list(self.cols.Code).index(idd)
             txt=list(self.cols.Nom)[index]+'('+str(list(self.cols.Altitude)[index])+')'+' a déjà été grimpé le '+str(list(self.cols.Date)[index])
             return txt
         else:
-            #ii=np.max(self.cols.index)+1
-            #if np.isnan(ii):
-            #       ii=0
             new_pass=list(cols)
-            new_pass.append(date)
-            st.write(new_pass)
+            if len(new_pass)==6: # It is very ugly I don't see the bug but it should work
+                new_pass.append(date)
+            elif len(new_pass)==7:
+                new_pass[6]=date
+                
             npdc=pd.DataFrame([new_pass],columns=['Code', 'Nom', 'Altitude', 'Accès', 'WGS84 Lon D','WGS84 Lat D','Date'])
             st.dataframe(npdc)
             #self.cols.loc[int(ii)]=new_pass
