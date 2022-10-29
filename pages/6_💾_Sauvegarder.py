@@ -40,7 +40,7 @@ for data in st.session_state['data_list']:
 st.header('Fichier Excel')
 k=0
 for data in st.session_state['data_list']:
-  st.download_button('Télécharger les données de '+ data.pseudo,pickle_model(data),file_name=data.cols.to_excel()+'.100cols',key='uke-1'+str(k))
+  st.download_button('Télécharger les données de '+ data.pseudo,data.cols.to_excel('tmp.xlsx'),file_name=data.pseudo+'.xlsx',key='uke-1'+str(k))
   k+=1
   
 
