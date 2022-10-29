@@ -43,7 +43,7 @@ st.warning('Se fichier ne permet pas de recharger les données dans ce site inte
 k=0
 for data in st.session_state['data_list']:
   data.cols.to_csv('tmp'+str(k)+'.csv')
-  st.download_button('Télécharger les données .csv de '+ data.pseudo,data=Path('tmp'+str(k)+'.csv').read_file(),file_name=data.pseudo+'.csv',key='uke-1'+str(k))
+  st.download_button('Télécharger les données .csv de '+ data.pseudo,data=Path('tmp'+str(k)+'.csv').read_text(),file_name=data.pseudo+'.csv',key='uke-1'+str(k))
   k+=1
   
 
