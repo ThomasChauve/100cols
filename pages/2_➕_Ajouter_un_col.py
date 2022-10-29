@@ -40,6 +40,7 @@ else:
     st.title('Ajouter un col à '+option)
     file=os.listdir('database/basecol/data_website/')
     op_ly = st.multiselect('Librairie :',file,default='France.csv')
+    colAll_list=[]
     for oo in op_ly:
         colAll_list.append(lb100.list_biblio100cols(filename='database/basecol/data_website/'+oo).database)
     
