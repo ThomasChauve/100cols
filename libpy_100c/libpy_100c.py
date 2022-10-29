@@ -25,7 +25,7 @@ class list100cols:
     def add_pass(self,cols,date):
         
         idd = cols[0]
-        st.write(id)
+        st.write(idd)
         if idd in list(self.cols.Code):
             index = list(self.cols.Code).index(idd)
             txt=list(self.cols.Nom)[index]+'('+str(list(self.cols.Altitude)[index])+')'+' a déjà été grimpé le '+str(list(self.cols.Date)[index])
@@ -35,8 +35,8 @@ class list100cols:
             #if np.isnan(ii):
             #       ii=0
             new_pass=list(cols)
-            st.write(new_pass)
             new_pass.append(date)
+            st.write(new_pass)
             npdc=pd.DataFrame(new_pass,columns=['Code', 'Nom', 'Altitude', 'Accès', 'WGS84 Lon D','WGS84 Lat D','Date'])
             st.dataframe(npdc)
             #self.cols.loc[int(ii)]=new_pass
