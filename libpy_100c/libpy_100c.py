@@ -31,13 +31,14 @@ class list100cols:
             txt=list(self.cols.Nom)[index]+'('+str(list(self.cols.Altitude)[index])+')'+' a déjà été grimpé le '+str(list(self.cols.Date)[index])
             return txt
         else:
-            ii=np.max(self.cols.index)+1
-            if np.isnan(ii):
-                   ii=0
+            #ii=np.max(self.cols.index)+1
+            #if np.isnan(ii):
+            #       ii=0
             new_pass=list(cols)
             new_pass.append(date)
-            self.cols.loc[int(ii)]=new_pass
-            txt=self.cols.Nom.loc[ii]+'est ajouter'
+            #self.cols.loc[int(ii)]=new_pass
+            self.cols.append(new_pass,axis=0,ignore_index=True)
+            txt=new_pass[1]+'est ajouter'
             return txt
             
     def del_pass(self,id):
