@@ -47,7 +47,7 @@ else:
     
     colsAll_tmp = pd.concat(colAll_list)
     
-    colsAll=lb100.list_biblio100cols(filename='database/basecol/data_website/'+option[0])
+    colsAll=lb100.list_biblio100cols(filename='database/basecol/data_website/'+op_ly[0])
     colsAll.database=colsAll_tmp
                   
     st.header('Recherche')
