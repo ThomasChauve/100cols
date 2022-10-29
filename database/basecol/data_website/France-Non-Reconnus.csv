@@ -1,0 +1,880 @@
+'Code';' Nom complet ';'Accès';' WGS84  Lon  D ';' WGS84  Lat  D '
+'FR-01-0255';' Le Truc ';' S  (NO) ';5,471097;45,725955
+'FR-01-0316';'Golet';'HS';5,670315;45,844988
+'FR-01-0318';' La Morte ';'R';5,390886;46,021395
+'FR-01-0341';' Le Golet ';'R';5,607272;45,732595
+'FR-01-0430';' Golet Chardon ';'R';5,655963;45,86968
+'FR-01-0441';' Col de Plain Champ ';'D52b';5,388261;46,341181
+'FR-01-0485';' Gollet de la Chicle ';;5,497916;45,922571
+'FR-01-0486';' Crêt du Jour ';' R(N)  S(S) ';5,465087;46,069235
+'FR-01-0520';' Collet de Chavannes ';'D3';5,443729;46,264798
+'FR-01-0538';' Golet de la Vuivra ';'CV';5,657265;46,289283
+'FR-01-0574';' Golet de la Fin ';'CV';5,654663;45,893925
+'FR-01-0602a';' Golet de Lent ';;5,428673;45,92211
+'FR-01-0624';'Sanquaise';' R  (S) ';5,49548;45,829787
+'FR-01-0662';' Golet Cottin ';'CV';5,649016;45,886296
+'FR-01-0690';' Gollet du Pontet ';'S';5,521855;46,25822
+'FR-01-0765';' Gollet de la Claz ';'S';5,516304;45,889401
+'FR-01-0804';' Golet de la Batiaoure ';'R1';5,459751;45,941767
+'FR-01-0817';' Golet Ravaret ';' D  57a ';5,587971;46,026477
+'FR-01-0843';' Pied du Geai ';'D34';5,549053;46,007589
+'FR-01-0861';' Golet Genon ';'R';5,491079;45,906175
+'FR-01-0914a';' Golet du Four ';'D30';5,730146;45,98146
+'FR-01-0925a';' Golet Téteret ';'RF';5,652052;46,046175
+'FR-01-0974';' Passage de la Pierre Taillée ';'D9';5,623187;45,967554
+'FR-01-0994';' Trou de Petay ';'R';5,645118;46,12832
+'FR-01-1018';' La Croix de Corral ';'R';5,631051;45,937384
+'FR-01-1021';' Golet de Cuvillat ';'D57a';5,636587;46,032561
+'FR-01-1096a';' Golet Grand-Voie ';'R1';5,739147;46,024072
+'FR-01-1110';' Golet à la Millette ';'R';5,637899;46,025031
+'FR-01-1122';' Golet de l'' Epine ';;5,575658;45,816485
+'FR-01-1125';' Golet Danoi ';'R1';5,7361;46,021353
+'FR-01-1134';' le Golet Marmier ';'R1-2';5,622072;45,963952
+'FR-01-1150';' Golet Bélier ';'HS';5,743576;45,978238
+'FR-01-1170';' Golet des Murs ';'R1';5,834248;46,239178
+'FR-01-1174';' Creux à la Neige ';'S';5,637841;45,9788
+'FR-01-1360';' Le Portail ';'S';6,089128;46,398245
+'FR-02-0071';' le Passage ';;3,338328;49,593874
+'FR-02-0097';' le Pas de Sable ';;3,429925;49,513121
+'FR-02-0124';' la Colle Baudé ';'R';3,84437;49,903498
+'FR-02-0125';' les Pas St-Martin ';'CV';3,186671;49,364527
+'FR-02-0129';' Les Collets ';;3,324515;49,554027
+'FR-02-0149';' le Pas de Dame ';;3,289187;49,425177
+'FR-02-0153';' le Passsage ';;3,078931;49,217039
+'FR-02-0168';' Passe à Cailloux ';'CV';4,120743;49,86945
+'FR-02-0184';' le Pas Morel ';;3,373119;49,239728
+'FR-02-0189';' la Passe Branlante ';'CV';4,139648;49,920769
+'FR-02-0195';' le Pas Bayard ';'CV';4,099612;49,956785
+'FR-02-0218';' Passe Dru ';;4,155549;49,975429
+'FR-04-0489';' Col des Granons ';'N100/D14';5,679962;43,864232
+'FR-04-0534';' le Trécol ';'R1';5,857669;43,903715
+'FR-04-0600';' Col de Borne ';'S';5,981479;44,404594
+'FR-04-0610';' Le pas de la Combe ';'R';5,836493;44,154173
+'FR-04-0660';' Pas de Peynier ';'S';5,882897;44,193013
+'FR-04-0666';' Le Collet ';'R';6,189187;44,035718
+'FR-04-0682';' Pas de Saint-Pensier ';'S';5,869679;44,192474
+'FR-04-0690';' Pas de Laval ';'CV';6,11087;43,868352
+'FR-04-0696';' le Colet ';'HS';6,035631;44,1842
+'FR-04-0729';' Le Seuil ';' D12  R1  (60m) ';6,020652;43,9802
+'FR-04-0799';' Le Malpas ';'D900b';6,268811;44,463925
+'FR-04-0808';' Col des Chèvres ';'R1-2';6,124238;44,100893
+'FR-04-0811';' Col de Puimichel ';'D12';6,047708;44,00781
+'FR-04-0815';' Les Coulettes ';'HS';6,753041;43,972077
+'FR-04-0821';' Le Coulet ';'R';6,336934;44,180735
+'FR-04-0918';' La Coulette ';'R';6,36506;44,022167
+'FR-04-0950';' Col des Praux ';'RF1';6,239183;43,999806
+'FR-04-0953';' les Portes ';;6,277508;44,035076
+'FR-04-0977';' le Pas de l''Ane ';;6,280429;44,031022
+'FR-04-1075a';' La Coulette ';;6,664465;43,988045
+'FR-04-1080';' Pas des Portes ';'S1-2';5,836747;44,138148
+'FR-04-1095a';' Le Pas d''Imbart ';;6,403401;44,163223
+'FR-04-1108';' La Colle ';'R';6,03072;44,217712
+'FR-04-1143';' Pas des Vaycous ';;5,760248;44,149879
+'FR-04-1185a';' La Colle ';'S';6,273022;44,176549
+'FR-04-1199a';' L''Aire des Chiens ';'S';6,19747;44,117489
+'FR-04-1226';' Le Malpas ';'D3';6,090709;44,243984
+'FR-04-1235';' La Collette ';'HS';6,3273;44,080642
+'FR-04-1315';' La Porte ';'D607/D207/CV';6,364528;44,356829
+'FR-04-1355';' Collet Pointu ';'S';6,112733;44,25623
+'FR-04-1368a';' La Colle ';'HS';6,239911;43,907976
+'FR-04-1373';' Pas de l''Escayon ';'R1';6,375247;44,119603
+'FR-04-1380a';' Pas des Trois Saut ';;6,39628;44,092622
+'FR-04-1390c';' Le Darau ';'S';6,193502;44,134844
+'FR-04-1421';' Coulet de Vaux ';;6,227879;44,276272
+'FR-04-1440';' La Colle ';'S';6,448094;44,173202
+'FR-04-1500a';' Pas de la Reyssole ';;6,743142;44,506219
+'FR-04-1555';' Le Col ';'R';6,60309;44,061131
+'FR-04-1670';' Pas du Buis ';;6,38378;44,110162
+'FR-04-1725a';' La Couletta ';'S-GR';6,729625;44,18076
+'FR-04-1744';' Coulet de St-Domnin ';;6,60447;44,004093
+'FR-04-1800';' Pas de l''Arête ';'HS';6,488809;44,248626
+'FR-04-1965';' La Basse ';;6,413999;44,398288
+'FR-04-1995';' Pas du Roy ';;6,728194;44,478822
+'FR-04-2205';' Pas du Jas ';;6,769586;44,459161
+'FR-04-2361';' La Basse ';'HS';6,671142;44,305344
+'FR-04-2758a';'Col';' R1  S2-4(E) ';6,753078;44,32875
+'FR-05-0734';' Col de Valserres ';'D942A';6,124851;44,482465
+'FR-05-0782';' Pas de Peysson ';'RF';5,76202;44,280708
+'FR-05-0798';' Le Collet ';'D45';6,050127;44,487972
+'FR-05-0833';' Col de Haut Forest ';'D210';6,199945;44,420908
+'FR-05-0900';' Le Col ';;6,19019;44,529496
+'FR-05-0905';' Le Collet ';'CV';5,659405;44,477758
+'FR-05-0921';' Col de la Plaine ';'CV';5,927081;44,563752
+'FR-05-1030';' Le Pas ';'S-GR';5,87248;44,421202
+'FR-05-1069';' La Porte ';'S';5,910213;44,405105
+'FR-05-1078';' Pas de Fayolle ';;5,893704;44,411365
+'FR-05-1128';' Pas de Roche-Courbe ';'S-GR';5,879797;44,417845
+'FR-05-1215';' Le Collet ';'CV';5,847888;44,639142
+'FR-05-1245a';' La Pousterle ';;6,56483;44,609516
+'FR-05-1255';' Le Collet ';'CV';6,641553;44,642547
+'FR-05-1630';' Col de la Barre ';'S';5,988146;44,590778
+'FR-05-1811';' Col de la Manche ';'S';5,921816;44,522483
+'FR-05-2055';' Pas de l''Escalier ';'S1-2';6,141724;44,716589
+'FR-05-2201';' Colletto di Cresta Nera ';'HS/N';6,76573;44,97052
+'FR-05-2600a';' Pas de Batailler ';'S';6,895033;44,743502
+'FR-05-2695a';' Col du Petit Galibier ';' S3-4(O)  HS4(N) ';6,412871;45,063541
+'FR-06-0227';' La Baïsse ';'D4/D3';7,011933;43,643064
+'FR-06-0285';' Le Collet ';'CV';7,01274;43,677118
+'FR-06-0300';' Col de Dreiblanca ';'R1-2';7,21851;43,803794
+'FR-06-0300a';' Col de Liesse ';' S(E)  Interdit ';7,221634;43,807776
+'FR-06-0320';' Col Férier ';'CV';7,224805;43,813874
+'FR-06-0335';' Collet du Couvent ';;7,223827;43,811123
+'FR-06-0336';' Col des Dauphins ';'D1114';7,223948;43,803686
+'FR-06-0341';' La Porti Solo ';'CV';7,151429;43,839928
+'FR-06-0377a';' La Colla ';'S';7,516013;43,934492
+'FR-06-0390';' Col de Galante ';'CV';7,228732;43,815128
+'FR-06-0430';' Passo della Masca ';'HS';7,266683;43,933266
+'FR-06-0432';' La Colle ';'S2';7,377617;43,778723
+'FR-06-0478a';' La Turbie ';'D2564';7,400751;43,746063
+'FR-06-0491';' Pas de Leuse ';'S';7,289245;43,942085
+'FR-06-0506';' Colle del Castel ';' CV  (Chemin  de  Gayan) ';7,401344;43,761701
+'FR-06-0524a';' La Colle ';'D26';7,151292;43,946813
+'FR-06-0555a';' Col d''Erc ';'D2566';7,453977;43,854914
+'FR-06-0560';' Passo Masca ';'S';7,525236;43,913677
+'FR-06-0590';' Collet du Passeron ';'D27';7,173086;43,856212
+'FR-06-0598a';'Colette';' R  S(sur  80m) ';7,258389;43,81449
+'FR-06-0675';' Collet Assou ';'D5';6,841515;43,693237
+'FR-06-0675a';' Col du Dragon ';' HS  (S  à  30m) ';7,232904;43,867875
+'FR-06-0774';' Col di Rugnatte ';'S';7,461473;43,84503
+'FR-06-0794a';' Colletto delle Traverse ';'S';7,321646;43,88005
+'FR-06-0816';' Col du Roi ';' R1  S1-2 ';7,206308;43,882277
+'FR-06-0850';' Le Coulet ';'CV';6,885985;43,909216
+'FR-06-0863';' Colletta di Peude ';' R  (N) ';7,496946;43,97425
+'FR-06-0980b';' La Baïsse ';;7,052668;43,73867
+'FR-06-0995';' Collet de Jacques ';'S';6,783452;43,87543
+'FR-06-1021a';' Collet de Boièra ';;7,27652;43,906479
+'FR-06-1030a';' le Pas ';'S';6,815511;43,889549
+'FR-06-1031';' Collet d''Huesti ';' HS  (S  à  40m) ';7,217153;43,895519
+'FR-06-1046';' Collet de Pater Noster ';'R';7,06405;43,775069
+'FR-06-1050';' Collet de la Claye ';;6,816494;43,887885
+'FR-06-1109';' Bouche de Lanes ';;7,491786;43,850612
+'FR-06-1180';' Col de Luc ';;7,113485;44,101522
+'FR-06-1255';' Collet de Giraud ';'R1-2(N)';7,045707;43,968617
+'FR-06-1291';' Le Collet ';'HS';7,257292;44,078398
+'FR-06-1315';' Collet de Péron ';;7,293458;43,903497
+'FR-06-1348';' Col Villa Souberre ';'R1(SO)';7,06036;43,990586
+'FR-06-1387a';' Colletto dell Olivo ';'S';6,900457;44,095272
+'FR-06-1425';' Baissa dei Fornès ';'HS';7,234175;43,98262
+'FR-06-1459';'Colletas';'CV';6,906158;44,089062
+'FR-06-1470b';' La Porte ';'S-GR';6,742427;44,179393
+'FR-06-1604a';' Coletto Pelau ';'HS';7,045613;44,01998
+'FR-06-1625';' Colletto dei Manzi ';'HS';7,651269;44,03123
+'FR-06-1636';' Collet du Loup ';'R1';7,66878;44,041036
+'FR-06-1694a';' Collet Mantia ';'R-GR';7,045939;44,16789
+'FR-06-1705a';' Collet Cotignol ';' Interdit  (PNM) ';7,266449;44,08709
+'FR-06-1725a';' La Couletta ';'S-GR';6,729625;44,18076
+'FR-06-1760';' Collet de Sen ';'GR';6,825048;44,141587
+'FR-06-1765a';' La Coleta di Valabres ';'HS';7,076368;44,142601
+'FR-06-1775';' Col de la Carinette ';' R-GR52A  Interdit ';7,383931;43,970169
+'FR-06-1891';' Los Col de Baudins ';'HS';7,004752;44,142671
+'FR-06-2140';' Los Portas ';' HS  Interdit  PNM ';7,019176;44,162498
+'FR-06-2198';' Collet Mattet ';;6,985985;44,177296
+'FR-06-2435';' Col de l''Aspre ';' GR  Interdit ';6,810924;44,17474
+'FR-06-2476';' Coletto Garbiera ';' Interdit  (PNM) ';7,407078;44,093346
+'FR-06-2515a';' Collet Garouns ';' Interdit  (PNM) ';7,220675;44,126831
+'FR-06-2580a';' Colle Leccia ';;7,279105;44,138651
+'FR-06-2609';' Pas du Bœuf ';'S';7,056;44,22971
+'FR-06-2678';'Bassa';' Interdit  (PNM) ';7,241359;44,164952
+'FR-07-0180';' Baisse de Chabaud ';;4,35405;44,43498
+'FR-07-0229';' Col des Avelats ';'D901/D104';4,167381;44,350606
+'FR-07-0231';' Col de la Grange ';'D294';4,350825;44,522431
+'FR-07-0245';' Pas du Renard ';'S';4,410407;44,370281
+'FR-07-0270';' Le Coulet ';'CV/GR';4,840535;44,976744
+'FR-07-0275a';' Col de la Figeyrolle ';'CV';4,436737;44,522907
+'FR-07-0323';' Col du Serre de Tourre ';'D290';4,439119;44,374035
+'FR-07-0360a';' Col de Brunieux ';'D406';4,77528;45,266085
+'FR-07-0363';' Col de la Forestière ';'D217';4,416684;44,326868
+'FR-07-0385a';' Le Coulet ';'CV';4,114981;44,451123
+'FR-07-0410';' Col de Tauriers ';'D305';4,281284;44,55307
+'FR-07-0415';' Col du Mazel ';'CV';4,134799;44,36294
+'FR-07-0431';'Lacol';'D2/D265';4,623226;44,788004
+'FR-07-0435';' le Grand Tracol ';'R';4,791058;44,910672
+'FR-07-0458a';' Col de Boze ';'D234/D578';4,66487;45,066581
+'FR-07-0462';'Collet';'CV';4,741473;45,11452
+'FR-07-0507';' Col de Planzolles ';'D4/D250';4,153435;44,485995
+'FR-07-0530';'Cols';'CV';4,568619;44,832908
+'FR-07-0610';' Col de Burianne ';'D264/D277';4,473997;44,891451
+'FR-07-0660';' Le Coullet ';'D318';4,388459;44,718792
+'FR-07-0688';' Col de Tauzuc ';'D8/D211';4,512929;44,812306
+'FR-07-0694a';'Chalencon';'D241/D364';4,574796;44,876231
+'FR-07-0705';' Le Coulet ';'D241a';4,51298;44,91571
+'FR-07-0752';' Coulet de Lande ';'R1-2-GR';4,368349;44,740059
+'FR-07-0841';'Saint-Martial';'D215/D237';4,281606;44,864281
+'FR-07-0845';' Col de l''Echelette ';'D4/D220';4,056031;44,508151
+'FR-07-0890a';' Col de la Croix Blanche ';'D4/R';4,066481;44,503621
+'FR-07-0891';'Rochepaule';'D214/D314';4,455968;45,07702
+'FR-07-0914';' La Berche ';'R1';4,376275;44,914507
+'FR-07-0995';' Col de la Roche des Vents ';' R1-2(E).  R1(O) ';4,598058;45,190745
+'FR-07-1009';' Col les Grands ';'D214/CV';4,50908;45,110552
+'FR-07-1060';' Le Maupas ';'CV(O)';4,440546;44,978702
+'FR-07-1079';' Col de Teste Rouge ';'CV/GR';4,00389;44,534324
+'FR-07-1080';' Col de Lalouvesc ';'D532/D578a';4,535893;45,119095
+'FR-07-1081';' Col Notre Dame des Neiges ';'D4';3,94557;44,59353
+'FR-07-1088';' Col de Clavière ';'D276/D9';4,406887;45,018566
+'FR-07-1115';' Col de Freydaparet ';'D214/CV';4,41665;45,04104
+'FR-07-1175';' Croix de la Femme-Morte ';'D403';4,032143;44,570412
+'FR-07-1255';' Col de la Baricaude ';'D289';4,215992;44,771926
+'FR-07-1260';' Col des Quatre Chemins ';'D377/D302/D122';4,129912;44,843822
+'FR-07-1262';' La Plaine de Bauzon ';'D536/CV';4,148917;44,737631
+'FR-07-1320';' Col du Montivernoux ';'D122';4,299358;44,808369
+'FR-07-1332';' La Toureyre ';'D410';4,207981;44,918221
+'FR-07-1378';' Col du Cros de Boutazon ';'D239/GR7';4,052419;44,698988
+'FR-07-1411';' Col de Bourlatier ';'D122';4,246356;44,814971
+'FR-07-1416';' Col du Gerbier de Jonc ';'D378-D237';4,224203;44,840907
+'FR-08-0253';' le Pas Bayard ';;4,232492;49,918547
+'FR-08-0266';' la Chitte Collet ';;4,742038;49,900862
+'FR-08-0273';' Passée de Chimay ';'S';4,283187;49,964106
+'FR-08-0274';' la Passe ';;4,823012;49,870609
+'FR-08-0279';' Passée du Risque Tout ';'S';4,305903;49,968239
+'FR-08-0290';' Col de la Boulette ';'R1';4,896088;49,673668
+'FR-08-0306';' Passée aux Gazons ';'S';4,322979;49,963972
+'FR-08-0326';' la Passée du Lion ';'R';4,36681;49,906175
+'FR-08-0433';' Col du Morthéan ';'RF';5,06388;49,755593
+'FR-09-0360';'Cot';'CV';1,45309;43,168898
+'FR-09-0425';' Cap du Cami ';'CV';1,170141;43,116305
+'FR-09-0455';' Cap del col ';'S-GR';1,789004;43,014316
+'FR-09-0476';' Très Cols ';'R';1,934439;43,006403
+'FR-09-0546';' Pas de Tarrouge ';'D11';1,498795;43,022466
+'FR-09-0565a';' Couret de la Croix ';'R1-2';1,093723;42,970508
+'FR-09-0585b';' Cap de la Goutte ';'D215';1,294987;43,061658
+'FR-09-0695';' Passage de la Mandre ';;1,693622;42,977178
+'FR-09-0714';'Courech';'S';1,19921;42,90848
+'FR-09-0715b';' Pas de l''Ours ';'S';1,595671;42,824714
+'FR-09-0749';' Col de l'' Oule ';'R';1,178998;42,852484
+'FR-09-0795';' Cot de la Liou ';'R';1,239665;42,854079
+'FR-09-0895d';' Pas des Crabiers ';'S2-3';1,975642;42,902095
+'FR-09-1065';' Le Col ';'CV';1,82106;42,740288
+'FR-09-1280';' Pas de l''Artigue ';'S';1,072124;42,908211
+'FR-09-1397';' Col du Taboulé ';'S-GR';0,922601;42,895307
+'FR-09-1568';' Col de la Lesse de Bialac ';'HS';1,631476;42,773096
+'FR-09-2001a';' Couret de l''Etang ';'HS';0,851588;42,852882
+'FR-09-2085';' Pas de la Case ';'N22';1,735796;42,543039
+'FR-09-2175';' Col de la Coumeille de l''Ours ';'S';1,977422;42,710964
+'FR-09-2252a';' Couillade des Bourriques ';;1,984822;42,671309
+'FR-09-2442a';' Port de la Girette ';;1,035946;42,780304
+'FR-09-2588';' La Grande Porteille ';'GR7';1,973417;42,618027
+'FR-09-2650';' Passage de la Balme ';;1,082655;42,793212
+'FR-09-2675';' La Portella del Forn ';;1,58787;42,633594
+'FR-11-0050a';' Pas de la Piale ';'CV';2,94484;42,997512
+'FR-11-0056';' Le col du Maçon ';'N139';3,023741;43,025572
+'FR-11-0070';' Col de Saint-Couat ';'R';2,621367;43,194312
+'FR-11-0086';' Col de Lière ';'R1';2,547375;43,182912
+'FR-11-0104';' Col de la Tour ';;2,971219;42,883438
+'FR-11-0122';' Passage des Inférêts ';'S';3,07477;43,13253
+'FR-11-0140';' le Col des Ières ';'R';2,837132;42,952066
+'FR-11-0160';' Pas d''Achès ';'R';2,545634;43,281436
+'FR-11-0190';' Col de las Breichos ';'D123';2,752124;42,981949
+'FR-11-0195c';' Col de la Fumade ';'R';2,764835;42,988111
+'FR-11-0222';' Le col de Fourniéro ';'D42';2,389695;43,168275
+'FR-11-0225a';' Col del Prat ';'R';2,321055;43,070999
+'FR-11-0264';' Las Couillados ';'R';2,575819;43,07846
+'FR-11-0276';' Pas d''Endiale ';;2,761148;43,009798
+'FR-11-0315b';' Pas d'' Rousi ';'R1';2,516906;43,012005
+'FR-11-0315c';' Col de la Bary ';;2,32092;42,951108
+'FR-11-0318';' Col de Prax ';'R1';2,313968;42,945283
+'FR-11-0324';' Col de Mayreville ';'D625/D247';1,838932;43,22934
+'FR-11-0325';' Pas de la Vieille ';;2,484408;43,02025
+'FR-11-0330';' Le Col ';' CV(N).  R1(S) ';2,07597;43,059002
+'FR-11-0335';' Col de Matoual ';;2,839164;42,935048
+'FR-11-0365a';' le Pas d''al Bosc ';;2,015971;43,09408
+'FR-11-0380';' Le Pas d''el Morou ';'D463';2,000459;43,120024
+'FR-11-0415a';' Col des Coutious ';;2,306914;42,948945
+'FR-11-0425';' Pas de l''Auzine ';'S2-3-4';2,524575;43,029356
+'FR-11-0449';' Pas de la Roque ';'CV';2,298246;42,899113
+'FR-11-0459';' Trou de las Mandros ';'R';2,027825;43,072992
+'FR-11-0479';' Pas de l''Olive ';'R';2,300493;42,97728
+'FR-11-0729';' Col des Escudiés ';'D46';2,304934;42,857782
+'FR-11-0778';' Col de Sales ';'D88/D920';2,607421;43,436692
+'FR-11-0810';' Pas del Tréou ';'S-GR';2,226077;42,741662
+'FR-11-0810a';' Trou de la Relhe ';;2,411917;42,893915
+'FR-11-0835a';' Le Pas du Rieu ';' D101.  GR7 ';2,257947;43,456653
+'FR-11-0899';' Pas del Rec ';'R';2,245282;42,733395
+'FR-11-1015b';' Col den Bergé ';'R1';1,956411;42,833211
+'FR-11-1020a';' Couillade de Petintel ';'S-GR';2,080366;42,756479
+'FR-11-1315';' Pas de l''Ours ';;1,881943;42,836378
+'FR-11-1386';' Clot du Souil ';'S';1,973518;42,79415
+'FR-11-1765';' Bas du Col de Jau ';'HS';2,257668;42,699028
+'FR-11-1806';' Les Couillades ';'HS';2,019374;42,750879
+'FR-12-0300';' Col des Estaques ';'D963';2,244287;44,576271
+'FR-12-0365';' Le Coulet ';'S';2,349171;44,640995
+'FR-12-0380';' Pas Redon ';'CV';2,650295;44,525243
+'FR-12-0498';' Col de Laumel ';'CV';2,13684;44,48591
+'FR-12-0499';' Col di Cabre ';'D658/D525';2,255438;44,455211
+'FR-12-0556';' Pas de Mouret ';'CV';2,622285;44,687419
+'FR-12-0613';' Col de Lauglanet ';'D93';3,087363;43,904655
+'FR-12-0670';' Le Pas ';'CV';2,651911;44,5878
+'FR-12-0730a';' Pas Estrecht ';;3,217925;43,86343
+'FR-12-0805';' Le Trescol ';;3,380954;44,046478
+'FR-12-1119';' le Pas de l''As ';'D921';2,869545;44,723092
+'FR-13-0015';' Pas de Loche ';'CV';4,76499;43,706389
+'FR-13-0051';' Pas du Lapin ';;5,355546;43,217621
+'FR-13-0085';' Pas Edgard Garrigue ';' S5,  GR-98-51 ';5,351664;43,22129
+'FR-13-0126';' Collet de Lagarde ';;5,047999;43,57093
+'FR-13-0130';' Col du Mas de Montfort ';'D24';4,920747;43,748397
+'FR-13-0180b';' Coulet de Bisquerle ';'R';4,951175;43,728105
+'FR-13-0230a';' Le Collet ';'D56c';5,62427;43,482658
+'FR-13-0280';' Pas de l''Oeil de Verre ';'S3-4';5,471955;43,20881
+'FR-13-0290a';' Collet Redon ';'D18/CV';5,30745;43,63763
+'FR-13-0310g';' Col du Val du Cuech ';'D16';5,142867;43,663724
+'FR-13-0330b';' Pas de Cabre ';'S3-4';5,366837;43,223174
+'FR-13-0340';' Pas du Pin ';'S5';5,364462;43,22
+'FR-13-0349';' Collet de Font Reynaude ';'HS';5,718996;43,674804
+'FR-13-0350';' Pas Supérieur de la Mélette ';'S';5,391888;43,217579
+'FR-13-0401';' Col du Grand Caunet ';'D3';5,676885;43,235698
+'FR-13-0429';' Col de Bèdes ';'D11';5,678295;43,672671
+'FR-13-0450a';' Col de Mimet ';'D8';5,510896;43,41885
+'FR-13-0456';' Brèche du Troncas ';'HS';5,627107;43,511302
+'FR-13-0500b';' Pas du Figuier ';'S3-4';5,522055;43,350841
+'FR-13-0509';' Collet du Pouchon ';'S';5,720068;43,539027
+'FR-13-0540';' Pas des Quatre Fers ';'S4-GR';5,551563;43,331559
+'FR-13-0630';' Pas Garrigue ';'S-GR';5,544748;43,336841
+'FR-13-0720';' Pas de Roubaud ';'S-GR';5,72802;43,323765
+'FR-13-0961';' Selle de l''Escandaou ';;5,701317;43,308746
+'FR-15-0550';'Cols';'D19';2,439209;44,721188
+'FR-15-1213';' Col de la Tuilière ';'D3';2,821896;45,140565
+'FR-15-1285';' Col de la Matte ';'D665';2,941248;44,692644
+'FR-15-1480';' Col de Rembertayre ';' S,  GR4 ';2,759306;45,076136
+'FR-16-0143';' Col de la Croix Sablière ';'D404';-0,150366;45,603777
+'FR-17-0125';' Pas du Fossé ';'R';-0,16124;45,945803
+'FR-19-0196';' Le Portail ';' R1  (D163  à  70m) ';1,702775;45,01172
+'FR-19-0235';' Le Seuil ';'D151';1,408085;45,17435
+'FR-19-0712';' Col de la Peyrude ';'D47';2,193466;45,45205
+'FR-19-0721';' Col d''Arbiouloux ';'D171';2,22741;45,46855
+'FR-21-0313';' Col du Pennevelle ';'D103j/D10';4,5199;47,533745
+'FR-21-0442';' Porte de Saint Germain ';' S,  GR7 ';5,029281;47,653128
+'FR-21-0460';' Pas Saint Martin ';' D23/S.  GR7 ';4,753947;47,050305
+'FR-21-0485';' Col du Bochot ';'D115a/D36';4,441036;47,21735
+'FR-21-0518';' Col de la Croix Vermont ';'CV/CV';4,30198;47,10715
+'FR-21-0698';' Col de la Croix de Chèvre ';' D302/GRP  Tour  du  Morvan ';4,122113;47,130775
+'FR-22-0030';' Col de Testrignel ';'CV';-3,430636;48,817008
+'FR-22-0277';' Col de la Clarté ';'D767';-3,08952;48,389054
+'FR-22-0278';' Col de Marhalla ';'D24';-2,991619;48,486903
+'FR-22-0290';' Col de Roc''h C''hlas Vihan ';'D8';-3,210433;48,411906
+'FR-22-0322';' Col de Lanfains ';'D7b';-2,912179;48,361726
+'FR-22-0336';' Col du Mont Bel-Air ';'CV/CV';-2,583325;48,322336
+'FR-23-0561';' Col du Peyroux ';'D22';1,768264;46,229708
+'FR-24-0105';' Le Pas de Celles ';'CV';0,389425;45,318441
+'FR-24-0166';' La Croix du Courret ';'CV';0,403905;45,329991
+'FR-24-0176';' Le Portail ';'CV';1,051278;45,261847
+'FR-24-0258';' Col de Lagrange ';'CV/CV';0,974176;45,253748
+'FR-24-0283';' Col du Moulin Blanc ';'D707';0,704137;45,515131
+'FR-25-0778';' Col des Roches ';'D6';6,261761;46,947514
+'FR-25-0891';' Le Col France ';'N461';6,709111;47,053407
+'FR-25-0919';' Col des Roches ';'D461';6,720184;47,051204
+'FR-25-1201';' Col du Châteleu ';'D447/GR5';6,590017;46,993029
+'FR-26-0334';' Col de Tramelas ';'R1';5,064377;44,748203
+'FR-26-0371';' Col d''Eric ';'CV';5,121899;44,28968
+'FR-26-0410a';' Col de Saint Marcel ';'D93';5,37103;44,754249
+'FR-26-0416';' Pas de Lauzens ';'D70';5,069404;44,665792
+'FR-26-0422';' Le Collet ';'R1';4,904731;44,677512
+'FR-26-0500';' Pas de la Baume ';;4,976143;44,549861
+'FR-26-0501b';' Pas de la Roche ';'D518';5,368787;44,784974
+'FR-26-0504';' Col du Pas de Lauzun ';'D70';5,076971;44,662404
+'FR-26-0530a';' Pas de la Roche ';'D543a';5,348377;44,792251
+'FR-26-0550b';' Pas de la Baume ';'R';4,972508;44,550122
+'FR-26-0550d';' Le Collet ';'R1';5,377123;44,437769
+'FR-26-0569';' Collet du Merle ';;5,213416;44,26794
+'FR-26-0576a';' Col de la Peyronière ';'D40';5,228409;44,218838
+'FR-26-0635a';' Le Collet ';'D538';5,091671;44,561752
+'FR-26-0640a';' Pas de l''Escalier ';'D70';5,238033;44,971928
+'FR-26-0710';' Pas de l''Echaillon ';;5,321695;44,434064
+'FR-26-0739';' Pas de la Bernarde ';'S';5,23352;44,709258
+'FR-26-0753';' Le Collet ';'R';5,255534;44,578174
+'FR-26-0765a';' Pas de Fontoubraire ';'S';5,09106;44,84414
+'FR-26-0770';' Le col d''Aussette ';'R1-S2';5,385672;44,309037
+'FR-26-0795a';' Le Maupas ';'S4-1-2(O)';5,049963;44,658121
+'FR-26-0800d';' le Col des Vignes ';'D271';5,296532;44,559933
+'FR-26-0800e';' Collet de Bouchière ';'R';5,405782;44,210235
+'FR-26-0820';' Le Col des Vignes ';'HS';5,532869;44,215556
+'FR-26-0830a';' Col l''Egat ';'R';5,432771;44,950048
+'FR-26-0842';' Col Jérôme Cavalli ';'D732';5,10811;44,827517
+'FR-26-0845';' Collet du Bœuf ';;5,515107;44,22582
+'FR-26-0871';' Le Col l''Evèque ';'R1';5,303917;44,465978
+'FR-26-0880';' Pas des Baux ';'R';5,370275;44,692701
+'FR-26-0935c';' Pas de Fontfène ';'S';5,109097;44,853285
+'FR-26-0941';' Pas du Margeat ';'CV';5,139656;44,873092
+'FR-26-0967';' Pas des Feuillées ';'RF';5,441292;44,926605
+'FR-26-0970b';' Le Pas ';' S3-4.  GR9 ';5,359634;44,998191
+'FR-26-0985b';' Pas de la Lauze ';'R';5,415572;44,518081
+'FR-26-1000a';' Le Collet ';'HS';5,599423;44,526815
+'FR-26-1005';' Col de la Loge ';'CV';5,507227;44,1269
+'FR-26-1021';' Pas de la Lune ';;5,340641;44,510105
+'FR-26-1045a';' Col de Vache ';;5,59333;44,62638
+'FR-26-1050b';' Le pas de la Baume ';;5,152002;44,907256
+'FR-26-1060c';' Pas du Goret ';' HS2-3(S),  HS3(N) ';5,175793;44,842978
+'FR-26-1075b';' Le col Marin ';;5,509805;44,138162
+'FR-26-1082';' Pas de la Lauze ';'S';5,39391;44,51257
+'FR-26-1095b';' Pas de Saint-Michel ';'HS';5,326597;44,643383
+'FR-26-1100';' Le Col du Chabau ';;5,639608;44,188927
+'FR-26-1113a';' Collet de Saïs ';'R';5,500341;44,140253
+'FR-26-1140b';' Pas de Corbière ';' S1-2-3.  GRP.  GR91 ';5,434151;44,321511
+'FR-26-1153';' Le col de Ruès ';;5,530135;44,136967
+'FR-26-1260a';' Pas de la Baume ';'S';5,198346;44,632801
+'FR-26-1285';' Col de Perty ';'D65/R';5,548893;44,285346
+'FR-26-1290';' Col des Framboises ';'R1';5,219011;44,907401
+'FR-26-1325a';' Pas d''Acier ';;5,192204;44,617824
+'FR-26-1360';'Entrecols';'S-GR';5,354024;44,830409
+'FR-26-1500a';' Pas du Follet ';'S1-2';5,336472;44,882235
+'FR-26-1500b';' Pas Pascaud ';' S1-2(N).  GR ';5,325408;44,883388
+'FR-26-1540';' Pas de l''Echallier ';;5,489009;44,732956
+'FR-26-1543a';' Col du Pot de la Croix ';'S';5,344496;44,889786
+'FR-26-1660a';' Pas de l''Infernet ';' S1-2.  GR93 ';5,304328;44,903768
+'FR-26-1660b';' Pas de Sambardou ';;5,480942;44,75433
+'FR-26-1778';' Pas du Pastel ';;5,538328;44,764931
+'FR-26-1803';' Pas des Parjis Clos ';'S';5,781918;44,676094
+'FR-27-0209';' Col Roti ';'CV';0,518895;48,92275
+'FR-2A-0032';' Bassa Turri ';'CV';8,807696;41,63727
+'FR-2A-0039';' Bocca di Tramulimaccia ';;9,304426;41,647579
+'FR-2A-0045';' Col de Parmentile ';'N198';9,187373;41,428018
+'FR-2A-0508';' Col d''Alzo ';'D65';8,999236;41,615179
+'FR-2A-0525b';'Culetta';'D248';9,104747;41,656922
+'FR-2A-0725';' Colletta di Mucchialba ';;8,997701;41,948601
+'FR-2A-0745';' Bocca al Zuccaro ';;9,081347;42,091934
+'FR-2A-0795a';'Foce';'S';9,078093;41,764952
+'FR-2A-0805c';' Bocca d''Ova ';'S';9,149717;41,631351
+'FR-2A-0935b';' Col de Cappicciolo ';;8,759795;42,23961
+'FR-2A-1005a';' Foce d''Anzia ';'S';9,186029;41,685218
+'FR-2A-1135';' Collo del Frate ';;9,129166;41,955469
+'FR-2A-1227';'Collo';'S-GR';9,063318;42,062182
+'FR-2A-1305a';' Foce di Perimozzi ';;9,067456;41,926262
+'FR-2A-2092';' Brèche de Capitello ';' S,  GR20 ';9,011848;42,208321
+'FR-2B-0100';' Bocca Bona ';'D80';9,3432;42,776638
+'FR-2B-0275a';' Bocca Pruniccia ';'S';9,055787;42,614244
+'FR-2B-0396';' Bocca Pastoreccia ';'S';9,18416;42,466287
+'FR-2B-0475';' Collettola de Calvelle-Sottano ';'S';9,130962;42,549971
+'FR-2B-0550b';' Col Ceppa ';'S-GR';9,470896;42,406547
+'FR-2B-0560';' Bouche de Trefontane ';;9,481597;42,361784
+'FR-2B-0865b';' Bocca di u Valdu ';'S';9,443758;42,258467
+'FR-2B-1095a';' Bocca a l''Accia ';;8,801035;42,444957
+'FR-30-0050';' Col de la Ratade ';'D981-GR';4,531944;43,956279
+'FR-30-0068';' Le Trescol ';'D178/D';4,048479;43,848169
+'FR-30-0072';' Col de Dève ';'D126';4,706721;43,915986
+'FR-30-0150';' Porte de la Vaunage ';'D103';4,167409;43,828465
+'FR-30-0160a';' Col de Lancyre ';'R';4,071577;43,911425
+'FR-30-0185';' Col de Montagnac ';'D907/CV';4,14806;43,93599
+'FR-30-0228';' Beau Col ';'D999';3,759327;43,946524
+'FR-30-0357';' Col de Cassoubiès ';'D133a';3,863357;43,990001
+'FR-30-0460a';' Col du Cauvel ';'D906';4,090038;44,213632
+'FR-30-0480';'Colbeuf';'CV';3,993418;44,286227
+'FR-30-0495';' Le Colet de l''Aves ';'R-GR';3,986515;44,359286
+'FR-30-0654';' Col de Basse ';'CV';3,748622;44,038755
+'FR-30-0724';' Col de Midigou ';'R2';3,435899;43,889372
+'FR-30-0920';' Le Coulet ';'R1-2';3,719648;44,088157
+'FR-30-1011';' Le Bout de Côte ';'D986/D47';3,423746;44,15174
+'FR-31-0210';' Seuil de Graissens ';;1,907309;43,426217
+'FR-31-0250';' al Pas del Merle ';'D2/D38';1,660172;43,484293
+'FR-31-0323';' Pas de Luxel ';'D1';1,793408;43,525359
+'FR-31-0485';'Couret';'S';0,721072;43,077048
+'FR-31-0543';' Pas du Loup ';'CV';0,998578;43,007185
+'FR-31-0617';'Couret';'CV';0,727468;42,969613
+'FR-31-0715';' Col des Chermens ';;0,703444;43,018919
+'FR-31-0741';' Col des Hours ';;0,714056;43,022318
+'FR-31-0807';' Col des Paloumères ';'R1-2';0,636658;43,017984
+'FR-31-0819';' Cot de Bellan ';;0,687439;42,991039
+'FR-31-0937';' Escalère de Coume Nere ';'R';0,54699;43,000169
+'FR-31-1024';' Pas de Bourgs ';;0,639965;42,813531
+'FR-31-1120';' Pas de Peyre ';'S-GR';0,51203;42,804121
+'FR-31-1198';' Le col de Matech ';'S';0,746328;42,951048
+'FR-31-1231';' Pas de l''Escalère ';'D76b';0,500505;42,801488
+'FR-31-1380';' Pas de Peyreuil ';'S';0,824109;42,889489
+'FR-33-0035';' Col du Petit Mont ';' Piste  cyclable ';-1,136;45,22423
+'FR-33-0045';' Col du Château d''eau ';' Piste  cyclable ';-1,14746;45,2218
+'FR-33-0049';' Pas de Bret ';'R1';-0,536042;45,039574
+'FR-34-0062';' Col Vidal de la Blache ';'CV';3,404792;43,478957
+'FR-34-0081';' le Pas de Vidal ';'D2';3,583741;43,5115
+'FR-34-0205';' Pas d''Estrech ';'S';3,595234;43,808943
+'FR-34-0277';' Col de la Borne ';'S';3,310438;43,559953
+'FR-34-0302';' Col des Trois Pierriers ';' R1-2,  S2 ';3,312678;43,555624
+'FR-34-0444a';' Le Pancoulet ';'R';2,911606;43,545485
+'FR-34-0552';' Le Coulet ';'CV';3,535328;43,81841
+'FR-34-0587';' Col de Marthomis ';'D169/R';2,721899;43,503935
+'FR-34-0604';' Col de l''Escargot ';'D176';2,847379;43,467283
+'FR-34-0616a';' Pas de l''Escalette ';' CV  (ex  RN9) ';3,307395;43,831163
+'FR-34-0630';'Malpertus';'R1';2,731801;43,421143
+'FR-34-0635a';' Col la Rose ';'S';3,116442;43,706023
+'FR-34-0715a';' Col de la Croix de Jubilé ';'D147/R';2,720119;43,445175
+'FR-34-0795';'Rescol';'D14e';2,746704;43,587189
+'FR-34-0929';' Travers du Buraut ';'R1';2,785469;43,544084
+'FR-35-0056';' Le Pertuis aux Chevreuils ';'D9';-1,857154;48,485953
+'FR-35-0112';' le Pas du Chat ';'R1';-1,37533;48,234702
+'FR-37-0087';' le Pas de St-Martin ';'D208';0,51531;47,126375
+'FR-37-0131';'Saint-Gilles-des-cols';'R';0,418271;46,980544
+'FR-38-0220';' Col Raymond Castano ';'D55';5,146237;45,7863
+'FR-38-0402';' Col de la Croix Bayard ';'D520/D128';5,621187;45,365023
+'FR-38-0501';' Seuil de la Pensière ';'D49/D49c';5,592883;45,400181
+'FR-38-0526';' Col du Verdin ';'N75';5,569786;45,396873
+'FR-38-0568';' Col des Pautes ';'D17';5,463838;45,512555
+'FR-38-0649';' Col du Touvat ';'D49c';5,622032;45,416909
+'FR-38-0670';' Pas de l''Echalier ';'S';5,633028;45,031544
+'FR-38-0911';' Pas du Facteur ';' S.  GR ';5,956627;45,407237
+'FR-38-0930a';' le Collet ';'CV';5,759163;44,949571
+'FR-38-0940';' Passage de la Croix de Coquet ';'S';5,922082;45,350551
+'FR-38-0950a';' Pas de l''Escalier ';' S1(N).  S1-2-3(S) ';5,583768;44,834305
+'FR-38-1015';' Pas du Ranc ';' S4-5(S).  S1-2(N).  GR9 ';5,426616;45,070061
+'FR-38-1040a';' Pas de la Corne ';' S3-4.  GR9 ';5,620776;45,173369
+'FR-38-1040b';' Pas du Curé ';'S-GR';5,627245;45,180647
+'FR-38-1088';' Passage du Versoud ';'R1';5,515984;45,200854
+'FR-38-1100';' Goulet des Moulins ';' S.  GR ';5,622052;45,175328
+'FR-38-1150b';' Pas de Chauplane ';'S';5,569979;44,872708
+'FR-38-1170';' Col de Boircon ';'CV';5,631356;45,171142
+'FR-38-1290';' Pas du Bru ';'D8a';5,56758;44,894277
+'FR-38-1308a';' Le Collet ';'D517';5,92643;44,720925
+'FR-38-1360';' Pas de l''Ane ';'S-GR';5,630252;45,088777
+'FR-38-1375';' Col de l''Emeindras ';'R1-2(S)';5,800198;45,283489
+'FR-38-1385a';' Trou du Vau ';'RF';5,497268;45,103381
+'FR-38-1385b';' Le Pas du Boeuf ';'R1';6,135198;45,377747
+'FR-38-1542';' Pas de la Confession ';'D211b';6,041506;45,080325
+'FR-38-1563';' Pas du Loup ';;5,806686;45,382766
+'FR-38-1570';' Col du Bachat ';'S';5,619183;44,767743
+'FR-38-1575';' Col de Senepy ';'R1(S)(E)';5,737164;44,915304
+'FR-38-1640a';' Pas de l''Aiguille ';' R1-S4(E).  S1-3(SE).  GR94.  Interdit ';5,512378;44,809213
+'FR-38-1700b';' Pas des Escaliers ';'RF';5,887797;45,052173
+'FR-38-1770';' Col de la Brèche ';' R1  S3-4(N)(S).  GR ';5,814;44,809298
+'FR-38-1790';' Col de Chamrousse ';'CV';5,878663;45,114755
+'FR-38-1947';' Le Grand Couloir ';;5,585284;45,019847
+'FR-38-1966a';' Le Col d''en Bas ';;6,099936;45,185089
+'FR-38-2055';' Le Col d''en Haut ';;6,103155;45,188658
+'FR-38-2773';' Brèche de la Mura ';'R2-S4';6,191367;44,986745
+'FR-38-2800';' Brèche de Saint-Christophe ';;6,194145;44,988311
+'FR-39-0894';' Col de la Cluse d''Ilay ';'D678';5,903845;46,607676
+'FR-39-1050';' Col des Mouillères ';'GR559';5,872578;46,563745
+'FR-39-1125';' Col du Haut-Crêt ';'D3';5,959912;46,426351
+'FR-39-1160';' Le Goulet ';'R';5,955585;46,373179
+'FR-39-1170';' Col de Magnard ';' D436/GR  Tour  du  Ht  Jura ';5,957962;46,3755
+'FR-39-1192';' Col de Mijoux ';'D436';5,981853;46,369378
+'FR-39-1205';' Porte des Combettes ';'CV';6,132981;46,543072
+'FR-39-1242';' Col de Mijoux ';'D100';6,085145;46,443322
+'FR-39-1335';' Col de Malatrait ';'R-GR9';5,877217;46,274875
+'FR-40-0030';' Pas de Mas ';'S';-1,418903;43,615681
+'FR-42-0683';' Col de la Buche ';'D31/D87';4,329629;46,132169
+'FR-42-0715';' Col des Aillets ';'D10';4,425428;46,149289
+'FR-42-0725';' Col du Plan de la Garde ';'D1';3,819281;45,903846
+'FR-42-0757';' Col de Trêve Millot ';'CV';3,924117;45,972623
+'FR-42-0855';' Col de l''Allée ';'R';3,856837;45,926707
+'FR-42-0865a';' Col des Essarts ';'R';3,888265;45,953401
+'FR-42-1055';' La Traverse ';'D69/D20';3,917689;45,642597
+'FR-42-1056';' Col de Saint-Sabin ';'CV';4,616965;45,369382
+'FR-42-1390';' Col du Béal ';' D40,  GR3 ';3,782953;45,685357
+'FR-43-0858';'Malpas';'CV';3,871788;44,991544
+'FR-43-1304';' Col de l''Hospitalet ';'D587';3,462286;44,831795
+'FR-45-0128';' Col des Mouchards ';'D312';2,4037;48,175369
+'FR-45-0275';' Col des Etourneaux ';'CV';2,696565;47,534171
+'FR-46-0144';' le Col ';'CV';1,789857;44,917741
+'FR-46-0215';' Le Pas du Loup ';'CV';1,442533;44,923279
+'FR-46-0215a';' Col de Fages ';' S1-2(S),  R1(N) ';1,249281;44,488463
+'FR-46-0310';' Col de Lacave ';'D247';1,587646;44,824243
+'FR-46-0330';' Pas de la Clède ';'CV';1,812555;44,701347
+'FR-46-0614';' Col du Pendit ';'D48';1,888302;44,804947
+'FR-47-0130';'Couret';'CV';0,575788;44,457728
+'FR-47-0133';'Tucol';'CV';0,652681;44,385599
+'FR-48-0740';' Col de Cheyviel ';'CV(S).GR';3,881576;44,279474
+'FR-48-0798';' Col de Bonietou ';'CV';3,955214;44,431197
+'FR-48-0880';' Le Malpas ';' GR67/GR  Tour  du  Galeizon ';3,857268;44,223624
+'FR-48-0908';' Col de Saint-Rome-de-Dolan ';'D995/R';3,2086;44,278469
+'FR-48-1012';'Lascols';'CV';3,270842;44,611928
+'FR-48-1086';' Pas Moulides ';'R';3,31344;44,810629
+'FR-48-1230';' Col du Can de la Roche ';'N107';3,486306;44,602298
+'FR-48-1234';' Col de Levades ';'D73';3,102103;44,718748
+'FR-48-1407';' Plo du Four ';'D18';3,562728;44,14542
+'FR-49-0101';' Le Pas de Chat ';'RF';-0,72174;47,55772
+'FR-49-0212';' Col du Bois Oger ';'D65/D265';-0,702428;47,152815
+'FR-52-0341';' Col de Brouville ';'D253';5,161075;48,307155
+'FR-52-0462';' Pas de Gargantua ';'S';5,076336;47,734978
+'FR-52-0495';' Col du Haut-du-Sec ';'D428';5,194773;47,794664
+'FR-53-0230';' Col de la Vallée ';'CV';-0,249007;48,163735
+'FR-54-0371';' Col de Cygne ';'S';5,983383;48,91535
+'FR-54-0496';' Le Plain de Sable ';'R1';7,029595;48,535636
+'FR-55-0177';' le Passage des Senades ';;5,033748;49,100102
+'FR-55-0194';' le Pas de Vache ';;5,03874;49,103
+'FR-55-0251';' le Grand Collet ';;5,437562;49,525584
+'FR-56-0057';' la Porte de Fer ';'CV';-2,286876;47,692952
+'FR-56-0058';' la Porte de St-Jacut ';'CV';-2,240983;47,692149
+'FR-56-0085';' la Porte Rouaud ';'CV';-2,260685;47,68591
+'FR-56-0130';' Col d''Hilvern ';'CV';-2,834334;48,116427
+'FR-56-0133';' Col de Toulgrand ';'CV';-2,657859;47,698068
+'FR-57-0237';' Col de Métrich ';'R1';6,299858;49,384384
+'FR-57-0348';'Kocheneck';'R1';7,56702;49,056237
+'FR-57-0359';' Haut de la Stée ';'D96/D96g';7,053998;48,610653
+'FR-57-0582';'Wolfsgrubkreuz';' RF(N),  R1(S) ';7,245246;48,641216
+'FR-57-0824';' Le Sac de PIerre ';'R1';7,162639;48,540373
+'FR-58-0270';' Le Col Rouge ';'D42';3,709697;47,378271
+'FR-58-0340';' Col du Gros Foyard ';'D981';3,941523;46,788678
+'FR-58-0382';' Col Oussy-Retoule ';'D219';3,809586;47,208319
+'FR-58-0406';' Col des Montarons ';'D985/D502/C3';3,861699;46,867946
+'FR-58-0440';' Col de Marigny ';'D128/D210';3,936;47,35545
+'FR-58-0530';' Col de Maison Comte ';'CV';3,946943;47,130149
+'FR-58-0539';' Col de Guitte Longue ';'D235';3,892292;47,306015
+'FR-58-0564';' Col d Ouroux ';'D301/C10';3,94452;47,18497
+'FR-58-0578';' Col de l'' Homme Mort ';'D210';3,950219;47,302041
+'FR-58-0584';' Col de Plainefas ';'D150';3,886355;47,298517
+'FR-58-0643';' Col de la Croix Grenot ';'D977bis/C1';4,07189;47,2602
+'FR-58-0657';' Col D 6 ';' D  6 ';4,113077;47,2707
+'FR-58-0714';' Col d'' Anverse ';'D500';4,02348;46,952958
+'FR-58-0721';' Col de Belle Place ';'D6/CV';3,981979;46,962724
+'FR-58-0769';' Col de la Gravelle ';'D27';3,96829;46,969696
+'FR-59-0084';' le Froid Collet ';'R';3,426253;50,211672
+'FR-59-0090';' Pas à la Vache ';;3,517669;50,213997
+'FR-59-0113';' le Pas de  Lagau ';;3,658096;50,289448
+'FR-59-0114';' Passe -tout-Outre ';'D24';3,746332;50,349513
+'FR-59-0116';' le Passage des Sauchelets ';'CV';3,61956;50,259486
+'FR-59-0122';' Pas de Béart ';'S';3,619701;50,242099
+'FR-59-0142';' la Passe Zabelin ';;3,800901;50,217642
+'FR-59-0148';' Passe du  Fau ';;3,772089;50,184221
+'FR-59-0149';' Passe à Croises ';;3,771347;50,250497
+'FR-59-0158';' le Pas de Laliau ';;3,808699;50,121945
+'FR-59-0196';' le Pas de Vaches ';'CV';3,750616;50,060084
+'FR-59-0266';' Passe d'' Anor ';'D156';4,146897;49,993661
+'FR-60-0116';' Passage Toullet ';'S';2,422161;49,581681
+'FR-60-0122';' les Pas St-Rieul ';;2,610956;49,251272
+'FR-60-0168';' la Passée ';'R';1,869104;49,561059
+'FR-61-0318';' Col du Signal de Charlemagne ';'D53/D266';-0,426188;48,647359
+'FR-62-0083';' les Collets ';;3,097576;50,136347
+'FR-62-0117';' le Pas d'' Âne ';;2,915261;50,120404
+'FR-62-0119';' Le Pas de Saint-Martin ';'R1';2,507212;50,331921
+'FR-62-0136a';' Pas Saint Eloi ';'CV';2,692768;50,350391
+'FR-62-0147';' Le Pas d'' Eau ';;2,421507;50,342415
+'FR-62-0147a';' les Passages ';;2,379243;50,345402
+'FR-63-0785';' Col de la Croix St-Martin ';'D64/D324';3,727108;45,883582
+'FR-63-1270';' Col de Prabouré ';'D252a';3,870313;45,562005
+'FR-64-0217';'Escot';'D293';-0,648901;43,34155
+'FR-64-0244';' Col de Lizuniaga ';'D406';-1,632653;43,282723
+'FR-64-0340a';'Harlepoa';'CV';-1,34156;43,257154
+'FR-64-0360';'Brèque';'CV(NO)';-0,25997;43,119139
+'FR-64-0370a';' Lakoko Lepoa ';'R1';-1,120041;43,239313
+'FR-64-0403';' Col des Trois Chênes ';'R1';-1,189424;43,253574
+'FR-64-0487';' Fontaine Lépoa ';'R';-1,115009;43,159506
+'FR-64-0494';'Ixtilzarreta';'R1';-1,179924;43,247912
+'FR-64-0629a';' Cot de Bousquau ';;-0,267974;43,06944
+'FR-64-0650';' Pas det Cu ';;-0,687716;43,032738
+'FR-64-0870';' Pas des Estes ';'S';-0,714911;43,051494
+'FR-64-0934';'Arlepoa';;-1,182594;43,033672
+'FR-64-0996';' Port de Béon ';'R1-S2';-0,41068;43,052396
+'FR-64-1024';' Col de la Glacère ';'S';-0,283241;43,040132
+'FR-64-1165';' Pas de Pédang ';;-0,673706;42,985211
+'FR-64-1198a';' Pas du Bilboquet ';'HS';-0,576342;43,097144
+'FR-64-1300';' Pas de Louste ';'S';-0,351742;43,049841
+'FR-64-1305';' Le pas de l''Ours ';;-0,506108;43,058558
+'FR-64-1323';' Col de la Trencade ';;-0,197945;43,071586
+'FR-64-1370';' Hourquettes de Baygrand ';'S';-0,522602;43,086418
+'FR-64-1462';' Col de Maspêtres ';'S';-0,570507;42,811186
+'FR-64-1473b';' Khapariako Lepoua ';'R1';-0,808035;43,020083
+'FR-64-1498';' Portillo de Larregorri ';'HS';-0,858175;42,951311
+'FR-64-1525';' Pas d''Ourdinse ';;-0,565176;43,012888
+'FR-64-1614';' Col du Plâtre ';'S';-0,58407;42,820945
+'FR-64-1622';' Col de la Mousquère ';'S';-0,584414;42,820984
+'FR-64-1635a';' Escalé d''Aigue-Torte ';'S-GR';-0,599792;42,809003
+'FR-64-1691a';' Col du Pin Sec ';'S';-0,5457;42,792484
+'FR-64-1750';' Port d''Aspe ';;-0,569302;42,782402
+'FR-64-1765';' Col de Lèche ';'S-GR10';-0,775644;42,970197
+'FR-64-1795a';' Col de Moustis ';;-0,520313;42,902827
+'FR-64-1810';' Pas d''Ourtasse ';'HS';-0,527565;42,92573
+'FR-64-2055b';' Col de Seguit ';;-0,530001;42,911548
+'FR-65-0440';' Col de Bidalet ';'R';0,050821;43,116286
+'FR-65-0445';' Cot d''Espoune ';'D95';-0,026505;43,124215
+'FR-65-0514';' Col des Bouleaux ';'S';-0,07812;43,033011
+'FR-65-0521';' Chez Couret ';'CV(S)';-0,0762;43,020184
+'FR-65-0544';' Pas de Capvern ';'CV';0,317708;43,09037
+'FR-65-0550';' Le Couret ';;0,402983;43,05798
+'FR-65-0556';'Courade';'D95';-0,005138;43,119664
+'FR-65-0560';'Couret';'CV';-0,099581;42,988758
+'FR-65-0577';'La Courade';;0,01956;43,126018
+'FR-65-0614';' le Couret d''en Haut ';'HS';0,411661;43,062871
+'FR-65-0763';' Très Cots ';;0,589754;42,948633
+'FR-65-0852';'Couret';'D25';0,353562;42,864432
+'FR-65-0895';' Col de Caillau ';;0,44957;43,016523
+'FR-65-0932';' Col d''Arras ';'CV/S';-0,133193;43,002776
+'FR-65-0934';' Pas de la Barane ';'D918';0,230377;42,964903
+'FR-65-0940';' Cot de Jeon ';'R';0,621547;42,949636
+'FR-65-0990';' Pas de Tartas ';'R-GR';-0,289952;42,975623
+'FR-65-1110';' Col de Ris ';'CV/GR';0,393762;42,890581
+'FR-65-1115';' Cot de la Losse ';'S';0,573847;42,920984
+'FR-65-1120';' Col de Lançon ';'D219';0,369188;42,88438
+'FR-65-1305';' Passade de Barbé ';'D436';0,552069;42,969689
+'FR-65-1800';' Pas de Sarroues ';'S-GR';0,267735;42,774668
+'FR-65-1805';' Cot d''Omi ';;-0,117274;42,918982
+'FR-65-1835';' Passage l''Estibet d''Estom ';'GR';-0,101899;42,807068
+'FR-65-1904';' Pas det Car ';;0,207686;42,901204
+'FR-65-2125';' le Cot ';;0,097063;42,733345
+'FR-65-2554';' Port Bieil ';;0,15202;42,858913
+'FR-65-2752';' Passage Difficile ';;0,260159;42,715936
+'FR-65-2935a';' Pas du Chat ';;0,1282;42,714337
+'FR-66-0022';' La Collada ';'CV';2,918649;42,610948
+'FR-66-0133a';' Le Trou du Buis ';'R';2,906031;42,859122
+'FR-66-0250a';' Pas de l''Escale ';'D12/D9';2,797084;42,847395
+'FR-66-0250b';' Pas de les Garbes ';'S3-4';2,797477;42,84544
+'FR-66-0452';' Collet de las Fourques ';;2,665445;42,464984
+'FR-66-0695';' Col d''en Berderol ';;3,026356;42,48768
+'FR-66-0696a';' Col du Sagué ';'D64';2,578068;42,409287
+'FR-66-0730';' Col Rouja ';;2,611414;42,349542
+'FR-66-0875';' Coll de les Uixes ';'S';2,768177;42,432168
+'FR-66-0895';' Creu del Fous ';'S';2,525287;42,597293
+'FR-66-1084';' Créu d''en Touron ';'R2(E)';2,560883;42,549344
+'FR-66-1085';' Coll del Poou ';;2,929357;42,475988
+'FR-66-1220';' Col du Puits de la Neige de Las Illas ';'S';2,756626;42,425184
+'FR-66-1255';' Col de Saint Michel ';'R2';1,897644;42,45
+'FR-66-1328';' Couillade de la Jasse de Primevert ';;2,512881;42,337217
+'FR-66-1329';' Les Collades ';' GR  HRP ';2,705583;42,413251
+'FR-66-1377';' Coll dels Contrabandistes ';'R1-2';2,468619;42,356636
+'FR-66-1430a';' Los Collettes ';;2,523912;42,469315
+'FR-66-1436';' Coll de les Moles ';' R1-2,  Interdit(NNO) ';2,466024;42,360709
+'FR-66-1728';' Coll del Bec ';'CV';2,020998;42,501623
+'FR-66-1825a';' Portella de Font Romeu ';'S1-2';2,035727;42,511524
+'FR-66-1870';' Coillet d''en Cabourlé ';'S';2,07071;42,645927
+'FR-66-1901';' Pas du Loup ';;2,150943;42,579115
+'FR-66-2085a';' Pas de la Case ';'N22';1,735796;42,543039
+'FR-66-2430';' Portella de Concros ';'S3-4';2,315775;42,426802
+'FR-67-0383';'Schaeferplatz';'RF';2,499283;43,594457
+'FR-67-0486';'Hungerplatz';'CV';7,39836;48,405623
+'FR-67-0490';' Le Collet ';'R';7,887663;49,02914
+'FR-67-0754';'Stangenplatz';'RF';7,308787;48,300009
+'FR-67-0858';' La Porte de Pierre ';' S1-2  GR ';7,254748;48,550945
+'FR-68-0343';' Seuil de Valdieu ';'D419/CV';7,056596;47,63157
+'FR-68-0353';' Col du Niehland ';'CV';7,270579;47,967896
+'FR-68-0496';' Hinter dem Berg ';'R1-2';7,367147;47,493508
+'FR-68-1280a';' Le Breitfirst ';'D27';7,026815;47,946485
+'FR-69-0552';' Le Saule d''Oingt ';'D31/D116/D120';4,583367;45,978132
+'FR-69-0578';' Col de la Loive ';'D10/CV';4,313167;45,95482
+'FR-69-0602c';' Col de Nuizières ';'D54/CV';4,458923;46,020723
+'FR-69-0628';' Le Cruizon ';'D504/D20/CV/D49E';4,561973;46,024943
+'FR-69-0657';' Le Parasoir ';'D44a/D504/D44';4,553172;46,031555
+'FR-69-0700';' Col de Charruge ';'D52';4,497367;46,250189
+'FR-69-0730a';' Croix de Villard ';'D617/CV';4,432606;46,045828
+'FR-69-0781';' Col de Signy ';'D4/D38';4,386064;45,81954
+'FR-69-0845';'Accole';'D157';4,587998;45,622024
+'FR-69-0846';' Col de Grippe Loup ';'S-GR';4,579737;45,62007
+'FR-70-1158';' Col du Ballon de Servance ';'D16/CV';6,787878;47,822634
+'FR-71-0421a';' Col du Loup ';'D980';4,627962;46,459636
+'FR-71-0440';' Col des Granges ';'D152/CV';4,610162;46,432705
+'FR-71-0470';' Col de la Mutte ';'CV';4,687549;46,400779
+'FR-71-0485';' Col des Grands Gouillats ';'CV';4,606398;46,360438
+'FR-71-0489a';' Col de la Croix Micot ';'R-GR';4,616713;46,445677
+'FR-71-0526';' Le Pas ';'CV';4,436514;46,351262
+'FR-71-0539';' Col du Caprissot ';'D88/CV';4,186198;47,091428
+'FR-71-0562';' Col de la Croix d''Allye ';'CV';4,190339;47,086607
+'FR-71-0563';' Col des Blanchots ';'D120/CV/GR131-GR137';4,322969;46,909862
+'FR-71-0563a';' Col d'' En Moulu ';'D88/CV';4,116713;47,087912
+'FR-71-0578';' Porte de Broye ';'R1';4,286617;46,893874
+'FR-71-0595';' Col de la Porolle ';'D256';4,282179;46,920018
+'FR-71-0623';' Col de la Croisette ';'D179/RF';4,08566;46,99377
+'FR-71-0645';' Porte de Galibard ';'S';4,274691;46,901772
+'FR-71-0676';' Col de la Croix de Messire Jean ';'D275';4,259955;46,805912
+'FR-71-0873';' Col du Haut Folin ';'D500/RF';4,041366;46,991447
+'FR-72-0168';' Col de la Croix des Six Chemins ';'D105';-0,111003;48,27686
+'FR-72-0236';' Col de Saint-Toutain ';'D204/D105';-0,128308;48,339756
+'FR-72-0258';' Col de la Galerie ';'D304';-0,156616;48,196811
+'FR-72-0323';' Col des Quatre Gardes ';'D234';0,291378;48,415846
+'FR-73-0255';' Col du Cul du Bois ';'CV';5,835387;45,80525
+'FR-73-0388';' Les Golets ';' S3  (O) ';5,800477;45,757715
+'FR-73-1020';' Le pas de l''Ane ';'RF';5,815866;45,591424
+'FR-73-1210';' Col de Beaune ';'D219/D82';6,46311;45,24612
+'FR-73-1250';' Le Collet ';;6,460647;45,671386
+'FR-73-1306';' Col du Sapey ';'CV';6,381554;45,29345
+'FR-73-1320';' Col des Cyclotouristes ';'RF';6,435687;45,682686
+'FR-73-1360';' Col de l''Esseillon ';'S-GR';6,735814;45,218403
+'FR-73-1365';' Col de la Confrérie ';'D80';6,352103;45,245735
+'FR-73-1448';' Pas de la Bottine ';'R-GR';5,98345;45,688173
+'FR-73-1620a';' Col de l''Alpette ';'S-GR';6,339564;45,70593
+'FR-73-2050';' Pas de l''Ane ';'S';6,729025;45,365414
+'FR-73-2053';' Golet de la Trouye ';'S';6,417209;45,798446
+'FR-73-2067';' Col de la Croix de Fer Ouest ';'R1';6,201024;45,226774
+'FR-73-2200a';' Pas des Eublats ';'S-GR';7,086553;45,291368
+'FR-73-2229a';' Le Golet ';'CV';6,611093;45,406039
+'FR-73-2239';' Collet Blanc ';'S-GR';6,482835;45,358141
+'FR-73-2400c';' Pas de la Mule ';'S-GR';7,086958;45,27772
+'FR-73-2477a';' Col de Balme ';'S';6,501758;45,896443
+'FR-73-2512a';' Pas de Lavis-Trafford ';'HS';6,915386;45,168646
+'FR-73-2592';' Passage de la Grande Marianne ';'S-GR';6,733345;45,441842
+'FR-73-2782';' Passage de Picheru ';'S2-3';6,991676;45,47289
+'FR-73-3269a';' Col des Vedettes ';;7,001746;45,64076
+'FR-74-0480';' Col de Chaumontet ';'D1508';6,053739;45,944322
+'FR-74-0590';' Le Collet ';'CV';5,996796;45,803397
+'FR-74-0640';' Pas de l''Echelle ';' S.  GR ';6,127622;45,885129
+'FR-74-0855';' Le Golet du Pey Est ';' S,  GR  Balcon  du  Léman ';5,912661;46,085104
+'FR-74-0948';' Chez Roch ';'D246';6,474454;46,294619
+'FR-74-0990';' Le Golet ';'D43';6,703143;45,875238
+'FR-74-1127';' Le Pertus ';'S-GR';6,437909;46,097561
+'FR-74-1200';' Pas de l''Ours ';' R1(O).  S5(S) ';6,290655;45,70598
+'FR-74-1250';' Pas du  Roc ';'S';6,301502;45,97234
+'FR-74-1260';' Sur le Cœur ';'S-GR';6,350445;46,188571
+'FR-74-1333';' Le Gollet ';'R1';6,491785;45,930672
+'FR-74-1450';' Passage de la Bourse ';'S-GR';6,275614;45,916654
+'FR-74-1500d';' Trou de la Chapelle ';;6,267198;45,877349
+'FR-74-1505';' Col de la Crouaz ';'S';6,69833;46,33996
+'FR-74-1555';' Golet de la Lovatière ';'S2';6,09;45,775074
+'FR-74-1653a';' Col de la Conche ';' R2(O)  R1(E) ';6,865201;46,264897
+'FR-74-1798';' Col de Bouaz ';'S';6,734833;46,329452
+'FR-74-1800b';' Passage du Saix ';'S-GR';6,58844;45,989365
+'FR-74-1860';' Pas de Monthieu ';' S.  GR ';6,573802;45,948473
+'FR-74-1917';' Col de Bouaz ';'S';6,751526;46,337429
+'FR-74-1949';' Col d''Avoriaz ';'S';6,785982;46,188698
+'FR-74-1959';' Col de la Fourche ';;6,737145;46,228198
+'FR-74-2115';' Pas à l''Ours ';' S.  GR ';6,83298;46,112456
+'FR-74-2469';' Col de Bellegarde ';;6,826201;46,103642
+'FR-74-3759';' Col supérieur du Triolet ';;7,023013;45,916738
+'FR-76-0091';' Port d''Ingreval ';' S  (R  à  30m) ';1,3012;50,02524
+'FR-76-0156';' Col du Bois de Locus ';'D77/CV';1,29335;49,78691
+'FR-80-0074';' le Passage aux Loups ';;2,452388;49,922987
+'FR-80-0075';' le Pas d'' Âne ';;2,965947;49,757528
+'FR-80-0087';' Grand Pas ';;2,091286;50,080902
+'FR-81-0177';' Col de Jarlard ';'R';2,171293;43,92773
+'FR-81-0238';' Col de Combelasse ';'R1';2,16615;43,719421
+'FR-81-0351';' Col du Cauffour ';'D74/R-GR';2,371399;43,93569
+'FR-81-0430';' Pas d''Aimes ';'R1';1,779234;44,052062
+'FR-81-0434';' Col de Mariette ';'CV';1,731103;44,054552
+'FR-81-0780';'Col';'R';2,694188;43,736849
+'FR-81-0905';' Trou Obscur ';' S1,  GR7 ';2,221006;43,449176
+'FR-81-1207';' Col du Montalet ';'CV';2,739226;43,679792
+'FR-82-0227';'Cot de Higue';'R';1,107822;43,813213
+'FR-83-0022';' Le Pas du Loup ';'CV';5,879335;43,08431
+'FR-83-0050';' Pas du Cerf ';'D88/CV';6,216748;43,171326
+'FR-83-0074';' Collet du Pont Vieux ';'CV';6,155642;43,236253
+'FR-83-0105';' La Colette ';;5,836737;43,13672
+'FR-83-0118';' Collet de Saint-Pierre ';'CV';5,909653;43,160151
+'FR-83-0135';' Colle Basse ';;6,61121;43,184955
+'FR-83-0178';' Le Col ';'CV(S)';6,589163;43,308604
+'FR-83-0190';' Le Col de la Pouponne ';'S';6,413565;43,447791
+'FR-83-0221';' Le pas de la Mule ';'S-GR';6,460052;43,327323
+'FR-83-0284';' le Pas du Cerf ';'R1';6,165634;43,192442
+'FR-83-0308';' Le Pas de Jacquet ';'D237';6,810609;43,520807
+'FR-83-0309a';' Col de la Citerne ';' S3  GR ';5,960033;43,138081
+'FR-83-0335';' Col des Cantonniers ';'RF/R1';6,788792;43,489296
+'FR-83-0380';' Col des Sarris ';' Route  du  Faron ';5,952405;43,140943
+'FR-83-0399';' La Colle Blanche ';'R';6,557925;43,588826
+'FR-83-0434a';' Col du Gros Clapier ';'D40/D12';5,931268;43,346962
+'FR-83-0450';' Pas de la Calade ';'HS';6,013532;43,471306
+'FR-83-0450a';' Pas de la Loube ';;5,768363;43,457443
+'FR-83-0460';' Pas de Peyruis ';'D480/R-GR';5,735532;43,357177
+'FR-83-0499';' Col de Mazaugues ';'D64';5,931268;43,346962
+'FR-83-0518';' Col du Grand Bauç ';'S';5,94929;43,14741
+'FR-83-0535a';' Collet du Lentisque ';;5,970924;43,227627
+'FR-83-0545a';' La Coulette ';;6,392009;43,233798
+'FR-83-0547';' Col de Faysse ';' Route  du  Faron ';5,959838;43,145433
+'FR-83-0600a';' Pas de la Mort ';'R1';5,940709;43,242868
+'FR-83-0635a';' La Colle ';'CV';6,384766;43,58604
+'FR-83-0786';' Pas de Rasclepoux ';' R1-2  S2-3(N)(S) ';6,415259;43,623004
+'FR-83-0870a';' Col de Bertagne ';' R1-2,  GR ';5,686014;43,316327
+'FR-83-0970a';' Collet de Subert ';'CV';6,625128;43,726729
+'FR-83-1005a';' la Pas des Avers ';'S';6,466293;43,725775
+'FR-84-0282';' Collet de Vaillant ';'R';5,130457;44,20397
+'FR-84-0340';' Pas du Sautet ';;5,137247;43,91548
+'FR-84-0373';' Col Blanc ';'S-GR';5,187909;44,034478
+'FR-84-0395';' Collet Blanc ';;5,155332;44,214565
+'FR-84-0440';' Colet des Cabanes ';'R';5,155832;43,919734
+'FR-84-0592';' Trou de Félician ';'S';5,517534;43,803464
+'FR-84-0597';' Cap de Serre ';' S  GR97-GRE7 ';5,329673;43,784766
+'FR-84-0610';' Collet de Flaqueirol ';'D112/D22';5,552436;43,924006
+'FR-84-0715';' Le Col d''Ambrosy ';'R1';5,363396;43,970246
+'FR-84-0878';' Collet d''Aumiès ';' R2  S2-4(N).  GR9 ';5,400425;43,805713
+'FR-84-1010';' Collet du Puy ';'D164';5,374126;44,135389
+'FR-87-0354';' le Portail ';'D56';1,427615;45,932686
+'FR-87-0539';' Col de Beausoleil ';'RF/CV';1,296843;45,975191
+'FR-88-0414';' Haut de Boyard ';' HS  (CV  à  40m) ';5,826;48,33087
+'FR-88-0482';' La Passe Moncauron ';'R';6,159585;48,021583
+'FR-88-0531';' Le Void de Cône ';'CV/R';6,476203;48,042052
+'FR-88-0740';' Le Passage ';'D31';6,773013;48,110473
+'FR-88-0772';' Col du Pertuis ';'RF';6,799986;48,103572
+'FR-88-0973';' Col des Kerrieux ';'R1(N)';6,785894;48,001002
+'FR-89-0196';' Passage de la Creuse ';'R1';3,863417;47,567977
+'FR-89-0380';' Pertuis de Lavalle ';;3,944232;47,397013
+'FR-91-0082';' Col du Trou au Loup ';'CV';2,304153;48,467203
+'FR-91-0137';' Col du Rendez-Vous de Chasse ';'CV/R';2,274129;48,535491
