@@ -44,8 +44,8 @@ else:
     f_nom=st.text_input('Nom',label_visibility="visible")
     f_alt=st.number_input('Altitude', label_visibility="visible",min_value=int(0))
 
-    file=os.listdir('database/basecol/')
-    colAll=lb100.list_biblio100cols(filename='database/basecol/'+file[0])
+    file=os.listdir('database/basecol/data_website/')
+    colAll=lb100.list_biblio100cols(filename='database/basecol/data_website/'+file[0])
 
     if f_alt==0:
         aa=None
