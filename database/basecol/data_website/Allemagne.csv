@@ -1,0 +1,908 @@
+ Code ; Nom complet ; Altitude ; Accès ; WGS84 Lon D ; WGS84 Lat D 
+ DE-BW-0192 ; Hirschhorner Hals ;192; K4105 ; 8.9025 ; 49.44183 
+ DE-BW-0212 ; Melacpass ;212; R1 ; 8.78006 ; 49.38497 
+ DE-BW-0221 ; Selbacher Höhe ;221; Str ; 8.31119 ; 48.78278 
+ DE-BW-0235 ; Eck Kapelle ;235; Str (W) ; 8.02264 ; 48.40736 
+ DE-BW-0256 ; Kreuzebene ;256; Str ;8.000000; 48.48289 
+ DE-BW-0275 ; Hilsbacher Höhe ;275; Str ; 8.01233 ; 48.49967 
+ DE-BW-0277 ; Oberbachsattel ;277; Str(S) ; 8.03017 ; 48.30456 
+ DE-BW-0280 ; Rohrbacher Höhe ;280; R1 ; 8.03444 ; 48.51703 
+ DE-BW-0288 ; Rebeck ;288; S1 ; 8.04772 ; 48.34022 
+ DE-BW-0292 ; Heuberger Eck ;292; R1 ; 8.08158 ; 48.51028 
+ DE-BW-0307 ; Tiergartner Höhe ;307; Str ; 8.08061 ; 48.55786 
+ DE-BW-0310 ; Pragsattel ;310; B10 ; 9.18364 ; 48.80972 
+ DE-BW-0323 ; Leheneck ;323; R1 ; 7.89242 ; 48.04008 
+ DE-BW-0325 ; Bottenauer Eck ;325; R1 ; 8.06794 ; 48.51253 
+ DE-BW-0325a ; Stürzelbacher Höhe ;325; Str (S), R1 ; 8.04461 ; 48.49403 
+ DE-BW-0330 ; Wilde Steige ;330; Str (N) ; 7.632 ; 48.06269 
+ DE-BW-0334 ; Freudentaler Eck ;334; R1 ; 7.98686 ; 48.44586 
+ DE-BW-0336 ; Kreuzenbuckpass ;336; Str ; 7.63953 ; 48.0615 
+ DE-BW-0338 ; Satteleck ;338; R1 ; 8.04425 ; 48.40914 
+ DE-BW-0339 ; Wonnhaldesattel ;339; Str ; 7.83781 ; 47.97169 
+ DE-BW-0345 ; Eck ;345; R1 ; 8.07811 ; 48.36061 
+ DE-BW-0345a ; Langeck ;345; R1 ; 8.03139 ; 48.439 
+ DE-BW-0346 ; Vogelsangpass ;377; L115 ; 7.69153 ; 48.08647 
+ DE-BW-0346a ; Michaelsbergsattel ;346; Str ; 9.04258 ; 49.03575 
+ DE-BW-0348 ; Sprunghöhe ;348; R1 ; 8.70925 ; 49.40142 
+ DE-BW-0349 ; Hofeck ;349; Str ; 8.21528 ; 48.29583 
+ DE-BW-0350 ; Schuttereckle ;350; R1 ; 7.96364 ; 48.27986 
+ DE-BW-0352 ; Höhe ;352; Str ; 8.41292 ; 48.89803 
+ DE-BW-0353 ; Zimmerplatz ;353; L84 / K9610 ; 8.221 ; 48.71578 
+ DE-BW-0354 ; Bellenhöhe ;354; Str(S/O) ; 7.75642 ; 47.92778 
+ DE-BW-0356 ; Am unteren Sattel ;356; R1 ; 7.95594 ; 48.30692 
+ DE-BW-0360 ; Auf der Eck ;360; R1 ; 8.12086 ; 48.60744 
+ DE-BW-0360a ; Sägereck ;360; R1 ; 7.96511 ; 48.40906 
+ DE-BW-0360b ; Badeck ;360; R1 ; 8.05014 ; 48.34861 
+ DE-BW-0364 ; Hanweiler Sattel ;364; Str ; 9.37739 ; 48.85042 
+ DE-BW-0365 ; Tanzplatz ;365; R1 ; 8.77381 ; 49.42736 
+ DE-BW-0368 ; Predigerplatz ;368; R1 ; 7.83617 ; 47.96625 
+ DE-BW-0369 ; Schmids Wanderecke ;352; R1 ; 8.16747 ; 48.27908 
+ DE-BW-0374 ; Räpples Eck ;374; R1 ; 7.97156 ; 48.38116 
+ DE-BW-0375 ; Sexauer Haseneckle ;375; R1 ; 7.93906 ; 48.10608 
+ DE-BW-0375a ; Birklesattel ;375; R1-2 ; 8.11714 ; 48.24739 
+ DE-BW-0377 ; Fritscheneck ;377; R1 ; 8.06294 ; 48.51039 
+ DE-BW-0381a ; Wolfsschlucht ;381; L79a/K9602 ; 8.27622 ; 48.77419 
+ DE-BW-0383 ; Wintereck ;383; K3753 / K9610 ; 8.19922 ; 48.70792 
+ DE-BW-0385 ; Buseck ;385; R1 ; 8.06317 ; 48.50925 
+ DE-BW-0385a ; Haubensattel ;385; R1 ; 8.35242 ; 48.83442 
+ DE-BW-0386 ; Botnanger Sattel ;386; L1187 ; 9.13608 ; 48.77367 
+ DE-BW-0386a ; Schafhof Höhe ;386; R1 ; 8.05544 ; 48.49797 
+ DE-BW-0388 ; Bergäckersattel ;388; S1 ; 7.88614 ; 47.97878 
+ DE-BW-0390 ; Zimbereck ;390; R1 ; 7.98308 ; 48.12792 
+ DE-BW-0390a ; Rotebene ;390; R1 ; 8.09544 ; 48.56664 
+ DE-BW-0392 ; Langeck ;392; R1 (E), R1-2 (O) ; 7.97236 ; 48.29103 
+ DE-BW-0393 ; Laibacher Eck ;393; R1 ; 8.06992 ; 48.49817 
+ DE-BW-0397 ; Hirzbergsattel ;387; R1 ; 7.87064 ; 47.99678 
+ DE-BW-0398 ; Auf dem Eck ;398; K4922 / K5127 ; 7.65431 ; 48.11019 
+ DE-BW-0399 ; Krailoch ;399; R1 ; 7.73914 ; 47.58539 
+ DE-BW-0399b ; Lützenhardter Sattel ;399; R1 (N), S1-2 (E) ; 7.95783 ; 48.31386 
+ DE-BW-0402 ; Lägersattel ;402; R1 ; 7.788 ; 47.941 
+ DE-BW-0402a ; Muggardter Höhe ;402; R1 ; 7.69108 ; 47.83322 
+ DE-BW-0405 ; Kleinebene ;394; Str (S) ; 8.16481 ; 48.47925 
+ DE-BW-0408 ; Wissereck ;408; R1 ; 7.92519 ; 48.06361 
+ DE-BW-0408a ; Maienpfad Eck ;408; R1 ; 7.90778 ; 48.35233 
+ DE-BW-0409 ; Waldkircher Haseneckle ;409; R1 ; 7.94975 ; 48.10369 
+ DE-BW-0410 ; Happachsattel ;410; Str ; 8.2075 ; 48.30528 
+ DE-BW-0415 ; Maileseckle ;390; R1 ; 8.07061 ; 48.39433 
+ DE-BW-0420 ; Brudertaler Eck ;420; R1 ; 7.91556 ; 48.35314 
+ DE-BW-0420a ; Eck ;420; S1-2 ; 7.64719 ; 48.1065 
+ DE-BW-0422 ; Leimeneck ;404; R1 ; 7.93258 ; 48.04522 
+ DE-BW-0422a ; Auf der Eck ;422; Str ; 7.90064 ; 48.16597 
+ DE-BW-0425 ; Breiteplatz ;425; R1 ; 7.95989 ; 47.98908 
+ DE-BW-0427 ; Wolfsgrube ;427; R1 ; 8.82381 ; 49.46258 
+ DE-BW-0428 ; Eckle ;428; Str ; 7.87136 ; 48.18703 
+ DE-BW-0429 ; Schönebene ;457; R1 ; 7.69894 ; 48.11261 
+ DE-BW-0430a ; Jägertoni Eck ;430; R1 ; 7.96317 ; 48.23983 
+ DE-BW-0430b ; Endinger Eck ;430; R1 ; 7.69369 ; 48.11261 
+ DE-BW-0431 ; Lucke ;431; Str ; 7.75347 ; 47.68011 
+ DE-BW-0431a ; Nonnensessel ;431; R1 ; 8.99097 ; 49.00011 
+ DE-BW-0433 ; Wittlinger Höhe ;433; K6344 ; 7.66811 ; 47.65267 
+ DE-BW-0435 ; Gummeck ;435; R1 ; 7.92936 ; 48.03278 
+ DE-BW-0437 ; Herzenbachsattel ;437; R1 ; 8.05158 ; 48.36778 
+ DE-BW-0439 ; Eckle ;439; Str ; 7.96869 ; 48.1415 
+ DE-BW-0439a ; Geroldseck ;439; Str ; 7.97911 ; 48.33417 
+ DE-BW-0439b ; Schlossbergsattel ;439; R1 ; 7.86403 ; 47.99542 
+ DE-BW-0439d ; Amolterer Eck ;439; S1-2 ; 7.68586 ; 48.11586 
+ DE-BW-0442 ; Heugrabeneck ;442; R1 ; 8.08439 ; 48.37536 
+ DE-BW-0442a ; Grandeckle ;442; R1-2 (S), S1-2 (N) ; 8.1245 ; 48.24181 
+ DE-BW-0443 ; Sattellege ;443; R1 ; 8.05942 ; 48.2465 
+ DE-BW-0445 ; Kreuzplatz ;445; Str (NE) ; 7.98808 ; 48.26133 
+ DE-BW-0446 ; Obere Ecke ;446; S1 ; 8.22608 ; 48.26258 
+ DE-BW-0446a ; Bahlinger Eck ;446; K5140/K4976 ; 7.70028 ; 48.10775 
+ DE-BW-0449 ; Untere Ecke ;449; S1 ; 8.22142 ; 48.26569 
+ DE-BW-0450 ; Schwandeck ;450; R1 ; 8.04017 ; 48.42289 
+ DE-BW-0453 ; Gescheid ;453; K5109 ; 7.95683 ; 48.13847 
+ DE-BW-0455 ; Schellenlöchle ;455; R1 ; 7.93433 ; 48.22772 
+ DE-BW-0456 ; Wildtalereck ;456; R1 ; 7.91694 ; 48.03106 
+ DE-BW-0459 ; Hageneck ;459; R1 ; 7.98028 ; 48.31308 
+ DE-BW-0460a ; Rossecke ;460; R1 ; 8.18142 ; 48.29675 
+ DE-BW-0461 ; Harnischwald Höhe ;461; Str ; 7.94297 ; 48.12619 
+ DE-BW-0465 ; Rheintaler Höhe ;465; Str ; 7.65006 ; 47.78306 
+ DE-BW-0466 ; Hütteneck ;466; R1(KW) ; 8.16789 ; 48.49364 
+ DE-BW-0468 ; Geisterplatz ;468; R1 ; 7.96464 ; 47.99172 
+ DE-BW-0469 ; Dreieck ;469; S1 ; 8.37353 ; 48.85492 
+ DE-BW-0469a ; Holdereck ;469; R1 ; 7.98986 ; 48.36953 
+ DE-BW-0470 ; Heidenbauerneck ;470; R1 ; 7.9925 ; 48.2695 
+ DE-BW-0472 ; Nocken Kreuzplatz ;472; R1 ; 7.99222 ; 48.27475 
+ DE-BW-0474 ; Schwaibacher Eck ;474; R1 ; 8.06136 ; 48.3935 
+ DE-BW-0476 ; Dohlenbacher Höhe ;476; R1 ; 8.20067 ; 48.30039 
+ DE-BW-0477 ; Heuberger Tor ;477; R1 ; 9.03297 ; 48.5475 
+ DE-BW-0480 ; Heidenkniesattel ;457; R1 ; 8.02017 ; 48.47758 
+ DE-BW-0480a ; Kuriseck ;480; R1 ; 7.95269 ; 48.13436 
+ DE-BW-0482 ; Unteres Kohleck ;482; R1 ; 8.14461 ; 48.55472 
+ DE-BW-0483 ; Sausteig ;483; Str ; 8.16256 ; 48.55861 
+ DE-BW-0483a ; Adlerhorstsattel ;483; R1 ; 7.66867 ; 48.078 
+ DE-BW-0485 ; Silbergrüble ;485; R1 ; 7.93842 ; 48.03886 
+ DE-BW-0487 ; Haseneckle ;487; R1 ; 8.16867 ; 48.26631 
+ DE-BW-0487a ; Niederbacher Eck ;487; R1 ; 8.00933 ; 48.2955 
+ DE-BW-0488 ; Neusatzeck ;488; L83a ; 8.18225 ; 48.66894 
+ DE-BW-0488a ; Pfingsteck ;488; L110 ; 7.94211 ; 48.20622 
+ DE-BW-0490 ; Haseneck ;490; Str ; 8.09044 ; 48.41314 
+ DE-BW-0490a ; Frauenboschebene ;492; R1, S2 (SE) ; 8.17283 ; 48.67336 
+ DE-BW-0490b ; Jockisebene ;490; R1 ; 7.91247 ; 47.65039 
+ DE-BW-0491 ; Plätzer Ebene ;489; R1 KW ; 7.93639 ; 48.12494 
+ DE-BW-0492 ; Schlosswaldeck ;492; R1 ; 7.94225 ; 48.06006 
+ DE-BW-0492a ; Wiesnecksattel ;492; Str (W) ; 8.00292 ; 47.96717 
+ DE-BW-0492b ; Max-Wilhelmhöhe ;492; R1 ; 9.08314 ; 49.49053 
+ DE-BW-0493 ; Auf der Eck ;493; R1 ; 8.12919 ; 48.31158 
+ DE-BW-0495 ; Brandeck Lindle ;495; R1 ; 8.036 ; 48.46267 
+ DE-BW-0495a ; Maierecke ;495; R1 ; 8.22361 ; 48.25225 
+ DE-BW-0495b ; Totenruheplatz ;495; R1 ; 7.93411 ; 48.24672 
+ DE-BW-0496 ; Herchersattel ;496; R1 ; 7.91897 ; 47.95639 
+ DE-BW-0498 ; Burgeck ;498; R1 ; 8.23389 ; 48.31469 
+ DE-BW-0502 ; Neuwaldeck ;502; Str (N) ; 7.79125 ; 47.71775 
+ DE-BW-0505a ; Steig ;505; R2 ; 8.29522 ; 48.37 
+ DE-BW-0507 ; Leimenlöcher ;507; R1 ; 8.07628 ; 48.43717 
+ DE-BW-0507a ; Wilhelmsfelder Eck ;507; R1 ; 8.73703 ; 49.45708 
+ DE-BW-0509 ; Katzenmooser Höhe ;509; Str ; 8.03364 ; 48.16697 
+ DE-BW-0510 ; Gehreckle ;510; R1 ; 8.18281 ; 48.46939 
+ DE-BW-0510a ; Matzebene ;510; R1 ; 8.06472 ; 48.45214 
+ DE-BW-0510b ; Gummeneck ;510; R1 ; 8.06814 ; 48.10281 
+ DE-BW-0514 ; Hochebene ;514; Str ; 8.16708 ; 48.48431 
+ DE-BW-0515 ; Drei-Höfe-Eck ;515; R1 ; 8.04884 ; 48.45479 
+ DE-BW-0516 ; Dochbacher Platz ;516; R1 ; 8.04906 ; 48.27147 
+ DE-BW-0520 ; Eckle ;520; Str ; 7.96172 ; 48.22708 
+ DE-BW-0522 ; Steineckle ;522; R1 ; 8.03278 ; 48.46386 
+ DE-BW-0522a ; Kohlplatz ;522; R1 ; 8.09806 ; 48.33539 
+ DE-BW-0523 ; Dolleneck ;523; R1 ; 8.15778 ; 48.58131 
+ DE-BW-0525a ; Steigplatz ;525; Str ; 8.92125 ; 48.58672 
+ DE-BW-0526 ; Mönchkopfsattel ;526; R1 ; 8.37883 ; 48.83083 
+ DE-BW-0528 ; Mohrensattel ;528; R1 ; 7.67508 ; 47.72517 
+ DE-BW-0530a ; Straußebene ;530; R1 ; 8.06228 ; 48.44164 
+ DE-BW-0532 ; Schmiedebure Eck ;532; R1 ; 8.08753 ; 48.23789 
+ DE-BW-0532a ; Wolfsgrube ;532; R1 ; 8.09361 ; 48.08533 
+ DE-BW-0535 ; Leuschbensattel ;535; R1 ; 8.19806 ; 48.34992 
+ DE-BW-0538 ; Dierlisberger Eck ;538; R1 (O), R1-2 (E) ; 8.08214 ; 48.31322 
+ DE-BW-0539 ; Oberes Kohleck ;539; R1 ; 8.14061 ; 48.55336 
+ DE-BW-0539a ; Kambacher Eck ;539; R1 ; 7.99817 ; 48.29142 
+ DE-BW-0540 ; Röscheneck ;540; R1 ; 7.98889 ; 48.14786 
+ DE-BW-0540a ; Lange Ebene ;540; R1 ; 7.68233 ; 47.73097 
+ DE-BW-0540b ; Nussbaumplatz ;540; R1 ; 7.702 ; 47.82956 
+ DE-BW-0541 ; Scheideck ;541; L135 ; 7.70525 ; 47.70175 
+ DE-BW-0543 ; Pfaffenbacher Eck ;543; R1 ; 8.07486 ; 48.41417 
+ DE-BW-0543a ; Hofstetter Eck ;543; R1 ; 8.05364 ; 48.26881 
+ DE-BW-0545 ; Krebsenbacher Höhe ;545; R1 ; 8.08328 ; 48.464 
+ DE-BW-0545a ; Plättleshöhe ;545; K9710 ; 8.72728 ; 49.40072 
+ DE-BW-0545b ; Holzebene ;545; Str ; 8.3852 ; 48.30701 
+ DE-BW-0546a ; Sessel ;546; S1 ; 8.12933 ; 48.55797 
+ DE-BW-0546b ; Fritscheneck ;546; S1-2 ; 8.02233 ; 48.46008 
+ DE-BW-0546c ; Eck ;546; R1 ; 8.05772 ; 48.20531 
+ DE-BW-0548 ; Satteleiche ;548; R1 ; 8.13406 ; 48.53047 
+ DE-BW-0549 ; Auf der Wolfsgrube ;549; R1 ; 8.02819 ; 48.12492 
+ DE-BW-0550 ; Kayher Sattel ;550; Str ; 8.93873 ; 48.58013 
+ DE-BW-0551 ; Pfisterhöhe ;551; S1-2 ; 7.93092 ; 47.95481 
+ DE-BW-0553 ; Discheneck ;553; Str ; 8.01689 ; 48.17481 
+ DE-BW-0554 ; Rosteck ;554; R1-2 ; 8.04142 ; 48.45869 
+ DE-BW-0554a ; Christebene ;554; R1 ; 8.10008 ; 48.47086 
+ DE-BW-0556 ; Osterbacher Sattel ;556; S1 (E) ; 8.19578 ; 48.30575 
+ DE-BW-0556a ; Nautensattel ;556; R1 ; 8.13322 ; 48.23958 
+ DE-BW-0560 ; Mühlsteineck ;560; Str ; 8.09419 ; 48.38969 
+ DE-BW-0561 ; Hartsteige ;561; R ; 10.26019 ; 48.86844 
+ DE-BW-0563 ; Blöchereck ;563; Str ; 8.17053 ; 48.55261 
+ DE-BW-0565 ; Schnaitberg Eck ;565; R1 ; 8.08147 ; 48.42161 
+ DE-BW-0566 ; Eschholzkopfsattel ;566; R1 ; 8.01333 ; 48.47078 
+ DE-BW-0568 ; Hüttensattel ;568; R1 ; 8.20631 ; 48.36114 
+ DE-BW-0570 ; Sattel ;570; R1 ; 7.88686 ; 47.67156 
+ DE-BW-0577 ; Ebersbacher Höhe ;577; R1 ; 8.33783 ; 48.27706 
+ DE-BW-0579 ; Brombergsattel ;579; R1 ; 7.86636 ; 47.97358 
+ DE-BW-0580 ; Bacheck ;580; R1 ; 8.15347 ; 48.59031 
+ DE-BW-0581 ; Fischerbacher Eck ;581; R1 ; 8.10575 ; 48.31656 
+ DE-BW-0582 ; Eimerloch ;582; R1 ; 7.757 ; 47.69689 
+ DE-BW-0582a ; Kohlplatz ;582; R1 ; 7.708 ; 47.81553 
+ DE-BW-0585 ; Bollenbacher Eck ;585; R1 ; 8.10075 ; 48.316 
+ DE-BW-0585a ; Hexensattel ;585; Str ; 9.74591 ; 48.62275 
+ DE-BW-0587 ; Biereck ;587; Str ; 8.04661 ; 48.22261 
+ DE-BW-0587a ; Rosskopfsattel ;587; R1 ; 7.90347 ; 48.00533 
+ DE-BW-0588 ; Eckleberg Höhe ;588; R1 ; 7.95639 ; 48.15206 
+ DE-BW-0590 ; Weberseck ;590; R1 ; 8.19489 ; 48.46403 
+ DE-BW-0590a ; Sattelebene ;590; R1 ; 8.32439 ; 48.28153 
+ DE-BW-0590b ; Luisenhöhe ;590; R1 ; 7.85589 ; 47.94806 
+ DE-BW-0590c ; Niederbachereck ;590; R1 ; 8.04289 ; 48.25914 
+ DE-BW-0591 ; Fischerbacher Höhe ;591; R1 ; 8.10733 ; 48.31986 
+ DE-BW-0591a ; Fixenplatz ;591; R1 (L103 à 30 m) ; 7.99472 ; 48.243 
+ DE-BW-0592 ; Ofenloch ;592; R1 ; 8.08883 ; 48.46081 
+ DE-BW-0593 ; Reichenbacher Eckle ;593; S2 ; 8.09586 ; 48.16714 
+ DE-BW-0595 ; Passhöhe Heidburg ;530; B294 ; 8.08739 ; 48.21861 
+ DE-BW-0596 ; Röscheneck ;596; R1 ; 7.98958 ; 48.16228 
+ DE-BW-0601 ; Neusteigle ;601; R1 ; 8.30294 ; 48.35831 
+ DE-BW-0602 ; Simmesebene ;602; R1 ; 8.10464 ; 48.39711 
+ DE-BW-0604 ; Bolleck ;604; R1 ; 8.19114 ; 48.44303 
+ DE-BW-0605 ; Ebenacker ;605; R1 ; 8.18956 ; 48.32803 
+ DE-BW-0606 ; Bühlbauerneck ;606; R1 ; 8.2045 ; 48.41667 
+ DE-BW-0609 ; Haldeneck ;609; R1 ; 8.10256 ; 48.39047 
+ DE-BW-0609a ; Haseneckle ;609; R1 ; 8.25486 ; 48.21467 
+ DE-BW-0610 ; Holzeck ;610; R1(NE) ; 8.08253 ; 48.43967 
+ DE-BW-0610a ; Landgrabeneck ;610; R1 ; 8.08544 ; 48.42442 
+ DE-BW-0610b ; Sattellege ;610; R1 ; 8.37467 ; 48.32778 
+ DE-BW-0610c ; Sattelplatz ;610; R1 ; 7.72961 ; 47.81775 
+ DE-BW-0610d ; Sattelbogen ;610; Str ; 9.48353 ; 48.57525 
+ DE-BW-0612 ; Enggründlesattel ;612; R1 ; 7.73008 ; 47.85047 
+ DE-BW-0615 ; Brettentaler Eck ;615; S1 (E)(N)(S), S3 (O) ; 7.96528 ; 48.20625 
+ DE-BW-0615a ; Schlosssattel ;615; R1 ; 7.67628 ; 47.74839 
+ DE-BW-0617 ; Herbeneck ;617; R1 ; 8.12739 ; 48.31972 
+ DE-BW-0618 ; Bergbauernhöhe ;618; R1 ; 8.19006 ; 48.32178 
+ DE-BW-0619 ; Eselsattel ;619; R1 ; 8.10897 ; 48.54422 
+ DE-BW-0619a ; Mitteleck ;619; S1-2 ; 7.90356 ; 47.952 
+ DE-BW-0620 ; Bäreneckle ;626; Str ; 8.00222 ; 48.18275 
+ DE-BW-0620a ; Horbensattel ;620; R1 ; 8.24569 ; 48.28015 
+ DE-BW-0621 ; Paliseck ;621; R1 ; 8.21442 ; 48.48147 
+ DE-BW-0621a ; Ebeneackersattel ;455; R1 ; 8.14253 ; 48.29969 
+ DE-BW-0623 ; Simmersbacher Eck ;623; R1 ; 8.13169 ; 48.54031 
+ DE-BW-0629 ; Wassereck ;629; R1 ; 8.19972 ; 48.45753 
+ DE-BW-0630 ; Furtlepass ;630; L1160 / K3278 ; 9.87144 ; 48.74814 
+ DE-BW-0631 ; Landwassereck ;631; L107 ; 8.16014 ; 48.22794 
+ DE-BW-0631a ; Matterhöhe ;631; R1 ; 8.34268 ; 48.31577 
+ DE-BW-0632 ; Kornebene ;632; R1 KW ; 8.09264 ; 48.43008 
+ DE-BW-0634 ; Salneck ;634; R1 ; 7.69228 ; 47.74422 
+ DE-BW-0635 ; Grubeck ;635; R1 ; 8.14881 ; 48.22661 
+ DE-BW-0635a ; Schrannenbauernsattel ;635; S1-2 ; 8.23511 ; 48.325 
+ DE-BW-0637 ; Spähneplatz ;637; R1 ; 8.08336 ; 48.45122 
+ DE-BW-0639 ; Laubisköpflesattel ;639; R1 ; 7.92436 ; 47.94858 
+ DE-BW-0639a ; Baierseck ;639; R1 ; 8.11542 ; 48.38997 
+ DE-BW-0640 ; Siegelauer Eckle ;640; Str KW ; 7.96186 ; 48.16228 
+ DE-BW-0641 ; Diebsebene ;641; R1 ; 8.08972 ; 48.43236 
+ DE-BW-0643 ; Kleine Steig ;653; L92 ; 8.21236 ; 48.48656 
+ DE-BW-0644 ; Hasenhöhe ;644; R1 ; 8.32061 ; 48.3045 
+ DE-BW-0647 ; Rimseck ;647; R1 ; 7.70211 ; 47.82322 
+ DE-BW-0648 ; An der Eck ;648; R1-2 ; 8.02297 ; 48.10192 
+ DE-BW-0649 ; Fuchsecksattel ;649; Str ; 9.67344 ; 48.62775 
+ DE-BW-0651 ; Büchereck ;651; L107 ; 8.17658 ; 48.23786 
+ DE-BW-0652 ; Eckle ;652; Str ; 7.77078 ; 47.74289 
+ DE-BW-0652a ; Niller Eck ;652; R1 ; 8.11606 ; 48.33183 
+ DE-BW-0654 ; Immelsbacher Höhe ;654; R1 ; 8.25028 ; 48.19817 
+ DE-BW-0660 ; Wolfsgrube ;660; Str ; 7.98048 ; 48.17164 
+ DE-BW-0662 ; Schweingrube ;662; R1-2 ; 8.09103 ; 48.09697 
+ DE-BW-0665 ; Kohlplätzle ;665; R1 ; 7.7853 ; 47.87822 
+ DE-BW-0666 ; Geißwaldeckle ;666; R1 ; 8.21031 ; 48.19331 
+ DE-BW-0667 ; Höhe ;667; L101 KW ; 8.00656 ; 48.22842 
+ DE-BW-0668 ; Egg ;668; K6587 ; 7.96253 ; 47.58106 
+ DE-BW-0670 ; Kornbergsattel ;670; L1217 ; 9.64758 ; 48.62361 
+ DE-BW-0672 ; Hännersteigle ;672; R1 ; 9.28794 ; 48.49481 
+ DE-BW-0674 ; Landeck ;674; R1 ; 8.26178 ; 48.34664 
+ DE-BW-0674a ; Adenbauerneckle ;674; R1 ; 8.21044 ; 48.20231 
+ DE-BW-0675 ; Hoheneck ;675; Str ; 7.81344 ; 47.74725 
+ DE-BW-0675a ; Kappeneck ;675; R1 ; 8.01478 ; 47.9685 
+ DE-BW-0680 ; Auf der Ecken ;680; R1 ; 8.28292 ; 48.32997 
+ DE-BW-0680a ; Kupfersteige ;680; K1401 ; 9.84103 ; 48.68133 
+ DE-BW-0680b ; Storenwald Höhe ;680; S ; 8.22169 ; 48.20133 
+ DE-BW-0680c ; Riestersattel ;680; R1 ; 7.73564 ; 47.84389 
+ DE-BW-0680d ; Schmieders Höhe ;680; S1-2 ; 8.18028 ; 48.33639 
+ DE-BW-0681 ; Streckereck ;681; R1 KW ; 7.92922 ; 48.01511 
+ DE-BW-0682 ; Vorderes Sättele ;682; Str ; 9.23189 ; 48.43386 
+ DE-BW-0688 ; Heselsteig ;688; R1 ; 8.55028 ; 48.71728 
+ DE-BW-0688a ; Rehhagsattel ;688; R1 ; 7.87953 ; 47.96925 
+ DE-BW-0689 ; Müllerbauerneck ;689; R1 ; 8.22958 ; 48.47733 
+ DE-BW-0689a ; Sattel ;689; R1-2 ; 7.8395 ; 47.88175 
+ DE-BW-0689b ; Brandsteig ;689; Str ; 8.39758 ; 48.29931 
+ DE-BW-0689c ; Passhöhe Eckte ;689; Str ; 8.38233 ; 48.36025 
+ DE-BW-0695 ; Sallneck ;695; K6309 ; 7.76997 ; 47.71228 
+ DE-BW-0695a ; Gresgener Ebene ;695; Str ; 7.82436 ; 47.69933 
+ DE-BW-0698 ; Hohe Eck ;698; R1 KW ; 7.97547 ; 48.17736 
+ DE-BW-0699 ; Windeck ;699; S ; 8.24472 ; 48.20939 
+ DE-BW-0701 ; Würtinger Steig ;701; Str ; 9.301 ; 48.47244 
+ DE-BW-0703 ; Milbensattel ;703; Str ; 8.23756 ; 48.43325 
+ DE-BW-0704 ; Das Tor ;704; R1 ; 8.31661 ; 48.36531 
+ DE-BW-0705 ; Jehlebasches Höhe ;705; Str ; 8.28331 ; 48.33653 
+ DE-BW-0706 ; Sattellei ;706; R ; 8.35269 ; 48.52031 
+ DE-BW-0706a ; Tischneck ;706; Str ; 8.39447 ; 48.20394 
+ DE-BW-0707 ; Schremppenhöhe ;707; R1 ; 8.24036 ; 48.37047 
+ DE-BW-0707a ; Meisternebene ;707; R1 ; 8.57016 ; 48.7594 
+ DE-BW-0710 ; Harkhöhe ;715; R1 ; 8.18715 ; 48.3713 
+ DE-BW-0710a ; Nesselplatz ;710; R1 ; 7.95311 ; 48.02733 
+ DE-BW-0711 ; Weilersteig ;711; K1262 ; 9.43258 ; 48.56156 
+ DE-BW-0712 ; Schempeneckle ;712; R1 ; 8.27997 ; 48.39492 
+ DE-BW-0712a ; Gutmännerspass ;772; R1 ; 7.76633 ; 47.82361 
+ DE-BW-0714 ; Sonneck ;714; R1 ; 7.98617 ; 47.94264 
+ DE-BW-0716 ; Ochsensteige ;716; R1 ; 9.18019 ; 48.43681 
+ DE-BW-0717 ; Sattel ;717; R1 ; 8.46053 ; 48.67492 
+ DE-BW-0717a ; Satteleck ;717; R1-2 ; 8.10642 ; 48.16675 
+ DE-BW-0719 ; Heusteige ;719; R1 ; 9.17967 ; 48.43467 
+ DE-BW-0719a ; Teufelsloch ;719; S2 ; 9.10847 ; 48.39939 
+ DE-BW-0720 ; Küchensteige ;720; R1 ; 9.18831 ; 48.42842 
+ DE-BW-0721 ; Hinteres Sättele ;721; S1-2 ; 9.22564 ; 48.43294 
+ DE-BW-0721a ; Sperberseck ;721; S4 ; 9.52144 ; 48.52047 
+ DE-BW-0721b ; Zimmerplatz ;721; R1 ; 8.39806 ; 48.51258 
+ DE-BW-0723 ; Holzeck ;723; R1 ; 7.99169 ; 47.93608 
+ DE-BW-0723a ; Rieschmättle Höhe ;735; R1 ; 8.17111 ; 48.41481 
+ DE-BW-0724 ; Hanissenhöhe ;724; R1 ; 8.0506 ; 48.00239 
+ DE-BW-0725 ; Stahleck ;725; Str ; 9.30486 ; 48.44397 
+ DE-BW-0725a ; Sankt Romaner Höhe ;725; Str ; 8.28278 ; 48.33861 
+ DE-BW-0725b ; Rotwasserebene ;725; R1 ; 8.23278 ; 48.67817 
+ DE-BW-0730 ; Böller Steige ;724; S1 ; 9.77719 ; 48.58683 
+ DE-BW-0730a ; Sirchinger Steige ;730; L249 ; 9.40628 ; 48.45758 
+ DE-BW-0730b ; Kohlplatz ;730; Str ; 8.28569 ; 48.33936 
+ DE-BW-0732 ; Hirscheck ;732; R1 ; 8.20086 ; 48.53164 
+ DE-BW-0733 ; Leimgrube ;733; Str ; 9.26906 ; 48.38617 
+ DE-BW-0734 ; Brechsattel ;734; R1 ; 8.25717 ; 48.27408 
+ DE-BW-0735 ; Kibfelsensattel ;735; S1-2 ; 7.88342 ; 47.96631 
+ DE-BW-0735a ; Wolfsteige ;735; R1-S1 ; 8.04564 ; 47.99911 
+ DE-BW-0737 ; Offenbacher Eckle ;737; R1 ; 8.19481 ; 48.21128 
+ DE-BW-0738 ; Kreuzsattel ;738; Str ; 8.17367 ; 48.35756 
+ DE-BW-0738a ; Pfaffeneck ;738; R1 ; 8.01222 ; 47.94769 
+ DE-BW-0740 ; Hannersteige ;740; K6708 ; 9.38533 ; 48.48025 
+ DE-BW-0740a ; Sättele ;740; S2-3 ; 9.22694 ; 48.43583 
+ DE-BW-0741 ; Sattellege ;741; R1 ; 8.29658 ; 48.42219 
+ DE-BW-0743 ; Braunbergsattel ;743; R1 ; 8.20536 ; 48.45192 
+ DE-BW-0743a ; Hirzeckle ;743; R1 ; 8.17717 ; 48.20767 
+ DE-BW-0744 ; Frauensteig ;744; R1 ; 8.00503 ; 47.94972 
+ DE-BW-0747 ; Fohlensteig ;747; R1 ; 9.34453 ; 48.48844 
+ DE-BW-0747a ; Auf der Grub ;747; S1 ; 8.26767 ; 48.27217 
+ DE-BW-0748 ; Ibachereck ;748; R1 ; 8.14544 ; 48.447 
+ DE-BW-0748a ; Schlatterhöhe ;748; B465 / L1212 ; 9.52686 ; 48.52939 
+ DE-BW-0749 ; Alte Grube ;749; R1 ; 8.31722 ; 48.37136 
+ DE-BW-0750 ; Ebene ;728; R1-2 ; 7.77769 ; 47.74767 
+ DE-BW-0751 ; Aufberger Loch ;751; Str ; 9.24389 ; 48.40397 
+ DE-BW-0752 ; Hinter Hals ;752; R1 ; 8.29811 ; 48.34261 
+ DE-BW-0752a ; Schäfersfeldpass ;752; K5354 ; 8.15111 ; 48.43472 
+ DE-BW-0753 ; Grubhöhe ;753; Str ; 8.27669 ; 48.27178 
+ DE-BW-0756 ; Rohrenbachereck ;756; K5300 ; 8.23569 ; 48.46703 
+ DE-BW-0756a ; Wattereck ;672; R1 ; 8.192 ; 48.38744 
+ DE-BW-0758 ; Knappeneck ;758; R1 ; 8.16906 ; 48.53369 
+ DE-BW-0758a ; Wackersteinebene ;758; S2-3 ; 9.22117 ; 48.42717 
+ DE-BW-0760 ; Köhlerplatz ;760; R1 ; 7.87503 ; 47.69894 
+ DE-BW-0761 ; Riesenbauerhöhe ;761; S ; 8.24181 ; 48.23064 
+ DE-BW-0761a ; Horneck ;761; L92/R1 ; 8.22372 ; 48.49197 
+ DE-BW-0763 ; Vorder Hals ;763; R1 ; 8.29767 ; 48.34039 
+ DE-BW-0765 ; Bellecksattel ;765; R1 ; 8.05189 ; 47.97753 
+ DE-BW-0769 ; Gatter ;769; Str ; 8.48792 ; 47.87122 
+ DE-BW-0770 ; Sommerecke ;768; S1 ; 8.26731 ; 48.25603 
+ DE-BW-0771 ; Strohweiler Steig ;771; K6705 ; 9.48672 ; 48.51336 
+ DE-BW-0773 ; Ruoffseck ;773; L382 ; 9.20831 ; 48.42439 
+ DE-BW-0776 ; Klapper Steigle ;776; R1 ; 9.28917 ; 48.45672 
+ DE-BW-0777 ; Heusteige ;777; R1 ; 9.13303 ; 48.42006 
+ DE-BW-0777a ; Schmidsberger Platz ;777; R1 ; 8.32847 ; 48.38725 
+ DE-BW-0778 ; Sattelecke ;778; R2(S) S1 ; 8.11675 ; 48.18108 
+ DE-BW-0779 ; Ramsbacher Holzplatz ;779; R1 ; 8.12236 ; 48.45769 
+ DE-BW-0780 ; Kreuzsattel ;780; Str ; 8.27364 ; 48.24922 
+ DE-BW-0781 ; Schwarzenbach Sattel ;781; R1 ; 8.14106 ; 48.33878 
+ DE-BW-0785 ; Schlösslessteige ;785; R1-2 ; 9.25414 ; 48.40869 
+ DE-BW-0786 ; Hirschbachsattel ;786; R1 ; 8.24869 ; 48.39475 
+ DE-BW-0787 ; Passhöhe Fohrenbühl ;787; L108 ; 8.29436 ; 48.23528 
+ DE-BW-0788 ; Schondelhöhe ;788; Str ; 8.25908 ; 48.23728 
+ DE-BW-0788a ; Seebensattel ;788; R1 ; 8.27147 ; 48.41078 
+ DE-BW-0788b ; Bockseckle ;788; R1 ; 8.31917 ; 48.357 
+ DE-BW-0790 ; Martinsecke ;790; R1 ; 8.19761 ; 48.20142 
+ DE-BW-0792 ; Wiesensteig ;792; K1431 ; 9.63881 ; 48.55147 
+ DE-BW-0796 ; Grub ;796; R1 ; 8.30142 ; 48.49581 
+ DE-BW-0797 ; Gabler Eck ;797; R1 ; 7.75769 ; 47.83108 
+ DE-BW-0798 ; Schwelle ;798; R1 ; 7.84642 ; 47.90217 
+ DE-BW-0802 ; Grubersteig ;802; R1 ; 8.35697 ; 48.48183 
+ DE-BW-0803 ; Dünnsteig ;803; L169 / K6517 ; 8.35319 ; 47.78644 
+ DE-BW-0803a ; Stühle ;803; R1 ; 7.72844 ; 47.72536 
+ DE-BW-0804 ; Hebelhöhe ;804; R1 ; 7.86472 ; 47.69089 
+ DE-BW-0810 ; Auf der Eck ;810; Str ; 8.26856 ; 48.23997 
+ DE-BW-0811 ; Sägeneck ;811; Str(E) R1 ; 7.86794 ; 47.79733 
+ DE-BW-0813 ; Hintere Grube ;813; R1 ; 8.29728 ; 48.51356 
+ DE-BW-0814 ; Heubronner Eck ;914; L131 ; 7.79553 ; 47.80464 
+ DE-BW-0815 ; Herbensattel ;815; S3 ; 8.21139 ; 48.39456 
+ DE-BW-0822 ; Rieder Eck ;822; R1 ; 7.81442 ; 47.76167 
+ DE-BW-0822a ; Weithäuslesplatz ;822; R ; 8.47192 ; 48.76792 
+ DE-BW-0822b ; Kornelishöhe ;822; R1 ; 8.36638 ; 48.20178 
+ DE-BW-0823 ; Untere Stuhlsebene ;823; Str ; 7.86928 ; 47.79914 
+ DE-BW-0824 ; Sättele ;824; S ; 7.81508 ; 47.75708 
+ DE-BW-0828 ; Auf der Ecke ;828; R ; 8.34619 ; 48.21136 
+ DE-BW-0831 ; Hofeck ;831; K5727 ; 8.24447 ; 48.12408 
+ DE-BW-0833 ; Schwabachhöhe ;833; R1 ; 8.35472 ; 48.43303 
+ DE-BW-0833a ; Harmersbacher Höhe ;833; R1 ; 8.20958 ; 48.40475 
+ DE-BW-0835 ; Bosensteiner Eck ;835; K5370 ; 8.19297 ; 48.56597 
+ DE-BW-0835a ; Kreuzbauernhöhe ;835; Str ; 8.27219 ; 48.14272 
+ DE-BW-0836 ; Littweger Höhe ;836; R1 (E1) ; 8.22408 ; 48.40081 
+ DE-BW-0840 ; Geißschleifsattel ;840; R1 ; 8.09406 ; 48.45042 
+ DE-BW-0840a ; Lindlehöhe ;840; R1-2(S) S1-2(N) ; 8.00347 ; 48.02269 
+ DE-BW-0840b ; Windegg ;839; K5929 ; 8.82175 ; 47.93247 
+ DE-BW-0843 ; Hexenplatz ;843; R1 ; 7.70897 ; 47.76208 
+ DE-BW-0844 ; Zwieselberger Eck ;844; S ; 8.35428 ; 48.44608 
+ DE-BW-0845 ; Burgbachhöhe ;845; R1 ; 8.34756 ; 48.41731 
+ DE-BW-0845a ; Langeckhöhe ;845; Str ; 8.00775 ; 48.0215 
+ DE-BW-0847 ; Auf der Eck ;847; Str ; 7.81803 ; 47.79578 
+ DE-BW-0847a ; Leideck ;847; R1 ; 7.69114 ; 47.76753 
+ DE-BW-0847b ; Gründlehöhe ;847; R1 ; 8.26689 ; 48.17603 
+ DE-BW-0847c ; Eck ;847; K4956 (W) ; 7.85353 ; 47.91792 
+ DE-BW-0850 ; Dieterlebauernhöhe ;850; Str ; 8.25433 ; 48.17597 
+ DE-BW-0852 ; Kreisbachhöhe ;852; Str ; 8.26558 ; 48.14397 
+ DE-BW-0855 ; Hohe Steig ;855; R1 ; 8.14153 ; 48.07139 
+ DE-BW-0856 ; Wassersteige ;856; K5545 ; 8.74736 ; 48.14433 
+ DE-BW-0859 ; Eduardshöhe ;859; Str ; 7.86161 ; 47.91125 
+ DE-BW-0859a ; Storeck ;859; R1 ; 8.25064 ; 48.17378 
+ DE-BW-0863 ; Ballensattel ;733; R1 ; 8.15564 ; 48.32844 
+ DE-BW-0863a ; Ilgenbacher Grube ;863; R1 ; 8.28581 ; 48.52153 
+ DE-BW-0864 ; Müllheimer Egerten Sattel ;925; L140 ; 7.72111 ; 47.78603 
+ DE-BW-0867 ; Sonnhaldeneck ;867; R1 ; 7.84283 ; 47.89119 
+ DE-BW-0870 ; Auf dem Sättele ;870; Str ; 7.90556 ; 47.75114 
+ DE-BW-0874 ; Badener Sattel ;874; R1 S3 ; 8.28428 ; 48.67558 
+ DE-BW-0875 ; Passhöhe Sommerau ;875; B33 ; 8.29192 ; 48.12583 
+ DE-BW-0876 ; Gersbacher Ecke ;876; R1 ; 8.31072 ; 48.19594 
+ DE-BW-0876a ; Eckhag ;876; K6352 ; 7.89978 ; 47.69864 
+ DE-BW-0878 ; Herrenwieser Sattel ;878; R1 S3 ; 8.26311 ; 48.66989 
+ DE-BW-0880 ; Gerstenhalmsattel ;840; R1 ; 7.84442 ; 47.92211 
+ DE-BW-0881 ; Buchwaldhöhe ;881; R1 ; 8.33958 ; 48.45186 
+ DE-BW-0883 ; Hundseck ;883; B500 ; 8.23125 ; 48.64517 
+ DE-BW-0884 ; Ecke ;884; R1 ; 8.28125 ; 48.15764 
+ DE-BW-0886 ; Wuspeneck ;785; R1 ; 7.98247 ; 48.02369 
+ DE-BW-0889 ; Blauener Ebene ;889; R1 ; 7.84044 ; 47.73672 
+ DE-BW-0891a ; Benz Ebene ;891; K5530 ; 8.29925 ; 48.18164 
+ DE-BW-0893 ; Grube ;893; R1 ; 7.80567 ; 47.77286 
+ DE-BW-0904 ; Graseck ;904; R1 (E1) ; 8.26706 ; 48.45189 
+ DE-BW-0907 ; Kohlgrube ;907; R1 ; 8.24106 ; 48.483 
+ DE-BW-0907a ; Schwanenhöhe ;907; Str ; 8.34406 ; 48.11636 
+ DE-BW-0908 ; Sattel ;908; Str ; 7.86428 ; 47.88308 
+ DE-BW-0910 ; Ernsteige ;910; R1 ; 8.98581 ; 48.30922 
+ DE-BW-0910a ; Steig ;910; K7159 ; 8.80408 ; 48.17489 
+ DE-BW-0912 ; Viereichensattel ;912; R1 ; 8.43858 ; 48.68275 
+ DE-BW-0919 ; Bärlöchle ;919; Str ; 8.182 ; 48.19222 
+ DE-BW-0920 ; Lochengründle ;920; L440 ; 8.85272 ; 48.21811 
+ DE-BW-0925 ; Tanneck ;925; K7159 ; 8.83028 ; 48.17361 
+ DE-BW-0925a ; Lembergsattel ;925; R1 ; 8.75336 ; 48.15317 
+ DE-BW-0926 ; Auf der Eck ;926; Str ; 8.05364 ; 48.02911 
+ DE-BW-0929 ; Eckle ;929; Str ; 8.14767 ; 48.061 
+ DE-BW-0930 ; Kirchsteig ;930; B31 / K4964 ; 8.25239 ; 47.90333 
+ DE-BW-0930a ; Kohlgrube ;930; R1 ; 8.05478 ; 47.69389 
+ DE-BW-0931 ; Vordere Langeck ;931; HS ; 8.31961 ; 48.61778 
+ DE-BW-0932 ; Muckenloch ;932; L150 ; 8.07494 ; 47.76314 
+ DE-BW-0934 ; Schwarzmisssattel ;934; L76b ; 8.425 ; 48.71417 
+ DE-BW-0936 ; Mutterslehener Gatter ;936; R1 ; 8.07672 ; 47.76489 
+ DE-BW-0937 ; Seeebene ;937; R1 ; 8.26242 ; 48.42306 
+ DE-BW-0940 ; Beim Gatter ;940; Str (N) ; 7.97983 ; 47.71419 
+ DE-BW-0943 ; Hintere Langeck ;943; HS ; 8.29983 ; 48.60886 
+ DE-BW-0949 ; Auf der Ecke ;949; Str ; 8.19547 ; 48.17333 
+ DE-BW-0956 ; Seibelseckle ;956; B500 ; 8.21764 ; 48.59594 
+ DE-BW-0957 ; Schwelle ;957; R1-2 ; 7.90628 ; 47.70403 
+ DE-BW-0959 ; Zimmereck ;959; R1 ; 8.13472 ; 48.16486 
+ DE-BW-0960 ; Friedrichshöhe ;960; L173 ; 8.32239 ; 48.05644 
+ DE-BW-0963 ; Auf der Steig ;963; Str ; 8.33117 ; 48.04872 
+ DE-BW-0964 ; Leimenlöcher ;964; R1 ; 8.07903 ; 47.71139 
+ DE-BW-0965 ; Wolfsgrube ;965; R1 ; 8.13014 ; 48.17406 
+ DE-BW-0970 ; Grube ;970; R1 ; 7.73728 ; 47.74186 
+ DE-BW-0970a ; Laubeck ;970; Str ; 8.189 ; 48.15381 
+ DE-BW-0970b ; Alte Steige ;970; Str ; 8.84936 ; 48.15853 
+ DE-BW-0972 ; Sinsenbacher Höhe ;972; S1 ; 8.30431 ; 48.07689 
+ DE-BW-0972a ; Vogeleck ;972; Str ; 8.20672 ; 48.14892 
+ DE-BW-0975 ; Wilhelmshöhe ;975; L109 ; 8.17331 ; 48.14492 
+ DE-BW-0977 ; Kegelplatz ;977; R1 ; 8.26714 ; 48.63603 
+ DE-BW-0980 ; Kreuzsteige ;980; R1 ; 8.75764 ; 48.09847 
+ DE-BW-0980a ; Schweizersgrund ;980; B500 ; 8.18942 ; 48.02367 
+ DE-BW-0980b ; Haseneck ;980; R1 ; 8.17275 ; 48.14897 
+ DE-BW-0983 ; Neueck ;983; L173 ; 8.17231 ; 48.03969 
+ DE-BW-0985 ; Holzeck ;985; Str ; 8.20025 ; 48.15019 
+ DE-BW-0991 ; Potsdamer Platz ;991; Str ; 8.06528 ; 48.03972 
+ DE-BW-0995 ; Hohlenbachhöhe ;995; R1 ; 8.18575 ; 48.12856 
+ DE-BW-0998 ; Kohlgrube ;998; B500 ; 8.21711 ; 48.54869 
+ DE-BW-0998a ; Kroneck ;998; R1 ; 8.21911 ; 48.14281 
+ DE-BW-0998b ; Rappenecksattel ;998; S1-2 ; 7.91564 ; 47.93308 
+ DE-BW-0999 ; Passhöhe Wacht ;999; L149 ; 8.00361 ; 47.80289 
+ DE-BW-1000 ; Passhöhe Rotkreuz ;1000; B315 / K4991 ; 8.14739 ; 47.88553 
+ DE-BW-1000a ; Wolfdeibishöhe ;1000; Str ; 8.19736 ; 48.1255 
+ DE-BW-1002 ; Schwellen ;1002; Str (S) ; 7.91731 ; 47.71033 
+ DE-BW-1005 ; Blindenhöhe ;1005; Str ; 8.17839 ; 48.12922 
+ DE-BW-1005a ; Hübscher Platz ;1005; S ; 8.21558 ; 48.54269 
+ DE-BW-1010 ; Auf dem Eckle ;1010; R ; 8.14014 ; 48.14836 
+ DE-BW-1010b ; Grieshabereck ;1010; K5727/K5728 ; 8.25083 ; 48.09872 
+ DE-BW-1010c ; Schmaleck ;1010; R1 ; 8.03208 ; 47.78219 
+ DE-BW-1012 ; Weißenbacher Höhe ;1012; K5730 ; 8.17142 ; 48.10914 
+ DE-BW-1012a ; Langenwaldhöhe ;1012; Str ; 8.19875 ; 48.13186 
+ DE-BW-1012b ; Wirbsteinsattel ;1013; R1 ; 8.08731 ; 47.93497 
+ DE-BW-1017 ; Dornecker Höhe ;1017; R1 ; 8.10689 ; 47.88486 
+ DE-BW-1026 ; Auf dem Höchst ;1026; L172 / K4993 ; 8.26247 ; 47.94975 
+ DE-BW-1030 ; Hohlengraben ;1030; B500 ; 8.13561 ; 47.97956 
+ DE-BW-1033 ; Rabenhöhe ;1033; Str ; 8.18481 ; 48.06139 
+ DE-BW-1035 ; Wiedener Eck ;1035; L123 ; 7.86686 ; 47.84492 
+ DE-BW-1042 ; Sattelwasen ;1042; R1 ; 7.92733 ; 47.77164 
+ DE-BW-1045 ; Oberlinacher Höhe ;1045; R1 ; 8.22381 ; 48.03142 
+ DE-BW-1045a ; Ruheckle ;1045; Str ; 8.15342 ; 47.99086 
+ DE-BW-1047 ; Stühle ;1047; R1 ; 7.75289 ; 47.79033 
+ DE-BW-1048 ; Hohwarthöhe ;1048; Str ; 8.05583 ; 47.939 
+ DE-BW-1050 ; St. Antönipass ;1050; L146 ; 7.97525 ; 47.74478 
+ DE-BW-1051 ; Heubacher Höhe ;1021; R1 ; 8.19208 ; 48.02017 
+ DE-BW-1053 ; Kohlplatz ;1053; R1 ; 8.14561 ; 47.85731 
+ DE-BW-1053a ; Spähnplatz ;1053; R1 ; 7.76744 ; 47.79275 
+ DE-BW-1054 ; Adlerhöhe ;1054; R1 ; 8.25581 ; 48.01381 
+ DE-BW-1055 ; Escheck ;1055; B500 ; 8.19783 ; 48.08833 
+ DE-BW-1055a ; Michelshöhe ;1055; R1 ; 8.22189 ; 48.01653 
+ DE-BW-1056 ; Fischbacher Höhe ;1056; L156 ; 8.15889 ; 47.85139 
+ DE-BW-1058 ; Katharinenhöhe ;1058; Str ; 8.18969 ; 48.09253 
+ DE-BW-1063 ; Sattel ;1063; R1 ; 8.01989 ; 47.73892 
+ DE-BW-1064 ; Tiergrüble ;1064; K6304 ; 7.94519 ; 47.77692 
+ DE-BW-1065 ; Rothansenhöhe ;1065; R1 ; 8.20508 ; 48.01742 
+ DE-BW-1067 ; Alte Eck ;1067; Str ; 8.17056 ; 48.06411 
+ DE-BW-1069 ; Fischerbrunnsattel ;1069; S1-2 ; 7.70358 ; 47.78108 
+ DE-BW-1070 ; Linacher Höhe ;1070; R2 ; 8.23881 ; 48.01447 
+ DE-BW-1070a ; Kaiserseck ;1070; R1 ; 8.06086 ; 47.80753 
+ DE-BW-1071 ; Fürsatzhöhe ;1071; Str ; 8.12806 ; 47.92983 
+ DE-BW-1071a ; Sirnitzsattel ;1071; L131 ; 7.77794 ; 47.80031 
+ DE-BW-1077 ; Hummelenloch ;1077; R1 ; 8.00347 ; 47.81275 
+ DE-BW-1079 ; Weißenbachsattel ;1079; L151 / K6304 ; 7.976 ; 47.76236 
+ DE-BW-1080 ; Hochebene ;1080; Str ; 8.23708 ; 47.95306 
+ DE-BW-1086 ; Rufenholzplatz ;1086; R1 ; 8.04781 ; 47.881 
+ DE-BW-1089 ; Fernhöhe ;1089; Str ; 8.17369 ; 47.99561 
+ DE-BW-1089a ; Zimmerplatz ;1089; R1 ; 7.94247 ; 47.75608 
+ DE-BW-1090 ; Passhöhe Rotes Kreuz ;1090; L146 ; 8.01986 ; 47.77186 
+ DE-BW-1090a ; Zeller Ebene ;1090; R1 ; 7.93239 ; 47.7165 
+ DE-BW-1090b ; Salenhöhe ;1090; K4903 ; 8.21672 ; 47.96375 
+ DE-BW-1090c ; Altensteiner Eck ;1090; R1 ; 7.964 ; 47.72689 
+ DE-BW-1095 ; Reitsattel ;1095; R1 ; 8.21269 ; 47.98917 
+ DE-BW-1098 ; Präger Eck ;1098; R1 ; 8.00094 ; 47.78847 
+ DE-BW-1100 ; Lailehöhe ;1100; R1 ; 7.90947 ; 47.84447 
+ DE-BW-1103 ; Wintereck ;1103; R1 ; 8.23508 ; 47.95575 
+ DE-BW-1104 ; Eck ;1104; R1 ; 8.22908 ; 47.96078 
+ DE-BW-1107 ; Rotecksattel ;1107; R1-2 ; 8.01078 ; 47.92136 
+ DE-BW-1109 ; Yacher Höhe ;1109; R1, S1 ; 8.11639 ; 48.12786 
+ DE-BW-1110 ; Böllener Eck ;1110; R1 ; 7.85131 ; 47.81689 
+ DE-BW-1111 ; Griesbacher Eck ;1111; R1 ; 8.12133 ; 48.11306 
+ DE-BW-1112 ; Widiwander Eck ;1112; Str ; 8.19356 ; 47.99061 
+ DE-BW-1112a ; Fürsatzplatz ;1112; R1 ; 8.06506 ; 47.90022 
+ DE-BW-1113 ; Kalteck ;1113; S2 ; 8.11011 ; 48.11386 
+ DE-BW-1116 ; Berger Höhe ;1116; R1 ; 7.95353 ; 47.84839 
+ DE-BW-1117 ; Krinne ;1117; K6341 ; 7.84886 ; 47.82903 
+ DE-BW-1120 ; Notschreipass ;1120; L124 / L126 ; 7.90922 ; 47.87658 
+ DE-BW-1121a ; Hasbacher Höhe ;1121; R1 ; 7.91611 ; 47.83386 
+ DE-BW-1124 ; Riggenbacher Eck ;1124; R1 ; 8.05275 ; 47.81081 
+ DE-BW-1125 ; Hinterwaldkopfsattel ;1125; R1 ; 8.02381 ; 47.91658 
+ DE-BW-1129 ; Kohlplatz ;1129; R1 ; 8.14797 ; 47.84586 
+ DE-BW-1130 ; Hofeck ;1125; R1 ; 8.00403 ; 47.82019 
+ DE-BW-1130a ; Eckle ;1130; R1 ; 7.85797 ; 47.82392 
+ DE-BW-1145 ; Hohekelchsattel ;1245; S2 ; 7.82375 ; 47.81981 
+ DE-BW-1154 ; Winkeleck ;1154; R1 ; 7.90253 ; 47.85897 
+ DE-BW-1157 ; Lückle ;1157; K6341 ; 7.86733 ; 47.83133 
+ DE-BW-1164 ; Lochrütte ;1164; R1 ; 8.047 ; 47.89794 
+ DE-BW-1194a ; Hundsrücksattel ;1194; R1 ; 7.90892 ; 47.91481 
+ DE-BW-1196 ; Schauinslandpass ;1196; L124 / L126 ; 7.89236 ; 47.90853 
+ DE-BW-1201 ; Höhe ;1201; S1-2 ; 8.00289 ; 47.775 
+ DE-BW-1204 ; Kandelpass ;1204; L186 ; 8.01625 ; 48.06494 
+ DE-BW-1215 ; Krunkelbachsattel ;1215; R1-2 ; 8.02556 ; 47.83106 
+ DE-BW-1230 ; Blößlingsattel ;1230; R1 ; 8.00981 ; 47.79489 
+ DE-BW-1231 ; Feldbergpass ;1231; B317 ; 8.02975 ; 47.85622 
+ DE-BW-1237 ; Spähnplatz ;1237; R1 ; 8.03783 ; 47.89697 
+ DE-BW-1268 ; Todte Mann Sattel ;1268; S2 ; 7.98794 ; 47.89392 
+ DE-BW-1269 ; Wolfsgrüble ;1269; S2 ; 8.00939 ; 47.84122 
+ DE-BW-1419 ; Grüblesattel ;1419; Str ; 8.01833 ; 47.86686 
+ DE-BW-1453 ; Baldenweger Sattel ;1453; S2 (zone protégée) ; 8.01542 ; 47.874 
+ DE-BY-0305 ; Am Tor ;305; R1 ; 9.07819 ; 49.82033 
+ DE-BY-0377 ; Gönzer Sattel ;377; R1 ; 9.13289 ; 49.67478 
+ DE-BY-0390 ; Pass Marloffstein ;390; Str ; 11.06542 ; 49.62164 
+ DE-BY-0418 ; Aurahöhe ;418; R1 (St2303 à 80 m) ; 9.54314 ; 50.17586 
+ DE-BY-0428 ; Kreuzsteintor ;428; AB15/MIL35 ; 9.36678 ; 49.85347 
+ DE-BY-0480 ; Hesselbacher Tor ;480; Str ; 9.10172 ; 49.58106 
+ DE-BY-0488 ; Kreuztor ;488; R1 ; 9.38531 ; 49.86158 
+ DE-BY-0525 ; Frankfurter Tor ;525; R1 ; 9.08372 ; 49.63008 
+ DE-BY-0552 ; Hirscheck ;547; R1 ; 10.39736 ; 48.31122 
+ DE-BY-0568 ; Auf der Ebene ;568; R1 ; 10.66872 ; 48.27825 
+ DE-BY-0586 ; Am Sattel ;586; R1 ; 12.48314 ; 49.36186 
+ DE-BY-0595 ; Hirschfelder Tor ;595; R1 ; 12.20878 ; 50.16231 
+ DE-BY-0596 ; Liebensteiner Tor ;593; R1 ; 12.19456 ; 50.13819 
+ DE-BY-0609 ; Auf der Höhe ;609; R1 ; 12.28117 ; 50.051 
+ DE-BY-0615 ; Steinpass ;598; Str ; 12.75589 ; 47.66956 
+ DE-BY-0647 ; Passhöhe Graf Aygo ;647; Str ; 11.78847 ; 47.96558 
+ DE-BY-0651 ; Umwangener Höhe ;651; Str ; 12.74214 ; 49.06778 
+ DE-BY-0652 ; Wurmlohpass ;652; ST2665 ; 11.94328 ; 49.99106 
+ DE-BY-0662 ; Guckas Pass ;662; St2267 ; 9.93175 ; 50.36275 
+ DE-BY-0680 ; Sattelpass ;680; Str ; 11.24606 ; 50.44917 
+ DE-BY-0693 ; Pass Hallthurm ;693; B20 ; 12.93358 ; 47.70231 
+ DE-BY-0705 ; Böhmhöhe ;705; CHA44 ; 13.04319 ; 49.25542 
+ DE-BY-0720 ; Hohle Gasse ;720; CHA45/Str ; 13.05342 ; 49.24572 
+ DE-BY-0770 ; Seegatterl ;770; Str ; 12.54397 ; 47.66167 
+ DE-BY-0793 ; Maserer Pass ;793; B305 ; 12.49672 ; 47.69072 
+ DE-BY-0841 ; Eck ;841; St2326 ; 12.99061 ; 49.16342 
+ DE-BY-0849 ; Ettaler Sattel ;849; B23 ; 11.10114 ; 47.56175 
+ DE-BY-0849a ; Ursprung-Pass ;858; St2075 ; 12.02164 ; 47.616 
+ DE-BY-0858 ; Kesselbergpassstrasse ;858; B11 ; 11.34931 ; 47.6215 
+ DE-BY-0868 ; Schwarzbachwachtsattel ;868; B305 ; 12.85575 ; 47.63661 
+ DE-BY-0878 ; Vilser Scharte ;878; S1 ; 10.63817 ; 47.55917 
+ DE-BY-0895 ; Ländenscharte ;895; S3-4 ; 10.66194 ; 47.55894 
+ DE-BY-0901 ; Platzel ;901; R1 ; 12.89056 ; 48.98547 
+ DE-BY-0903 ; Schöneben ;903; St2136 ; 13.13772 ; 49.06367 
+ DE-BY-0912 ; Inzeller Höhe ;912; R1 ; 12.80103 ; 47.78786 
+ DE-BY-0929 ; Gottesgabebene ;929; R1-2 ; 13.12756 ; 49.05786 
+ DE-BY-0941 ; Achenpass ;941; B307 ; 11.63817 ; 47.60589 
+ DE-BY-0941a ; Habischebene ;941; R1(E) ; 13.02728 ; 48.94422 
+ DE-BY-0943 ; Muldenebene ;943; R1 ; 12.92253 ; 49.24175 
+ DE-BY-0960 ; Sattel ;695; St2139 ; 12.85889 ; 49.02881 
+ DE-BY-1015 ; Schareben ;1015; Str ; 13.05214 ; 49.12978 
+ DE-BY-1031 ; Wechsel ;1031; Str ; 11.84317 ; 47.64467 
+ DE-BY-1036 ; Schwarzeck ;1036; BGL17 ; 12.90411 ; 47.62389 
+ DE-BY-1050 ; Scheibensattel ;1050; St2154 ; 13.15907 ; 49.15894 
+ DE-BY-1055 ; Galgenwurfsattel ;1055; S1-2 ; 11.37925 ; 47.56092 
+ DE-BY-1070 ; Stephansjoch ;1070; S1-5 ; 12.751 ; 47.69419 
+ DE-BY-1095 ; Sattel ;1095; S1(S) R1-2(N) ; 11.48167 ; 47.68186 
+ DE-BY-1102 ; Vorderes Wildscheuereck ;1102; R1 ; 13.33397 ; 49.06103 
+ DE-BY-1115 ; Sesselplatz ;1120; S3 (borne front. 24) ; 13.12844 ; 49.19705 
+ DE-BY-1117 ; Kühpass ;1117; S2-4 ; 11.85761 ; 47.70025 
+ DE-BY-1118 ; Grashöhe ;1118; St2136 ; 13.15639 ; 49.07392 
+ DE-BY-1123 ; Sudelfeldsattel ;1123; B307 ; 12.03556 ; 47.67883 
+ DE-BY-1127 ; Spitzingsattel ;1127; St2077 ; 11.88675 ; 47.67256 
+ DE-BY-1128 ; Reischflecksattel ;1128; S ; 13.06839 ; 49.13742 
+ DE-BY-1139 ; Tummelplatz ;1139; R1 ; 13.52925 ; 48.91775 
+ DE-BY-1143 ; Elendsattel ;1143; R1-S1 ; 11.92911 ; 47.62439 
+ DE-BY-1144 ; Salzmaiergatterl ;1144; R1(E) ; 12.56653 ; 47.66806 
+ DE-BY-1151 ; Kreuzbergsattel ;1151; S1-2 (O), S1-3 (E) ; 11.80986 ; 47.71417 
+ DE-BY-1160 ; Hinteres Wildscheuereck ;1147; R1 ; 13.35203 ; 49.06231 
+ DE-BY-1162 ; Graseck ;1162; S ; 11.71875 ; 47.606 
+ DE-BY-1167 ; Langenecksattel ;1167; S3-4 ; 11.48322 ; 47.63075 
+ DE-BY-1175 ; Oberjochpass ;1176; B308 ; 10.43253 ; 47.52678 
+ DE-BY-1183 ; Hirschbichl ;1183; St2099 ; 12.79639 ; 47.55592 
+ DE-BY-1208 ; Rotmoossattel ;1208; R1 ; 10.98072 ; 47.50772 
+ DE-BY-1215 ; Kofelsattel ;1215; S2-3 ; 11.05828 ; 47.58506 
+ DE-BY-1215a ; Auf der Nieder ;1215; R ; 11.62328 ; 47.61594 
+ DE-BY-1217 ; Risssattel ;1217; S4 ; 11.43122 ; 47.56469 
+ DE-BY-1224 ; Hirschtalsattel ;1227; R1(O), S2-3(E) ; 11.66125 ; 47.67172 
+ DE-BY-1259 ; Wirtsalmsattel ;1259; S1-2(E), S2-3 (O) ; 12.06114 ; 47.63142 
+ DE-BY-1265 ; Drei Marken Sattel ;1265; S1-2 ; 11.07856 ; 47.62936 
+ DE-BY-1268 ; Strausbergsattel ;1268; S ; 10.35154 ; 47.47417 
+ DE-BY-1270 ; Predigtstuhl ;1270; Str(O) ; 11.14464 ; 47.51939 
+ DE-BY-1271 ; Rabenkopfsattel ;1271; S3-4 ; 11.42089 ; 47.65211 
+ DE-BY-1276 ; Kolbensattel ;1276; S1-3 ; 11.02708 ; 47.59075 
+ DE-BY-1283 ; Hörnlepass ;1283; S1-4 ; 10.1655 ; 47.39308 
+ DE-BY-1290 ; Wildtörl ;1290; S ; 13.01825 ; 47.50492 
+ DE-BY-1294 ; Rossalmsattel ;1294; S1-2 ; 11.07047 ; 47.53936 
+ DE-BY-1306 ; Sattel ;1306; S4-5 ; 11.70958 ; 47.59783 
+ DE-BY-1312 ; Gemseck ;1312; S2-3 ; 11.46092 ; 47.63697 
+ DE-BY-1324 ; Glaswandscharte ;1324; S3 ; 11.44717 ; 47.65322 
+ DE-BY-1343 ; Schönbergjoch ;1343; S4 ; 10.174 ; 47.43172 
+ DE-BY-1361 ; Rehbreinsattel ;1356; S1-3 ; 11.08547 ; 47.62022 
+ DE-BY-1377 ; Freudenreichsattel ;1371; R1-S4 ; 11.854 ; 47.67339 
+ DE-BY-1380 ; Feichtecksattel ;1380;; 12.23433 ; 47.73717 
+ DE-BY-1401 ; Scheuenpass ;1401; S4 ; 10.11875 ; 47.42106 
+ DE-BY-1402 ; Sullensattel ;1402; R1-S4 ; 12.36739 ; 47.76061 
+ DE-BY-1412 ; Eckersattel ;1412; R1-2(O), S2-4(E) ; 13.07592 ; 47.61378 
+ DE-BY-1420 ; Riedbergpass ;1407; OA9 ; 10.17708 ; 47.43689 
+ DE-BY-1431 ; Schützensteigsattel ;1431; S1-4 ; 10.82514 ; 47.53611 
+ DE-BY-1447 ; Schellenbergsattel ;1439; S5 ; 13.01472 ; 47.72267 
+ DE-BY-1449 ; Riedbergscharte ;1454; S4-5(O), S5(E) ; 11.23564 ; 47.41333 
+ DE-BY-1469 ; Mariaeck ;1469; S2-4 ; 11.64527 ; 47.64291 
+ DE-BY-1536 ; Bäckenalmsattel ;1536; S1-4 GR(E4) ; 10.87089 ; 47.57047 
+ DE-BY-1544 ; Gündlesscharte ;1544; S4 ; 10.11842 ; 47.50439 
+ DE-BY-1565a ; Rossscharte ;1565; S ; 10.79514 ; 47.56631 
+ DE-BY-1592 ; Rotohrsattel ;1592; S4-5 ; 11.47889 ; 47.65625 
+ DE-BY-1608 ; Eisbergscharte ;1608; S5 ; 12.84611 ; 47.62364 
+ DE-BY-1611 ; Zeller Scharte ;1611; S2-3 ; 12.01731 ; 47.70281 
+ DE-BY-1615 ; Niederstraußbergsattel ;1615; S4 ; 10.80592 ; 47.54511 
+ DE-BY-1620 ; Schrecksattel ;1620; R1-S5 ; 12.80064 ; 47.64278 
+ DE-BY-1626 ; Brunnenauscharte ;1626; S3-4 ; 10.09142 ; 47.49856 
+ DE-BY-1626a ; Feichtecksattel ;1626; S3-4 ; 11.49428 ; 47.65383 
+ DE-BY-1650 ; Kenzensattel ;1650; S3-4 ; 10.84647 ; 47.55903 
+ DE-BY-1653 ; Am Tor ;1653; S3 ; 11.85622 ; 47.60205 
+ DE-BY-1659 ; Mittagscharte ;1671; S5 ; 12.99828 ; 47.71317 
+ DE-BY-1661 ; Ahornsattel ;1661; S4 ; 10.7975 ; 47.54939 
+ DE-BY-1663 ; Hochalpscharte ;1620; S4-5 ; 12.88661 ; 47.57725 
+ DE-BY-1665 ; Laufsattel ;1656; S2-5 ; 12.82294 ; 47.65828 
+ DE-BY-1668 ; Hasenjöchl ;1668; R1-S4 ; 11.04619 ; 47.54164 
+ DE-BY-1671 ; Auf der Sattel ;1664; S4 ; 10.1565 ; 47.51514 
+ DE-BY-1672 ; Sunkensattel ;1672; S2-4 ; 10.92725 ; 47.50542 
+ DE-BY-1682 ; Lösertaljoch ;1682; S3-4 ; 10.87233 ; 47.56039 
+ DE-BY-1688 ; Schrofenpass ;1688; S4-5 ; 10.20125 ; 47.27689 
+ DE-BY-1695 ; Kümpflscharte ;1695; S2-4 ; 11.93856 ; 47.64683 
+ DE-BY-1704 ; Miesingsattel ;1704; S2-4 ; 11.93536 ; 47.65364 
+ DE-BY-1730 ; Geiselsteinsattel ;1730; S4-5 ; 10.82811 ; 47.56075 
+ DE-BY-1734 ; Torrener Joch ;1734; S3-4 ; 13.04242 ; 47.57442 
+ DE-BY-1749 ; Hochgscheidsattel ;1729; S4-5 ; 12.78828 ; 47.58872 
+ DE-BY-1749b ; Kühkarjoch ;1749; S4 ; 10.81167 ; 47.52239 
+ DE-BY-1750 ; Hupfleitenjoch ;1750; S4 ; 11.05022 ; 47.44339 
+ DE-BY-1751 ; Windecksattel ;1751; S4 ; 10.12833 ; 47.38194 
+ DE-BY-1764 ; Scheinbergjochl ;1764; S3-4 ; 10.87372 ; 47.56322 
+ DE-BY-1764a ; Drischübelgatterl ;1764;; 12.91061 ; 47.52586 
+ DE-BY-1768 ; Gabelschrofenscharte ;1815; S4 ; 10.82442 ; 47.55553 
+ DE-BY-1769 ; Kofeljoch ;1769; S4-5 ; 10.76308 ; 47.52111 
+ DE-BY-1778 ; Schachentor ;1878; S3-4 ; 11.12681 ; 47.42153 
+ DE-BY-1780 ; Alpelesattel ;1780; S3-4 ; 10.35683 ; 47.35739 
+ DE-BY-1780a ; Weitalpjoch ;1778; S4 ; 10.85858 ; 47.55208 
+ DE-BY-1784 ; Gemsscharte ;1784;; 11.33417 ; 47.4995 
+ DE-BY-1787 ; Jöchel ;1787; S ; 11.36297 ; 47.47464 
+ DE-BY-1789 ; Salzbücheljoch ;1789; S4 ; 10.21481 ; 47.27547 
+ DE-BY-1793 ; Gundsattel ;1793; S4 ; 10.20711 ; 47.34014 
+ DE-BY-1827 ; Zirleseck ;1832; S4-5 ; 10.46369 ; 47.48322 
+ DE-BY-1844 ; Steinlochscharte ;1844;; 11.40864 ; 47.45139 
+ DE-BY-1859 ; Bischofsattel ;1859; S2-4 ; 11.17492 ; 47.54364 
+ DE-BY-1861 ; Kämitor ;1832; S3-4 ; 11.1625 ; 47.42786 
+ DE-BY-1876 ; Hirschentörl ;1876;; 12.91936 ; 47.49603 
+ DE-BY-1883 ; Roggentalsattel ;1883; S ; 10.83672 ; 47.54917 
+ DE-BY-1900 ; Fensterl ;1916; S4-5 ; 10.83353 ; 47.5505 
+ DE-BY-1924 ; Mauerscharte ;1924; S5 ; 11.07786 ; 47.42364 
+ DE-BY-1926 ; Kirchendachsattel ;1927; S4-5 ; 10.47272 ; 47.43895 
+ DE-BY-1927 ; Gabelschrofensattel ;1927; S4 ; 10.82242 ; 47.55286 
+ DE-BY-1946 ; Bei der Tür ;1946;; 10.39419 ; 47.44217 
+ DE-BY-1966 ; Torkopfscharte ;1966; S ; 10.11928 ; 47.37561 
+ DE-BY-1973 ; Mädelejoch ;1973; S4 ; 10.33358 ; 47.30719 
+ DE-BY-1982 ; Lahnerscharte ;1982; S4 ; 10.46583 ; 47.43056 
+ DE-BY-1989 ; Wörnersattel ;1989; S4-5 ; 11.33342 ; 47.45364 
+ DE-BY-1995 ; Hochseeleinscharte ;1995; S5 ; 13.03669 ; 47.53942 
+ DE-BY-1999 ; Laufbacher Eck ;1999; S ; 10.37617 ; 47.39369 
+ DE-BY-2004 ; Himmelecksattel ;2007; S5 ; 10.38525 ; 47.37894 
+ DE-BY-2006 ; Roßgundscharte ;2006; S ; 10.22933 ; 47.31667 
+ DE-BY-2020 ; Hornbachjoch ;2020; S4-5 ; 10.38653 ; 47.35714 
+ DE-BY-2022 ; Blühnbachtörl ;2022; S5 ; 13.02544 ; 47.48222 
+ DE-BY-2024 ; Gatterl ;2024; S4-5 ; 11.0165 ; 47.39633 
+ DE-BY-2038 ; Oberes Mädelejoch ;2038; S5 ; 10.3385 ; 47.31011 
+ DE-BY-2049 ; Eisbodenscharte ;2049; S5 ; 12.87247 ; 47.57758 
+ DE-BY-2053 ; Mayrbergscharte ;2055; S5 ; 12.79342 ; 47.59561 
+ DE-BY-2065 ; Fiderepass ;2065; S4 ; 10.21308 ; 47.31467 
+ DE-BY-2066 ; Wimbachscharte ;2066; S5 ; 12.85633 ; 47.528 
+ DE-BY-2067 ; Eisgrabenscharte ;2067; S5 ; 13.04358 ; 47.49028 
+ DE-BY-2072 ; Mittagscharte ;2072;; 11.02775 ; 47.44553 
+ DE-BY-2088 ; Geißeckjoch ;2088; S ; 10.46592 ; 47.46458 
+ DE-BY-2089 ; Kahlersbergnieder ;2089;; 13.04563 ; 47.52418 
+ DE-BY-2090 ; Rinderscharte ;2090; S3-4 ; 11.04875 ; 47.43672 
+ DE-BY-2100 ; Schlungschartel ;2100; S5 ; 13.04286 ; 47.54594 
+ DE-BY-2100a ; Windscharte ;2100; S5 ; 13.0475 ; 47.55144 
+ DE-BY-2103 ; Kemptner Scharte ;2103; S ; 10.19667 ; 47.29714 
+ DE-BY-2113 ; Sittersbachscharte ;2113; S5 ; 12.85272 ; 47.55436 
+ DE-BY-2129 ; Fiderescharte ;2210; S3-5 ; 10.21886 ; 47.31336 
+ DE-BY-2142 ; Alpelscharte ;2128; S5 ; 12.85014 ; 47.54086 
+ DE-BY-2157 ; Balkenscharte ;2157; S4-5 ; 10.43 ; 47.38889 
+ DE-BY-2159 ; Wildenscharte ;2159;; 10.38781 ; 47.3652 
+ DE-BY-2161 ; Riffelscharte ;2161; S5 ; 11.00144 ; 47.43561 
+ DE-BY-2162 ; Bockkarscharte ;2162; S4 ; 10.29219 ; 47.29503 
+ DE-BY-2168 ; Hochsattel ;2168; S5 ; 13.04511 ; 47.549 
+ DE-BY-2182 ; Mauerscharte ;2182; S5 ; 13.01806 ; 47.47472 
+ DE-BY-2188 ; Hundstodgatterl ;2188; S4-5 ; 12.89656 ; 47.5125 
+ DE-BY-2193 ; Teufelnieder ;2193;; 13.034 ; 47.4873 
+ DE-BY-2203 ; Kratzerjoch ;2203; S5 ; 10.30803 ; 47.30208 
+ DE-BY-2208 ; Fürschießersattel ;2208; S5 ; 10.33181 ; 47.32367 
+ DE-BY-2212 ; Untere Dammkarscharte ;2182; S4-5 ; 11.30306 ; 47.43083 
+ DE-BY-2227 ; Am Gatterl ;2227;; 11.29096 ; 47.42436 
+ DE-BY-2249 ; Mittagscharte ;2249; S5 ; 11.18022 ; 47.42628 
+ DE-BY-2261 ; Sattel ;2261; S5 ; 10.36472 ; 47.34139 
+ DE-BY-2261a ; Vogelkarscharte ;2261;; 11.4175 ; 47.445611 
+ DE-BY-2262 ; Große Steinscharte ;2262; S5 ; 10.26644 ; 47.28595 
+ DE-BY-2304 ; Drei Scharten ;2304; S5 ; 11.14878 ; 47.418 
+ DE-BY-2313 ; Göllscharte ;2313; S ; 13.07201 ; 47.58851 
+ DE-BY-2319 ; Obere Dammkarscharte ;2319; S5 ; 11.29972 ; 47.43056 
+ DE-BY-2336 ; Westliche Wangscharte ;2336;; 11.10789 ; 47.39542 
+ DE-BY-2342 ; Hochfeldscharte ;2342; S5 ; 12.84722 ; 47.54611 
+ DE-BY-2351 ; Östliche Wangscharte ;2351;; 11.11472 ; 47.3955 
+ DE-BY-2366 ; Gatterl ;2366; S4-5 ; 11.12872 ; 47.41228 
+ DE-BY-2412 ; Blaueisscharte ;2412; S5 ; 12.86825 ; 47.56989 
+ DE-BY-2414 ; Fenster ;2414;; 11.00133 ; 47.39453 
+ DE-BY-2446 ; Socktalscharte ;2446; S5 ; 10.28286 ; 47.28886 
+ DE-BY-2463 ; Grießkarscharte ;2463; S5 ; 11.04178 ; 47.42606 
+ DE-BY-2475 ; Wetterscharte ;2475;; 10.98203 ; 47.39697 
+ DE-BY-2504 ; Bockkarscharte ;2504; S5 ; 10.29206 ; 47.29439 
+ DE-BY-2699 ; Schneefernerscharte ;2699; S5 ; 10.97006 ; 47.41372 
+ DE-HE-0245 ; Binger Loch ;245; L3413 ; 9.03089 ; 49.84108 
+ DE-HE-0312 ; Rohrbacher Höhe ;312; Str ; 8.75019 ; 49.564 
+ DE-HE-0337 ; Windlücke ;337; L3105/L3349 ; 9.08458 ; 49.76086 
+ DE-HE-0339 ; Taubers Eck ;339; R1 ; 9.55753 ; 51.42347 
+ DE-HE-0367 ; Rammelsloch ;367; L3084 ; 8.82106 ; 51.13219 
+ DE-HE-0375 ; Braunschweiger Tor ;375; R1 ; 8.98869 ; 51.44408 
+ DE-HE-0402 ; Auf der Höhe ;402; K50 ; 8.94058 ; 49.67542 
+ DE-HE-0419 ; Knobelsplätze ;419; R1 ; 9.62472 ; 51.18317 
+ DE-HE-0423 ; Kreidacher Höhe ;423; L3120/L535 ; 8.81239 ; 49.56286 
+ DE-HE-0461 ; Greiner Eck ;641; R1 ; 8.84042 ; 49.454 
+ DE-HE-0578 ; Haincher Höhe ;578; L1571 ; 8.22625 ; 50.84778 
+ DE-HE-0750 ; Richtplatz ;750; R1 ; 8.56919 ; 51.289 
+ DE-HE-0798 ; Große Grube ;798; R1 ; 8.59839 ; 51.27175 
+ DE-NI-0160 ; Krusenpass ;191; Str ; 8.01625 ; 52.19639 
+ DE-NI-0166 ; Wierser Tor ;166; R1 ; 9.2645 ; 52.27942 
+ DE-NI-0204 ; Vorbergsplatz ;204; R1 ; 9.08781 ; 52.21233 
+ DE-NI-0265 ; Ortalsplatz ;265; R1 ; 10.05358 ; 51.64644 
+ DE-NI-0276 ; Nienstedter Pass ;277; L401 ; 9.47278 ; 52.26444 
+ DE-NI-0278 ; Lauensteiner Pass ;288; L425 ; 9.55022 ; 52.06772 
+ DE-NI-0301 ; Kastanienplatz ;301; R1 ; 10.31942 ; 51.69633 
+ DE-NI-0309 ; Dehneplatz ;309; Str ; 10.197 ; 51.87925 
+ DE-NI-0348 ; Wormsthaler Tor ;355; R1 ; 9.24278 ; 52.26622 
+ DE-NI-0408 ; Brautannenplatz ;385; R1 ; 10.22525 ; 51.88058 
+ DE-NI-0415 ; Taternplatz ;415; R1 ; 10.31489 ; 51.89117 
+ DE-NI-0434 ; Buntkopfsloch ;558; R1 ; 10.43075 ; 51.6745 
+ DE-NI-0439 ; Hohe Tür ;439; R1 ; 10.50417 ; 51.61858 
+ DE-NI-0458 ; Eselsplatz ;458; R1 ; 10.30153 ; 51.74622 
+ DE-NI-0461 ; Antoniusplatz ;461; R1 ; 10.57031 ; 51.87056 
+ DE-NI-0495 ; Sternplatz ;495; L516 ; 10.25728 ; 51.874 
+ DE-NI-0496 ; Vereinsplatz ;496; R1 ; 10.255 ; 51.91736 
+ DE-NI-0496a ; Grüner Platz ;496; R1 ; 10.24733 ; 51.83856 
+ DE-NI-0509 ; Braunschweiger Eck ;509; R1 ; 10.26156 ; 51.78681 
+ DE-NI-0518 ; Taternplatz ;518; B242 ; 10.26931 ; 51.80806 
+ DE-NI-0529 ; Mangelhalber Tor ;529; R1 ; 10.32425 ; 51.755 
+ DE-NI-0530 ; Schnepfenplatz ;530; R1 ; 10.26108 ; 51.87819 
+ DE-NI-0533 ; Hubertusplatz ;545; R1 ; 10.39886 ; 51.84042 
+ DE-NI-0535 ; Schnapsplatz ;535; R1 ; 10.24481 ; 51.89003 
+ DE-NI-0536 ; Schoplatz ;536; R1 ; 10.59653 ; 51.86147 
+ DE-NI-0557 ; Gewitterplatz ;557; R1 ; 10.26269 ; 51.79967 
+ DE-NI-0597 ; Braunseck ;597; R1 ; 10.35542 ; 51.76644 
+ DE-NI-0603 ; Kreuzeck ;603; B241/L516 ; 10.35119 ; 51.84483 
+ DE-NI-0607 ; Windsattel ;607; R1 ; 10.36622 ; 51.86419 
+ DE-NI-0615 ; Schnabelgasse ;615; R1 ; 10.50817 ; 51.85633 
+ DE-NI-0626 ; Dresselplatz ;627; R1 ; 10.36858 ; 51.71378 
+ DE-NI-0661 ; Verlorene Ecke ;661; R1 ; 10.43697 ; 51.73292 
+ DE-NI-0672 ; Schmierplatz ;672; R1 ; 10.45206 ; 51.73844 
+ DE-NI-0828 ; Stieglitzecke ;807; B242 ; 10.45803 ; 51.76803 
+ DE-NI-0857 ; Stieglitzecke ;857; Str ; 10.60564 ; 51.76089 
+ DE-NW-0128 ; Walllücke ;128; L876/K31 ; 8.75578 ; 52.27478 
+ DE-NW-0186 ; Kreuzplatz ;186; R1 ; 9.00086 ; 52.23211 
+ DE-NW-0187 ; Nammer Pass ;187; R1 ; 8.97142 ; 52.23664 
+ DE-NW-0210 ; Wüsterhöhe ;205; L84 ; 7.2725 ; 50.95122 
+ DE-NW-0215 ; Oberstehöhe ;215; K34 ; 7.28906 ; 50.89675 
+ DE-NW-0258 ; Stürtzplatz ;258; Str ; 7.21186 ; 50.66614 
+ DE-NW-0315 ; Sattel ;315; R1 ; 8.05739 ; 51.44672 
+ DE-NW-0323 ; Margarethenhöhe ;323; L331 ; 7.24906 ; 50.6765 
+ DE-NW-0330 ; Kammerforster Höhe ;330; B237/L101 ; 7.31328 ; 51.14394 
+ DE-NW-0335 ; Schmelzplatz ;335; Str ; 7.6935 ; 51.35981 
+ DE-NW-0350 ; Passhöhe Gauseköte ;350; L937 ; 8.86792 ; 51.86361 
+ DE-NW-0359 ; Hexentanzplatz ;359; Str ; 7.8025 ; 51.27278 
+ DE-NW-0361 ; Wolfsplatz ;361; R1 ; 7.71053 ; 51.35778 
+ DE-NW-0372 ; Wilhelmshöhe ;372; B55 ; 8.25628 ; 51.27372 
+ DE-NW-0380 ; Wilhelmshöhe ;380; B229 ; 7.77086 ; 51.27492 
+ DE-NW-0382 ; Deuzer Höhe ;382; L719 ; 8.12203 ; 50.88322 
+ DE-NW-0422 ; Wasserscheide ;422; B54 ; 8.15269 ; 50.7615 
+ DE-NW-0440 ; Hexentanzplatz ;417; R1 ; 7.85061 ; 51.21392 
+ DE-NW-0457 ; Krombacher Höhe ;457; B54 ; 7.94128 ; 51.01117 
+ DE-NW-0485 ; Wasserscheide ;485; L113/L165 ; 6.81944 ; 50.50078 
+ DE-NW-0498 ; Kartsteinhöhe ;498; L206 ; 6.62914 ; 50.52056 
+ DE-NW-0540 ; Passhöhe Stimmstamm ;540; B55 ; 8.30325 ; 51.38992 
+ DE-NW-0588 ; Potsdamer Platz ;588; R1 ; 8.186 ; 51.10756 
+ DE-NW-0599 ; Sattelbogen ;599; R1 ; 8.35639 ; 51.1915 
+ DE-NW-0622 ; Hömbergsattel ;622; R1 ; 8.44889 ; 51.235 
+ DE-NW-0641 ; Sattel Himmelskrone ;641; S1 ; 8.47397 ; 51.22361 
+ DE-NW-0684 ; Rösbergsattel ;684; R1 ; 8.59431 ; 51.20133 
+ DE-NW-0687 ; Minenplatz ;687; R1 ; 8.49819 ; 51.20031 
+ DE-NW-0729 ; Albrechtsplatz ;729; B236/B480 ; 8.42564 ; 51.13954 
+ DE-NW-0752 ; Helleplatz ;752; B236 ; 8.49667 ; 51.17583 
+ DE-NW-0774 ; Unterer Burbecker Platz ;774; R1 ; 8.54897 ; 51.27422 
+ DE-NW-0805 ; Irreplatz ;805; R1 ; 8.38939 ; 51.21114 
+ DE-RP-0204 ; Reiler Hals ;204; L105/Str ; 7.10886 ; 50.03294 
+ DE-RP-0246 ; Blickhauserhöhe ;246; K123 ; 7.77339 ; 50.77789 
+ DE-RP-0265 ; Großtaler Hals ;265; S1-2 ; 7.76186 ; 49.15642 
+ DE-RP-0271 ; Wolfsdeller Hals ;271; R1 ; 7.74681 ; 49.15614 
+ DE-RP-0291 ; Spergentaler Hals ;291; R1 ; 7.68158 ; 49.09831 
+ DE-RP-0296 ; Göllheimer Höhe ;296; K71 ; 8.08367 ; 49.58867 
+ DE-RP-0301 ; Neues Landlöchel ;301; B427 ; 7.91597 ; 49.11439 
+ DE-RP-0301a ; Altes Landlöchel ;301; K11 ; 7.918 ; 49.11764 
+ DE-RP-0302 ; Großer Tiefentaler Hals ;302; L487 ; 7.67328 ; 49.11678 
+ DE-RP-0310 ; Wengelsbacher Hals ;310; R1 ; 7.71797 ; 49.05408 
+ DE-RP-0313 ; Eichenplatz ;313; B321/Str ; 7.55519 ; 50.31256 
+ DE-RP-0321 ; Dahner Hals ;321; R1 ; 7.73078 ; 49.1155 
+ DE-RP-0321a ; Nollensattel ;321; Str(S) ; 8.12386 ; 49.34444 
+ DE-RP-0322 ; Schlangentaler Hals ;322; R1 ; 7.68894 ; 49.09769 
+ DE-RP-0327 ; Buchentaler Höh ;327; R1 ; 8.03419 ; 49.37689 
+ DE-RP-0333 ; Am Seicheneck ;333; R1 ; 7.986 ; 49.12333 
+ DE-RP-0339 ; Eichertshals ;339; R1 ; 7.65856 ; 49.11969 
+ DE-RP-0347 ; Auf der Steig ;347; B37 ; 8.00514 ; 49.44878 
+ DE-RP-0348 ; Langentaler Hals ;348; R1 ; 7.72017 ; 49.13183 
+ DE-RP-0348a ; Karlsplatz ;348; R1 ; 7.97172 ; 49.13239 
+ DE-RP-0349 ; Taubenplatz ;349; R1 ; 7.99683 ; 49.39003 
+ DE-RP-0351 ; Florenberger Hals ;351; R1 ; 7.69578 ; 49.05783 
+ DE-RP-0352 ; Mastlagerhals ;352; R1 ; 7.65506 ; 49.10336 
+ DE-RP-0354 ; Rotsteig ;354; K16 ; 8.11022 ; 49.41208 
+ DE-RP-0355 ; Mückentaler Hals ;355; R1 ; 7.71058 ; 49.117 
+ DE-RP-0357 ; Rothälschen ;357; L478 ; 7.58878 ; 49.11003 
+ DE-RP-0358 ; Schönhälschen ;358; R1 ; 7.63953 ; 49.15736 
+ DE-RP-0363 ; Kleine Ebene ;363; R1 ; 8.07967 ; 49.34628 
+ DE-RP-0366 ; Rote Hohl ;366; L481 ; 7.67725 ; 49.12183 
+ DE-RP-0367 ; Eselssteige ;367; L478 ; 7.60333 ; 49.10847 
+ DE-RP-0369 ; Am Schnepfenplatz ;359; R1 ; 7.99703 ; 49.33406 
+ DE-RP-0377 ; An der Wegscheid ;377; R1 ; 7.92914 ; 49.06214 
+ DE-RP-0387 ; Husaren Sattel ;387; R1 ; 8.03297 ; 49.42583 
+ DE-RP-0393 ; Biesenberger Hals ;393; R1 ; 7.64342 ; 49.10331 
+ DE-RP-0403 ; Buchentor ;403; R1 ; 8.01325 ; 49.42219 
+ DE-RP-0413 ; Hahnensteig ;413; R1 ; 7.99558 ; 49.46456 
+ DE-RP-0452 ; Zimmerplatz ;452; R1 ; 8.02944 ; 49.24956 
+ DE-RP-0466 ; Kohlplatz ;466; R1 ; 8.05339 ; 49.28506 
+ DE-RP-0470 ; Schlangenebene ;470; L499 ; 7.79561 ; 49.31467 
+ DE-RP-0474 ; Hellerplatz ;474; R1 ; 8.05311 ; 49.33606 
+ DE-RP-0477 ; Hüttenhohl ;477; L514/L515 ; 8.06547 ; 49.31806 
+ DE-RP-0512 ; Fleckertshöhe ;512; K117 ; 7.60075 ; 50.18439 
+ DE-RP-0514 ; Totenkopf Steig ;514; L514 ; 8.04936 ; 49.32175 
+ DE-RP-0537 ; Teufelskehlsattel ;537; S1 ; 8.0525 ; 49.32981 
+ DE-RP-0545 ; Döttinger Höhe ;545; B258/L92 ; 6.98347 ; 50.35192 
+ DE-RP-0553 ; Benderplatz ;553; R1 ; 8.02931 ; 49.29253 
+ DE-RP-0558 ; Hahnenschritt ;558; L515 ; 8.08164 ; 49.3225 
+ DE-SL-0404 ; Potsdamer Platz ;404; B406 ; 6.44664 ; 49.51811 
+ DE-SN-0274 ; Wettinplatz ;274; R1 ; 14.26286 ; 50.91689 
+ DE-SN-0361 ; Wettinplatz ;361; R1 ; 14.37667 ; 50.91006 
+ DE-SN-0468 ; Böhmisches Tor ;432; R1 ; 14.80203 ; 50.82672 
+ DE-SN-0529 ; Kammloch ;527; S133 ; 14.74231 ; 50.82942 
+ DE-SN-0544 ; Grüner Platz ;544; R1 ; 12.71053 ; 50.56939 
+ DE-SN-0671 ; Schwarzes Tor ;671; S2 ; 14.62022 ; 50.86008 
+ DE-SN-0721 ; Gopplasgrüner Höhe ;721; B238 ; 12.37589 ; 50.34167 
+ DE-SN-0765 ; Wagnerloch ;765; S1 ; 13.67889 ; 50.72647 
+ DE-SN-0860 ; Passhöhe Mühlleithen ;860; B283 ; 12.4865 ; 50.40542 
+ DE-SN-0891 ; Passhöhe ;891; S272 ; 12.69803 ; 50.43992 
+ DE-SN-0935 ; Sattel Rammelsberg ;935; R1 ; 12.52774 ; 50.39906 
+ DE-ST-0518 ; Pisseckenplatz ;518; R1 ; 10.68408 ; 51.829 
+ DE-ST-0630 ; Frickenplatz ;630; R1 ; 10.60173 ; 51.82986 
+ DE-TH-0284 ; Sandkuhle ;284; R1 ; 10.40669 ; 51.55042 
+ DE-TH-0396 ; Erzloch ;396; K203 ; 10.40128 ; 51.51625 
+ DE-TH-0539 ; Passeider Ebene ;539; R1 ; 11.17192 ; 50.62268 
+ DE-TH-0616 ; Zimmerplatz ;616; R1 ; 11.14304 ; 50.39062 
+ DE-TH-0632 ; Sattelpass ;632; K31 ; 11.24596 ; 50.44894 
+ DE-TH-0682 ; Hammerschmiedsebene ;682; R1 ; 11.21314 ; 50.48272 
+ DE-TH-0740 ; Zigeunerebene ;740; R1 ; 11.21301 ; 50.48787 
+ DE-TH-0805 ; Ernstthaler Steig ;805; K35 ; 11.19126 ; 50.4914 
+

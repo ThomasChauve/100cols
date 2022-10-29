@@ -1,0 +1,163 @@
+ Code ; Nom complet ; Altitude ; Accès ; WGS84 Lon D ; WGS84 Lat D 
+ AD-02-1903 ; Coll de la Cauba ;1903;; 1.618081 ; 42.577794 
+ AD-02-1951 ; Collet de Montaup ;1951; C.S.N°240 ; 1.587527 ; 42.569161 
+ AD-02-1983 ; Coll d’Ordino ;1983; C.S.N°340-C.S.N°240 ; 1.571787 ; 42.555509 
+ AD-02-2107 ; Collada de les Vaques ;2107; GR11, S2 ; 1.569198 ; 42.56338 
+ AD-02-2141 ; Coll dels Clots ;2159;; 1.77477 ; 42.58114 
+ AD-02-2263 ; Port de Fontargente ;2261; S3-4 ; 1.704936 ; 42.619469 
+ AD-02-2387 ; Collada del Cap dels Clots ;2387; R2 ; 1.638179 ; 42.553127 
+ AD-02-2409 ; Collet de les Solanelles ;2409; S2-3 ; 1.630578 ; 42.560964 
+ AD-02-2420 ; Collada de la Caraup ;2420;; 1.661042 ; 42.604582 
+ AD-02-2423 ; La Portella ;2426; R1 ; 1.6305 ; 42.552898 
+ AD-02-2434 ; Collada dels Estanys ;2434; S ; 1.592103 ; 42.587597 
+ AD-02-2442 ; Collada de Juclar ;2443;; 1.730194 ; 42.614611 
+ AD-02-2458 ; Collada del Clot Sord ;2458;; 1.653168 ; 42.60174 
+ AD-02-2473 ; Collet de la Costa del Bony Roig ;2473; S ; 1.622606 ; 42.595566 
+ AD-02-2482 ; Collada de les Soronelles ;2482; R1 ; 1.65133 ; 42.54792 
+ AD-02-2535 ; Collet d’Ortafà ;2535; R1-2(S) ; 1.712164 ; 42.561016 
+ AD-02-2539 ; Coll d’Arenes ;2539; S ; 1.575164 ; 42.59479 
+ AD-02-2546 ; Col d'Albe ;2543; S ; 1.73597 ; 42.61525 
+ AD-02-2551 ; Collet de la Comarqueta d’Inclès ;2551;; 1.623016 ; 42.602831 
+ AD-02-2555 ; Coll d’Andorat ;2554;; 1.689372 ; 42.623689 
+ AD-02-2561 ; Port de Soldeu ;2561; S2-3 ; 1.706094 ; 42.568993 
+ AD-02-2564 ; Portella de Sicarou ;2563;; 1.72604 ; 42.59574 
+ AD-02-2565 ; Pas de la Portanelle ;2565;; 1.65698 ; 42.621 
+ AD-02-2565a ; Port Dret ;2565; S2-3 ; 1.700229 ; 42.574137 
+ AD-02-2572 ; Pas de les Vaques ;2572; S2-3(S), S4(N) ; 1.701275 ; 42.580373 
+ AD-02-2637 ; Collada de la Coma ;2637;; 1.616931 ; 42.607965 
+ AD-02-2643 ; Port Vieux de Coume d’Ose ;2648;; 1.62039 ; 42.62648 
+ AD-02-2645 ; Port de Ransol ;2649;; 1.65401 ; 42.62513 
+ AD-02-2652 ; Coll de Coume d’Ose ;2652;; 1.63906 ; 42.62831 
+ AD-02-2715 ; Coll de la Mina ;2715; S2-3-4 ; 1.606041 ; 42.620812 
+ AD-02-2725 ; Porteille de Joubla ;2725; HS ; 1.73674 ; 42.6112 
+ AD-02-2729 ; Collada de la Canal Fonda ;2729;; 1.59746 ; 42.611489 
+ AD-02-2760 ; Pas de Coume d'Ose ;2765;; 1.64255 ; 42.62815 
+ AD-02-2771 ; Porteille de la Cabanette ;2771; HS ; 1.73637 ; 42.58782 
+ AD-03-1795 ; Collada de Baixalis ;1795; C.S.N°310 ; 1.547974 ; 42.527747 
+ AD-03-2408 ; Port d’Envalira ;2408; C.G.N°2 ; 1.71953 ; 42.54011 
+ AD-03-2441 ; Coll Maià ;2441; R2 ; 1.718309 ; 42.546354 
+ AD-03-2448 ; Collada d’Enradort ;2448; R1 ; 1.66164 ; 42.53936 
+ AD-03-2453 ; Collada de les Solanelles ;2453; R1 ; 1.66047 ; 42.545 
+ AD-03-2462 ; Coll de Ribúls ;2469;; 1.680343 ; 42.494686 
+ AD-03-2517 ; Port de Vallcivera ;2517; S3-4(E), S2(S) ; 1.66232 ; 42.488451 
+ AD-03-2521 ; Portella Blanca d’Andorra ;2515; GR7 et 107, S3-4(E), S2(S) ; 1.725636 ; 42.504662 
+ AD-03-2528 ; Coll Blanc ;2528; R1(N), R2-3-4(O) ; 1.720202 ; 42.527919 
+ AD-03-2543 ; Coll de l'Illa ;2543; HS ; 1.662255 ; 42.49371 
+ AD-03-2598 ; Collada Baixas ;2598;; 1.635979 ; 42.509996 
+ AD-03-2646 ; Pas Alt de Ribús ;2642;; 1.673839 ; 42.49897 
+ AD-03-2659 ; Portella dels Colells ;2659;; 1.695687 ; 42.505919 
+ AD-03-2661 ; Collada d’Entinyola ;2661;; 1.642959 ; 42.524315 
+ AD-03-2672 ; Portella d’Engaït ;2672; R1-2 S4-2(NO), 
+S2-4(SE), GR7 ; 1.716318 ; 42.513972 
+ AD-03-2676 ; Portella de Joan Antoni ;2676; S ; 1.709275 ; 42.511992 
+ AD-03-2707 ; Collada de Montmalús ;2707;; 1.689566 ; 42.508141 
+ AD-03-2737 ; Collades Baixes d’Emportona ;2737;; 1.654795 ; 42.521837 
+ AD-03-2745 ; Collades de Gargantillar ;2745;; 1.65227 ; 42.505416 
+ AD-03-2745a ; Pas de Ribuls ;2745;; 1.674217 ; 42.507072 
+ AD-03-2775 ; Collada dels Pessons ;2775;; 1.658508 ; 42.51154 
+ AD-03-2779 ; Portella dels  Pessons ;2779;; 1.667462 ; 42.505867 
+ AD-04-1378 ; Collet des Colls ;1378; C.S.N°430 ; 1.520155 ; 42.551904 
+ AD-04-1672 ; Coll Passader ;1672; S2-3(O), R1-2(S) ; 1.493699 ; 42.549023 
+ AD-04-1718 ; Coll de Jou ;1718;; 1.513861 ; 42.563917 
+ AD-04-1805 ; Coll de Goma ;1805;; 1.540052 ; 42.54601 
+ AD-04-1890 ; Collada del Xeig ;1890;; 1.490347 ; 42.575566 
+ AD-04-1915 ; Els Collells ;1915;; 1.479552 ; 42.56516 
+ AD-04-1924 ; Collada de l’ Estall ;1924; R1 ; 1.548601 ; 42.547197 
+ AD-04-1944 ; Collet de la Llosa ;1944;; 1.503778 ; 42.570388 
+ AD-04-1958 ; Coll de les Cases ;1958; S ; 1.50046 ; 42.576121 
+ AD-04-2057 ; Collet de Font Podrida ;2057; S2 ; 1.464831 ; 42.590412 
+ AD-04-2069 ; Coll de la Botella ;2069; C.G.N°4 ; 1.452932 ; 42.545703 
+ AD-04-2078 ; Coll de Montaner ;2077; R1 puis R-2-3 ; 1.464369 ; 42.516233 
+ AD-04-2152 ; Coll de Turer ;2152;; 1.4666 ; 42.558942 
+ AD-04-2224 ; Collet de la Coma Pedrosa ;2224; S4, GRP ; 1.448913 ; 42.580034 
+ AD-04-2301 ; Port de Cabús ;2303; C.G.N°4(E), R1(N) ; 1.419108 ; 42.546192 
+ AD-04-2313 ; Coll Carnisser ;2313;; 1.475359 ; 42.591182 
+ AD-04-2341 ; Port de l’Ovella ;2339; S2-3 ; 1.422881 ; 42.553575 
+ AD-04-2435 ; Coll Petit ;2432; S2-3 ; 1.441929 ; 42.564913 
+ AD-04-2437 ; Portella de les Vaques ;2437; R2-3 ; 1.446476 ; 42.568436 
+ AD-04-2454 ; Port Nègre ;2454; R2-3 ; 1.449039 ; 42.564809 
+ AD-04-2494 ; Port Vell ;2492; R2-3-S4(E), GRP ; 1.444211 ; 42.569177 
+ AD-04-2503 ; Portella de Comallempla ;2503;; 1.450182 ; 42.572615 
+ AD-04-2581 ; Portella de Sanfons ;2579; S3-4(SE), S4(NE) ; 1.435807 ; 42.573448 
+ AD-04-2653 ; Collada de Montmantell ;2653;; 1.474027 ; 42.603424 
+ AD-04-2683 ; Port Dret ;2685;; 1.459694 ; 42.604849 
+ AD-04-2734 ; Port d’Arinsal ;2734; S ; 1.46742 ; 42.60642 
+ AD-04-2743 ; Collada dels Estanys Forcats ;2743; S ; 1.442857 ; 42.60157 
+ AD-04-2756 ; Port de Baiau ;2757; GR11 ; 1.437835 ; 42.59202 
+ AD-04-2767 ; Portella de Baiau ;2767; GR-11 ; 1.436264 ; 42.591745 
+ AD-04-2823 ; Collada del Forat dels Malhiverns ;2823;; 1.441365 ; 42.593445 
+ AD-05-1543 ; Collet de les Planes ;1543;; 1.526638 ; 42.570246 
+ AD-05-1660 ; Collet de la Mira ;1660; S2-3 ; 1.527417 ; 42.571653 
+ AD-05-1722 ; Coll dels Abòs ;1722; C.G.N°3 ; 1.527462 ; 42.62555 
+ AD-05-1835 ; Collada de l’ Ensegur ;1835;; 1.535732 ; 42.58908 
+ AD-05-1838 ; Collada del Mig ;1838;; 1.548601 ; 42.622006 
+ AD-05-2110 ; Collada de l’Estaleritx ;2110; S2-3-4 ; 1.553921 ; 42.618026 
+ AD-05-2231 ; Pas de la Serrera ;2231; S2-3-4 ; 1.579949 ; 42.622678 
+ AD-05-2397 ; Port de Siguer ;2395; S2-4 ; 1.563489 ; 42.65286 
+ AD-05-2433 ; Port Vell ;2436;; 1.553798 ; 42.653713 
+ AD-05-2458 ; Portella de Besali ;2458;; 1.548363 ; 42.637903 
+ AD-05-2468 ; Portella d’Arcalis ;2468; R1-2 ; 1.485333 ; 42.622914 
+ AD-05-2508 ; Portella del  Mig ;2508; R1-2 ; 1.486584 ; 42.6194 
+ AD-05-2509 ; Portella de Rialb ;2509; S2-3-4 ; 1.536251 ; 42.640326 
+ AD-05-2514 ; Port Nouveau ;2513;; 1.5128 ; 42.64606 
+ AD-05-2529 ; Port de Banyell ;2529;; 1.57836 ; 42.64227 
+ AD-05-2533 ; Collada de Ferreroles ;2533; S ; 1.568813 ; 42.606601 
+ AD-05-2537 ; Port de Rat ;2539; S3-4 ; 1.47388 ; 42.62117 
+ AD-05-2540 ; Collada del Riu de les Cebes ;2540;; 1.58963 ; 42.62298 
+ AD-05-2573 ; Portella del Forn ;2573;; 1.584091 ; 42.631381 
+ AD-05-2596 ; Collet de la Cima ;2596;; 1.52379 ; 42.64942 
+ AD-05-2603 ; Port de Albeille ;2601; S ; 1.49814 ; 42.64834 
+ AD-05-2607 ; Collada de les Planes ;2607;; 1.49614 ; 42.64337 
+ AD-05-2621 ; Port de Caraussans ;2622; S-GR ; 1.472253 ; 42.636747 
+ AD-05-2636 ; Port de Tristaina ;2638;; 1.47734 ; 42.64571 
+ AD-05-2653 ; Portella de la Cebollera ;2664;; 1.59526 ; 42.63142 
+ AD-05-2716 ; Bretxa d’Arcalis ;2716;; 1.480911 ; 42.61362 
+ AD-05-2753 ; Port de l’Angonella ;2753;; 1.477155 ; 42.613751 
+ AD-06-1139 ; Coll de la Manyiga ;1139;; 1.488944 ; 42.47002 
+ AD-06-1140 ; Col de la Tàpia ;1140;; 1.489189 ; 42.4718 
+ AD-06-1140a ; Coll de Jou ;1140; C.S.N°140 ; 1.479706 ; 42.456588 
+ AD-06-1313 ; El Collell ;1313; GR7 ; 1.500631 ; 42.459011 
+ AD-06-1344 ; Coll del Cerc ;1344;; 1.508529 ; 42.466161 
+ AD-06-1369 ; Collet Purgat ;1369; S ; 1.473867 ; 42.47302 
+ AD-06-1388 ; Coll del Rep ;1388; CSN111 ; 1.471212 ; 42.449766 
+ AD-06-1438 ; Collet Marti ;1438; R1-2 ; 1.467683 ; 42.473212 
+ AD-06-1462 ; La Portella ;1462;; 1.505244 ; 42.457051 
+ AD-06-1508 ; Coll de la Plana ;1508; C.S.N°131, R1(50m) ; 1.5103 ; 42.456956 
+ AD-06-1588 ; Coll Jovell ;1588; S ; 1.476886 ; 42.485233 
+ AD-06-1627 ; Collet de Costasseda ;1627; GR7, S2-3 ; 1.507943 ; 42.480181 
+ AD-06-1673 ; Coll Jovell ;1673; C.S.N°131 ; 1.521698 ; 42.458734 
+ AD-06-1704 ; Collet de Palomera ;1704;; 1.51011 ; 42.484369 
+ AD-06-1707 ; Coll del Bast ;1707;; 1.475377 ; 42.488131 
+ AD-06-1721 ; Collet des Roques Nègres ;1721;; 1.445987 ; 42.450687 
+ AD-06-1860 ; Coll de la Manyiga ;1860;; 1.526138 ; 42.461296 
+ AD-06-1901 ; Collada de Canolic ;1901; S2 ; 1.445003 ; 42.461622 
+ AD-06-1911 ; Coll de la Galina ;1911; C.S.N°111 ; 1.449788 ; 42.459274 
+ AD-06-1924 ; Coll de Vista ;1924;; 1.439784 ; 42.476375 
+ AD-06-1973 ; Collada de Prat Porceller ;1973; S2-3 ; 1.440465 ; 42.467567 
+ AD-06-2039 ; Collada Fosca ;2039; C.S. ; 1.520469 ; 42.43471 
+ AD-06-2070 ; Coll d’Obac ;2070;; 1.472721 ; 42.494298 
+ AD-06-2104 ; Portell de les Comes ;2104;; 1.469579 ; 42.497401 
+ AD-06-2135 ; Coll de Piners ;2140; R1(GRP) ; 1.53905 ; 42.432528 
+ AD-06-2147 ; Collada de la Caülla ;2147; S4-3-2(O) ; 1.532054 ; 42.480867 
+ AD-06-2406 ; Coll de Finestres ;2408; R2, GRP ; 1.552816 ; 42.442897 
+ AD-06-2605 ; Port Nègre ;2605; S2-GRP ; 1.563691 ; 42.458128 
+ AD-07-1162 ; Collet de San Vicenç ;1162; S3-4 ; 1.49282 ; 42.49738 
+ AD-07-1819 ; Coll de Basers ;1819;; 1.482287 ; 42.506738 
+ AD-08-1281 ; Coll de Jou ;1277; HS ; 1.548804 ; 42.51412 
+ AD-08-1781 ; Coll Jovell ;1781; S ; 1.5638 ; 42.501748 
+ AD-08-2039 ; Collet de l’Infern ;2039; GR7 ; 1.613083 ; 42.486485 
+ AD-08-2299 ; Coll de l’Astrell ;2299;; 1.553021 ; 42.48465 
+ AD-08-2325 ; Coll de Vista ;2325;; 1.60069 ; 42.47599 
+ AD-08-2368 ; Coll Pa ;2368; S ; 1.55566 ; 42.479323 
+ AD-08-2428 ; Collada de la Maiana ;2428; S ; 1.598322 ; 42.478851 
+ AD-08-2491 ; Collada de Prat Primer ;2491;; 1.556385 ; 42.472839 
+ AD-08-2553 ; Collada de la Portella ;2553;; 1.638356 ; 42.473875 
+ AD-08-2573 ; Collet de Sant Vicenç ;2574; GR-11-10, S3-4 ; 1.594108 ; 42.465133 
+ AD-08-2578 ; Coll de Claró ;2571;; 1.583 ; 42.454468 
+ AD-08-2582 ; Port de Perafita ;2587; GR-11-10, S3-4 ; 1.589874 ; 42.463559 
+ AD-08-2601 ; Portella de la Portelleta ;2601;; 1.648789 ; 42.474071 
+ AD-08-2696 ; Portella de Setut ;2687;; 1.642238 ; 42.466716 
+ AD-08-2698 ; La Canal del Boc ;2698;; 1.63348 ; 42.466188 
+ AD-08-2739 ; Collada Fonda ;2739;; 1.631858 ; 42.465295 
+ AD-08-2761 ; Collada de la Portalleta ;2762;; 1.659668 ; 42.471876 
+

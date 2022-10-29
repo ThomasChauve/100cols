@@ -1,0 +1,304 @@
+ Code ; Nom complet ; Altitude ; Accès ; WGS84 Lon D ; WGS84 Lat D 
+ BO-C-1485 ; Abra Lanza Lanzar ;1485; F5 ; -64.716057 ; -18.081664 
+ BO-C-1485a ; Abra de Chajhuiales ;1485; S ; -64.349742 ; -18.586658 
+ BO-C-2675 ; Abra Khasa ;2675; R ; -65.404726 ; -17.860135 
+ BO-C-4475 ; La Cumbre ;4475; F4 ; -66.822675 ; -17.662954 
+ BO-H-1315 ; Abra Vallecitos ;1315; HS ; -63.816052 ; -19.893733 
+ BO-H-1420 ; Abra Arcos ;1420; HS ; -64.223052 ; -20.301112 
+ BO-H-1445 ; Abra Alto Rosas ;1445; R ; -64.236732 ; -21.016783 
+ BO-H-2180 ; Abra Pascana ;2180; R ; -64.321411 ; -19.341495 
+ BO-H-2185 ; Abra Yotala ;2185; R ; -64.317265 ; -19.637115 
+ BO-H-2545 ; Abra Barvechos ;2545; R1 ; -64.313742 ; -19.585138 
+ BO-H-2575 ; Abra Portezuelos ;2575; R1 ; -64.33046 ; -19.568744 
+ BO-H-2815 ; Abra Thiu Khasa ;2815; Route ; -64.932143 ; -19.02592 
+ BO-H-2855 ; Abra del Tigre ;2855; HS ; -64.431808 ; -19.029878 
+ BO-H-2935 ; Abra Llorante ;2935; R1 ; -64.528273 ; -19.972898 
+ BO-H-2985 ; Abra Nuque ;2985; R ; -64.97755 ; -20.899698 
+ BO-H-3265 ; Abra Tres Caminos ;3265; S ; -64.543434 ; -19.958763 
+ BO-L-1395 ; Abra Llami Llami ;1395; HS ; -68.549663 ; -14.851643 
+ BO-L-4205 ; Abra Chacorosi ;4205; R1 ; -68.090501 ; -16.7933 
+ BO-L-4355 ; Abra Huayllani ;4355; HS ; -69.107812 ; -17.385199 
+ BO-L-4395 ; Portezuelo de Achuta ;4395; HS ; -69.212444 ; -17.985839 
+ BO-L-4425 ; Abra Coroma ;4425; S ; -69.119424 ; -17.379721 
+ BO-L-4425a ; Abra Camino Tolacollo ;4425; F43 ; -69.540657 ; -17.20372 
+ BO-L-4525 ; Abra Pacuani ;4525; R1 ; -67.853562 ; -16.569534 
+ BO-L-4765 ; Abra Zongo ;4765; R1 ; -68.129293 ; -16.288051 
+ BO-L-4795 ; Abra Taquesi ;4795; HS ; -67.875046 ; -16.46475 
+ BO-L-4840 ; Abra de Pelechuco ;4840; R1 ; -69.181355 ; -14.803135 
+ BO-L-4905 ; Abra Lechasani ;4905; HS ; -68.590287 ; -15.687485 
+ BO-L-5045 ; Abra Calzada ;5045; S ; -68.45838 ; -15.919322 
+ BO-L-5255 ; Abra Apacheta ;5255; HS ; -68.295584 ; -16.070377 
+ BO-O-3805 ; Abra Tambillo ;3805; R ; -67.996573 ; -19.660903 
+ BO-O-3860 ; Paso Tolapacheta ;3860; S ; -68.458673 ; -19.464236 
+ BO-O-3905 ; Abra Jankho Willkhi ;3905; HS ; -68.693585 ; -18.582844 
+ BO-O-4025 ; Portezuelo de Huailla ;4025; HS ; -68.440847 ; -19.440395 
+ BO-O-4205 ; Paso Chinchillani ;4205; R ; -68.872766 ; -19.058656 
+ BO-O-4382 ; Portezuelo Quihuiri ;4382; R1 ; -68.951527 ; -18.789779 
+ BO-O-4385 ; Portezuelo de Cotas ;4385; HS ; -68.986443 ; -18.682864 
+ BO-O-4435 ; Portezuelo de Japu ;4435; R ; -69.011762 ; -18.537211 
+ BO-O-4475 ; Portezuelo Capitán ;4475; S ; -68.939817 ; -18.927085 
+ BO-O-4635 ; Portezuelo de Huacallo ;4635; S ; -69.102208 ; -18.20999 
+ BO-O-4665 ; Paso Jamachuma ;4665; HS ; -68.780592 ; -19.108944 
+ BO-O-4685 ; Paso de Chungará-Tambo Quemado ;4685; 11-CH ; -69.073632 ; -18.284696 
+ BO-O-4865 ; Paso de Casiri ;4865; S ; -69.071283 ; -18.074868 
+ BO-P-2865 ; Abra Campameno ;2865; HS ; -64.932129 ; -19.430456 
+ BO-P-3005 ; Abra Khoya Khasa ;3005; HS ; -64.967013 ; -19.424884 
+ BO-P-3705 ; Abra Arenales ;3705; HS ; -68.216678 ; -21.140763 
+ BO-P-3745 ; Abra de Huajra ;3745; S ; -65.803782 ; -22.075177 
+ BO-P-3795 ; Paso Abra Oriente de Napa ;3795; R1 ; -68.585148 ; -20.557897 
+ BO-P-3795a ; Abra Cruz ;3795; R ; -67.56277 ; -19.823472 
+ BO-P-3805 ; Abra Poniente de Napa ;3805; R ; -68.60855 ; -20.545592 
+ BO-P-4125 ; Abra Arenales ;4125; HS ; -68.451624 ; -20.781513 
+ BO-P-4165 ; Abra Cone Villkhi ;4165; HS ; -68.182553 ; -19.750362 
+ BO-P-4235 ; Abra Jatun Khasa ;4235; R ; -67.733081 ; -20.644151 
+ BO-P-4245 ; Portezuelo de la Laguna ;4245; Route F5 R1 ; -68.541223 ; -20.801497 
+ BO-P-4385 ; Paso Tres Cerrillos ;4385; S ; -68.712172 ; -20.07094 
+ BO-P-4405 ; Portezuelo de Irruputuncu ;4405; S ; -68.552792 ; -20.747847 
+ BO-P-4435 ; Paso Apacheta de Oje ;4435; S ; -68.604325 ; -19.666208 
+ BO-P-4445 ; Portezuelo de Ascotán ;4445; S ; -68.136964 ; -21.656885 
+ BO-P-4465 ; Portezuelo pie Norte del Cerro Laguna ;4465; HS ; -68.661399 ; -20.323032 
+ BO-P-4485 ; Portezuelo de Chaxas ;4485; R1 ; -67.87743 ; -22.801231 
+ BO-P-4485a ; Paso Portezuelo del Cajón ;4485; B-243 CV R1 ; -67.798594 ; -22.880822 
+ BO-P-4535 ; Portezuelo de Silala ;4535; R ; -68.00942 ; -22.035203 
+ BO-P-4555 ; Abra de Chutinza ;4555; S ; -68.528756 ; -20.914624 
+ BO-P-4575 ; Portezuelo del Inca ;4575; R ; -68.100186 ; -21.717597 
+ BO-P-4625 ; Portezuelo de Chela ;4625; HS ; -68.512974 ; -20.684159 
+ BO-P-4625a ; Portezuelo de Queñuane ;4625; HS ; -68.724057 ; -20.135864 
+ BO-P-4625b ; Paso Brajma ;4625; R ; -67.147983 ; -22.756437 
+ BO-P-4705 ; Portezuelo de Bofedal ;4705; S ; -68.531036 ; -20.721684 
+ BO-P-4855 ; Abra de Potoco ;4855; HS ; -66.949487 ; -22.058893 
+ BO-P-5075 ; Paso del Linzor ;5075; HS ; -67.943833 ; -22.185205 
+ BO-P-5085 ; Abra del Cerro Paroma ;5085; HS ; -68.426405 ; -20.944375 
+ BO-P-5085a ; Portezuelo del Panizo ;5085; HS ; -67.921686 ; -22.394008 
+ BO-P-5125 ; Portezuelo de Ocaña ;5125; R ; -68.439115 ; -20.640856 
+ BO-P-5125a ; Abra Huaylla Jarita ;5125; HS ; -67.934012 ; -22.300411 
+ BO-P-5255 ; Abra Carlota ;5255; HS ; -68.46494 ; -20.945879 
+ BO-P-5255a ; Abra Tinte ;5255; HS ; -67.01928 ; -22.598257 
+ BO-P-5295 ; Abra Chillahuita ;5295; HS ; -67.924788 ; -22.248118 
+ BO-P-5445 ; Portezuelo Sairecabur ;5445; S ; -67.886655 ; -22.709559 
+ BO-S-0625 ; Abra Vela ;625; HS ; -63.515947 ; -18.749978 
+ BO-S-0985 ; Abra Alta ;985; R ; -63.362916 ; -20.266969 
+ BO-S-1215 ; Abra Caraparicito ;1215; HS ; -63.648538 ; -19.8363 
+ BO-S-1515 ; Abra Magiloma ;1515; S ; -64.171284 ; -17.957557 
+ BO-S-1615 ; Abra la Lagunilla ;1615; R ; -64.139877 ; -17.971432 
+ BO-S-1915 ; Abra Chilón ;1915; R ; -64.555948 ; -18.022071 
+ BO-S-2145 ; Abra del Pucarillo ;2145; R ; -64.226287 ; -18.184684 
+ BO-S-2415 ; Abra Tabla ;2415; F22 R1 ; -64.031946 ; -18.601899 
+ BO-S-2485 ; Abra del Herrero Rodeo ;2485; HS ; -64.037229 ; -18.557207 
+ BO-S-2525 ; Abra Ramos ;2525; F38 R1 ; -64.114488 ; -18.587707 
+ BO-S-2620 ; Abra del Timón ;2620; R ; -64.336693 ; -18.392233 
+ BO-S-2715 ; Abra del Palo ;2715; R ; -64.363886 ; -18.37449 
+ BO-S-2775 ; Abra del Chileno ;2775; HS ; -64.350504 ; -18.389289 
+ BO-S-2820 ; Abra Huertas ;2820; F38 R1 ; -64.129794 ; -18.606456 
+ BO-T-0825 ; Abra de los Razos ;825; R ; -63.72839 ; -21.339057 
+ BO-T-1415 ; Abra el Chuere ;1415; F29 R1 ; -63.7763 ; -21.613044 
+ BO-T-1905 ; Abra Castellón ;1905; R1 ; -64.227535 ; -21.466075 
+ BO-T-2015 ; Abra del Puesto ;2015; R1 ; -64.837016 ; -21.728101 
+ BO-T-2075 ; Abra Cabildo Loma ;2075; HS ; -64.720515 ; -21.907798 
+ BO-T-2095 ; Abra San Jacinto ;2095; HS ; -64.74875 ; -21.639515 
+ BO-T-2155 ; Abra San Agustín ;2155; R ; -64.543967 ; -21.552539 
+ BO-T-2355 ; Abra Loma ;2355; HS ; -64.671009 ; -21.980206 
+ BO-T-2395 ; Abra la Cruz Loma ;2395; HS ; -64.664234 ; -21.856105 
+ BO-T-2655 ; Abra Condor ;2655; F11 ; -64.424851 ; -21.422167 
+ BO-T-2785 ; Abra Nogal ;2785; HS ; -64.552632 ; -21.282555 
+ BO-T-2865 ; Abra del Gaucho ;2865; HS ; -64.568264 ; -21.293071 
+ BO-T-3175 ; Abra Negra ;3175; HS ; -64.685157 ; -21.159686 
+ BO-T-3805 ; Abra Calderilla ;3805; R ; -64.997711 ; -21.746102 
+ BO-T-3905 ; Abra Cancha Cancha ;3905; HS ; -64.982541 ; -21.712617 
+ BO-T-4095 ; Abra Vicunayoj ;4095; HS ; -64.989304 ; -21.771763 
+ PE-AMA-2295 ; Abra Pardo Miguel ;2295; PE-5N ; -77.804269 ; -5.695466 
+ PE-AMA-2755 ; Abra Chanchillo ;2755; PE-08B ; -77.944707 ; -6.788861 
+ PE-AMA-3585 ; Abra Barro Negro ;3585; PE-08B ; -77.894134 ; -6.733407 
+ PE-ANC-4099 ; Abra Conocoha ;4099; PE-16 ; -77.301757 ; -10.136396 
+ PE-ANC-4115 ; Pupashpunta ;4115; R ; -77.445391 ; -9.042728 
+ PE-ANC-4195 ; Abra Cahuacona ;4195; R1 - PE-12A ; -77.680416 ; -8.571556 
+ PE-ANC-4222 ; Abra Callán ;4222; PE-14A ; -77.620313 ; -9.546762 
+ PE-ANC-4240 ; Abra El Condor ;4240; R - LI-115 ; -77.873771 ; -8.05975 
+ PE-ANC-4255 ; Punta Mojón ;4255; PE-3N ; -77.194341 ; -10.086041 
+ PE-ANC-4351 ; Abra Huachacocha ;4351; R - AN-105 ; -77.224347 ; -9.169634 
+ PE-ANC-4357 ; Punta Carbón ;4357; R ; -77.7334 ; -8.657869 
+ PE-ANC-4365 ; Punta Toca ;4365; S ; -77.207144 ; -10.103146 
+ PE-ANC-4475 ; Abra Tunel de Cahuish ;4475; AN-110 ; -77.251972 ; -9.688794 
+ PE-ANC-4505 ; Punta San Bartolomé ;4505; S ; -77.270154 ; -9.243344 
+ PE-ANC-4605 ; Alto de Pucaraju ;4605; S ; -77.553193 ; -8.918422 
+ PE-ANC-4665 ; Abra Cuncush ;4665; S ; -76.913313 ; -10.149978 
+ PE-ANC-4680 ; Punta Yanashallush ;4680; S ; -77.285816 ; -9.607736 
+ PE-ANC-4681 ; Abra Yanashalla ;4681; PE-3N ; -77.077925 ; -9.859985 
+ PE-ANC-4735 ; Portachuelo de Honda ;4735; S ; -77.390041 ; -9.288404 
+ PE-ANC-4735a ; Huashapunta ;4735; S ; -77.236112 ; -9.703653 
+ PE-ANC-4755 ; Punta Unión ;4755; S ; -77.581702 ; -8.912298 
+ PE-ANC-4767 ; Portachuelo de Llanganuco ;4767; R1 - AN-106 ; -77.590909 ; -9.051028 
+ PE-ANC-4775 ; Punta Tapush ;4775; S ; -76.998497 ; -10.29132 
+ PE-ANC-4785 ; Punta Yanayacu ;4785; S ; -77.525316 ; -9.092103 
+ PE-ANC-4805 ; Punta Huarapasca ;4805; R1 ; -77.184395 ; -9.881292 
+ PE-ANC-4846 ; Abra Gara Gara ;4846; R ; -77.161868 ; -9.826936 
+ PE-ANC-4905 ; Abra Olímpica ;4905; R ; -77.510949 ; -9.130993 
+ PE-APU-3818 ; Abra Mitama ;3818; HS proche piste ; -73.353201 ; -14.229263 
+ PE-APU-3871 ; Abra Huancacalla ;3871; R ; -72.237192 ; -14.130697 
+ PE-APU-3907 ; Abra Crusccasa ;3907; R1 ; -73.094791 ; -13.674967 
+ PE-APU-3962 ; Abra Huancacalla ;3962; R1 - PE-35G ; -72.21024 ; -14.179825 
+ PE-APU-3982 ; Abra Socllaccasa ;3982; PE-35 ; -72.81954 ; -13.577062 
+ PE-APU-4083 ; Abra Campanayoc ;4083; R1 - PE-30B ; -73.473029 ; -14.085228 
+ PE-APU-4211 ; Abra Chicurumi ;4211; PE-30A ; -73.36049 ; -14.549333 
+ PE-APU-4255 ; Abra Soroccjocha ;4255; PE-35 ; -73.587667 ; -13.60939 
+ PE-APU-4255a ; Abra Tabla Cruz ;4255; S ; -72.699664 ; -13.617739 
+ PE-APU-4281 ; Abra Tunapita ;4281; R ; -73.201886 ; -14.258832 
+ PE-APU-4352 ; Abra Ayallayla ;4352; R1 - PE-30B ; -73.407674 ; -13.877325 
+ PE-APU-4364 ; Abra Chanacairo ;4364; R1 - PE-35F ; -72.214724 ; -13.857811 
+ PE-APU-4509 ; Abra Occe Occe ;4509; R1 proche PE-30A ; -73.507353 ; -14.544414 
+ PE-APU-4636 ; Abra Uullita ;4636; R1 - PE-35F ; -72.807015 ; -13.990304 
+ PE-APU-4755 ; Abra Piste ;4755; S ; -73.073884 ; -14.313808 
+ PE-ARE-2356 ; Abra Alto de Calpa ;2356; AR-104 ; -73.414423 ; -15.849676 
+ PE-ARE-2746 ; Abra Tiabaya ;2746; AR-113 (Tunel) ; -71.62598 ; -16.542559 
+ PE-ARE-3550 ; Abra Rumualdo ;3550; R1 ; -71.823304 ; -16.086668 
+ PE-ARE-4492 ; Abra Bajada ;4492; R1 - AR-111 ; -71.682345 ; -15.091324 
+ PE-ARE-4661 ; Abra Culies ;4661; R1 - AR-105 ; -72.844036 ; -15.336775 
+ PE-ARE-4692 ; Abra Chungara ;4692; R1 - AR-111 ; -71.57602 ; -15.358769 
+ PE-ARE-4723 ; Abra Toroya ;4723; R1 - PE-34C ; -70.8225 ; -15.978604 
+ PE-ARE-5085 ; Abra Apo Apocheta ;5085; HS ; -72.202278 ; -15.275086 
+ PE-AYA-2984 ; Abra Huatuscalla ;2984; R proche Route ; -74.293441 ; -12.842649 
+ PE-AYA-3786 ; Abra Tojiasmayo ;3786; R1 ; -74.049661 ; -14.700538 
+ PE-AYA-3828 ; Abra Tapuna ;3828; PE-28B ; -73.997658 ; -12.841233 
+ PE-AYA-3894 ; Abra Yanamamba ;3894; R1 proche PE-28A ; -74.315322 ; -13.246296 
+ PE-AYA-4153 ; Abra Condorcencca ;4153; PE-30A ; -74.319079 ; -14.660993 
+ PE-AYA-4180 ; Abra Tocto ;4180; PE-32A ; -74.189061 ; -13.351123 
+ PE-AYA-4202 ; Abra Huamina ;4202; PE-35 ; -74.088389 ; -13.355632 
+ PE-AYA-4218 ; Abra Tablacruz ;4218; R1 - PE-32 ; -73.930272 ; -14.866007 
+ PE-AYA-4247 ; Abra Apacheta de Tambo ;4247; PE-28B ; -74.090525 ; -12.983397 
+ PE-AYA-4294 ; Abra Tunzo ;4294; R1 - AY-107 ; -74.441576 ; -13.492924 
+ PE-AYA-4355 ; Abra Yauriviri ;4355; PE-30A ; -73.978399 ; -14.640143 
+ PE-AYA-4755 ; Abra Apacheta Grande ;4755; PE-24A ; -74.74082 ; -13.358271 
+ PE-CAJ-0931 ; Abra Fila Larga ;931; PE-5N ; -78.786826 ; -5.760955 
+ PE-CAJ-2670 ; Abra Cruz de Huacaray ;2670; R1 - PE-2B ; -79.327693 ; -5.339119 
+ PE-CAJ-3108 ; Abra Pulucana ;3108; PE-08B ; -78.419696 ; -7.15603 
+ PE-CAJ-3114 ; Abra Gelig ;3114; PE-08B ; -78.11422 ; -6.876532 
+ PE-CAJ-3207 ; Abra Samangay ;3207; R1 - PE-3N ; -78.581273 ; -6.619609 
+ PE-CAJ-3234 ; Abra El Gavilán ;3234; PE-8 ; -78.46937 ; -7.246214 
+ PE-CAJ-3534 ; Abra Cumbre ;3534; R1 ; -78.555917 ; -7.19638 
+ PE-CAJ-3639 ; Abra Pumacama ;3639; R ; -78.03038 ; -7.555669 
+ PE-CAJ-3749 ; Abra Comulca ;3749; PE-08B ; -78.259203 ; -7.042444 
+ PE-CAJ-3958 ; Abra Coimolac ;3958; PE-3N ; -78.643898 ; -6.77585 
+ PE-CUS-2007 ; Abra Cielo Punco ;2007; R1 - PE-28B ; -73.545038 ; -12.791978 
+ PE-CUS-2105 ; Boca Santa Ana ;2105; R1 - PE-28B ; -73.502592 ; -12.800082 
+ PE-CUS-3169 ; Abra Cerapata ;3169; PE-3S ; -71.697112 ; -13.630802 
+ PE-CUS-3686 ; Abra Tica Tica ;3686; PE-3S ; -72.005828 ; -13.507904 
+ PE-CUS-3727 ; Abra Huilikue ;3727; PE-3S ; -72.357133 ; -13.440287 
+ PE-CUS-3784 ; Abra Ranraccasa ;3784; R1 - CU-117 ; -71.903919 ; -13.686454 
+ PE-CUS-3952 ; Abra de Runkuracay ;3952; S (Inca Trail) ; -72.505311 ; -13.226737 
+ PE-CUS-4015 ; Abra Acopunco ;4015; R1 - PE-3SG ; -72.13333 ; -14.260946 
+ PE-CUS-4059 ; Abra Pabellón ;4059; HS ; -72.953615 ; -13.312586 
+ PE-CUS-4083 ; Abra Hullcacunca ;4083; R ; -72.068727 ; -13.714169 
+ PE-CUS-4141 ; Abra Yuraccasa ;4141; R1 - PE-34F ; -71.315662 ; -14.506578 
+ PE-CUS-4186 ; Abra Cuyuni ;4186; PE-30C ; -71.589317 ; -13.636134 
+ PE-CUS-4210 ; Abra de Huarmihuañusca ;4210; S (Inca Trail) ; -72.484047 ; -13.243036 
+ PE-CUS-4261 ; Abra Yahuritanca ;4261; HS ; -72.224916 ; -13.086648 
+ PE-CUS-4262 ; Abra Maraynyloc ;4262; R1 - PE-3SG ; -71.793798 ; -14.534963 
+ PE-CUS-4319 ; Abra Mataracocha ;4319; R1 - PE-3SG ; -71.007681 ; -14.977458 
+ PE-CUS-4333 ; Abra La Raya ;4333; PE-3S ; -70.992867 ; -14.481031 
+ PE-CUS-4335 ; Abra Coltambillo ;4335; HS ; -72.171239 ; -13.031866 
+ PE-CUS-4336 ; Abra Malaga ;4336; PE-28B ; -72.302158 ; -13.138214 
+ PE-CUS-4355 ; Abra Asnoccasa ;4355; R1 - PE-3SG ; -72.04873 ; -14.551798 
+ PE-CUS-4394 ; Abra Incacconcaina ;4394; RI - CU-119 ; -71.96328 ; -13.973988 
+ PE-CUS-4416 ; Abra Huillquijasa ;4416; S ; -72.054935 ; -13.154334 
+ PE-CUS-4475 ; Abra Ipsayjasa ;4475; S ; -72.152179 ; -13.14875 
+ PE-CUS-4528 ; Abra Chullcunigrande ;4528; HS ; -72.281543 ; -13.109266 
+ PE-CUS-4538 ; Abra Acojasa ;4538; HS ; -73.074153 ; -13.263864 
+ PE-CUS-4545 ; Abra Chullcunichico ;4545; HS ; -72.279749 ; -13.11444 
+ PE-CUS-4565 ; Abra Huamus ;4565; HS ; -73.071649 ; -13.281578 
+ PE-CUS-4587 ; Abra Chocetacarpo ;4587; S (Inca Trail) ; -72.892475 ; -13.224805 
+ PE-CUS-4589 ; Abra Apacheta ;4589; S (Inca Trail) ; -72.561968 ; -13.343675 
+ PE-CUS-4635 ; Abra Huacahuasijasa ;4635; S ; -72.148451 ; -13.178913 
+ PE-CUS-4651 ; Abra Yanama ;4651; R ; -72.768884 ; -13.337299 
+ PE-CUS-4708 ; Abra Talocasa ;4708; R1 - PE-34J ; -71.119684 ; -15.337459 
+ PE-CUS-4724 ; Abra Pirhuayani ;4724; PE-30C ; -71.100944 ; -13.63834 
+ PE-CUS-4737 ; Abra Hualla Hualla ;4737; R1 - CU-137 ; -71.141194 ; -13.575251 
+ PE-CUS-4782 ; Abra Pumahuancajasa ;4782; S ; -72.093623 ; -13.191689 
+ PE-HUC-1642 ; Abra La Divisoria El Boche ;1642; PE-5N ; -75.795895 ; -9.198308 
+ PE-HUC-1761 ; Abra Hermilio Valdizán ;1761; PE-5N ; -75.825695 ; -9.199068 
+ PE-HUC-2776 ; Abra Carpish (Tunel) ;2776; PE-18A ; -76.098028 ; -9.722377 
+ PE-HUC-2882 ; Abra Alegria ;2882; R ; -75.735935 ; -9.801936 
+ PE-HUC-3889 ; Abra Ayapitec ;3889; PE-3N ; -76.55193 ; -9.864849 
+ PE-HUC-4023 ; Abra Anyana ;4023; R ; -76.505253 ; -9.90022 
+ PE-HUC-4167 ; Abra Pagrash ;4167; S ; -77.131067 ; -8.444918 
+ PE-HUC-4475 ; Abra Huamash ;4475; S ; -76.579825 ; -10.376306 
+ PE-HUC-4750 ; Abra Raura ;4750; R1 ; -76.74479 ; -10.464578 
+ PE-HUC-4765 ; Portachuelo de Huayhuash ;4765; S ; -76.845061 ; -10.370521 
+ PE-HUV-3938 ; Abra Marcavalle ;3938; R1 - PE-3SC ; -75.089727 ; -12.240958 
+ PE-HUV-3996 ; Abra Huamani ;3996; R1 - HV-120 ; -75.120667 ; -13.956231 
+ PE-HUV-4101 ; Abra Sachapite ;4101; PE-26 ; -74.906608 ; -12.740167 
+ PE-HUV-4360 ; Abra Independencia ;4360; R1 - PE-3SD ; -74.742918 ; -12.425978 
+ PE-HUV-4508 ; Abra Pampamali ;4508; R1 - PE-26B ; -74.572956 ; -13.084816 
+ PE-HUV-4691 ; Abra Llihuaccasa ;4691; R1 - PE-26A ; -75.209112 ; -13.245894 
+ PE-HUV-4865 ; Abra Chonta ;4865; PE-26A ; -75.048797 ; -13.081224 
+ PE-HUV-4964 ; Abra Huaypajasa ;4964; R - HV-115 ; -75.027133 ; -13.076585 
+ PE-ICA-1880 ; Abra Molletambo ;1880; R1 - IC-107 ; -75.355778 ; -14.173565 
+ PE-ICA-3105 ; Abra Pan de Azucar ;3105; S ; -75.260834 ; -14.053947 
+ PE-ICA-4171 ; Abra Rumi Cruz ;4171; R ; -75.718038 ; -13.147709 
+ PE-ICA-4405 ; Abra Yana Chacca ;4405; R ; -75.668083 ; -13.017434 
+ PE-JUN-1699 ; Abra Los Mellizos ;1699; PE-5N ; -75.181319 ; -10.718417 
+ PE-JUN-3890 ; Abra Telleria ;3890; PE-3S ; -75.104195 ; -12.287008 
+ PE-JUN-4196 ; Abra Cochas ;4196; PE-22B ; -75.831706 ; -11.405149 
+ PE-JUN-4337 ; Abra Capillayoc ;4337; R ; -75.939693 ; -10.872422 
+ PE-JUN-4355 ; Abra La Cumbre ;4355; R ; -75.889226 ; -11.468253 
+ PE-JUN-4543 ; Callejón Pulca Milpo ;4543; HS ; -76.358141 ; -11.101195 
+ PE-JUN-4554 ; Callejón Husma Cocha ;4554; HS ; -76.351728 ; -11.097103 
+ PE-JUN-4592 ; Abra Acopalca ;4592; R ; -75.039063 ; -11.993469 
+ PE-JUN-4639 ; Abra Negro Bueno ;4639; PE-24 ; -75.619237 ; -12.143296 
+ PE-JUN-4676 ; Abra La Viuda ;4676; R1 - PE-20A ; -76.432791 ; -11.340139 
+ PE-LAL-0198 ; Portachuelo de Guereque ;198; R ; -79.380015 ; -7.425513 
+ PE-LAL-3629 ; Abra El Marco ;3629; R ; -78.271687 ; -7.781512 
+ PE-LAL-3803 ; Abra Naranjillo ;3803; HS ; -77.632377 ; -7.373303 
+ PE-LAL-4080 ; Abra Ventanas ;4080; R ; -77.391792 ; -8.015007 
+ PE-LAL-4235 ; Abra Alaska ;4235; R1 - PE-10C ; -77.424425 ; -8.076927 
+ PE-LAL-4260 ; Abra Togana ;4260; HS proche route PE-10C ; -77.255709 ; -8.351565 
+ PE-LAL-4289 ; Abra Dos Cruces ;4289; S ; -77.706325 ; -7.113622 
+ PE-LAM-0364 ; Abra El Cruce ;364; PE-1B ; -79.690401 ; -6.010474 
+ PE-LAM-2537 ; Abra Queseria ;2537; S ; -79.470444 ; -5.962098 
+ PE-LAM-3626 ; Abra Tembladera ;3626; S ; -79.355966 ; -6.141697 
+ PE-LIM-3739 ; Abra Tres Cruces ;3739; R1 - LM-124 ; -76.188053 ; -12.388534 
+ PE-LIM-4729 ; Abra Uchucchacua ;4729; R1 - PE-18 ; -76.677406 ; -10.609063 
+ PE-LIM-4774 ; Abra Antajirca ;4774; R1 - PE-1NC ; -76.529167 ; -11.041111 
+ PE-LIM-4814 ; Abra Anticona ;4814; PE-22 ; -76.191591 ; -11.598111 
+ PE-LIM-4815 ; Abra Portachuelo ;4815; S ; -77.088178 ; -10.666508 
+ PE-LIM-4910 ; Abra Anamaray ;4910; S ; -76.705111 ; -10.566347 
+ PE-MOQ-1283 ; Portillo Chico ;1283; S ; -71.223138 ; -17.387718 
+ PE-MOQ-4125 ; Abra Del Caracol ;4125; S ; -70.674684 ; -16.984966 
+ PE-MOQ-4492 ; Abra Chojakuirani ;4492; PE-36C ; -70.393082 ; -16.595156 
+ PE-MOQ-4531 ; Abra Gallatini ;4531; PE-36B ; -70.328762 ; -16.413984 
+ PE-MOQ-4578 ; Abra Anco Apacheta ;4578; PE-36A ; -70.61907 ; -16.87864 
+ PE-MOQ-4664 ; Abra Suches ;4664; R ; -70.450833 ; -16.957222 
+ PE-MOQ-4783 ; Abra Quella ;4783; S ; -70.449022 ; -16.876929 
+ PE-MOQ-4963 ; Abra Campanallane ;4963; S ; -70.320356 ; -16.780194 
+ PE-PAS-1861 ; Abra Cantarizu ;1861; PE-5NA ; -75.386679 ; -10.632292 
+ PE-PAS-4387 ; Abra Tauli (Tunel) ;4387; R1 - PE-106 ; -76.05779 ; -10.724314 
+ PE-PAS-4630 ; Abra La Cruzada ;4630; R1 - PE-20A ; -76.391821 ; -11.036533 
+ PE-PIU-2148 ; Abra de Porculla ;2148; PE-4B ; -79.505716 ; -5.840099 
+ PE-PIU-2989 ; Abra Peña Blanca ;2989; R ; -79.585337 ; -5.005137 
+ PE-PIU-3105 ; Abra Suropite ;3105; R1 - PE-24 ; -79.538962 ; -5.353223 
+ PE-PUN-2073 ; Abra Maroncunca ;2073; HS ; -69.214938 ; -14.203003 
+ PE-PUN-4148 ; Abra Huchuy ;4148; HS ; -69.239782 ; -14.488245 
+ PE-PUN-4488 ; Abra Salloco ;4488; R1 - PE-34H ; -69.641342 ; -14.466744 
+ PE-PUN-4513 ; Abra Loripongo ;4513; PE-36B ; -70.202373 ; -16.297064 
+ PE-PUN-4655 ; Abra Toco Toco ;4655; R1 - PE-34H ; -69.608468 ; -14.720765 
+ PE-PUN-4739 ; Abra Iscaycruz ;4739; R1 - PU-109 ; -69.317965 ; -14.65601 
+ PE-PUN-4823 ; Abra Aricoma ;4823; R1 - PU-106 ; -69.782395 ; -14.283129 
+ PE-PUN-4835 ; Abra Cruz Laca ;4835; HS ; -69.517453 ; -16.752661 
+ PE-PUN-4878 ; Abra Oquepuno ;4878; PE-34B ; -70.329455 ; -14.17832 
+ PE-PUN-4885 ; Abra Sipitlaca ;4885; HS ; -69.520351 ; -16.766508 
+ PE-PUN-5097 ; Abra Chimboyo ;5097; R1 - CU-125 ; -70.871546 ; -13.837595 
+ PE-SAM-0427 ; Abra Buenos Aires ;427; PE-5N ; -76.286824 ; -6.701852 
+ PE-SAM-0494 ; Abra La Divisoria ;494; PE-5N ; -76.761048 ; -7.131013 
+ PE-SAM-1169 ; Abra Tangarana ;1169; PE-5N ; -76.717295 ; -6.311688 
+ PE-TAC-3005 ; Abra Mogotito ;3005; S ; -70.341504 ; -17.458194 
+ PE-TAC-3064 ; Paso Huanaco ;3064; Route Mina de Toquepala (privé?) ; -70.632394 ; -17.283929 
+ PE-TAC-4313 ; Paso Huaylillas Sur ;4313; R ; -69.814189 ; -17.808344 
+ PE-TAC-4457 ; Paso Huaylillas Norte ;4457; R ; -69.838583 ; -17.768282 
+ PE-TAC-4716 ; Abra Quequesane ;4716; R1 - PE-38 ; -69.926121 ; -17.392406 
+ PE-TAC-4796 ; Abra Livine ;4796; R1 - PE-38 ; -69.873549 ; -17.326592 
+ PE-TAC-4903 ; Abra Huaytire ;4903; S ; -70.380487 ; -16.813205 
+ PE-TAC-5001 ; Abra El Viento ;5001; R1 - PE-40 ; -69.79326 ; -17.618486 
+ PE-TUM-0223 ; Portachuelo Plateros ;223; HS ; -80.724811 ; -3.876085 
+ EC-A-3445 ; Tinajilla Pass ;3445; E35 ; -79.026158 ; -3.185934 
+ EC-N-4065 ; Papallacta Pass ;4065; E28 ; -78.202227 ; -0.332362 
+ EC-T-4375 ; Collado Abraspungo ;4375; R ; -78.789937 ; -1.413063 
+

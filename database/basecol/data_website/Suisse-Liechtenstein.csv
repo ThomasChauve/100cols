@@ -1,0 +1,3333 @@
+ Code ; Nom complet ; Altitude ; Accès ; WGS84 Lon D ; WGS84 Lat D 
+ CH-AG-0476 ; Ebni ;476;; 8.369988 ; 47.559621 
+ CH-AG-0477 ; Zurzacherberg Passhöhe ;477;; 8.277582 ; 47.575337 
+ CH-AG-0494 ; Cholplatz ;494;; 8.231071 ; 47.405671 
+ CH-AG-0508 ; Egg ;508;; 7.860464 ; 47.532625 
+ CH-AG-0539 ; Kornberg ;539;; 8.024903 ; 47.471506 
+ CH-AG-0550 ; Bürersteig ;550;; 8.159198 ; 47.528347 
+ CH-AG-0551 ; Weissenbühl ;551;; 8.367337 ; 47.3623 
+ CH-AG-0569 ; Bözbergpass ;569;; 8.138734 ; 47.480911 
+ CH-AG-0577 ; Schartenegg ;577;; 8.159043 ; 47.531604 
+ CH-AG-0579a ; Ampferehöchi ;579;; 8.12381 ; 47.518101 
+ CH-AG-0585 ; Wasserscheide ;585;; 8.02992 ; 47.462261 
+ CH-AG-0590 ; Höchi ;590;; 8.063882 ; 47.292473 
+ CH-AG-0600 ; Sattel ;616;; 8.028866 ; 47.282142 
+ CH-AG-0602 ; Egg ;599;; 8.190996 ; 47.54107 
+ CH-AG-0603 ; Pfaffenbergpass ;603;; 8.103641 ; 47.291792 
+ CH-AG-0611 ; Bööler Passhöchi ;611;; 8.084159 ; 47.307455 
+ CH-AG-0621 ; Staffelegg ;621;; 8.06024 ; 47.433914 
+ CH-AG-0621a ; Tanzplatz ;621;; 8.096813 ; 47.299845 
+ CH-AG-0623 ; Bänkelloch ;623;; 8.087545 ; 47.281441 
+ CH-AG-0637 ; Grueb ;637;; 8.013998 ; 47.441969 
+ CH-AG-0643 ; Gatter ;643;; 8.097439 ; 47.423473 
+ CH-AG-0648 ; Rinderplatz ;648;; 8.31558 ; 47.438269 
+ CH-AG-0664 ; Heitersbergpass ;664;; 8.337196 ; 47.417487 
+ CH-AG-0674 ; Benkerjoch ;674;; 8.0301 ; 47.435466 
+ CH-AG-0730 ; Rohregg ;730;; 8.036169 ; 47.44469 
+ CH-AG-0763 ; Salhöhe ;763;; 7.993273 ; 47.42893 
+ CH-AG-0778 ; Lägernsattel ;778;; 8.355114 ; 47.479949 
+ CH-AG-0779 ; Salhöhe ;787;; 7.985957 ; 47.428928 
+ CH-AI-0785 ; Bühl ;785;; 9.384386 ; 47.345024 
+ CH-AI-0928 ; Sammelplatz ;928;; 9.432329 ; 47.348488 
+ CH-AI-0956 ; Fegg ;956;; 9.561799 ; 47.410871 
+ CH-AI-0959 ; Höhi ;959;; 9.380338 ; 47.33892 
+ CH-AI-0986 ; Waldegg ;986;; 9.411141 ; 47.402691 
+ CH-AI-1003 ; Ruppenpass ;1003;; 9.509711 ; 47.395576 
+ CH-AI-1055 ; Himmelberg ;1055;; 9.369644 ; 47.34223 
+ CH-AI-1092 ; Kutterenegg ;1092;; 9.353518 ; 47.341023 
+ CH-AI-1168 ; Steigershöhi ;1168;; 9.346375 ; 47.344858 
+ CH-AI-1209b ; Ochsenhöhi ;1209;; 9.34079 ; 47.34414 
+ CH-AI-1309 ; Resspass ;1309;; 9.487804 ; 47.308332 
+ CH-AI-1340 ; Platte ;1340;; 9.35708 ; 47.300972 
+ CH-AI-1353 ; Scheidegg ;1353;; 9.353841 ; 47.299524 
+ CH-AI-1496 ; Nusshaldensattel ;1496;; 9.323494 ; 47.282848 
+ CH-AI-1649 ; Saxer Lücke ;1649;; 9.424809 ; 47.247218 
+ CH-AI-1678 ; Kastensattel ;1678;; 9.486422 ; 47.286133 
+ CH-AI-1710 ; Bogartenlücke ;1710;; 9.423618 ; 47.265647 
+ CH-AI-1810 ; Altenalpsattel ;1809;; 9.383261 ; 47.272813 
+ CH-AI-1815 ; Sattel ;1815;; 9.439306 ; 47.252554 
+ CH-AI-1856 ; Widderalpsattel ;1856;; 9.40243 ; 47.25632 
+ CH-AI-1865 ; Bötzelsattel ;1865;; 9.394861 ; 47.253524 
+ CH-AI-1900 ; Lötzlisalpsattel ;1898;; 9.374583 ; 47.268632 
+ CH-AI-2011 ; Zwingli Pass ;2011;; 9.378852 ; 47.235882 
+ CH-AI-2075b ; Wagenlücke ;2073;; 9.358448 ; 47.250007 
+ CH-AI-2099 ; Mutschensattel ;2099;; 9.401926 ; 47.237578 
+ CH-AI-2120 ; Rotsteinpass ;2120;; 9.36519 ; 47.242787 
+ CH-AI-2121 ; Höch Niederi Sattel ;2121;; 9.358021 ; 47.262026 
+ CH-AI-2162 ; Löchlisbettersattel ;2162;; 9.37546 ; 47.242156 
+ CH-AI-2325 ; Hünerbergsattel ;2325;; 9.342738 ; 47.253768 
+ CH-AI-2368 ; Altmannsattel ;2368;; 9.370327 ; 47.240155 
+ CH-AR-0847 ; Ebnet ;847;; 9.554231 ; 47.437912 
+ CH-AR-0858 ; Egg ;858;; 9.292224 ; 47.384867 
+ CH-AR-0885 ; Egg ;885;; 9.293888 ; 47.369141 
+ CH-AR-0916 ; Schwendibüel ;916;; 9.379771 ; 47.393892 
+ CH-AR-0955 ; Pass Stoss ;955;; 9.479729 ; 47.360058 
+ CH-AR-0965 ; Schäflisegg ;965;; 9.386708 ; 47.398076 
+ CH-AR-0977 ; Eggli ;977;; 9.26705 ; 47.318332 
+ CH-AR-0991 ; Grueb ;991;; 9.27886 ; 47.323948 
+ CH-AR-1005 ; Hüslersegg ;1005;; 9.398182 ; 47.400221 
+ CH-AR-1006 ; Ebne ;1006;; 9.334945 ; 47.350633 
+ CH-AR-1007 ; Hinterbühl ;1007;; 9.336209 ; 47.348579 
+ CH-AR-1012 ; Knechtsegg ;1012;; 9.311599 ; 47.327451 
+ CH-AR-1026 ; Ebnet ;1026;; 9.430632 ; 47.388456 
+ CH-AR-1032 ; Obere Egg ;1032;; 9.473208 ; 47.36442 
+ CH-AR-1057 ; Wissegg ;1057;; 9.460896 ; 47.392437 
+ CH-AR-1062 ; Unteregg ;1062;; 9.24502 ; 47.306939 
+ CH-AR-1066 ; Osterbüel ;1066;; 9.241336 ; 47.30948 
+ CH-AR-1067 ; Tüfenberg ;1067;; 9.255729 ; 47.323882 
+ CH-AR-1074 ; Breitenebnet ;1074;; 9.466779 ; 47.390355 
+ CH-AR-1142 ; Ruhsitz ;1142;; 9.487471 ; 47.384762 
+ CH-AR-1174b ; Sattel ;1134;; 9.21593 ; 47.283423 
+ CH-AR-1249 ; Gigershöhi ;1249;; 9.330617 ; 47.339089 
+ CH-AR-1278 ; Pass Schwägalp ;1299;; 9.303371 ; 47.253341 
+ CH-AR-1425 ; Petersalpsattel ;1425;; 9.301402 ; 47.282902 
+ CH-AR-1436 ; Gschwendsattel ;1436;; 9.297499 ; 47.282434 
+ CH-BE-0485 ; Weierhöhe ;485;; 7.726473 ; 47.25093 
+ CH-BE-0499 ; Sägelischruz ;499;; 7.817752 ; 47.232011 
+ CH-BE-0509 ; Aspiplatz ;509;; 7.813129 ; 47.209081 
+ CH-BE-0535 ; Bälchtürli ;535;; 7.629862 ; 47.082136 
+ CH-BE-0567 ; Allmedbode ;567;; 7.626988 ; 47.088779 
+ CH-BE-0636 ; Auf dem Egg ;636;; 7.620972 ; 46.716736 
+ CH-BE-0640 ; Passäbnit ;640;; 7.644683 ; 47.073772 
+ CH-BE-0663 ; Babeliplatz ;663;; 7.863183 ; 47.169285 
+ CH-BE-0668 ; Galgenplatz ;668;; 7.86552 ; 47.11492 
+ CH-BE-0680 ; Schnittweierhöchi ;680;; 7.634137 ; 46.791188 
+ CH-BE-0692 ; Stockerehöchi ;692;; 7.509419 ; 46.987429 
+ CH-BE-0718 ; Egg ;718;; 7.773498 ; 47.115278 
+ CH-BE-0720 ; Höchi ;720;; 7.771688 ; 47.110267 
+ CH-BE-0725 ; Mattstettetürli ;725;; 7.526624 ; 47.002286 
+ CH-BE-0757 ; Oberscheidegg ;757;; 7.704744 ; 47.049029 
+ CH-BE-0759 ; Kaltenegg ;759;; 7.803314 ; 47.099482 
+ CH-BE-0769 ; Talhöchi ;769;; 7.517099 ; 46.98056 
+ CH-BE-0783 ; Oberschönegg ;783;; 7.492695 ; 46.798043 
+ CH-BE-0790b ; Satteli ;790;; 7.851164 ; 46.668721 
+ CH-BE-0795 ; La Hauteur ;795;; 7.484414 ; 47.295387 
+ CH-BE-0801 ; Trüllplatz ;801;; 7.357056 ; 46.832801 
+ CH-BE-0802 ; Wasenegg ;802;; 7.616723 ; 47.007624 
+ CH-BE-0806 ; Bergli ;806;; 7.33556 ; 46.819075 
+ CH-BE-0827 ; Col de Pierre Pertuis ;827;; 7.194303 ; 47.210145 
+ CH-BE-0848 ; Chrüzhöchi ;848;; 7.804238 ; 46.947066 
+ CH-BE-0849 ; Löchli ;849;; 7.669529 ; 46.969886 
+ CH-BE-0851 ; Chrini ;851;; 7.588318 ; 46.959666 
+ CH-BE-0856 ; Hinterschwarzenegg ;856;; 7.775728 ; 47.002582 
+ CH-BE-0883 ; Brügglensteig ;883;; 7.41993 ; 46.836706 
+ CH-BE-0885 ; Lediplatz ;885;; 7.315995 ; 46.796918 
+ CH-BE-0886 ; Lueghubel ;886;; 7.646538 ; 46.797427 
+ CH-BE-0895 ; Rinderstieg ;895;; 7.662051 ; 46.798531 
+ CH-BE-0907 ; Mänziwilegg ;907;; 7.602735 ; 46.956921 
+ CH-BE-0907a ; Eggacker ;907;; 7.427441 ; 46.835223 
+ CH-BE-0920d ; Ryffersegg ;920;; 7.719403 ; 46.885075 
+ CH-BE-0929 ; Fritzflue ;929;; 7.835984 ; 47.05528 
+ CH-BE-0935 ; Col du Fuet ;935;; 7.183669 ; 47.250553 
+ CH-BE-0939 ; Egguriedegg ;939;; 7.715662 ; 46.940927 
+ CH-BE-0940 ; Schwarzenberg ;940;; 7.46628 ; 46.782283 
+ CH-BE-0953 ; Hammegg ;943;; 7.644069 ; 46.95421 
+ CH-BE-0957 ; Eisengruben ;957;; 7.344545 ; 46.791899 
+ CH-BE-0969 ; Hubel ;969;; 7.876848 ; 46.830645 
+ CH-BE-0985 ; Sattel ;985;; 7.344901 ; 46.790541 
+ CH-BE-0987 ; Ahornegg ;987;; 7.664531 ; 46.76509 
+ CH-BE-0989 ; Uf der Egg ;989;; 7.66153 ; 46.764394 
+ CH-BE-0990 ; Bühlen ;990;; 7.71225 ; 46.781097 
+ CH-BE-0992 ; Stutzegg ;992;; 7.474912 ; 46.766817 
+ CH-BE-0996 ; Vorder Tanzplatz ;996;; 7.645251 ; 46.858202 
+ CH-BE-1007 ; Col de la Tane ;1007;; 7.146796 ; 47.222375 
+ CH-BE-1008 ; Brünigpass ;1008;; 8.136926 ; 46.756452 
+ CH-BE-1014 ; Eggli ;1014;; 7.723843 ; 46.772118 
+ CH-BE-1019 ; Ringelplatz ;1019;; 7.440352 ; 46.789554 
+ CH-BE-1033 ; Uf Chrinde ;1033;; 7.690826 ; 46.733299 
+ CH-BE-1061 ; Bützebode ;1061;; 7.667951 ; 46.864581 
+ CH-BE-1070 ; Sattelwald ;1070;; 7.650022 ; 46.824326 
+ CH-BE-1076 ; Bättlerchuchi ;1076;; 7.600681 ; 47.274686 
+ CH-BE-1079 ; Wolfgruebe ;1079;; 7.731177 ; 46.741092 
+ CH-BE-1080 ; Sattel ;1080;; 7.443744 ; 46.793305 
+ CH-BE-1083 ; Multenegg ;1083;; 7.692053 ; 46.760598 
+ CH-BE-1083a ; Hintermberg ;1083;; 7.328198 ; 46.773497 
+ CH-BE-1085 ; Col de la Cibourg ;1082;; 6.895796 ; 47.123462 
+ CH-BE-1102 ; Bei der Gasse ;1102;; 7.685961 ; 46.750806 
+ CH-BE-1110 ; Col des Pontins ;1119;; 7.000588 ; 47.127311 
+ CH-BE-1120 ; Vorderi Flue ;1120;; 7.680191 ; 46.830302 
+ CH-BE-1125 ; Spitzenbühl ;1125;; 7.362014 ; 46.602152 
+ CH-BE-1141 ; Grätliegg ;1141;; 7.931818 ; 46.955287 
+ CH-BE-1151 ; Unter Port ;1151;; 7.25494 ; 46.495251 
+ CH-BE-1155 ; Chruzbode ;1155;; 7.933053 ; 46.962379 
+ CH-BE-1167 ; Schallenbergpass ;1167;; 7.797076 ; 46.826209 
+ CH-BE-1196 ; Änzisattel ;1196;; 7.915988 ; 47.008561 
+ CH-BE-1196a ; Sattelteuffi ;1196;; 7.814014 ; 46.811942 
+ CH-BE-1196b ; Margelsattel ;1196;; 7.707115 ; 46.73856 
+ CH-BE-1205 ; Milpachsattel ;1205;; 7.901773 ; 46.990431 
+ CH-BE-1214 ; Sattel ;1214;; 7.336911 ; 46.770276 
+ CH-BE-1227 ; Col du Mont Crosin ;1227;; 7.039 ; 47.189876 
+ CH-BE-1243 ; Wolfgruebe ;1243;; 7.704837 ; 46.751663 
+ CH-BE-1257 ; Chäserenegg ;1257;; 7.855856 ; 46.88556 
+ CH-BE-1281 ; Col des Mosses de Gessenay ;1281;; 7.304793 ; 46.514535 
+ CH-BE-1284 ; Hohmattgätterli ;1284;; 7.870253 ; 46.995789 
+ CH-BE-1293 ; Clédar de Pierrefeu ;1293;; 7.121839 ; 47.151762 
+ CH-BE-1304 ; Stächelegg ;1304;; 7.952662 ; 47.005569 
+ CH-BE-1311 ; Tor ;1311;; 8.163386 ; 46.758896 
+ CH-BE-1347 ; Grippelisattel ;1347;; 7.620113 ; 46.679145 
+ CH-BE-1358 ; Dünzenegg ;1358;; 7.753665 ; 46.7492 
+ CH-BE-1359 ; Chrindi ;1359;; 7.600311 ; 46.67868 
+ CH-BE-1372 ; Sattelegg ;1372;; 7.420228 ; 46.624819 
+ CH-BE-1373 ; Vorsessegg ;1373;; 8.234474 ; 46.720523 
+ CH-BE-1391 ; Winterlücke ;1391;; 8.234291 ; 46.722306 
+ CH-BE-1436b ; Reutiglücke ;1436;; 7.57682 ; 46.692384 
+ CH-BE-1440 ; Sattelhaltenloch ;1440;; 8.025311 ; 46.63687 
+ CH-BE-1464 ; Schörizegg ;1464;; 7.799983 ; 46.763312 
+ CH-BE-1504 ; Jaunpass ;1509;; 7.340747 ; 46.591206 
+ CH-BE-1531 ; Süfternepass ;1531;; 7.396417 ; 46.734755 
+ CH-BE-1547 ; Schwarzenbühlpass ;1546;; 7.392475 ; 46.738694 
+ CH-BE-1555 ; Grüenebergpass ;1555;; 7.857519 ; 46.762046 
+ CH-BE-1559 ; Col de Bädermoos ;1559;; 7.335783 ; 46.600917 
+ CH-BE-1575 ; Horbüelpass ;1575;; 7.362095 ; 46.737418 
+ CH-BE-1584a ; Wasserscheide ;1583;; 7.442757 ; 46.725345 
+ CH-BE-1594 ; Gurnigelpass ;1579;; 7.455553 ; 46.73433 
+ CH-BE-1604 ; Reidigenpass ;1604;; 7.322573 ; 46.620082 
+ CH-BE-1620 ; Egg ;1620;; 7.375788 ; 46.742077 
+ CH-BE-1627 ; Äbnet ;1627;; 7.375265 ; 46.643162 
+ CH-BE-1633 ; Grubenbergpass ;1633;; 7.257215 ; 46.546871 
+ CH-BE-1636 ; Selibüel Sattel ;1636;; 7.42817 ; 46.733575 
+ CH-BE-1637 ; Chrindi ;1637;; 7.54267 ; 46.683775 
+ CH-BE-1651 ; Col de Wild Boden ;1651;; 7.231918 ; 46.442424 
+ CH-BE-1659 ; Chrine ;1659;; 7.301451 ; 46.404524 
+ CH-BE-1679 ; Sichle ;1679;; 7.805317 ; 46.750684 
+ CH-BE-1707 ; Seebödeli ;1707;; 7.369712 ; 46.482273 
+ CH-BE-1712 ; Vehsattel ;1712;; 7.415243 ; 46.531713 
+ CH-BE-1718b ; Rüwlispass ;1718;; 7.374054 ; 46.477679 
+ CH-BE-1769 ; Vordere Schneit ;1769;; 7.269127 ; 46.531822 
+ CH-BE-1780 ; Trimlegabel ;1780;; 7.357481 ; 46.639139 
+ CH-BE-1787 ; Parwengsattel ;1787;; 7.362423 ; 46.489114 
+ CH-BE-1789 ; Birrenpass ;1789;; 7.284533 ; 46.541137 
+ CH-BE-1791 ; Chänelpass ;1791;; 7.371478 ; 46.662851 
+ CH-BE-1796a ; Geisstritt ;1796;; 8.326432 ; 46.77544 
+ CH-BE-1804 ; Baachegg ;1804;; 7.533896 ; 46.696916 
+ CH-BE-1808 ; Steinige Gabel ;1808;; 7.351629 ; 46.656163 
+ CH-BE-1810 ; Aherlisbode ;1810;; 7.271402 ; 46.525421 
+ CH-BE-1812 ; Planisattel ;1812;; 7.263959 ; 46.513859 
+ CH-BE-1814 ; Uf de Chesslesattel ;1814;; 7.323053 ; 46.487938 
+ CH-BE-1817 ; Renggpass ;1817;; 7.745942 ; 46.606147 
+ CH-BE-1818 ; Wengenpass ;1818;; 7.343756 ; 46.490764 
+ CH-BE-1827 ; Col d'Oberberg ;1824;; 7.27861 ; 46.582094 
+ CH-BE-1850c ; Trittlisattel ;1842;; 7.216675 ; 46.440452 
+ CH-BE-1851 ; Gestelenpass ;1851;; 7.423544 ; 46.582558 
+ CH-BE-1853 ; Lohegg ;1853;; 7.415059 ; 46.678827 
+ CH-BE-1853a ; Collet ;1853;; 7.459448 ; 46.688939 
+ CH-BE-1876 ; Stiereberg ;1876;; 7.439643 ; 46.566709 
+ CH-BE-1879 ; Rengglipass ;1879;; 7.799975 ; 46.613455 
+ CH-BE-1884 ; Col de Jable ;1884;; 7.199922 ; 46.426934 
+ CH-BE-1884a ; Grenchengalmpass ;1884;; 7.408834 ; 46.685716 
+ CH-BE-1884b ; Galitepass ;1884;; 7.398582 ; 46.673821 
+ CH-BE-1885 ; Fenêtre d'Arnon ;1885;; 7.198781 ; 46.390859 
+ CH-BE-1896 ; Jochli ;1896;; 7.880135 ; 46.585475 
+ CH-BE-1898 ; Gassi ;1898;; 7.440426 ; 46.570604 
+ CH-BE-1899 ; Hejlicka ;1899;; 7.884036 ; 46.56477 
+ CH-BE-1905c ; Leiterepass ;1905;; 7.45782 ; 46.704735 
+ CH-BE-1907 ; Frutt Pass ;1907;; 8.226844 ; 46.761454 
+ CH-BE-1918a ; Ällgäu Lücke ;1918;; 7.970265 ; 46.765985 
+ CH-BE-1918b ; Col de Voré ;1918;; 7.21084 ; 46.367495 
+ CH-BE-1919 ; Blattipass ;1902;; 7.235693 ; 46.386631 
+ CH-BE-1921 ; Col du Loup ;1921;; 7.263473 ; 46.566977 
+ CH-BE-1923 ; Seeflüh ;1923;; 7.440113 ; 46.580022 
+ CH-BE-1925 ; Bas de Forclaz ;1925;; 7.202892 ; 46.396319 
+ CH-BE-1930a ; Luegle-Lücke ;1930;; 7.423229 ; 46.586948 
+ CH-BE-1937 ; Schwalmerenpass ;1937;; 7.464267 ; 46.705948 
+ CH-BE-1940 ; Undre Sattel ;1940;; 8.042049 ; 46.603642 
+ CH-BE-1940a ; Husegg Sattel ;1940;; 7.24874 ; 46.554342 
+ CH-BE-1942 ; Selle Amélier ;1942;; 7.242334 ; 46.551767 
+ CH-BE-1943 ; Sattel ;1943;; 8.072637 ; 46.710049 
+ CH-BE-1945 ; Girenlücke ;1945;; 7.460227 ; 46.572815 
+ CH-BE-1949 ; Puntelgable ;1877;; 7.464511 ; 46.613618 
+ CH-BE-1950 ; Cheesbödi Sattel ;1950;; 7.641629 ; 46.637819 
+ CH-BE-1950b ; Hahnenmoospass ;1950;; 7.496584 ; 46.452118 
+ CH-BE-1953 ; Schonegg ;1953;; 8.197592 ; 46.768336 
+ CH-BE-1955 ; Furgge ;1955;; 7.55197 ; 46.687014 
+ CH-BE-1959 ; Morgetepass ;1959;; 7.440598 ; 46.699393 
+ CH-BE-1960 ; Homadsattel ;1960;; 7.487149 ; 46.7038 
+ CH-BE-1962 ; Grosse Scheidegg ;1962;; 8.101659 ; 46.655909 
+ CH-BE-1966 ; Ussers Höuw Eggli ;1966;; 7.428643 ; 46.527155 
+ CH-BE-1986 ; Türli ;1986;; 7.366305 ; 46.430402 
+ CH-BE-1986a ; Türle ;1986;; 7.429281 ; 46.531095 
+ CH-BE-1987 ; Gubisattel ;1987;; 7.432353 ; 46.561896 
+ CH-BE-1989 ; Haaregg ;1989;; 7.959919 ; 46.573075 
+ CH-BE-1990 ; Col de Rossboden ;1990;; 7.255501 ; 46.5602 
+ CH-BE-1991 ; Scheidegg ;1991;; 7.446409 ; 46.543545 
+ CH-BE-1992 ; Stüblenipass ;1992;; 7.382717 ; 46.41179 
+ CH-BE-1998 ; Bällenlücke ;1998;; 7.851987 ; 46.627599 
+ CH-BE-2000 ; Ochsensattel ;2000;; 7.414266 ; 46.698329 
+ CH-BE-2023a ; Grimmifurggi ;2023;; 7.472008 ; 46.533241 
+ CH-BE-2025 ; Eisee Sattel ;2025;; 8.057439 ; 46.787496 
+ CH-BE-2026 ; Basset de l'Arole ;2199;; 7.204433 ; 46.421591 
+ CH-BE-2029 ; Güwturli ;2029;; 7.937768 ; 46.663581 
+ CH-BE-2030 ; Metzgertrittenpass ;2030;; 7.320723 ; 46.654282 
+ CH-BE-2031 ; Twierien Sattel ;2031;; 7.525491 ; 46.575339 
+ CH-BE-2038b ; Trüttlisbergpass ;2038;; 7.374247 ; 46.425729 
+ CH-BE-2053 ; Chruterenpass ;2053;; 8.017499 ; 46.787975 
+ CH-BE-2055 ; Pommernpass ;2055;; 7.500645 ; 46.441249 
+ CH-BE-2060 ; Traumlücke ;2060;; 7.467477 ; 46.542759 
+ CH-BE-2061 ; Kleine Scheidegg ;2061;; 7.961184 ; 46.585213 
+ CH-BE-2071 ; Wannenpass ;2071;; 7.994903 ; 46.78125 
+ CH-BE-2075 ; Heueggli ;2074;; 7.432644 ; 46.525905 
+ CH-BE-2083 ; Chratzchumisattel ;2083;; 7.574649 ; 46.561582 
+ CH-BE-2085 ; Tungelpass ;2085;; 7.378446 ; 46.393077 
+ CH-BE-2086 ; Turnelssattel ;2086;; 7.34066 ; 46.439018 
+ CH-BE-2091a ; Furggi ;2091;; 7.510827 ; 46.495432 
+ CH-BE-2099 ; Sattel ;2099;; 7.440047 ; 46.53087 
+ CH-BE-2100a ; Seeli Pass ;2100;; 7.410497 ; 46.387108 
+ CH-BE-2110 ; Gurbspass ;2110;; 7.524468 ; 46.571472 
+ CH-BE-2125 ; Egg ;2125;; 7.95071 ; 46.668363 
+ CH-BE-2126 ; Chrinne ;2126;; 7.868918 ; 46.557982 
+ CH-BE-2150 ; Gratsattel ;2150;; 7.64644 ; 46.465419 
+ CH-BE-2150a ; Sousegg ;2150;; 7.858282 ; 46.607552 
+ CH-BE-2153 ; Follbode ;2153;; 7.347864 ; 46.37986 
+ CH-BE-2165b ; Grimselpass ;2165;; 8.337738 ; 46.561362 
+ CH-BE-2170 ; Läsisattel ;2170;; 8.150227 ; 46.670307 
+ CH-BE-2170a ; Sätteli ;2116;; 8.314005 ; 46.739894 
+ CH-BE-2180 ; Golitschepass ;2180;; 7.648435 ; 46.516861 
+ CH-BE-2207c ; Jochpass ;2207;; 8.386707 ; 46.778555 
+ CH-BE-2212 ; Graspass ;2212;; 8.171987 ; 46.67903 
+ CH-BE-2224b ; Sustenpass (tunnel) ;2224;; 8.447691 ; 46.729615 
+ CH-BE-2236 ; Bütschisattel ;2236;; 7.546486 ; 46.558473 
+ CH-BE-2241a ; Chrinnenboden ;2241;; 8.065809 ; 46.673924 
+ CH-BE-2264a ; Sustenpasshöhe ;2256;; 8.449268 ; 46.728593 
+ CH-BE-2278 ; Otterepass ;2278;; 7.544883 ; 46.538774 
+ CH-BE-2299 ; Ochsensattel ;2299;; 8.173821 ; 46.678379 
+ CH-BE-2320c ; Schneeige Lücke ;2359;; 7.863678 ; 46.521821 
+ CH-BE-2359 ; Sattel ;2359;; 7.518138 ; 46.515686 
+ CH-BE-2372 ; Sattel ;2372;; 7.836587 ; 46.598544 
+ CH-BE-2385a ; Bunderchrinde ;2385;; 7.626162 ; 46.481997 
+ CH-BE-2387a ; Furggeli ;2336;; 7.504438 ; 46.500213 
+ CH-BE-2395 ; Wyssenbachlimelti ;2395;; 8.277206 ; 46.626056 
+ CH-BE-2423 ; Simmelisattel ;2423;; 8.181396 ; 46.681731 
+ CH-BE-2423a ; Garzensattel ;2423;; 8.106294 ; 46.697956 
+ CH-BE-2429a ; Col du Rawil ;2429;; 7.442151 ; 46.383288 
+ CH-BE-2443a ; Ammertepass ;2443;; 7.529579 ; 46.42994 
+ CH-BE-2451 ; Bäregg ;2451;; 8.282805 ; 46.549728 
+ CH-BE-2454a ; Chilchfluepass ;2454;; 7.825369 ; 46.568213 
+ CH-BE-2470 ; Sacklimi ;2670;; 8.34621 ; 46.672316 
+ CH-BE-2477 ; Mittagslimi ;2477;; 8.342368 ; 46.752016 
+ CH-BE-2483 ; Kastorsattel ;2483;; 8.175628 ; 46.676668 
+ CH-BE-2485 ; Oerjoch ;2486;; 8.054439 ; 46.673896 
+ CH-BE-2489b ; Ürbachsattel ;2489;; 8.17029 ; 46.658908 
+ CH-BE-2493 ; Ladholzsattel ;2394;; 7.557633 ; 46.551112 
+ CH-BE-2495 ; Brèche de la Pierre à Grellet ;2495;; 7.261474 ; 46.353867 
+ CH-BE-2495a ; Niesehornsattel ;2495;; 7.376634 ; 46.374473 
+ CH-BE-2510 ; Teufelsjoch ;2510;; 8.176859 ; 46.674968 
+ CH-BE-2512 ; Ortelenpass ;2512;; 7.594986 ; 46.450055 
+ CH-BE-2520 ; Kessisteinpass ;2910;; 7.539559 ; 46.444451 
+ CH-BE-2542 ; Gemsensattel ;2542;; 8.184105 ; 46.67628 
+ CH-BE-2542a ; Gassenboden ;2542;; 8.003629 ; 46.670353 
+ CH-BE-2543 ; Mittagkrinne ;2543;; 8.012663 ; 46.675679 
+ CH-BE-2549b ; Chlyni Chrinne ;2549;; 8.061169 ; 46.679527 
+ CH-BE-2568a ; Furtwangsattel ;2568;; 8.317297 ; 46.68009 
+ CH-BE-2572 ; Seltenschonpass ;2572;; 7.433961 ; 46.384125 
+ CH-BE-2582b ; Wendenjoch ;2582;; 8.442292 ; 46.76992 
+ CH-BE-2595 ; Mittagschrinne ;2595;; 8.022468 ; 46.678382 
+ CH-BE-2598 ; Seewlifura ;2598;; 7.848299 ; 46.561332 
+ CH-BE-2598a ; Rossgrabelücke ;2600;; 7.308689 ; 46.357755 
+ CH-BE-2600 ; Vorderes Titlisjoch ;2697;; 8.412424 ; 46.773399 
+ CH-BE-2612c ; Sefinenfurke ;2612;; 7.813247 ; 46.531641 
+ CH-BE-2623 ; Chindbettipass ;2623;; 7.59151 ; 46.431223 
+ CH-BE-2633 ; Murwetestocklimeli ;2580;; 8.363142 ; 46.709397 
+ CH-BE-2635c ; Grossi Chrinne ;2635;; 8.067615 ; 46.68309 
+ CH-BE-2639 ; Triebtenseelicke ;2639;; 8.305943 ; 46.547701 
+ CH-BE-2639a ; Bietenlücke ;2639;; 7.861357 ; 46.575147 
+ CH-BE-2648 ; Bundstocklücke ;2648;; 7.744802 ; 46.517606 
+ CH-BE-2653 ; Obern Weitsattel ;2684;; 8.168981 ; 46.654841 
+ CH-BE-2654b ; Tierbergsattel ;2654;; 7.46763 ; 46.387423 
+ CH-BE-2673c ; Gärstenlücke ;2673;; 8.063531 ; 46.691658 
+ CH-BE-2681 ; Col des Dents de Scie ;2681;; 7.261289 ; 46.343027 
+ CH-BE-2685 ; Furka ;2685;; 7.31624 ; 46.351215 
+ CH-BE-2685a ; Üssri Garwydilimi ;2685;; 8.334164 ; 46.644146 
+ CH-BE-2690b ; Lötschepass ;2690;; 7.716449 ; 46.416369 
+ CH-BE-2696b ; Hinteres Titlisjoch ;2696;; 8.415791 ; 46.774198 
+ CH-BE-2697b ; Gestlerlicke ;2697;; 8.292598 ; 46.543987 
+ CH-BE-2699 ; Indri Garwydilimi ;2699;; 8.333496 ; 46.639293 
+ CH-BE-2700d ; Heuwbergjoch ;2680;; 8.440703 ; 46.744295 
+ CH-BE-2701 ; Mattenlimmi ;2701;; 8.249574 ; 46.640713 
+ CH-BE-2712 ; Silberritzepass ;2712;; 7.353887 ; 46.368215 
+ CH-BE-2715 ; Engellicken ;2671;; 8.178828 ; 46.669873 
+ CH-BE-2733 ; Wasenhornjoch ;2733;; 8.447632 ; 46.761417 
+ CH-BE-2734 ; Steilimi ;2734;; 8.388881 ; 46.702771 
+ CH-BE-2735 ; Westliches Obertaljoch ;2735;; 8.43069 ; 46.749205 
+ CH-BE-2746 ; Undri Bächli Licken ;2746;; 8.253501 ; 46.594526 
+ CH-BE-2756e ; Schnidejoch ;2756;; 7.388739 ; 46.369244 
+ CH-BE-2756f ; Üerlicherjoch ;2756;; 8.278134 ; 46.536097 
+ CH-BE-2759a ; Col du Brochet ;2759;; 7.350434 ; 46.350149 
+ CH-BE-2761 ; Chalchtallücke ;2758;; 8.44787 ; 46.713285 
+ CH-BE-2767 ; Wendesattel ;2777;; 8.392716 ; 46.763679 
+ CH-BE-2778a ; Hohtürli ;2778;; 7.770173 ; 46.511112 
+ CH-BE-2787b ; Tschingelpass ;2773;; 7.815967 ; 46.491691 
+ CH-BE-2788 ; Turmjoch ;2788;; 8.436461 ; 46.748462 
+ CH-BE-2790 ; Fisipass ;2790;; 7.705296 ; 46.470658 
+ CH-BE-2790a ; Tierbergjoch ;2790;; 7.486923 ; 46.388316 
+ CH-BE-2791b ; Lücke ;2791;; 8.444645 ; 46.755686 
+ CH-BE-2809b ; Tellerelicke ;2809;; 8.261244 ; 46.531264 
+ CH-BE-2810b ; Trützipass ;2825;; 8.24882 ; 46.528564 
+ CH-BE-2812 ; Brandlamm Licken ;2812;; 8.271202 ; 46.57789 
+ CH-BE-2828c ; Sattel ;2798;; 7.82456 ; 46.559067 
+ CH-BE-2829b ; Rote Totz Lücke ;2799;; 7.594837 ; 46.411653 
+ CH-BE-2835 ; Bibergpass ;2848;; 7.711828 ; 46.472468 
+ CH-BE-2837b ; Gamchilücke ;2837;; 7.816007 ; 46.497539 
+ CH-BE-2840 ; Strubelegg ;2840;; 7.571721 ; 46.414867 
+ CH-BE-2852b ; Weisshornlücke ;2852;; 7.471526 ; 46.380405 
+ CH-BE-2867b ; Col du Sex Mort ;2837;; 7.493354 ; 46.371536 
+ CH-BE-2910 ; Schwarzhornpass ;2910;; 7.586308 ; 46.384048 
+ CH-BE-2916 ; Sustlichjoch ;2916;; 8.439908 ; 46.753631 
+ CH-BE-2929 ; Talschienpass ;2929;; 8.220284 ; 46.526434 
+ CH-BE-2940c ; Obertaljoch ;2943;; 8.438257 ; 46.752836 
+ CH-BE-2945b ; Märbiglücke ;2945;; 7.760801 ; 46.435818 
+ CH-BE-2963 ; Gruebenjoch ;2955;; 8.244214 ; 46.608869 
+ CH-BE-2971 ; Steinlauenenlücke ;2971;; 8.251585 ; 46.616364 
+ CH-BE-2983 ; Goleggjoch ;2983;; 8.246446 ; 46.611444 
+ CH-BE-2984 ; Fründenjoch ;2984;; 7.749038 ; 46.472283 
+ CH-BE-2986 ; Tierberglücke ;2975;; 8.400676 ; 46.697635 
+ CH-BE-2989 ; Gelmerlimmi ;2989;; 8.370489 ; 46.616794 
+ CH-BE-2994 ; Zinggenlicken ;2983;; 8.238558 ; 46.551253 
+ CH-BE-2997 ; Fellenberglicken ;2995;; 8.247645 ; 46.582513 
+ CH-BE-3009 ; Dossensattel ;3009;; 8.162559 ; 46.650393 
+ CH-BE-3019 ; Mettenbergjoch ;3019;; 8.079917 ; 46.60724 
+ CH-BE-3020a ; Bütlassesattel ;3020;; 7.822654 ; 46.516407 
+ CH-BE-3025 ; Passo dei Sabbioni ;2966;; 8.477824 ; 46.527233 
+ CH-BE-3030 ; Goleggpass ;3030;; 8.248509 ; 46.613246 
+ CH-BE-3048 ; Roossejoch ;3048;; 8.206533 ; 46.523694 
+ CH-BE-3052b ; Ränfenjoch ;3040;; 8.159532 ; 46.642901 
+ CH-BE-3054b ; Ochsejoch ;3054;; 8.081037 ; 46.569667 
+ CH-BE-3058 ; Schneehorepass ;3058;; 7.550188 ; 46.39214 
+ CH-BE-3059 ; Aerlenlücke ;3053;; 8.254513 ; 46.620958 
+ CH-BE-3066 ; Undri Triftlimi ;3066;; 8.383637 ; 46.637764 
+ CH-BE-3072 ; Scheuchzerjoch ;3072;; 8.202003 ; 46.545351 
+ CH-BE-3074 ; Obri Bächli Licken ;3074;; 8.240689 ; 46.58859 
+ CH-BE-3089 ; Sustenlimi ;3077;; 8.444437 ; 46.687001 
+ CH-BE-3092 ; Strubeljoch ;3092;; 7.552858 ; 46.412998 
+ CH-BE-3100 ; Alte Gaulipass ;3100;; 8.175032 ; 46.592721 
+ CH-BE-3100b ; Hiendertelltijoch ;3100;; 8.222016 ; 46.585877 
+ CH-BE-3101 ; Obere Triftlimmi ;3277;; 8.398616 ; 46.649432 
+ CH-BE-3102b ; Gwächtejoch ;3102;; 8.095011 ; 46.603322 
+ CH-BE-3112 ; Birgsattel ;3112;; 7.797247 ; 46.457748 
+ CH-BE-3116b ; Tennbachlücke ;3116;; 7.775809 ; 46.443061 
+ CH-BE-3125 ; Lämmerejoch ;3125;; 7.531997 ; 46.398453 
+ CH-BE-3125a ; Lauteraarsattel ;3125;; 8.132984 ; 46.602647 
+ CH-BE-3133 ; Blüemlisalpsattel ;3133;; 7.781373 ; 46.499987 
+ CH-BE-3165 ; Hubellücke ;3165;; 8.209288 ; 46.586314 
+ CH-BE-3171 ; Oeschinenjoch ;3171;; 7.765108 ; 46.479264 
+ CH-BE-3174b ; Wetterlücke ;3174;; 7.858581 ; 46.477779 
+ CH-BE-3178a ; Rothornsattel ;3178;; 7.764916 ; 46.492749 
+ CH-BE-3189 ; Gärstenlicke ;3089;; 8.362015 ; 46.600688 
+ CH-BE-3190b ; Gaulipass ;3190;; 8.172091 ; 46.594243 
+ CH-BE-3191 ; Hühnerlücke ;3191;; 8.21222 ; 46.58607 
+ CH-BE-3200 ; Wellhornsattel ;3200;; 8.136353 ; 46.641255 
+ CH-BE-3203 ; Chelenlücke ;3203;; 8.405019 ; 46.691885 
+ CH-BE-3215 ; Diechterlimi ;3215;; 8.362997 ; 46.643645 
+ CH-BE-3216a ; Oberaarjoch ;3216;; 8.174099 ; 46.525923 
+ CH-BE-3246 ; Böse Tritt ;3242;; 7.826255 ; 46.513418 
+ CH-BE-3250c ; Strahleggpass ;3332;; 8.118455 ; 46.577537 
+ CH-BE-3266 ; Ostliche Ankebällilücke ;3266;; 8.158572 ; 46.603163 
+ CH-BE-3270 ; Westliche Wätterlimi ;3270;; 8.152105 ; 46.629427 
+ CH-BE-3283 ; Finsteraarjoch ;3286;; 8.121879 ; 46.550178 
+ CH-BE-3311 ; Oberaarrotjoch ;3311;; 8.17984 ; 46.521622 
+ CH-BE-3313 ; Tierbergsattel ;3313;; 8.39879 ; 46.689392 
+ CH-BE-3315a ; Alte Strahlegg ;3315;; 8.122143 ; 46.564822 
+ CH-BE-3323b ; Südliches Maasplanggjoch ;3260;; 8.402292 ; 46.668788 
+ CH-BE-3337b ; Schmadrijoch ;3316;; 7.896382 ; 46.482401 
+ CH-BE-3340 ; Mitteleggipass ;3340;; 8.021886 ; 46.583218 
+ CH-BE-3345 ; Breithornjoch ;3337;; 7.888959 ; 46.48243 
+ CH-BE-3353 ; Nördliches Maasplanggjoch ;3300;; 8.397918 ; 46.674889 
+ CH-BE-3380b ; Eggjoch ;3370;; 8.409124 ; 46.660598 
+ CH-BE-3397 ; Unter Nässijoch ;3397;; 8.105105 ; 46.599485 
+ CH-BE-3416 ; Oberes Studerjoch ;3398;; 8.13874 ; 46.535079 
+ CH-BE-3434 ; Unteres Studerjoch ;3484;; 8.16052 ; 46.530976 
+ CH-BE-3436 ; Bärglijoch ;3431;; 8.141059 ; 46.621489 
+ CH-BE-3455 ; Rosenegg ;3455;; 8.143095 ; 46.625408 
+ CH-BE-3471 ; Jungfraujoch ;3465;; 7.979074 ; 46.547527 
+ CH-BE-3496 ; Mitteljoch ;3496;; 8.130753 ; 46.632365 
+ CH-BE-3508b ; Wettersattel ;3508;; 8.117729 ; 46.635124 
+ CH-BE-3529 ; Unners Mönchsjoch ;3518;; 8.018483 ; 46.562806 
+ CH-BE-3564b ; Grossjoch ;3564;; 7.912975 ; 46.48863 
+ CH-BE-3614b ; Nördliches Eiger Joch ;3605;; 8.006716 ; 46.572401 
+ CH-BE-3648 ; Mittagjoch ;3648;; 7.921208 ; 46.491744 
+ CH-BE-3660 ; Silberlücke ;3637;; 7.95086 ; 46.539355 
+ CH-BE-3676 ; Louwitor ;3658;; 7.975642 ; 46.523534 
+ CH-BE-3699 ; Äbeni Flue Joch ;3699;; 7.933668 ; 46.501136 
+ CH-BE-3749 ; Agassizjoch ;3749;; 8.117235 ; 46.543729 
+ CH-BE-3750a ; Nässijoch ;3728;; 8.11352 ; 46.594002 
+ CH-BE-3759a ; Eigerjoch Südliches ;3746;; 8.002719 ; 46.564415 
+ CH-BE-3769 ; Gletscherjoch ;3769;; 7.958374 ; 46.510021 
+ CH-BE-3885 ; Rottalsattel ;3884;; 7.965234 ; 46.533415 
+ CH-BE-3914 ; Schrecksattel ;3914;; 8.122512 ; 46.588893 
+ CH-BL-0504 ; Wintersingeregg ;504;; 7.837612 ; 47.517038 
+ CH-BL-0558 ; Rickenbacherhöchi ;558;; 7.839678 ; 47.488178 
+ CH-BL-0560 ; Scheidegg ;560;; 7.878298 ; 47.44734 
+ CH-BL-0577 ; Blattenpass ;573;; 7.554604 ; 47.460797 
+ CH-BL-0581 ; Buuseregg ;581;; 7.855521 ; 47.495003 
+ CH-BL-0592 ; Nusshof Höchi ;592;; 7.810392 ; 47.493627 
+ CH-BL-0599 ; Grimstelucke ;599;; 7.79768 ; 47.487956 
+ CH-BL-0603 ; Wintersingerhöchi ;603;; 7.814042 ; 47.484352 
+ CH-BL-0607 ; Egg ;607;; 7.739617 ; 47.415314 
+ CH-BL-0642 ; Egg ;642;; 7.874853 ; 47.416817 
+ CH-BL-0664 ; Sabelhöhe ;664;; 7.640655 ; 47.396353 
+ CH-BL-0685 ; Eichhöhe ;685;; 7.66315 ; 47.397139 
+ CH-BL-0690 ; Sattel ;690;; 7.822859 ; 47.481624 
+ CH-BL-0691 ; Unter Hauenstein Pass ;691;; 7.868882 ; 47.381303 
+ CH-BL-0728 ; Schäre ;728;; 7.666986 ; 47.401962 
+ CH-BL-0730 ; Chremer Pass ;730;; 7.536224 ; 47.461452 
+ CH-BL-0734 ; Ober Hauenstein Passhöhe ;731;; 7.76352 ; 47.352065 
+ CH-BL-0735 ; Hasengatter ;735;; 7.83638 ; 47.401936 
+ CH-BL-0747 ; Challpass ;747;; 7.458451 ; 47.450239 
+ CH-BL-0778 ; Bergli ;778;; 7.788543 ; 47.339264 
+ CH-BL-0790a ; Remelpass ;790;; 7.422652 ; 47.444304 
+ CH-BL-0793 ; Pass Schafmatt ;793;; 7.94628 ; 47.415699 
+ CH-BL-0820 ; Blauepass ;820;; 7.507521 ; 47.458585 
+ CH-BL-0822 ; Sennenhöchi ;822;; 7.769684 ; 47.381836 
+ CH-BL-0847a ; Breitenhöchi ;845;; 7.742227 ; 47.349964 
+ CH-BL-0847b ; Challhöchi ;847;; 7.834084 ; 47.369204 
+ CH-BL-0867 ; Birchhöchi ;867;; 7.789941 ; 47.380724 
+ CH-BL-0900 ; Spaleneggli ;900;; 7.792769 ; 47.353966 
+ CH-BL-0905 ; Schwängihöchi ;905;; 7.787011 ; 47.347769 
+ CH-BL-0973 ; Ulmethöhe ;973;; 7.657319 ; 47.380331 
+ CH-BL-0991 ; Chilchzimmersattel ;991;; 7.802152 ; 47.365441 
+ CH-BL-1152 ; Vogelberghöhe ;1152;; 7.687777 ; 47.37195 
+ CH-FR-0480 ; Bäreplatz ;480;; 7.113693 ; 46.913073 
+ CH-FR-0639 ; Pertet de Saugy ;639;; 6.822701 ; 46.769267 
+ CH-FR-0649 ; Ebnet ;649;; 7.253999 ; 46.873177 
+ CH-FR-0762 ; Äbnet ;762;; 7.30244 ; 46.821927 
+ CH-FR-0763 ; Hangbüel ;763;; 7.305132 ; 46.835487 
+ CH-FR-0783 ; Le Creux ;783;; 7.066829 ; 46.583576 
+ CH-FR-0806 ; La Forcla ;806;; 7.07877 ; 46.561513 
+ CH-FR-0915 ; Col de Plioumont ;915;; 7.176793 ; 46.614793 
+ CH-FR-0969 ; Col de Montminard ;969;; 7.17301 ; 46.622304 
+ CH-FR-1091 ; La Seila ;1091;; 7.024207 ; 46.477846 
+ CH-FR-1170 ; La Selle ;1170;; 7.034107 ; 46.574793 
+ CH-FR-1185 ; Pertuis ;1185;; 6.954739 ; 46.578071 
+ CH-FR-1197 ; Col des Joncs ;1197;; 6.950789 ; 46.512691 
+ CH-FR-1233 ; Col de Rathevel ;1233;; 6.981796 ; 46.547157 
+ CH-FR-1240 ; Unterbödeli ;1240;; 7.284518 ; 46.656064 
+ CH-FR-1269 ; Col de la Bodevenaz ;1269;; 7.139643 ; 46.647292 
+ CH-FR-1304 ; Col des Clés ;1304;; 7.022992 ; 46.569859 
+ CH-FR-1333 ; Les Portes ;1333;; 6.969652 ; 46.570326 
+ CH-FR-1334 ; Creux Bourgeois ;1334;; 7.140723 ; 46.652674 
+ CH-FR-1340 ; Col de la Borbuintse ;1340;; 6.959963 ; 46.506712 
+ CH-FR-1343 ; Col des Jognins ;1343;; 7.172228 ; 46.600812 
+ CH-FR-1376 ; Col du Pré Colard ;1376;; 7.148079 ; 46.659827 
+ CH-FR-1377 ; Col de l'Orausa ;1377;; 7.039778 ; 46.539927 
+ CH-FR-1382 ; Col des Plans ;1382;; 7.16755 ; 46.604462 
+ CH-FR-1404 ; Passage du Jeu de Quilles ;1404;; 7.194861 ; 46.548265 
+ CH-FR-1414 ; Col de la Balisa ;1414;; 7.244769 ; 46.654339 
+ CH-FR-1425 ; Selle des Cours ;1425;; 7.135857 ; 46.635183 
+ CH-FR-1427 ; Le Creux ;1427;; 6.999979 ; 46.55582 
+ CH-FR-1428 ; Col de la Chaux du Vent ;1428;; 7.200932 ; 46.635284 
+ CH-FR-1437 ; Crau Gindroz ;1437;; 6.983042 ; 46.512277 
+ CH-FR-1445 ; La Challa ;1445;; 7.02631 ; 46.538494 
+ CH-FR-1451 ; Col de la Vudalla ;1451;; 7.052942 ; 46.549463 
+ CH-FR-1453 ; Col de la Croix du Ganet ;1453;; 7.195789 ; 46.614367 
+ CH-FR-1456 ; Col de l'Auta Chia d'Amont ;1456;; 7.226663 ; 46.667287 
+ CH-FR-1459b ; Col de Villard ;1459;; 6.991352 ; 46.540979 
+ CH-FR-1469 ; Hohberg ;1469;; 7.33483 ; 46.67566 
+ CH-FR-1470 ; Col du Croset ;1470;; 7.048049 ; 46.555447 
+ CH-FR-1472 ; Col de Tichenuva ;1472;; 7.205075 ; 46.63146 
+ CH-FR-1479 ; Col du Petit Niremont ;1479;; 6.949169 ; 46.546265 
+ CH-FR-1485 ; Col du Hohberg ;1468;; 7.323461 ; 46.681109 
+ CH-FR-1486 ; Hürlisboden ;1486;; 7.308211 ; 46.663749 
+ CH-FR-1490 ; Le Creux ;1490;; 7.000088 ; 46.519945 
+ CH-FR-1495 ; Ebene ;1495;; 7.2933 ; 46.654807 
+ CH-FR-1497 ; Col de Plan Francey ;1497;; 7.022377 ; 46.554852 
+ CH-FR-1509 ; Col de la Patta ;1509;; 7.242148 ; 46.663663 
+ CH-FR-1510a ; Col de Belle Chaux ;1510;; 6.997065 ; 46.527886 
+ CH-FR-1518 ; Col du Gros Molojy ;1518;; 6.997357 ; 46.524082 
+ CH-FR-1526 ; Col du Pralet ;1526;; 6.972966 ; 46.506721 
+ CH-FR-1529 ; Col du Gros Moléson ;1529;; 7.027059 ; 46.542779 
+ CH-FR-1536 ; Col des Paccots ;1536;; 6.980511 ; 46.504908 
+ CH-FR-1540 ; Col Entre Deux Dents ;1540;; 7.042946 ; 46.534631 
+ CH-FR-1547 ; La Forcla ;1547;; 7.136109 ; 46.578763 
+ CH-FR-1556 ; Petite Forcla ;1556;; 7.136246 ; 46.579897 
+ CH-FR-1557 ; Col des Hauts-Crêts ;1557;; 7.178805 ; 46.592821 
+ CH-FR-1560 ; Le Creux ;1560;; 7.002301 ; 46.487983 
+ CH-FR-1565 ; Col de Vounetse ;1565;; 7.208495 ; 46.622751 
+ CH-FR-1566 ; Col du Petit Haut-Crêt ;1566;; 7.174578 ; 46.595249 
+ CH-FR-1567a ; Euschelspass ;1567;; 7.284065 ; 46.63174 
+ CH-FR-1575 ; Col de Barlattey ;1575;; 6.975624 ; 46.505086 
+ CH-FR-1582 ; Col des Recardets ;1582;; 7.245819 ; 46.649195 
+ CH-FR-1630 ; Col de la Berra ;1630;; 7.180082 ; 46.67767 
+ CH-FR-1634 ; L’Encoche ;1634;; 7.122737 ; 46.587686 
+ CH-FR-1636 ; Col de la Salzmatt ;1637;; 7.31878 ; 46.664391 
+ CH-FR-1648 ; Col de Bi Gîte ;1648;; 7.188152 ; 46.673406 
+ CH-FR-1658 ; Brendelpass ;1658;; 7.257183 ; 46.583492 
+ CH-FR-1669 ; Col des Combes ;1669;; 7.128656 ; 46.586272 
+ CH-FR-1670 ; Col de l'Ours ;1670;; 7.280587 ; 46.642125 
+ CH-FR-1713 ; Col de Férédetse ;1713;; 7.230571 ; 46.623171 
+ CH-FR-1722 ; Col de la Vigie ;1722;; 7.209085 ; 46.619037 
+ CH-FR-1725 ; Col de la Gueyre ;1725;; 7.220724 ; 46.562369 
+ CH-FR-1751 ; Col de Tissiniva ;1751;; 7.167685 ; 46.556839 
+ CH-FR-1755 ; Col de Bonaudon ;1753;; 6.984354 ; 46.439857 
+ CH-FR-1764 ; Perte à l'Etoile ;1764;; 6.979113 ; 46.461021 
+ CH-FR-1782 ; Col de Lys ;1782;; 6.991416 ; 46.501776 
+ CH-FR-1789 ; Trou de l’Etoile ;1789;; 6.981372 ; 46.475594 
+ CH-FR-1793 ; Col du Tsermon ;1793;; 7.132087 ; 46.540341 
+ CH-FR-1795 ; Col de Trémetta ;1795;; 7.00274 ; 46.535239 
+ CH-FR-1817 ; Col de la Hochmatt ;1817;; 7.215686 ; 46.566515 
+ CH-FR-1826 ; Col de Chüearnisch ;1826;; 7.360234 ; 46.650493 
+ CH-FR-1846 ; Col du Pralet ;1847;; 7.219972 ; 46.551654 
+ CH-FR-1846a ; Col SE des Merlas ;1846;; 7.127716 ; 46.545546 
+ CH-FR-1847 ; Pertet y Tsamo ;1847;; 7.245456 ; 46.623107 
+ CH-FR-1860 ; Col de Pierra Perchia ;1860;; 6.977921 ; 46.472486 
+ CH-FR-1873 ; Col de Balachaux ;1873;; 7.246417 ; 46.628021 
+ CH-FR-1888 ; Col du Chamois ;1874;; 7.243236 ; 46.641023 
+ CH-FR-1901 ; Col de Bonne-Fontaine ;1901;; 7.014258 ; 46.545862 
+ CH-FR-1912 ; Brendelpass ;1912;; 7.301002 ; 46.636709 
+ CH-FR-1920 ; Col des Moutons ;1920;; 7.28354 ; 46.587346 
+ CH-FR-1928 ; Combigabel ;1928;; 7.26229 ; 46.625699 
+ CH-FR-1937 ; Col de l'Arpille ;1937;; 7.237608 ; 46.616212 
+ CH-FR-1956 ; Col du Curtillet ;1956;; 7.133953 ; 46.523902 
+ CH-FR-1973 ; Col de Cray ;1973;; 7.104846 ; 46.488853 
+ CH-FR-1996 ; Col de Bounavalette ;1996;; 7.142477 ; 46.535556 
+ CH-FR-2014 ; Selle du Gros Brun ;2014;; 7.249279 ; 46.623735 
+ CH-FR-2017b ; Porte de Savigny ;2017;; 7.222211 ; 46.546081 
+ CH-FR-2065 ; Teuschlismadsattel ;2065;; 7.303827 ; 46.640284 
+ CH-FR-2072 ; Kaisereggpass ;2072;; 7.31526 ; 46.64949 
+ CH-FR-2112 ; Col d'Entre Roches ;2112;; 7.169198 ; 46.548963 
+ CH-FR-2140 ; Selle des Morteys ;2128;; 7.154961 ; 46.538907 
+ CH-FR-2182 ; Col de l’Herbette ;2182;; 7.148173 ; 46.535669 
+ CH-FR-2235 ; Col du Plan de l'Ecri ;2235;; 7.139908 ; 46.517009 
+ CH-FR-2236 ; Col du Plan des Eaux ;2236;; 7.144357 ; 46.525548 
+ CH-FR-2316b ; Col de Boriere ;2316;; 7.148239 ; 46.530623 
+ CH-GL-0617 ; Sattel ;617;; 9.067205 ; 47.054549 
+ CH-GL-1259 ; Boggenhöhi ;1259;; 9.021336 ; 47.100319 
+ CH-GL-1431 ; Scheidegg ;1431;; 8.970933 ; 47.110206 
+ CH-GL-1535 ; Lochegg ;1535;; 9.010633 ; 47.116336 
+ CH-GL-1599 ; Furggeli ;1599;; 9.0373 ; 47.079432 
+ CH-GL-1610 ; Wänifurggel ;1610;; 8.995145 ; 47.118067 
+ CH-GL-1657 ; Furggeli ;1657;; 9.03976 ; 46.998651 
+ CH-GL-1703 ; Fedensattel ;1703;; 9.120831 ; 47.080803 
+ CH-GL-1748 ; Triinisloch ;1748;; 9.163724 ; 47.073689 
+ CH-GL-1778 ; Frohnalpscharte ;1778;; 9.115041 ; 47.07127 
+ CH-GL-1800c ; Schünaufurggelen ;1788;; 9.06728 ; 46.951721 
+ CH-GL-1806c ; Steinstossfurggeli ;1806;; 9.074891 ; 46.939314 
+ CH-GL-1809 ; Bockmattlipass ;1796;; 8.957174 ; 47.096669 
+ CH-GL-1814a ; Längeneggpass ;1814;; 8.958665 ; 47.047077 
+ CH-GL-1817 ; Furggeli ;1817;; 9.173064 ; 47.084363 
+ CH-GL-1840 ; Mürstschenfurggel ;1838;; 9.138946 ; 47.060185 
+ CH-GL-1861 ; Fronalppass ;1861;; 9.112762 ; 47.062837 
+ CH-GL-1866 ; Geisstritt ;1864;; 8.956037 ; 46.896991 
+ CH-GL-1875 ; Trüggliloch ;1875;; 9.01884 ; 46.904958 
+ CH-GL-1905b ; Furgge ;1904;; 8.956917 ; 47.089925 
+ CH-GL-1913 ; Matzlenfurggelen ;1913;; 9.093455 ; 46.949214 
+ CH-GL-1985 ; Murgseefurggel ;1984;; 9.148517 ; 47.044496 
+ CH-GL-2006 ; Kammsattel ;2006;; 9.026898 ; 46.893762 
+ CH-GL-2013 ; Widersteiner Furggel ;2008;; 9.155129 ; 47.029831 
+ CH-GL-2032 ; Sattel ;2032;; 9.005203 ; 46.986577 
+ CH-GL-2055 ; Gumensattel ;2055;; 9.000345 ; 47.055488 
+ CH-GL-2058 ; Furggle ;2058;; 9.036088 ; 47.017101 
+ CH-GL-2094 ; Dräcklochfurggel ;2094;; 8.947686 ; 46.980116 
+ CH-GL-2117 ; Pass des Gelb Chopf ;2117;; 9.13302 ; 46.933952 
+ CH-GL-2139 ; Scheyenfurggli ;2140;; 8.995974 ; 47.060027 
+ CH-GL-2141 ; Tor ;2141;; 9.021055 ; 47.062716 
+ CH-GL-2142a ; Fanenfurggeli ;2143;; 9.199048 ; 46.941881 
+ CH-GL-2150 ; Bösbächi Pass ;2150;; 8.962317 ; 46.954191 
+ CH-GL-2150b ; Torberglücke ;2150;; 8.938618 ; 47.045632 
+ CH-GL-2154 ; Gandfurggele ;2153;; 9.122389 ; 46.958509 
+ CH-GL-2160 ; Vordere Gandfurggele ;2162;; 9.120316 ; 46.961158 
+ CH-GL-2167 ; Walabützer Furggle ;2167;; 9.243371 ; 46.968814 
+ CH-GL-2189 ; Risetenpass ;2189;; 9.246573 ; 46.978031 
+ CH-GL-2206 ; Schönbüelfurggel ;2206;; 9.242876 ; 47.014709 
+ CH-GL-2212c ; Sunnenberg Furggele ;2212;; 9.087649 ; 46.929144 
+ CH-GL-2214 ; Rotärdpass ;2214;; 9.124411 ; 47.048496 
+ CH-GL-2223 ; Foopass ;2223;; 9.238162 ; 46.942803 
+ CH-GL-2235 ; Erdissattel ;2235;; 9.207776 ; 47.035806 
+ CH-GL-2250a ; Feldeggfurggle ;2244;; 9.24411 ; 46.982973 
+ CH-GL-2261a ; Richetlipass ;2261;; 9.067337 ; 46.898125 
+ CH-GL-2264 ; Heustockfurggel ;2264;; 9.127637 ; 47.033469 
+ CH-GL-2283 ; Fuggfurggle ;2283;; 9.203297 ; 46.985274 
+ CH-GL-2288 ; Kühtalsattel ;2288;; 9.055927 ; 46.914589 
+ CH-GL-2292b ; Wildmadfurggeli ;2292;; 9.122695 ; 46.937262 
+ CH-GL-2307 ; Klotalsattel ;2307;; 9.131009 ; 47.04068 
+ CH-GL-2320 ; Berglifurkel ;2320;; 9.123457 ; 46.948156 
+ CH-GL-2364 ; Hergen Sattel ;2364;; 8.938031 ; 46.868339 
+ CH-GL-2364a ; Furkle ;2377;; 9.120459 ; 46.932967 
+ CH-GL-2407 ; Pass dil Veptga ;2407;; 9.103831 ; 46.855852 
+ CH-GL-2425 ; Gassenfurggel ;2425;; 8.957881 ; 46.972954 
+ CH-GL-2435c ; Zeinenfurggel ;2435;; 8.978925 ; 46.98257 
+ CH-GL-2537a ; Beggilücke ;2537;; 8.932503 ; 46.8521 
+ CH-GL-2543 ; Furggeli ;2543;; 8.984602 ; 47.006245 
+ CH-GL-2611 ; Sether Furka ;2588;; 9.124238 ; 46.855391 
+ CH-GL-2612a ; Limmerenpass ;2612;; 9.006716 ; 46.811069 
+ CH-GL-2620 ; Bündnerbergjoch ;2610;; 9.183446 ; 46.87975 
+ CH-GL-2627a ; Pass dil Segnas ;2627;; 9.224584 ; 46.901897 
+ CH-GL-2638 ; Oberes Höchtor ;2638;; 9.020469 ; 47.011181 
+ CH-GL-2640f ; Kistenpass ;2501;; 9.023968 ; 46.82421 
+ CH-GL-2645 ; Chärpftor ;2638;; 9.08656 ; 46.915475 
+ CH-GL-2649 ; Chärpfscharte ;2644;; 9.093821 ; 46.918042 
+ CH-GL-2649d ; Mättlenfurggel ;2649;; 9.064827 ; 46.884574 
+ CH-GL-2650d ; Hintersulzlücke ;2650;; 9.034418 ; 46.870751 
+ CH-GL-2760a ; Grischsattel ;2760;; 9.205814 ; 46.885993 
+ CH-GL-2781d ; Sandpass ;2781;; 8.888538 ; 46.814384 
+ CH-GL-2799 ; Furkeli ;2799;; 9.012204 ; 47.006104 
+ CH-GL-2848 ; Gemsfairenjoch ;2848;; 8.909858 ; 46.860851 
+ CH-GL-2849 ; Griessloch ;2849;; 8.981474 ; 46.826987 
+ CH-GL-2850 ; Under Schibenjoch ;2850;; 9.252105 ; 46.926199 
+ CH-GL-2853d ; Muttenlücke ;2853;; 9.039701 ; 46.847231 
+ CH-GL-2904 ; Ober Schibenjoch ;2904;; 9.251001 ; 46.925001 
+ CH-GL-2905 ; Planura Pass ;2905;; 8.879781 ; 46.819165 
+ CH-GL-2919b ; Lücke Tüfels-Joch ;2919;; 8.898553 ; 46.852188 
+ CH-GL-2920a ; Bifertenlücke ;3035;; 8.95112 ; 46.802912 
+ CH-GL-2930 ; Vorabsattel ;2930;; 9.154867 ; 46.876079 
+ CH-GL-2943 ; Surenjoch ;2943;; 9.244425 ; 46.914182 
+ CH-GL-2955 ; Claridenpass ;2955;; 8.881404 ; 46.829365 
+ CH-GL-3001 ; Furkel ;3001;; 9.049136 ; 46.86718 
+ CH-GL-3050 ; Claridenjoch ;3050;; 8.878131 ; 46.844242 
+ CH-GL-3060 ; Reissenlücke ;3060;; 8.914072 ; 46.802605 
+ CH-GL-3260 ; Porta da Gliems ;3260;; 8.918379 ; 46.798662 
+ CH-GL-3352 ; Porta da Spescha ;3352;; 8.914054 ; 46.801012 
+ CH-GL-3371 ; Russeinpforte ;3371;; 8.915682 ; 46.805445 
+ CH-GR-0691 ; Sella ;691;; 9.415767 ; 46.818049 
+ CH-GR-0713 ; St. Luziensteig Pass ;716;; 9.529176 ; 47.028644 
+ CH-GR-0807 ; Sattel ;807;; 9.617411 ; 46.97221 
+ CH-GR-0872 ; Lücke ;872;; 9.325746 ; 46.798309 
+ CH-GR-0945 ; Höhe ;945;; 9.353619 ; 46.798403 
+ CH-GR-0977 ; Foppatälaloch ;977;; 9.311537 ; 46.797391 
+ CH-GR-0996 ; Furgge ;996;; 9.606161 ; 46.979127 
+ CH-GR-1060 ; Eggenhöhi ;1060;; 9.440598 ; 46.6786 
+ CH-GR-1203 ; Tritt ;1203;; 9.598329 ; 46.951784 
+ CH-GR-1331 ; Sattel ;1331;; 9.763114 ; 47.000996 
+ CH-GR-1340 ; Sturnenboden ;1340;; 9.5969 ; 46.943703 
+ CH-GR-1357 ; Kunkelspass ;1357;; 9.411557 ; 46.856265 
+ CH-GR-1448 ; Unter Sattel ;1451;; 9.857656 ; 46.892991 
+ CH-GR-1472 ; Forcella ;1472;; 9.567636 ; 46.332071 
+ CH-GR-1482 ; Furkla ;1482;; 9.602751 ; 46.926505 
+ CH-GR-1546b ; Lenzerheidepass ;1547;; 9.559107 ; 46.754215 
+ CH-GR-1616 ; Forcola ;1598;; 9.206248 ; 46.444429 
+ CH-GR-1631 ; Wolfgangpass ;1631;; 9.854037 ; 46.833012 
+ CH-GR-1649 ; Sella ;1649;; 9.108447 ; 46.205753 
+ CH-GR-1677b ; Sattel ;1718;; 9.599182 ; 46.918428 
+ CH-GR-1790 ; Passo del Maloja ;1815;; 9.6958 ; 46.400008 
+ CH-GR-1822 ; Sattel ;1822;; 9.75683 ; 46.966054 
+ CH-GR-1825 ; Passo delle Pecore ;1825;; 9.118156 ; 46.200795 
+ CH-GR-1846a ; Glaspass ;1846;; 9.348161 ; 46.677343 
+ CH-GR-1880b ; Chli Furgga ;1941;; 9.381448 ; 46.862296 
+ CH-GR-1904 ; Sattel ;1905;; 9.790643 ; 46.995826 
+ CH-GR-1915 ; Passo del Lucomagno ;1917;; 8.800927 ; 46.562885 
+ CH-GR-1936 ; Oberi Furggla ;1936;; 9.480252 ; 46.675476 
+ CH-GR-1940 ; Bocchetta di Valstorna ;1971;; 9.191103 ; 46.193704 
+ CH-GR-1948 ; La Furcella ;1948;; 9.701681 ; 46.384457 
+ CH-GR-1960 ; Unterer Sattel ;1960;; 9.48499 ; 46.919771 
+ CH-GR-1973a ; Bocchetta di Camedo ;1970;; 9.197576 ; 46.19596 
+ CH-GR-1987 ; Col da Piscee ;1994;; 10.087346 ; 46.377932 
+ CH-GR-1995 ; Chumapass ;1992;; 9.462224 ; 46.495547 
+ CH-GR-1999 ; Bischolpass ;1999;; 9.358226 ; 46.707084 
+ CH-GR-2000b ; Sattel ;1995;; 9.766944 ; 46.9492 
+ CH-GR-2002c ; Bocchetta Stagno ;2003;; 9.199634 ; 46.201498 
+ CH-GR-2003a ; Passo del Torrion ;2003;; 9.201083 ; 46.239087 
+ CH-GR-2015 ; Sattel ;2015;; 9.662353 ; 46.785159 
+ CH-GR-2020b ; Joch ;2020;; 9.570746 ; 46.805174 
+ CH-GR-2038 ; Fuorcla ;2038;; 9.160265 ; 46.665113 
+ CH-GR-2044a ; Bocchetta di Braghec ;2043;; 9.195882 ; 46.18482 
+ CH-GR-2044c ; Oberalppass ;2044;; 8.671106 ; 46.658642 
+ CH-GR-2044d ; Passo di Campel Alt ;2044;; 9.273106 ; 46.331062 
+ CH-GR-2045 ; Bocchetta di Cugn ;2045;; 9.15026 ; 46.171746 
+ CH-GR-2045b ; Mazorahöhi ;2044;; 9.553362 ; 47.054953 
+ CH-GR-2050 ; Luderer Fürggli ;2050;; 9.699231 ; 47.024842 
+ CH-GR-2055 ; Pawiger Fürggli ;2055;; 9.65132 ; 46.898967 
+ CH-GR-2058 ; Bocchetta Sud di Valstorna ;2057;; 9.195103 ; 46.192004 
+ CH-GR-2062 ; Fürggli ;2062;; 9.585643 ; 46.861938 
+ CH-GR-2065a ; Passo del San Bernardino ;2065;; 9.170485 ; 46.495989 
+ CH-GR-2066 ; Sattel ;2066;; 9.487539 ; 46.915685 
+ CH-GR-2075 ; Bocchetta de Cisterna ;2075;; 9.226859 ; 46.295009 
+ CH-GR-2082 ; Pass di Passit ;2082;; 9.168299 ; 46.44181 
+ CH-GR-2091 ; Scheidegg ;2091;; 9.670063 ; 46.803015 
+ CH-GR-2091a ; Chlei Fürggli ;2091;; 9.852044 ; 46.912232 
+ CH-GR-2095 ; Bocchetta del Notar ;2095;; 9.249276 ; 46.241573 
+ CH-GR-2102 ; Bocchetta del Lago ;2065;; 9.184404 ; 46.171061 
+ CH-GR-2108a ; Passo del Segnale di Vazzola ;2108;; 9.216547 ; 46.246043 
+ CH-GR-2109 ; Fürggli ;2109;; 9.616499 ; 47.019379 
+ CH-GR-2115b ; Splügenpass ;2114;; 9.330397 ; 46.50545 
+ CH-GR-2116 ; Fuorcla d'Ars ;2116;; 10.414005 ; 46.954014 
+ CH-GR-2116b ; Furcletta ;2095;; 9.25448 ; 46.700326 
+ CH-GR-2117a ; Durannapass ;2117;; 9.783104 ; 46.860317 
+ CH-GR-2117b ; Pass Giümela ;2117;; 9.094067 ; 46.372196 
+ CH-GR-2122b ; Girenfürggli ;2139;; 9.753108 ; 47.025774 
+ CH-GR-2123 ; Bocchetta del Lago ;2121;; 9.179778 ; 46.16936 
+ CH-GR-2128 ; Golrosa ;2128;; 9.743872 ; 47.031648 
+ CH-GR-2128a ; Bucca da la Sella ;2128;; 10.324148 ; 46.63659 
+ CH-GR-2136 ; Pass dal Caval ;2136;; 9.696573 ; 46.383569 
+ CH-GR-2137 ; Lärtschfürggli ;2137;; 9.807186 ; 46.982032 
+ CH-GR-2139 ; Schweizer Tor ;2137;; 9.78436 ; 47.03854 
+ CH-GR-2141b ; Blackter Fürggli ;2141;; 9.727355 ; 46.83589 
+ CH-GR-2143 ; Fuorcla ;2143;; 10.224776 ; 46.75583 
+ CH-GR-2145a ; Bocca d'Vegeina ;2145;; 9.145774 ; 46.298907 
+ CH-GR-2145b ; Bocchetta d'Egion ;2145;; 9.252735 ; 46.28505 
+ CH-GR-2149b ; Ofenpass ;2149;; 10.292575 ; 46.639808 
+ CH-GR-2150a ; Pass Tiarms ;2137;; 8.679768 ; 46.663136 
+ CH-GR-2157 ; Sattel ;2157;; 9.72504 ; 46.786035 
+ CH-GR-2157a ; Bocchetta del Büscenel ;2157;; 9.144084 ; 46.3899 
+ CH-GR-2158 ; Farcletta da Dasch ;2158;; 9.410821 ; 46.664785 
+ CH-GR-2161 ; Bocchetta de Trescolmen ;2161;; 9.1832 ; 46.400057 
+ CH-GR-2165 ; Bocchetta de Gaigela ;2165;; 9.190695 ; 46.375188 
+ CH-GR-2166 ; Furgga ;2166;; 9.59964 ; 46.867793 
+ CH-GR-2167a ; Passo del Scengio ;2167;; 9.461909 ; 46.482568 
+ CH-GR-2179 ; Fürggli ;2179;; 9.746337 ; 47.034793 
+ CH-GR-2179b ; Fuorcla Curschiglias ;2127;; 10.406825 ; 46.952067 
+ CH-GR-2188b ; Fadurer Fürggli ;2188;; 9.731316 ; 47.027355 
+ CH-GR-2191 ; Passo Gagèrn ;2191;; 9.058455 ; 46.280846 
+ CH-GR-2199 ; Fuorcla da Ranasca ;2231;; 9.137569 ; 46.841032 
+ CH-GR-2199a ; Lücke ;2199;; 9.394609 ; 46.657443 
+ CH-GR-2201 ; Passo dei Contrabbandieri ;2210;; 9.250682 ; 46.249937 
+ CH-GR-2202 ; Schlappiner Joch ;2203;; 9.90799 ; 46.92496 
+ CH-GR-2208 ; Bocchetta d'Agnon ;2173;; 9.218579 ; 46.243509 
+ CH-GR-2212a ; Wetterloch ;2212;; 9.792999 ; 46.854399 
+ CH-GR-2212b ; Faninpass ;2212;; 9.695668 ; 46.862032 
+ CH-GR-2221 ; Carschinafurgga ;2221;; 9.826024 ; 47.007019 
+ CH-GR-2224a ; Col d'Anzana ;2224;; 10.078653 ; 46.223331 
+ CH-GR-2226b ; Forcola ;2225;; 9.296768 ; 46.324063 
+ CH-GR-2226c ; Tilisunafürggli ;2226;; 9.87358 ; 47.02154 
+ CH-GR-2229 ; Bocchetta de Forcolet ;2229;; 9.182483 ; 46.359128 
+ CH-GR-2232 ; Gruobenpass ;2241;; 9.88032 ; 47.01782 
+ CH-GR-2233b ; Casannapass ;2233;; 9.79644 ; 46.853294 
+ CH-GR-2235 ; Col da Salarsa ;2235;; 10.097817 ; 46.228057 
+ CH-GR-2235a ; Passo dello Stagn ;2235;; 9.190736 ; 46.215349 
+ CH-GR-2239 ; Cavelljoch ;2239;; 9.7518 ; 47.03678 
+ CH-GR-2242b ; Tüf Furgga ;2242;; 9.571487 ; 47.038942 
+ CH-GR-2243 ; Salarueljoch ;2245;; 9.65672 ; 47.05828 
+ CH-GR-2247 ; Astser Fürggli ;2247;; 9.715424 ; 46.857024 
+ CH-GR-2247a ; Arflinafurgga ;2247;; 9.702572 ; 46.860861 
+ CH-GR-2247b ; Fläscher Fürggli ;2247;; 9.566374 ; 47.044436 
+ CH-GR-2248 ; Bocchetta de Sambrog ;2247;; 9.250709 ; 46.258134 
+ CH-GR-2251 ; Pass da Costainas ;2251;; 10.367812 ; 46.646268 
+ CH-GR-2255a ; Fürggli ;2255;; 9.824525 ; 46.93636 
+ CH-GR-2255b ; Kanonensattel ;2241;; 9.658973 ; 46.504838 
+ CH-GR-2260 ; Bocchetta di Vedrign ;2260;; 9.093476 ; 46.361318 
+ CH-GR-2260a ; Bocchetta Sud de Sambrog ;2260;; 9.249083 ; 46.256441 
+ CH-GR-2261 ; Pass de Buffalora ;2261;; 9.156396 ; 46.347514 
+ CH-GR-2270 ; Bocchetta di Agnon ;2269;; 9.233351 ; 46.232532 
+ CH-GR-2279 ; Fuorcla del Gal ;2279;; 10.255489 ; 46.615348 
+ CH-GR-2280a ; Bocchetta de Cressim ;2244;; 9.238247 ; 46.26886 
+ CH-GR-2284 ; Julierpass ;2284;; 9.728015 ; 46.472302 
+ CH-GR-2285 ; Farcletta da Stavlatsch ;2277;; 9.389423 ; 46.656785 
+ CH-GR-2290 ; Fürggli ;2290;; 9.657678 ; 46.865026 
+ CH-GR-2292a ; Fuorcla dalla Buora ;2292;; 8.883435 ; 46.636354 
+ CH-GR-2294a ; Forcola de Strem ;2294;; 9.267807 ; 46.28209 
+ CH-GR-2294b ; Pass da Niemet ;2281;; 9.38974 ; 46.47315 
+ CH-GR-2296 ; Passo della Cruschetta ;2291;; 10.394195 ; 46.690991 
+ CH-GR-2297 ; Öfen-Stelli-Joch ;2297;; 9.583434 ; 46.784824 
+ CH-GR-2300 ; Fuorcla ;2300;; 10.356012 ; 46.960214 
+ CH-GR-2300a ; Furschela ;2292;; 9.605923 ; 46.50697 
+ CH-GR-2300b ; Tritt ;2300;; 9.762844 ; 46.798924 
+ CH-GR-2303 ; Mot Fuorcla ;2303;; 10.216918 ; 46.751764 
+ CH-GR-2307 ; Passo del Bernina ;2328;; 10.028082 ; 46.411129 
+ CH-GR-2308 ; Strassberger Fürggli ;2308;; 9.758618 ; 46.861447 
+ CH-GR-2310 ; Pass da Sett ;2310;; 9.636876 ; 46.418669 
+ CH-GR-2312 ; Albulapass ;2312;; 9.838016 ; 46.582528 
+ CH-GR-2313a ; Fürggli ;2313;; 9.819301 ; 46.99636 
+ CH-GR-2315a ; Barthümeljoch ;2315;; 9.62389 ; 47.0525 
+ CH-GR-2315c ; Forcola di Livigno ;2313;; 10.056182 ; 46.440896 
+ CH-GR-2319b ; Grüen Fürggli ;2319;; 9.86656 ; 47.02159 
+ CH-GR-2320 ; Fürggli ;2320;; 9.820064 ; 46.992195 
+ CH-GR-2320a ; Bocchetta di Caurit ;2354;; 9.208905 ; 46.210054 
+ CH-GR-2322a ; Bocchetta de Lenden ;2324;; 9.293416 ; 46.332414 
+ CH-GR-2323b ; Wit Furgga ;2321;; 9.725542 ; 46.84569 
+ CH-GR-2327 ; Bocchetta di Mùggiolo Sud ;2327;; 9.21969 ; 46.219207 
+ CH-GR-2327a ; Pass da Schlingia ;2295;; 10.423092 ; 46.745339 
+ CH-GR-2327b ; Hohe Furka ;2327;; 9.574416 ; 47.037142 
+ CH-GR-2340 ; Gamsluggen ;2374;; 9.72919 ; 47.04334 
+ CH-GR-2340a ; Bocchetta de Brion ;2340;; 9.22825 ; 46.280491 
+ CH-GR-2342 ; Drusator ;2342;; 9.82528 ; 47.01833 
+ CH-GR-2347a ; Chrüzlipass ;2347;; 8.748179 ; 46.722469 
+ CH-GR-2347b ; Furcletta ;2347;; 9.515754 ; 46.616226 
+ CH-GR-2348 ; Ijesfürggli ;2347;; 9.594777 ; 47.057736 
+ CH-GR-2348a ; Passo Valüglia ;2348;; 10.082568 ; 46.249711 
+ CH-GR-2350a ; Furcletta Dafora ;2350;; 9.634227 ; 46.632855 
+ CH-GR-2350b ; Strelapass ;2348;; 9.796242 ; 46.81316 
+ CH-GR-2351 ; Buffalorapass ;2351;; 10.270847 ; 46.614525 
+ CH-GR-2354 ; Plasseggenpass ;2354;; 9.88194 ; 47.00306 
+ CH-GR-2357 ; Il Bass ;2357;; 9.059471 ; 46.680735 
+ CH-GR-2357a ; Lückli ;2325;; 9.303108 ; 46.745413 
+ CH-GR-2357b ; Passo della Greina ;2357;; 8.959773 ; 46.610527 
+ CH-GR-2357c ; La Siala ;2357;; 9.054514 ; 46.814731 
+ CH-GR-2358 ; Fürggli ;2358;; 9.917999 ; 46.881528 
+ CH-GR-2359 ; Gross Furgga ;2353;; 9.64158 ; 47.056 
+ CH-GR-2360 ; Mittaglücke ;2360;; 9.667504 ; 46.761796 
+ CH-GR-2365 ; Sattel ;2362;; 9.449314 ; 46.873262 
+ CH-GR-2365a ; Uf dr Licka ;2365;; 9.487592 ; 46.649122 
+ CH-GR-2365b ; Passo Val della Neve ;2365;; 9.635164 ; 46.334308 
+ CH-GR-2366a ; Bocchetta di Pianca Geneura ;2366;; 9.067881 ; 46.331277 
+ CH-GR-2367 ; Carmennapass ;2367;; 9.633681 ; 46.783374 
+ CH-GR-2367a ; Bocchetta del Caminetto ;2367;; 9.247644 ; 46.233438 
+ CH-GR-2368 ; Bocchetta di Mùggiolo Nord ;2348;; 9.220824 ; 46.221771 
+ CH-GR-2369 ; Bocchetta da la Furcela ;2369;; 9.615755 ; 46.38263 
+ CH-GR-2373 ; Passo Vignone ;2373;; 9.243318 ; 46.500695 
+ CH-GR-2375a ; Bocchetta de Setag ;2374;; 9.284969 ; 46.299817 
+ CH-GR-2378 ; Siala Dado ;2378;; 9.057406 ; 46.811973 
+ CH-GR-2379 ; Sankt-Antönier Joch ;2379;; 9.87349 ; 46.96567 
+ CH-GR-2380a ; Bocchetta del Valon ;2366;; 9.246869 ; 46.232362 
+ CH-GR-2380b ; Schaffürggli ;2380;; 9.872915 ; 46.916938 
+ CH-GR-2383 ; Kanzeljoch ;2384;; 9.74211 ; 47.04172 
+ CH-GR-2383a ; Flüelapass ;2383;; 9.950672 ; 46.748155 
+ CH-GR-2383b ; Fuorcla da Sagogn ;2383;; 9.168541 ; 46.853272 
+ CH-GR-2383c ; Scheideggen ;2383;; 9.582203 ; 46.791083 
+ CH-GR-2389b ; Sarotlapass ;2389;; 9.88956 ; 46.99662 
+ CH-GR-2392 ; Furcla digl Vizan ;2392;; 9.378911 ; 46.598458 
+ CH-GR-2397 ; Bocchetta di Groven ;2397;; 9.161528 ; 46.335199 
+ CH-GR-2398 ; Pass Cristallina ;2398;; 8.889252 ; 46.57913 
+ CH-GR-2399 ; Furschela da Colm ;2399;; 9.677234 ; 46.56824 
+ CH-GR-2399a ; Fuorcla da Negias ;2399;; 9.061589 ; 46.620728 
+ CH-GR-2399b ; Pass Tagliola ;2399;; 8.678186 ; 46.614121 
+ CH-GR-2400a ; Bocca de Rogna ;2400;; 9.16349 ; 46.42566 
+ CH-GR-2401d ; Sattelhütte ;2401;; 9.64755 ; 46.79413 
+ CH-GR-2404c ; Viereggerpass ;2405;; 9.88456 ; 46.98438 
+ CH-GR-2406 ; Pass da lan Traversa ;2406;; 9.6741 ; 46.406242 
+ CH-GR-2409c ; Latschüelfurgga ;2405;; 9.777264 ; 46.801761 
+ CH-GR-2410 ; Bocchetta Dermone Sud ;2416;; 9.216444 ; 46.212716 
+ CH-GR-2412a ; Bocchetta de la Bedoleta ;2412;; 9.158768 ; 46.408033 
+ CH-GR-2412b ; Tomülpass ;2412;; 9.243788 ; 46.609797 
+ CH-GR-2415 ; Gafier Joch ;2415;; 9.87654 ; 46.94417 
+ CH-GR-2416 ; Bocchetta di Mogna ;2411;; 9.221767 ; 46.225256 
+ CH-GR-2416a ; Sattel ;2416;; 9.516342 ; 46.753778 
+ CH-GR-2418a ; Bocchetta Dermone Nord ;2397;; 9.217831 ; 46.213909 
+ CH-GR-2420a ; Bocchetta de Curciusa ;2420;; 9.235927 ; 46.453896 
+ CH-GR-2420b ; Fuorcla Funtana da S-Charl ;2393;; 10.330991 ; 46.649433 
+ CH-GR-2420c ; Pass d'Arsa ;2420;; 9.255633 ; 46.268843 
+ CH-GR-2421 ; Pass Maighels ;2421;; 8.680094 ; 46.594848 
+ CH-GR-2421a ; Fuorcla Ravetsch ;2421;; 8.700331 ; 46.619258 
+ CH-GR-2427 ; Schiesshorn Furgga ;2427;; 9.705811 ; 46.763102 
+ CH-GR-2427a ; Martiroz Furgga ;2427;; 9.661888 ; 46.733891 
+ CH-GR-2428a ; Pass Diesrut ;2428;; 9.02451 ; 46.636546 
+ CH-GR-2429b ; Breitfurgga ;2429;; 9.88276 ; 46.97923 
+ CH-GR-2431 ; Farurfurgga ;2431;; 9.594521 ; 46.780341 
+ CH-GR-2435a ; Fuorcla Minor ;2435;; 10.037458 ; 46.428915 
+ CH-GR-2435b ; Parsennfurgga ;2435;; 9.812249 ; 46.848872 
+ CH-GR-2436a ; Maienfelder Furgga ;2436;; 9.733479 ; 46.770387 
+ CH-GR-2437 ; Furcletta ;2437;; 9.339977 ; 46.640984 
+ CH-GR-2438 ; Bocchetta Rotonda ;2428;; 9.090738 ; 46.355059 
+ CH-GR-2440 ; Bocchetta dal Meden ;2437;; 10.060214 ; 46.223608 
+ CH-GR-2450 ; Pass Siala d'Alpetta ;2450;; 8.872891 ; 46.742544 
+ CH-GR-2453c ; Pass da Fless ;2453;; 10.023022 ; 46.795023 
+ CH-GR-2453d ; Fuorcla da Garviel ;2453;; 8.835202 ; 46.602137 
+ CH-GR-2453e ; Furcletta Davains ;2453;; 9.647189 ; 46.633549 
+ CH-GR-2455 ; Pass de la Cruseta ;2455;; 9.161575 ; 46.428866 
+ CH-GR-2456 ; Passo Confine ;2455;; 10.147952 ; 46.418102 
+ CH-GR-2457 ; Bocchetta de Calvaresc ;2457;; 9.168912 ; 46.367209 
+ CH-GR-2458 ; Pass de la Pioda ;2459;; 9.283537 ; 46.305437 
+ CH-GR-2460 ; Pass da Cancian ;2463;; 9.996578 ; 46.298276 
+ CH-GR-2466 ; Fuorcla Crap-Alv ;2466;; 9.797358 ; 46.566099 
+ CH-GR-2468c ; Leidfluefurgga ;2468;; 9.679804 ; 46.745806 
+ CH-GR-2470 ; Güner Lückli ;2470;; 9.286487 ; 46.709214 
+ CH-GR-2473 ; Bocchetta de Mezz ;2473;; 9.17051 ; 46.36309 
+ CH-GR-2476a ; Pass La Stretta ;2465;; 10.052532 ; 46.461583 
+ CH-GR-2479a ; Bocchetta di Piöv di Fuori ;2479;; 9.071056 ; 46.320209 
+ CH-GR-2479d ; Wenglilücke ;2478;; 9.176432 ; 46.547321 
+ CH-GR-2482 ; La Sella ;2482;; 10.17357 ; 46.749166 
+ CH-GR-2483 ; Bocchetta di Fredolan ;2483;; 9.28673 ; 46.348945 
+ CH-GR-2485a ; Pass da Val Viola ;2470;; 10.148182 ; 46.413839 
+ CH-GR-2486 ; Col du Loechliberg ;2486;; 9.264756 ; 46.578482 
+ CH-GR-2489a ; Carnäirajoch ;2489;; 9.98138 ; 46.9113 
+ CH-GR-2490a ; Bocchetta della Tegiola ;2489;; 9.54958 ; 46.30237 
+ CH-GR-2491a ; Fuorcla Gualdauna ;2491;; 9.894547 ; 46.597161 
+ CH-GR-2491b ; Alteiner Fürggli ;2491;; 9.715118 ; 46.748122 
+ CH-GR-2492 ; Fuorcla dils Sax ;2492;; 9.276094 ; 46.9072 
+ CH-GR-2497 ; Alptrider Eck ;2497;; 10.363087 ; 46.971573 
+ CH-GR-2499 ; Alptrider Sattel ;2486;; 10.368649 ; 46.97036 
+ CH-GR-2499a ; Bocchetta d'Emmat ;2499;; 9.684519 ; 46.441728 
+ CH-GR-2500b ; Fuorcla da Lavaz ;2500;; 8.914554 ; 46.639913 
+ CH-GR-2501 ; Pass Umbrail ;2501;; 10.433205 ; 46.541617 
+ CH-GR-2504 ; Valserbergpass ;2504;; 9.198318 ; 46.55465 
+ CH-GR-2509a ; Areuapass ;2509;; 9.278262 ; 46.510176 
+ CH-GR-2509b ; Bocchetta del Lago ;2509;; 9.066767 ; 46.30493 
+ CH-GR-2509c ; Sattel ;2509;; 9.042488 ; 46.694328 
+ CH-GR-2510 ; Passo di Padion ;2509;; 9.284062 ; 46.311727 
+ CH-GR-2512 ; Bocchetta Vanni ;2552;; 9.55205 ; 46.303449 
+ CH-GR-2512a ; Pass d'Ur ;2492;; 10.001011 ; 46.303054 
+ CH-GR-2512b ; Fürggli ;2512;; 9.790121 ; 46.826066 
+ CH-GR-2514 ; Teuf Furgga ;2482;; 9.93683 ; 46.9135 
+ CH-GR-2514a ; Pass Ovest dell'Alta Burasca ;2514;; 9.16525 ; 46.409815 
+ CH-GR-2515 ; Fuorcla Starlera ;2515;; 9.523252 ; 46.510983 
+ CH-GR-2516a ; Fuorcla Cotschna ;2514;; 9.49937 ; 46.535896 
+ CH-GR-2516b ; Fuorcla dal Val Aulta ;2516;; 8.806683 ; 46.635772 
+ CH-GR-2518b ; Passo dei Rossi ;2515;; 9.460286 ; 46.441869 
+ CH-GR-2519 ; Schwifurgga ;2519;; 9.752023 ; 46.787427 
+ CH-GR-2520 ; Fuorcla da Funtauna ;2615;; 9.874732 ; 46.646214 
+ CH-GR-2528b ; Fuorcla da Gavirolas ;2528;; 9.068587 ; 46.834577 
+ CH-GR-2530 ; Forcla ;2530;; 9.480298 ; 46.611387 
+ CH-GR-2531 ; Bodmenfurgga ;2531;; 9.745056 ; 46.781682 
+ CH-GR-2531b ; Bärenlücke ;2531;; 9.236559 ; 46.584807 
+ CH-GR-2535 ; Männersattel ;2535;; 9.454417 ; 46.877419 
+ CH-GR-2535a ; Bocchetta Alta ;2535;; 9.068306 ; 46.338919 
+ CH-GR-2535b ; Fuorcla da Cavel ;2535;; 9.017616 ; 46.662104 
+ CH-GR-2535c ; Fuorcla Lunga ;2534;; 10.432353 ; 46.797227 
+ CH-GR-2535d ; Schaftällifurgga ;2535;; 9.987765 ; 46.895942 
+ CH-GR-2537b ; Fuorcla da Grialetsch ;2537;; 9.95852 ; 46.711864 
+ CH-GR-2539b ; Zeblasjoch ;2539;; 10.30887 ; 46.93756 
+ CH-GR-2541 ; Spatlasattel ;2541;; 10.395377 ; 46.985759 
+ CH-GR-2542 ; Forcola di Sassiglione ;2540;; 10.109872 ; 46.327772 
+ CH-GR-2545 ; Fuorcla Murter ;2545;; 10.134753 ; 46.66037 
+ CH-GR-2546a ; Mullersattel ;2546;; 10.374774 ; 46.986172 
+ CH-GR-2546b ; Urdenfürggli ;2546;; 9.598587 ; 46.765776 
+ CH-GR-2547 ; Fuorcla dal Lunghin ;2547;; 9.683557 ; 46.417854 
+ CH-GR-2548 ; Pass de Barna ;2547;; 9.281353 ; 46.409149 
+ CH-GR-2549 ; Passo delle Zocane ;2549;; 9.248025 ; 46.441503 
+ CH-GR-2550a ; Bocchetta di Portola ;2451;; 9.220863 ; 46.227727 
+ CH-GR-2551 ; Chlein Wasserscheidi ;2551;; 9.805944 ; 46.837942 
+ CH-GR-2551b ; Fuorcla Raschaglius ;2551;; 9.258239 ; 46.887825 
+ CH-GR-2554b ; Schijenfurgga ;2554;; 9.99522 ; 46.8843 
+ CH-GR-2555 ; Valbella Furgga ;2555;; 9.696339 ; 46.738956 
+ CH-GR-2557 ; Passo Est dell'Alta Burasca ;2557;; 9.178835 ; 46.410778 
+ CH-GR-2558 ; Bocchetta di Simidi ;2558;; 9.060157 ; 46.297008 
+ CH-GR-2559 ; Gemschlücke ;2559;; 9.35389 ; 46.657163 
+ CH-GR-2561 ; Jöriflesspass ;2561;; 9.987921 ; 46.773312 
+ CH-GR-2562b ; Passo del Muretto ;2559;; 9.733725 ; 46.348804 
+ CH-GR-2564 ; Pass da Schmorras ;2564;; 9.499146 ; 46.553987 
+ CH-GR-2568c ; Tällifurgga ;2568;; 9.86907 ; 46.744856 
+ CH-GR-2569a ; Bocchetta di Braga ;2569;; 10.125907 ; 46.310741 
+ CH-GR-2569b ; Sella da Ravais-ch ;2547;; 9.870775 ; 46.678203 
+ CH-GR-2569c ; Pass di Lai Ner ;2567;; 9.372356 ; 46.489285 
+ CH-GR-2572b ; Gulerigen Furgga ;2572;; 9.905209 ; 46.779269 
+ CH-GR-2573 ; Furcletta ;2573;; 9.623126 ; 46.726613 
+ CH-GR-2578 ; Sattel der Falla Lenn ;2578;; 9.039666 ; 46.825332 
+ CH-GR-2580 ; Stallerberg ;2580;; 9.599019 ; 46.448284 
+ CH-GR-2580a ; Fanezfurgga ;2578;; 9.822613 ; 46.692018 
+ CH-GR-2580b ; Fuorcla da Tuma ;2580;; 8.730934 ; 46.625141 
+ CH-GR-2580c ; Pass de la Sancia ;2578;; 9.280325 ; 46.3988 
+ CH-GR-2582a ; Pass da Suretta ;2579;; 9.369349 ; 46.497029 
+ CH-GR-2583 ; Mäschenfurgga ;2583;; 9.80794 ; 46.679545 
+ CH-GR-2585 ; Furcla Sur Carungas ;2585;; 9.522923 ; 46.575241 
+ CH-GR-2585b ; Vereinapass ;2585;; 10.043149 ; 46.797941 
+ CH-GR-2586a ; Forcola da la Valletta ;2586;; 9.605459 ; 46.431873 
+ CH-GR-2586b ; Forcola di Mezzo ;2584;; 10.443671 ; 46.799666 
+ CH-GR-2586d ; Fuorcla Cotschna ;2586;; 9.024016 ; 46.641951 
+ CH-GR-2586f ; Rinderpirglückli ;2586;; 9.241769 ; 46.639297 
+ CH-GR-2588a ; Bocchetta da Vartegna ;2585;; 10.038458 ; 46.273632 
+ CH-GR-2588b ; Fuorcla Dancler ;2588;; 9.784963 ; 46.563116 
+ CH-GR-2588c ; Fuorcla da Siat ;2587;; 9.133975 ; 46.855139 
+ CH-GR-2588d ; Pass de Ganan ;2588;; 9.170286 ; 46.37767 
+ CH-GR-2589 ; Fuorcla Laschadurella ;2589;; 10.184076 ; 46.708634 
+ CH-GR-2590 ; Farcletta digl Lai Pintg ;2585;; 9.338285 ; 46.597686 
+ CH-GR-2592c ; Surettalückli ;2592;; 9.361878 ; 46.525888 
+ CH-GR-2593 ; La Scharta ;2592;; 10.489684 ; 46.610072 
+ CH-GR-2593a ; Fuorcla da Stavelatsch ;2593;; 8.933996 ; 46.658014 
+ CH-GR-2593b ; Pass dals Gips ;2593;; 10.280035 ; 46.908091 
+ CH-GR-2594 ; Passo Saline ;2593;; 10.034547 ; 46.275162 
+ CH-GR-2602b ; Passo dell'Arasè ;2600;; 10.058631 ; 46.253761 
+ CH-GR-2602c ; Rätschajoch ;2602;; 9.858419 ; 46.933354 
+ CH-GR-2602d ; Tomüllückli ;2602;; 9.21737 ; 46.626319 
+ CH-GR-2603b ; Fuorcla Paradis ;2603;; 8.735102 ; 46.608359 
+ CH-GR-2603c ; Bärentaler Furgga ;2561;; 9.720352 ; 46.754857 
+ CH-GR-2605 ; Carnusapass ;2605;; 9.345232 ; 46.635497 
+ CH-GR-2606 ; Scalettapass ;2606;; 9.92035 ; 46.692767 
+ CH-GR-2606a ; Luggen ;2608;; 9.471864 ; 46.903295 
+ CH-GR-2607 ; Fuorcla Crap Ner ;2562;; 8.908601 ; 46.760578 
+ CH-GR-2608 ; Cuolmen d'Fenga ;2608;; 10.278098 ; 46.896302 
+ CH-GR-2612b ; Madrisajoch ;2612;; 9.87705 ; 46.93637 
+ CH-GR-2613a ; Juonen Fürggli ;2613;; 9.87954 ; 46.93869 
+ CH-GR-2614 ; Alperschällilücke ;2614;; 9.309425 ; 46.59362 
+ CH-GR-2615b ; Pass Suvretta ;2615;; 9.769582 ; 46.508985 
+ CH-GR-2617 ; Gredigs Fürggli ;2615;; 9.599483 ; 46.755455 
+ CH-GR-2618 ; Fuorcla ;2618;; 10.007808 ; 46.590159 
+ CH-GR-2619a ; Bocchetta Malgina ;2618;; 10.053708 ; 46.235838 
+ CH-GR-2619c ; Fuorcla da Saletscha ;2615;; 9.499384 ; 46.51914 
+ CH-GR-2619d ; Fuorcla Lischeias ;2619;; 9.121802 ; 46.63371 
+ CH-GR-2619e ; Fuorcla Sassalba ;2619;; 10.388287 ; 46.635837 
+ CH-GR-2619f ; Kunterbandfurgga ;2619;; 9.97294 ; 46.91483 
+ CH-GR-2620a ; Pass Cotschen ;2620;; 9.751905 ; 46.447609 
+ CH-GR-2620b ; Senetrizfurgga ;2618;; 9.876427 ; 46.726609 
+ CH-GR-2621a ; Ochsenfurggla ;2621;; 9.372758 ; 46.88986 
+ CH-GR-2627c ; Sella da Pülschezza ;2627;; 10.02925 ; 46.699748 
+ CH-GR-2628a ; Imhofsattel ;2628;; 9.79289 ; 47.03142 
+ CH-GR-2628b ; Pass d'Uffiern ;2628;; 8.915439 ; 46.595816 
+ CH-GR-2628c ; Pass da Canfinal ;2625;; 9.983875 ; 46.328138 
+ CH-GR-2628d ; Passo dei Guinzana ;2628;; 10.144995 ; 46.29629 
+ CH-GR-2629 ; Wasserscheide ;2629;; 9.802779 ; 46.834255 
+ CH-GR-2629a ; Fuorcla da Vallesa ;2629;; 8.911953 ; 46.664284 
+ CH-GR-2629b ; Schildfurgga ;2629;; 9.943483 ; 46.883915 
+ CH-GR-2630b ; Fuorcla Melnetta ;2630;; 9.826862 ; 46.572323 
+ CH-GR-2630c ; Fuorcla Starlex ;2629;; 10.395803 ; 46.653043 
+ CH-GR-2631 ; Sattel ;2631;; 9.643423 ; 46.746128 
+ CH-GR-2631a ; Passo Bornengo ;2613;; 8.68301 ; 46.579791 
+ CH-GR-2634 ; Call del Foräät ;2636;; 9.287536 ; 46.357183 
+ CH-GR-2634a ; Chrachenlücke ;2634;; 9.283822 ; 46.582727 
+ CH-GR-2634b ; Fuorcla Serenastga ;2634;; 9.145033 ; 46.637233 
+ CH-GR-2634c ; Passo del Ramulazz ;2614;; 9.091398 ; 46.403241 
+ CH-GR-2636 ; Äussere Scharte ;2635;; 10.455755 ; 46.821609 
+ CH-GR-2637b ; Eisjöchl ;2638;; 9.80615 ; 47.02502 
+ CH-GR-2638 ; Fuorcla Vallatscha ;2638;; 8.831734 ; 46.590663 
+ CH-GR-2638a ; Plattner Lücka ;2638;; 9.499575 ; 46.496063 
+ CH-GR-2640 ; Pass da Surcrunas ;2640;; 9.495127 ; 46.581398 
+ CH-GR-2640d ; Fuorcla da Cavardiras ;2624;; 8.812009 ; 46.741547 
+ CH-GR-2640e ; Fuorcla Pradatsch ;2640;; 10.369546 ; 46.874372 
+ CH-GR-2640g ; Pass da Surcarungas ;2642;; 9.495663 ; 46.577312 
+ CH-GR-2641 ; Riner Furgga ;2641;; 9.881475 ; 46.720165 
+ CH-GR-2642 ; Furcletta Dafora Soura ;2642;; 9.634277 ; 46.622514 
+ CH-GR-2644 ; Schottenseefürggli ;2644;; 9.999971 ; 46.893104 
+ CH-GR-2645 ; Pass Lunghin ;2645;; 9.663602 ; 46.413558 
+ CH-GR-2646 ; Bassa digl Piz da Mez ;2646;; 9.52952 ; 46.527165 
+ CH-GR-2647b ; Grubenjoch ;2645;; 10.465512 ; 46.835133 
+ CH-GR-2649a ; Bocchetta da Lägh ;2650;; 9.475774 ; 46.370808 
+ CH-GR-2649b ; Büelenfurgga ;2649;; 9.773545 ; 46.670355 
+ CH-GR-2649c ; Fuorcla da Ramosa ;2649;; 9.023642 ; 46.649244 
+ CH-GR-2650b ; Lückli ;2650;; 9.222027 ; 46.5656 
+ CH-GR-2652a ; Fergenfurgga ;2652;; 9.972798 ; 46.876474 
+ CH-GR-2652b ; Pass de Omenit ;2652;; 9.139029 ; 46.456829 
+ CH-GR-2653 ; Fuorcla da Spegnas ;2653;; 9.590158 ; 46.535635 
+ CH-GR-2653a ; Bocchetta da Valalta ;2655;; 10.131762 ; 46.307542 
+ CH-GR-2657a ; Stammerjoch ;2657;; 10.348285 ; 46.919292 
+ CH-GR-2658a ; Fuorcla Curtegns ;2661;; 9.532312 ; 46.502934 
+ CH-GR-2658b ; Passo Rovano ;2657;; 10.10613 ; 46.331218 
+ CH-GR-2659a ; Farcletta digl Lai Grand ;2659;; 9.312861 ; 46.608005 
+ CH-GR-2659b ; Pass Casatscha ;2659;; 8.850614 ; 46.567488 
+ CH-GR-2660 ; Gipsfurka ;2660;; 9.802121 ; 46.678055 
+ CH-GR-2660c ; Pass Portun ;2631;; 10.170593 ; 46.267429 
+ CH-GR-2660d ; Westliches Visnitzjoch ;2677;; 10.36828 ; 46.99083 
+ CH-GR-2661a ; Fuorcla da Puozas ;2661;; 8.795606 ; 46.626368 
+ CH-GR-2661b ; Passo del Pizzo Forato ;2647;; 9.280498 ; 46.36249 
+ CH-GR-2663 ; Tiejer Fürggli ;2663;; 9.738629 ; 46.780588 
+ CH-GR-2664 ; Passo Canal Nord ;2664;; 9.024047 ; 46.619431 
+ CH-GR-2667a ; Passo di Garde ;2666;; 10.019729 ; 46.279101 
+ CH-GR-2667b ; Fuorcla digl Ducan ;2667;; 9.820873 ; 46.682245 
+ CH-GR-2670 ; Fuorcla Canal ;2665;; 9.025304 ; 46.617775 
+ CH-GR-2671 ; Pass da Val Mera ;2670;; 10.092083 ; 46.422663 
+ CH-GR-2672a ; Forcellina ;2672;; 9.610156 ; 46.420471 
+ CH-GR-2672b ; Fuorcla di Rosso ;2671;; 10.105699 ; 46.338303 
+ CH-GR-2672c ; Roggenfurgga ;2672;; 10.020139 ; 46.837389 
+ CH-GR-2673b ; Fuorcla da la Föglia ;2673;; 10.143063 ; 46.637068 
+ CH-GR-2674 ; Passo di Revi ;2674;; 9.094669 ; 46.426038 
+ CH-GR-2676 ; Pass Colmet ;2650;; 9.497845 ; 46.587648 
+ CH-GR-2677 ; Fuorcla Val dal Botsch ;2677;; 10.244764 ; 46.687983 
+ CH-GR-2678 ; Pass da Valüa ;2672;; 10.157708 ; 46.284346 
+ CH-GR-2681b ; Forcula da Cardan ;2681;; 10.08351 ; 46.411019 
+ CH-GR-2682 ; Scharte ;2689;; 10.036952 ; 46.878634 
+ CH-GR-2684 ; Martschallücke ;2684;; 8.655927 ; 46.640272 
+ CH-GR-2686e ; La sella ;2686;; 10.166702 ; 46.804911 
+ CH-GR-2686h ; Weissfluhjoch ;2668;; 9.805431 ; 46.833129 
+ CH-GR-2687b ; Fuorcla Stragliavita ;2687;; 10.162799 ; 46.717426 
+ CH-GR-2688a ; Fuorcla Grevasalvas ;2688;; 9.712789 ; 46.438501 
+ CH-GR-2688b ; Fuorcla Larain ;2687;; 10.23844 ; 46.91446 
+ CH-GR-2688c ; Rote Furka ;2688;; 10.06185 ; 46.86111 
+ CH-GR-2688d ; Inneres Viderjoch ;2676;; 10.32425 ; 46.95218 
+ CH-GR-2690 ; Sattel ;2690;; 9.294709 ; 46.906755 
+ CH-GR-2690a ; Saletschajoch ;2690;; 9.520855 ; 46.517803 
+ CH-GR-2691a ; Fuorcla Ajüz ;2671;; 10.357047 ; 46.780769 
+ CH-GR-2693 ; Chummertällifurgga ;2693;; 9.898865 ; 46.716407 
+ CH-GR-2694a ; Bocchetta da Canton ;2694;; 10.011211 ; 46.355845 
+ CH-GR-2694b ; Pass Chaschauna ;2687;; 10.069962 ; 46.555768 
+ CH-GR-2694c ; Pass da la Duana ;2694;; 9.556521 ; 46.37021 
+ CH-GR-2694d ; Östliches Visnitzjoch ;2694;; 10.38168 ; 46.99757 
+ CH-GR-2695a ; Hochjöchl ;2695;; 10.00099 ; 46.89985 
+ CH-GR-2696a ; Forcola di Grian ;2695;; 10.433766 ; 46.781869 
+ CH-GR-2697a ; Fuorcla Schombrina ;2697;; 10.327472 ; 46.691137 
+ CH-GR-2698a ; Älpetlilücke ;2698;; 8.654445 ; 46.632461 
+ CH-GR-2699 ; Pass digls Orgels ;2699;; 9.673287 ; 46.607572 
+ CH-GR-2700a ; Chrummhornsattel ;2700;; 9.373007 ; 46.893141 
+ CH-GR-2700b ; Fuorcla Blengias ;2718;; 9.027017 ; 46.60628 
+ CH-GR-2700c ; Fuorcla Trigliet ;2700;; 10.32897 ; 46.738627 
+ CH-GR-2701 ; Passo della Trubinasca ;2700;; 9.56425 ; 46.301988 
+ CH-GR-2703b ; Furcletta dil Garpeder ;2702;; 9.49939 ; 46.560372 
+ CH-GR-2703c ; Fuorcla Sura da Lavaz ;2703;; 8.944182 ; 46.620272 
+ CH-GR-2705 ; Furcletta dil Gurschus ;2707;; 9.497391 ; 46.560291 
+ CH-GR-2706 ; Fuorcla Giavagl ;2706;; 10.006265 ; 46.574173 
+ CH-GR-2707 ; Fuorcla Rondadura ;2707;; 8.751433 ; 46.581991 
+ CH-GR-2709a ; Rot Furgga ;2709;; 9.96443 ; 46.879944 
+ CH-GR-2710 ; Bocchetta del Pombi ;2709;; 9.277187 ; 46.371811 
+ CH-GR-2711a ; Fuorcla digl Leget ;2715;; 9.694031 ; 46.489794 
+ CH-GR-2712a ; Bocchetta della Rondadura ;2712;; 8.760103 ; 46.573704 
+ CH-GR-2712b ; Furggelti ;2712;; 9.062165 ; 46.544241 
+ CH-GR-2713 ; Schaflochsattel ;2713;; 9.68247 ; 47.05954 
+ CH-GR-2715a ; Passo Vecchio Est ;2715;; 8.713469 ; 46.571726 
+ CH-GR-2717 ; Rassaserscharte ;2716;; 10.443838 ; 46.761583 
+ CH-GR-2718 ; Fuorcla Curnera ;2718;; 8.700429 ; 46.60497 
+ CH-GR-2719 ; Hürelilücka ;2719;; 9.511484 ; 46.493327 
+ CH-GR-2720 ; Bocchetta Valle Piana ;2719;; 10.156179 ; 46.288316 
+ CH-GR-2723 ; Jöriflüelafurgga ;2723;; 9.956074 ; 46.782794 
+ CH-GR-2724 ; Bocchetta di Guinzana ;2724;; 10.13903 ; 46.303516 
+ CH-GR-2724b ; Fuorcla Clünas ;2724;; 10.244116 ; 46.822657 
+ CH-GR-2724c ; Fuorcla Ftur ;2724;; 10.225682 ; 46.685751 
+ CH-GR-2724d ; Passo da la Prasgnola ;2724;; 9.500846 ; 46.365532 
+ CH-GR-2724e ; Pass d'Ela ;2724;; 9.68379 ; 46.602641 
+ CH-GR-2726a ; Fuorcla Spadla ;2726;; 10.281258 ; 46.848067 
+ CH-GR-2727b ; Leidbachfurgga ;2727;; 9.821264 ; 46.71774 
+ CH-GR-2728 ; Plattenjoch ;2728;; 10.01494 ; 46.9002 
+ CH-GR-2728a ; Schesaplana Sattel ;2728;; 9.6993 ; 47.05246 
+ CH-GR-2728b ; Capialascharte ;2728;; 9.063344 ; 46.578316 
+ CH-GR-2729 ; Fuorcla dal Mort ;2729;; 9.929603 ; 46.513597 
+ CH-GR-2730a ; Fuorcla Champatsch ;2730;; 10.261552 ; 46.846306 
+ CH-GR-2730b ; Passo Crotto ;2729;; 9.42554 ; 46.489734 
+ CH-GR-2730c ; Gemspleissattel ;2730;; 10.24103 ; 46.9264 
+ CH-GR-2731 ; Pass da Sach ;2731;; 10.143413 ; 46.386067 
+ CH-GR-2731a ; Furkel ;2731;; 9.210831 ; 46.878159 
+ CH-GR-2732 ; Viderjoch ;2732;; 10.34047 ; 46.97874 
+ CH-GR-2734a ; Bocchetta del Sgunfiou ;2734;; 9.22296 ; 46.469307 
+ CH-GR-2734b ; Fuorcla Pitschna ;2734;; 10.116578 ; 46.798627 
+ CH-GR-2735 ; Furcletta ;2735;; 10.153242 ; 46.835105 
+ CH-GR-2736 ; Fuorcla Padella ;2736;; 9.825348 ; 46.532126 
+ CH-GR-2737b ; Fuorcla Taverna ;2737;; 9.861835 ; 46.572303 
+ CH-GR-2739b ; Fuorcla da Puozas ;2739;; 9.100373 ; 46.59736 
+ CH-GR-2739c ; Fuorcla Schumbraida ;2738;; 10.350481 ; 46.553256 
+ CH-GR-2739d ; Sertigpass ;2739;; 9.884366 ; 46.6809 
+ CH-GR-2741a ; Bergüner Furgga ;2741;; 9.866167 ; 46.689119 
+ CH-GR-2741c ; Seetällifurgga ;2741;; 9.994809 ; 46.875669 
+ CH-GR-2742b ; Passo di Vallazza ;2741;; 10.479034 ; 46.572196 
+ CH-GR-2743a ; Brunnipass ;2720;; 8.80516 ; 46.73463 
+ CH-GR-2743b ; Forcola del Piz Nair ;2690;; 10.459312 ; 46.835442 
+ CH-GR-2744 ; Erzhornsattel ;2744;; 9.626107 ; 46.742034 
+ CH-GR-2745a ; Bärentällifurgga ;2745;; 9.828405 ; 46.704676 
+ CH-GR-2745b ; Schweizerlücke ;2745;; 10.01914 ; 46.89976 
+ CH-GR-2746 ; Surettasattel ;2746;; 9.364227 ; 46.515698 
+ CH-GR-2748b ; Fuorcla Cagniel ;2748;; 9.550043 ; 46.511163 
+ CH-GR-2749a ; Pass da l'Om ;2747;; 10.11475 ; 46.317864 
+ CH-GR-2749b ; Passo di Zocca ;2748;; 9.65618 ; 46.29378 
+ CH-GR-2750 ; Pass Nalps ;2750;; 8.740761 ; 46.572308 
+ CH-GR-2751a ; Klosterpass ;2751;; 10.0515 ; 46.87344 
+ CH-GR-2751b ; Wintertällifurgga ;2751;; 10.039862 ; 46.832982 
+ CH-GR-2752 ; Fuorcla Conteschas ;2752;; 9.072497 ; 46.578077 
+ CH-GR-2752a ; Fuorcla Val Gronda ;2752;; 10.29345 ; 46.92187 
+ CH-GR-2752b ; Fuorcla da Salatschina ;2752;; 9.768399 ; 46.369425 
+ CH-GR-2752c ; Fuorcla Zadrell ;2752;; 10.068293 ; 46.823016 
+ CH-GR-2752d ; Fuorcl' Alva ;2752;; 10.010715 ; 46.454006 
+ CH-GR-2754b ; Fuorcla da Muottas ;2754;; 9.814677 ; 46.550439 
+ CH-GR-2754c ; Idjoch ;2754;; 10.33819 ; 46.97569 
+ CH-GR-2755 ; Fuorcla Surlej ;2755;; 9.839817 ; 46.429133 
+ CH-GR-2756a ; Fuorcla d'Emmat ;2756;; 9.701299 ; 46.443905 
+ CH-GR-2756b ; Rossbodenjoch ;2742;; 10.378076 ; 46.910816 
+ CH-GR-2757 ; Flimjoch ;2757;; 10.34608 ; 46.98653 
+ CH-GR-2758b ; Fuorcla da Gravaratschas ;2758;; 9.668961 ; 46.616656 
+ CH-GR-2759b ; Passo Soreda ;2759;; 9.019285 ; 46.54723 
+ CH-GR-2759c ; Pürder Furgga ;2759;; 9.511485 ; 46.433449 
+ CH-GR-2760 ; Bocchetta del Diavolo ;2760;; 9.20804 ; 46.503346 
+ CH-GR-2760b ; Oberalplücke ;2760;; 8.757802 ; 46.741521 
+ CH-GR-2762 ; Steilerlücke ;2762;; 9.311072 ; 46.585008 
+ CH-GR-2763 ; Satteltilücke ;2763;; 9.144494 ; 46.630493 
+ CH-GR-2763a ; Bocchetta di Piana ;2761;; 10.15543 ; 46.291242 
+ CH-GR-2764a ; Fuorcla Müsella ;2764;; 9.93393 ; 46.533933 
+ CH-GR-2766a ; Isenfürggli ;2766;; 9.947304 ; 46.799862 
+ CH-GR-2766b ; Juferjoch ;2766;; 9.592666 ; 46.409619 
+ CH-GR-2768a ; Pass Futschöl ;2768;; 10.21475 ; 46.86599 
+ CH-GR-2768b ; Sella del Forno ;2769;; 9.723474 ; 46.330967 
+ CH-GR-2769 ; Bocchetta del Nebion ;2761;; 9.27739 ; 46.374723 
+ CH-GR-2770c ; Sardonapass ;2770;; 9.255752 ; 46.911304 
+ CH-GR-2770d ; Tschingellücke ;2768;; 8.832715 ; 46.76897 
+ CH-GR-2771a ; Fuorcla da Trigl ;2771;; 10.25459 ; 46.735898 
+ CH-GR-2771c ; Passo dei Pastori ;2768;; 10.370443 ; 46.553931 
+ CH-GR-2772a ; Bocchetta del Lago ;2771;; 10.381662 ; 46.549797 
+ CH-GR-2772c ; Seelücke ;2772;; 10.02847 ; 46.89225 
+ CH-GR-2773b ; Fuorcla da Patnaul ;2773;; 9.12161 ; 46.619137 
+ CH-GR-2773c ; Gammertallücke ;2773;; 8.675831 ; 46.693767 
+ CH-GR-2776 ; Sella d'Arpschella ;2776;; 10.020622 ; 46.727215 
+ CH-GR-2777 ; Pass da la Val da Roda ;2777;; 9.550947 ; 46.378314 
+ CH-GR-2778b ; Teurilücke ;2778;; 9.316151 ; 46.580552 
+ CH-GR-2779b ; Fuorcla Materdell ;2779;; 9.698747 ; 46.437342 
+ CH-GR-2780a ; Cuolmen Maisas ;2708;; 10.3791 ; 46.919431 
+ CH-GR-2780b ; Fuorcla Cotschna ;2780;; 9.73021 ; 46.488772 
+ CH-GR-2780c ; Sascelpass ;2780;; 9.527748 ; 46.399495 
+ CH-GR-2781c ; Fuorcla Soèr ;2781;; 10.273653 ; 46.843171 
+ CH-GR-2782 ; Pass de Mucia ;2782;; 9.122156 ; 46.474428 
+ CH-GR-2782a ; Fuorcla Gronda ;2782;; 10.115967 ; 46.806112 
+ CH-GR-2782b ; Fuorcla Trupchun ;2779;; 10.097589 ; 46.580822 
+ CH-GR-2784 ; Fuorcla Chaschanella ;2784;; 10.02863 ; 46.550624 
+ CH-GR-2787c ; Winterlücke ;2787;; 9.96152 ; 46.767598 
+ CH-GR-2788 ; Fuorcla Radönt ;2788;; 9.968386 ; 46.726946 
+ CH-GR-2790a ; Bergalgapass ;2792;; 9.544528 ; 46.383437 
+ CH-GR-2790b ; Fuorcla Chamuera ;2790;; 10.027073 ; 46.477216 
+ CH-GR-2790d ; Pass de la Bles ;2788;; 9.464105 ; 46.40542 
+ CH-GR-2791 ; Fuorcla ;2791;; 10.384823 ; 46.551777 
+ CH-GR-2791a ; Fuorcla Alva ;2791;; 9.729582 ; 46.497019 
+ CH-GR-2791b ; Fuorcla S-chüdella ;2791;; 9.976263 ; 46.467482 
+ CH-GR-2793b ; Fuorcla Serengia ;2793;; 8.733599 ; 46.600099 
+ CH-GR-2793c ; Vesiljoch ;2793;; 10.3002 ; 46.92426 
+ CH-GR-2794 ; Acletta Pass ;2794;; 8.792071 ; 46.731367 
+ CH-GR-2796 ; Fuorcla d'Arpiglias ;2796;; 10.119118 ; 46.738029 
+ CH-GR-2796b ; Fuorcla Val Nova ;2796;; 9.037469 ; 46.58229 
+ CH-GR-2797 ; Fuorclina ;2797;; 9.798212 ; 46.51598 
+ CH-GR-2798a ; Fuorcla dil Git ;2798;; 8.7321 ; 46.592019 
+ CH-GR-2798b ; Fuorcla Vermunt ;2798;; 10.12579 ; 46.84808 
+ CH-GR-2799b ; Saentapass ;2797;; 9.523069 ; 46.413125 
+ CH-GR-2800b ; Bocchetta di Curnera ;2771;; 8.705345 ; 46.575226 
+ CH-GR-2800d ; Fuorcla Borel ;2861;; 8.698928 ; 46.579796 
+ CH-GR-2800e ; Fuorcla dallas Crunas ;2771;; 8.880699 ; 46.619474 
+ CH-GR-2800f ; Kromerscharte ;2800;; 10.02463 ; 46.89636 
+ CH-GR-2800h ; Winterlücke ;2824;; 10.04986 ; 46.8772 
+ CH-GR-2801b ; Fuorcla Sesvenna ;2818;; 10.410829 ; 46.724118 
+ CH-GR-2802 ; Fuorcla dal Glims ;2808;; 10.066908 ; 46.789836 
+ CH-GR-2804b ; Frisallücke ;2804;; 8.960647 ; 46.791827 
+ CH-GR-2804c ; Fuorcla Chaschauna ;2802;; 10.043117 ; 46.548043 
+ CH-GR-2804d ; Fuorcletta ;2804;; 10.395438 ; 46.900008 
+ CH-GR-2805a ; Fuorcla Brit ;2751;; 8.831807 ; 46.741442 
+ CH-GR-2805b ; Fuorcla Costainas ;2804;; 10.476027 ; 46.559809 
+ CH-GR-2806 ; Fuorcla Val Champagna ;2806;; 9.941175 ; 46.510103 
+ CH-GR-2807 ; Fuorcla Davo Lais ;2807;; 10.263927 ; 46.875276 
+ CH-GR-2807a ; In der Breita Lücka ;2807;; 9.522736 ; 46.411232 
+ CH-GR-2808a ; Chilchalplücke ;2807;; 9.154656 ; 46.539193 
+ CH-GR-2808b ; Fuorcla da Tasna ;2808;; 10.247815 ; 46.869642 
+ CH-GR-2809a ; Fuorcla d'Alp ;2808;; 10.41238 ; 46.909497 
+ CH-GR-2810 ; La Sella ;2810;; 9.299234 ; 46.499621 
+ CH-GR-2810a ; Bocchetta Cancano ;2809;; 10.328281 ; 46.55024 
+ CH-GR-2810b ; Sella Tantermozza ;2810;; 10.071235 ; 46.624531 
+ CH-GR-2811 ; Chremersattel ;2782;; 10.07194 ; 46.847719 
+ CH-GR-2814 ; Bocchetta Val Cancano ;2813;; 10.322308 ; 46.550284 
+ CH-GR-2814a ; Fuorcla da Punteglias ;2814;; 8.93168 ; 46.786973 
+ CH-GR-2814b ; Fuorcla Pedrus ;2814;; 10.218716 ; 46.700323 
+ CH-GR-2815 ; Pass Dössradond ;2815;; 10.350169 ; 46.582826 
+ CH-GR-2816a ; Fuorcla Lavirun ;2814;; 10.044009 ; 46.539472 
+ CH-GR-2817 ; Fuorcla Val Tendra ;2817;; 9.965506 ; 46.666061 
+ CH-GR-2817a ; Fuorcla dil Blas ;2817;; 8.728556 ; 46.580184 
+ CH-GR-2817c ; Tälifurgga ;2816;; 9.533422 ; 46.489199 
+ CH-GR-2818 ; Fuorcla Chamins ;2818;; 10.334519 ; 46.914961 
+ CH-GR-2820 ; Fuorcla Denter Corns ;2820;; 8.910568 ; 46.657105 
+ CH-GR-2820a ; Fuorcla Vatgira ;2820;; 8.774239 ; 46.607277 
+ CH-GR-2820b ; Hagstäckenlücke ;2820;; 8.827757 ; 46.779827 
+ CH-GR-2820c ; Heidelberger Scharte ;2820;; 10.23515 ; 46.90918 
+ CH-GR-2822a ; Piotjoch ;2822;; 9.579204 ; 46.409694 
+ CH-GR-2823 ; Canallückli ;2823;; 9.110307 ; 46.515471 
+ CH-GR-2823a ; Fuorcla Encarden ;2823;; 8.909922 ; 46.654495 
+ CH-GR-2824b ; Fuorcla Ravetsch ;2824;; 8.703996 ; 46.590086 
+ CH-GR-2826 ; Beverin Lücke ;2826;; 9.35336 ; 46.649578 
+ CH-GR-2826a ; Fuorcla digl Uffiern ;2826;; 8.731069 ; 46.587083 
+ CH-GR-2826b ; Fuorcla Prünella ;2826;; 9.996848 ; 46.477226 
+ CH-GR-2826c ; Fuorcla Salet ;2826;; 10.40182 ; 46.902615 
+ CH-GR-2826e ; Wyssenlücke ;2826;; 8.673806 ; 46.679575 
+ CH-GR-2827a ; Fuorcla Val Pintga ;2827;; 8.860531 ; 46.805874 
+ CH-GR-2827b ; Fuorcla dal Diavel ;2826;; 10.112383 ; 46.607829 
+ CH-GR-2827c ; Fuorcla dil Segnas Sura ;2827;; 9.240039 ; 46.900845 
+ CH-GR-2828b ; Passo di Val Paolaccia ;2825;; 10.296562 ; 46.554913 
+ CH-GR-2829a ; Forcula dal Caral ;2831;; 10.003787 ; 46.389639 
+ CH-GR-2830 ; Bocheta de la Val Gras dal Larasc ;2830;; 10.130244 ; 46.605869 
+ CH-GR-2830b ; Fuorcla Piz Nair ;2830;; 8.706056 ; 46.700273 
+ CH-GR-2831 ; Forcola da Tschitta ;2831;; 9.710912 ; 46.592473 
+ CH-GR-2832a ; Fuorcla da strem Sut ;2832;; 8.780443 ; 46.731001 
+ CH-GR-2834 ; Fuorcla Tschüffer ;2834;; 9.986792 ; 46.472547 
+ CH-GR-2835a ; Bocchetta da Cantonascia ;2835;; 10.127338 ; 46.372724 
+ CH-GR-2835b ; Bocchetta del Teo ;2835;; 10.126652 ; 46.371723 
+ CH-GR-2836 ; Fuorcla Prüna ;2836;; 9.975167 ; 46.476048 
+ CH-GR-2836a ; Ducan Fürggli ;2836;; 9.846273 ; 46.68469 
+ CH-GR-2836b ; Fuortga da Schigels ;2836;; 8.910778 ; 46.768368 
+ CH-GR-2837a ; Fuorcla Pischa ;2848;; 9.96803 ; 46.470798 
+ CH-GR-2838c ; Fuorcla da Faller ;2837;; 9.58932 ; 46.463047 
+ CH-GR-2839 ; Westliche Fallerfurgga ;2838;; 9.582687 ; 46.463586 
+ CH-GR-2839a ; Canallücke ;2838;; 9.09211 ; 46.508539 
+ CH-GR-2839b ; Fuorcla Pitschna ;2839;; 10.119925 ; 46.722403 
+ CH-GR-2840c ; Passo dal Märc ;2738;; 9.526462 ; 46.367771 
+ CH-GR-2840d ; Passo Vecchio ;2737;; 8.70867 ; 46.573471 
+ CH-GR-2842 ; Passo del Valenaccio ;2842;; 10.127809 ; 46.360453 
+ CH-GR-2842a ; Selletta ;2842;; 10.160221 ; 46.828396 
+ CH-GR-2844 ; Fuorcla di Cavrein ;2844;; 8.836666 ; 46.795103 
+ CH-GR-2845 ; Bochéta di Planon ;2845;; 10.053749 ; 46.520788 
+ CH-GR-2848a ; Fuorcla d Anschatscha ;2848;; 10.111218 ; 46.821344 
+ CH-GR-2848b ; Fuorcla Val Nüglia ;2848;; 10.305452 ; 46.67558 
+ CH-GR-2848c ; Lorenzlücke ;2846;; 9.138105 ; 46.529095 
+ CH-GR-2850 ; Fuorcletta da Barcli ;2850;; 10.132924 ; 46.716696 
+ CH-GR-2851a ; Fuorcla d'Laver ;2851;; 10.255343 ; 46.870537 
+ CH-GR-2851b ; Surettajoch ;2851;; 9.363635 ; 46.512226 
+ CH-GR-2852a ; Älplilücke ;2852;; 8.674351 ; 46.686226 
+ CH-GR-2853a ; Fuorcla Cornet ;2853;; 10.385511 ; 46.740601 
+ CH-GR-2853b ; Lareinfernerjoch ;2853;; 10.23287 ; 46.90119 
+ CH-GR-2855a ; Fuorcla dil Lai Blau ;2855;; 8.763132 ; 46.596161 
+ CH-GR-2857 ; Fuorcla Val Sassa ;2857;; 10.097521 ; 46.614469 
+ CH-GR-2858 ; Fuorcla Valletta ;2858;; 9.815234 ; 46.533418 
+ CH-GR-2859 ; Fuorcla Vaüglia ;2859;; 10.003065 ; 46.556244 
+ CH-GR-2862a ; Fuorcla Olivet ;2862;; 9.957893 ; 46.516394 
+ CH-GR-2862b ; Seehornscharte ;2862;; 10.028157 ; 46.888149 
+ CH-GR-2863 ; Güferlücke ;2863;; 9.058945 ; 46.530791 
+ CH-GR-2864 ; Fuorcla Polaschin ;2864;; 9.751015 ; 46.458787 
+ CH-GR-2865 ; Chüealp Furgga ;2865;; 9.902799 ; 46.687945 
+ CH-GR-2867c ; Fuorcla Sagliaint ;2867;; 10.002001 ; 46.475985 
+ CH-GR-2869c ; Fanelllücke ;2869;; 9.127378 ; 46.542526 
+ CH-GR-2870a ; Fuorcla Albana ;2870;; 9.772612 ; 46.485523 
+ CH-GR-2870b ; Fuorcla Mulix ;2870;; 9.721293 ; 46.563152 
+ CH-GR-2870c ; Pass Cacciabella Nord ;2870;; 9.630126 ; 46.317649 
+ CH-GR-2871 ; Bocchetta del Pinerocolo ;2844;; 9.378452 ; 46.50563 
+ CH-GR-2871a ; Furschella ;2871;; 9.702011 ; 46.601551 
+ CH-GR-2872 ; Fuorcla Zuort ;2872;; 10.268626 ; 46.73393 
+ CH-GR-2873 ; Fuorcla Schlattain ;2873;; 9.784924 ; 46.511099 
+ CH-GR-2874 ; Bocchetta della Val Chiusa ;2874;; 10.048934 ; 46.512078 
+ CH-GR-2874b ; Fuorcla Marscha ;2874;; 9.790433 ; 46.538884 
+ CH-GR-2874c ; Fuorcla Pischa ;2871;; 9.864729 ; 46.607701 
+ CH-GR-2875 ; Fuorcla d'Astras ;2875;; 10.31861 ; 46.674618 
+ CH-GR-2876 ; Passo dei Mesceut ;2895;; 10.098869 ; 46.60523 
+ CH-GR-2877 ; Fuorcla Lagrev ;2877;; 9.731545 ; 46.455672 
+ CH-GR-2879 ; Fuorcla digls Tellers ;2869;; 9.679559 ; 46.554128 
+ CH-GR-2880a ; Bocchetta del Sevino ;2916;; 9.281894 ; 46.382191 
+ CH-GR-2880b ; Fuorcla Gannaretsch ;2880;; 8.782595 ; 46.612577 
+ CH-GR-2880c ; Pass Trid ;2880;; 9.96728 ; 46.52199 
+ CH-GR-2883 ; Schwarzhornfurgga ;2879;; 9.944074 ; 46.730453 
+ CH-GR-2883a ; Passo di Lema ;2883;; 10.130311 ; 46.37917 
+ CH-GR-2884a ; Fuorcla dil Terri ;2884;; 9.034155 ; 46.593809 
+ CH-GR-2884b ; Rothorn Furgga ;2884;; 9.951142 ; 46.722017 
+ CH-GR-2885b ; Fuorcla da Biala ;2885;; 9.760883 ; 46.55839 
+ CH-GR-2886a ; Bocchetta della Cima Rossa ;2886;; 9.088611 ; 46.436474 
+ CH-GR-2886c ; Fuorcla da l'Acqua ;2886;; 10.137596 ; 46.616585 
+ CH-GR-2886d ; Fuorcla Darlun ;2886;; 9.042558 ; 46.584468 
+ CH-GR-2887a ; Bocchetta di Fornee ;2887;; 9.020557 ; 46.526068 
+ CH-GR-2887b ; Furcella da la Margna ;2887;; 9.735537 ; 46.375361 
+ CH-GR-2888 ; Fuorcla Zavretta ;2888;; 9.828795 ; 46.592442 
+ CH-GR-2889a ; Bocchetta del Blas ;2889;; 8.72557 ; 46.575359 
+ CH-GR-2889c ; Rotgrätlilücke ;2887;; 9.126323 ; 46.52963 
+ CH-GR-2891 ; Fuorcla Güglia ;2891;; 9.755802 ; 46.497657 
+ CH-GR-2892 ; Fuorcletta ;2891;; 10.043463 ; 46.482367 
+ CH-GR-2893a ; Fuorcla d'Urezzas ;2893;; 10.16665 ; 46.8508 
+ CH-GR-2893b ; Fuorcla Mulix ;2889;; 9.725385 ; 46.55812 
+ CH-GR-2896 ; Pass Cacciabella Sud ;2894;; 9.629947 ; 46.315448 
+ CH-GR-2897 ; Fuorcla Davos Glatschers ;2897;; 8.787428 ; 46.616298 
+ CH-GR-2898 ; Passo del Saliente alto ;2898;; 10.082321 ; 46.569973 
+ CH-GR-2900 ; Fuorcla Murtarol ;2899;; 10.273332 ; 46.574011 
+ CH-GR-2901a ; Fuorcla Federia ;2899;; 10.043992 ; 46.50392 
+ CH-GR-2906 ; Fuorcla Müschauns ;2893;; 10.100914 ; 46.607504 
+ CH-GR-2910 ; Fuorcla da Cambrialas ;2910;; 8.847452 ; 46.79677 
+ CH-GR-2912 ; Fuorcla da Languard ;2912;; 9.967434 ; 46.474222 
+ CH-GR-2917a ; Fuorcla Bercla ;2916;; 9.562562 ; 46.473431 
+ CH-GR-2917b ; Fuorcla Malat ;2917;; 9.933413 ; 46.528364 
+ CH-GR-2918a ; Passo dei Cadabi ;2914;; 9.04805 ; 46.483978 
+ CH-GR-2918b ; Vogeljoch ;2916;; 9.051103 ; 46.479346 
+ CH-GR-2919 ; Pass Zoccone nord ;2919;; 9.275194 ; 46.480829 
+ CH-GR-2920 ; Schwaderlochfurgga ;2920;; 10.049623 ; 46.812247 
+ CH-GR-2920a ; Fuorcla Val Mela ;2919;; 10.100511 ; 46.600133 
+ CH-GR-2920b ; Fuorcla Maisas ;2920;; 10.367709 ; 46.899668 
+ CH-GR-2922a ; Fuorcla Punt Ota ;2922;; 9.964134 ; 46.678079 
+ CH-GR-2922b ; Sella del Ferrè ;2920;; 9.273707 ; 46.466537 
+ CH-GR-2923a ; Fuorcla Chamuotsch ;2923;; 9.752563 ; 46.501143 
+ CH-GR-2923b ; Fuorcla Sarsura ;2923;; 9.998902 ; 46.699804 
+ CH-GR-2923d ; Pass de Val Loga ;2919;; 9.276767 ; 46.477672 
+ CH-GR-2924b ; Sella da Piz Cotschen ;2922;; 10.462244 ; 46.541352 
+ CH-GR-2925 ; Fuorcla Persa ;2925;; 9.787256 ; 46.51978 
+ CH-GR-2927 ; Ravetschlücke ;2927;; 8.700952 ; 46.582644 
+ CH-GR-2930a ; Pass Dosdè ;2930;; 10.161929 ; 46.403311 
+ CH-GR-2931 ; Fuorcla dal Chapütsch ;2929;; 9.800234 ; 46.343611 
+ CH-GR-2935 ; Pass d'Ivrena ;2935;; 10.145081 ; 46.717479 
+ CH-GR-2936b ; Fuorcla Viluoch ;2936;; 9.89641 ; 46.632401 
+ CH-GR-2937 ; Pass da la Plotta ;2937;; 9.690328 ; 46.352465 
+ CH-GR-2938 ; Pass di Caciadur ;2938;; 9.68714 ; 46.325395 
+ CH-GR-2938a ; Verstanclator ;2919;; 10.082011 ; 46.836695 
+ CH-GR-2940b ; Fuorcla dal Linard ;2940;; 10.066448 ; 46.805372 
+ CH-GR-2941 ; Pass da Casnil Sud ;2941;; 9.683868 ; 46.32951 
+ CH-GR-2941a ; Fuorcla da Rims ;2941;; 10.355654 ; 46.757958 
+ CH-GR-2942 ; Sella Zuppeda ;2942;; 9.861628 ; 46.467197 
+ CH-GR-2944 ; Fuorcla da Crispalt ;2944;; 8.688178 ; 46.690574 
+ CH-GR-2945 ; Fuorcla Saronna Gronda ;2941;; 10.419391 ; 46.916309 
+ CH-GR-2945a ; Fuorcla Margun ;2945;; 9.736207 ; 46.50575 
+ CH-GR-2946 ; Passo di Val Bona ;2943;; 9.719569 ; 46.321192 
+ CH-GR-2947a ; Höhberglücke ;2913;; 9.102182 ; 46.508068 
+ CH-GR-2947b ; Zahnjoch ;2945;; 10.23283 ; 46.88668 
+ CH-GR-2955 ; Passo Dügüral ;2963;; 10.162345 ; 46.399412 
+ CH-GR-2957 ; Furcela dal Largh ;2957;; 9.685111 ; 46.348582 
+ CH-GR-2957a ; Fuorcla da Giuv ;2957;; 8.687508 ; 46.695529 
+ CH-GR-2957b ; Fuorcla Saluver ;2957;; 9.794018 ; 46.52837 
+ CH-GR-2957c ; Passo di Giumello ;2957;; 9.090439 ; 46.466589 
+ CH-GR-2958 ; Diavolezza Pass ;2958;; 9.967285 ; 46.410764 
+ CH-GR-2958a ; Falsches Kronenjoch ;2958;; 10.235992 ; 46.870931 
+ CH-GR-2960 ; Fuorcla Posta Biola ;2844;; 8.939153 ; 46.776852 
+ CH-GR-2960a ; Furcellina da la Margna ;2960;; 9.737706 ; 46.370394 
+ CH-GR-2962a ; Fuorcla da Mandra ;2962;; 9.903708 ; 46.443062 
+ CH-GR-2962b ; Fuorcla Grischa ;2950;; 9.786867 ; 46.515918 
+ CH-GR-2962c ; Fuorcla Muragl ;2891;; 9.946878 ; 46.503767 
+ CH-GR-2965 ; Panaralücke ;2965;; 9.365595 ; 46.89691 
+ CH-GR-2966 ; Fuorcla Suvretta ;2966;; 9.755307 ; 46.510447 
+ CH-GR-2967 ; Passo Vazzeda ;2966;; 9.72559 ; 46.31612 
+ CH-GR-2968 ; Pass Zoccone sud ;2947;; 9.275115 ; 46.481181 
+ CH-GR-2969 ; Fuorcla Vallorgia ;2969;; 9.956786 ; 46.691562 
+ CH-GR-2970 ; Sella dei Piani ;2969;; 9.276967 ; 46.460518 
+ CH-GR-2972 ; Pass da Casnil Nord ;2972;; 9.682331 ; 46.333185 
+ CH-GR-2973 ; Fuorcla da Trigl ;2973;; 10.353705 ; 46.75051 
+ CH-GR-2976a ; Fuorcla Burdun ;2976;; 9.949947 ; 46.51936 
+ CH-GR-2976b ; Kronenjoch ;2974;; 10.23252 ; 46.87152 
+ CH-GR-2978 ; Verstanclalücke ;2978;; 10.066295 ; 46.838218 
+ CH-GR-2979a ; Fuorcla da la Chamanna ;2704;; 9.919253 ; 46.503663 
+ CH-GR-2979b ; Läntalücke ;2979;; 9.046839 ; 46.506804 
+ CH-GR-2980 ; Fuorcla Scharboda ;3006;; 9.048522 ; 46.583592 
+ CH-GR-2983 ; Fuorcla d'Agnel ;2983;; 9.714892 ; 46.510274 
+ CH-GR-2986 ; Gletscherhornsattel ;2986;; 9.562426 ; 46.389231 
+ CH-GR-2991 ; Colle Val Nera ;2990;; 10.128082 ; 46.430753 
+ CH-GR-2994 ; Furcella dal Böcc ;2994;; 9.73862 ; 46.364967 
+ CH-GR-2994a ; Fuorcla Urschai ;2994;; 10.18435 ; 46.855343 
+ CH-GR-2995 ; Fuorcla Clüx ;2995;; 9.947768 ; 46.492047 
+ CH-GR-2996 ; Gliemsscharte ;2996;; 8.913367 ; 46.794561 
+ CH-GR-2999 ; Bocchetta del Baratin ;2999;; 9.056468 ; 46.47667 
+ CH-GR-3000 ; Forcella delle Vedrette ;3000;; 9.463087 ; 46.379207 
+ CH-GR-3000a ; Sella del Cassinello ;3000;; 9.021355 ; 46.53464 
+ CH-GR-3001 ; Passo la Stretta ;3005;; 10.047792 ; 46.47513 
+ CH-GR-3002 ; Fuorcla Laviner ;3002;; 9.720596 ; 46.546643 
+ CH-GR-3003b ; Fuorcla Cristallina ;3003;; 8.889312 ; 46.609558 
+ CH-GR-3003c ; Silvrettapass ;2987;; 10.08942 ; 46.845973 
+ CH-GR-3004 ; Fuorcla Chalaus ;2999;; 10.19111 ; 46.86293 
+ CH-GR-3008 ; Porta d'Es-Cha ;3008;; 9.888122 ; 46.623939 
+ CH-GR-3014a ; Fuorcla Barlas-ch ;3014;; 9.989177 ; 46.690554 
+ CH-GR-3014c ; Pass dal Tremoggia ;3013;; 9.811846 ; 46.348841 
+ CH-GR-3017 ; Fuorcletta da Pisoc ;3017;; 10.276632 ; 46.740275 
+ CH-GR-3019a ; Fuorcla dals Lejets ;3016;; 9.899942 ; 46.434684 
+ CH-GR-3019b ; Fuorcla Trovat ;3017;; 9.972947 ; 46.403554 
+ CH-GR-3020b ; Fuorcla Puzzetta ;3020;; 8.880459 ; 46.61048 
+ CH-GR-3020c ; Fuorcla Traunter Ovas ;3014;; 9.727275 ; 46.513355 
+ CH-GR-3027 ; Bocchetta Zoccone ;3026;; 9.279049 ; 46.491942 
+ CH-GR-3036 ; Fuorcla Palüd Marscha ;3036;; 9.79839 ; 46.530835 
+ CH-GR-3036a ; Westliche Plattenscharte ;3036;; 10.035794 ; 46.810106 
+ CH-GR-3037 ; Hochjoch ;3037;; 10.03532 ; 46.88685 
+ CH-GR-3041 ; Fuorcla dal Riciöl ;3041;; 9.683086 ; 46.34046 
+ CH-GR-3042 ; Fuorcla dal Cunfin ;3043;; 10.10298 ; 46.84303 
+ CH-GR-3045 ; Zapportpass ;3044;; 9.082362 ; 46.477189 
+ CH-GR-3045a ; Ostliche Plattenscharte ;3045;; 10.040471 ; 46.809774 
+ CH-GR-3047 ; Egghornlücke ;3047;; 10.09226 ; 46.85291 
+ CH-GR-3047a ; Scharbodenlücke ;3006;; 9.049069 ; 46.582099 
+ CH-GR-3048 ; Colle del Cengalo ;3046;; 9.593793 ; 46.293906 
+ CH-GR-3050 ; Fuorcla Saronna Pitschna ;3050;; 10.429914 ; 46.924559 
+ CH-GR-3050a ; Fuorcla da Bever ;2948;; 9.732386 ; 46.552138 
+ CH-GR-3054a ; Fuorcla dal Buin ;3054;; 10.11438 ; 46.84335 
+ CH-GR-3060 ; Rotfluelücke ;3060;; 10.08514 ; 46.8605 
+ CH-GR-3061b ; Colle Masino ;3059;; 9.641462 ; 46.286832 
+ CH-GR-3062 ; Bocchetto Baroni ;3062;; 9.670125 ; 46.299508 
+ CH-GR-3065 ; Fuorcla da Flix ;3065;; 9.697743 ; 46.514756 
+ CH-GR-3068 ; Fuorcla Fex Roseg ;3068;; 9.814807 ; 46.39006 
+ CH-GR-3077 ; Pass de Stabi ;3067;; 9.085562 ; 46.475343 
+ CH-GR-3078 ; Jamjoch ;3065;; 10.15564 ; 46.84975 
+ CH-GR-3083a ; Fuorcla d'Arlas ;3080;; 9.979138 ; 46.399636 
+ CH-GR-3083b ; Furcela da Fedoz ;3082;; 9.768014 ; 46.336521 
+ CH-GR-3084 ; Fuorcla Su ;3060;; 8.899418 ; 46.60816 
+ CH-GR-3090 ; Ober Güferlücke ;3090;; 9.055799 ; 46.515351 
+ CH-GR-3096 ; Bocchetto Ferro Albigna ;3075;; 9.63192 ; 46.286478 
+ CH-GR-3100a ; Furcela dal Scälin ;3100;; 9.686249 ; 46.316414 
+ CH-GR-3102 ; Colle  dei Gemelli ;3101;; 9.608993 ; 46.294182 
+ CH-GR-3106 ; Bocchetta dal Castel ;3104;; 9.669829 ; 46.304005 
+ CH-GR-3107a ; Furcela dal Bacun ;3104;; 9.682418 ; 46.344739 
+ CH-GR-3107b ; Fuorcla Fex Scerscen ;3090;; 9.830037 ; 46.357611 
+ CH-GR-3108 ; Cassimoi Sattel ;3108;; 9.0168 ; 46.529989 
+ CH-GR-3112 ; Bocchetta del Cramorino ;3112;; 9.062166 ; 46.476903 
+ CH-GR-3125c ; Verstanclasattel ;3120;; 10.075465 ; 46.835586 
+ CH-GR-3127b ; Fuorcla da strem Sura ;3112;; 8.773196 ; 46.739543 
+ CH-GR-3135 ; Vernelasattel ;3132;; 10.071367 ; 46.83226 
+ CH-GR-3143 ; Fuorcla Fex Fedoz ;3142;; 9.777362 ; 46.351151 
+ CH-GR-3148a ; Fuorcla dals Aguagliouls ;3148;; 9.865859 ; 46.382858 
+ CH-GR-3150b ; Passo Sissone ;3146;; 9.715323 ; 46.299229 
+ CH-GR-3166 ; Adulajoch ;3290;; 9.038514 ; 46.495423 
+ CH-GR-3168 ; Passo di Bondo ;3166;; 9.617862 ; 46.288729 
+ CH-GR-3170a ; Barcun Frisal Sura Pass ;3170;; 8.957266 ; 46.801526 
+ CH-GR-3183 ; Colle del Torrone ;3189;; 9.698755 ; 46.291713 
+ CH-GR-3198 ; Forcola di Rosso ;3198;; 9.72168 ; 46.308676 
+ CH-GR-3205 ; Colle del Torrone Centrale ;3199;; 9.693774 ; 46.293703 
+ CH-GR-3208 ; Forcla Misaun ;3207;; 9.899121 ; 46.419743 
+ CH-GR-3215b ; Colle del Castello ;3210;; 9.679903 ; 46.300791 
+ CH-GR-3220b ; Fuorcla dal Chapütschin ;3219;; 9.818168 ; 46.36884 
+ CH-GR-3220d ; Passo del Ferro ;3199;; 9.620232 ; 46.287621 
+ CH-GR-3230 ; Südscharte ;3230;; 10.2283 ; 46.8896 
+ CH-GR-3231 ; Passo di Gembré ;3196;; 9.973327 ; 46.358508 
+ CH-GR-3232 ; Fuorcla dal Lej Sgrischus ;3232;; 9.817906 ; 46.398455 
+ CH-GR-3265 ; Fuorcla da la Sella ;3253;; 9.873813 ; 46.365057 
+ CH-GR-3272 ; Colle Rasica ;3194;; 9.683675 ; 46.296234 
+ CH-GR-3280 ; Passo dal Cantun ;3265;; 9.678312 ; 46.306294 
+ CH-GR-3310 ; Nordscharte ;3310;; 10.22697 ; 46.89481 
+ CH-GR-3313 ; Bocchetta di Fora ;3288;; 9.780127 ; 46.336892 
+ CH-GR-3336b ; Fuorcla Tschierva ;3334;; 9.897167 ; 46.413684 
+ CH-GR-3340 ; Fluchthornscharte ;3340;; 10.22722 ; 46.89218 
+ CH-GR-3347b ; Fuorcla da Boval ;3347;; 9.902285 ; 46.411772 
+ CH-GR-3361 ; Fuorcla dal Glüschaint ;3361;; 9.832048 ; 46.362248 
+ CH-GR-3372 ; Fuorcla d'Ota ;3366;; 9.833335 ; 46.36106 
+ CH-GR-3373 ; Forcula dal Cambrena ;3371;; 9.989585 ; 46.385522 
+ CH-GR-3430 ; Fuorcla Prievlusa ;3426;; 9.906687 ; 46.394126 
+ CH-GR-3434 ; Fuorcla Occidentale ;3420;; 9.856707 ; 46.36338 
+ CH-GR-3453a ; Fuorcla Pers Palü ;3447;; 9.973911 ; 46.385217 
+ CH-GR-3468 ; Fuorcla Orientale ;3446;; 9.863817 ; 46.364218 
+ CH-GR-3522 ; Porta da Roseg ;3517;; 9.891007 ; 46.374721 
+ CH-GR-3591 ; Fuorcla Crast' Agüzza ;3583;; 9.914982 ; 46.373524 
+ CH-GR-3688 ; Fuorcla Bellavista ;3673;; 9.946172 ; 46.377671 
+ CH-GR-3705 ; Fuorcla da l'Argient ;3692;; 9.920485 ; 46.371325 
+ CH-GR-3840 ; Pass dal Zupô ;3839;; 9.930221 ; 46.371822 
+ CH-GR-3846 ; Fuorcla dal Zupô ;3844;; 9.928454 ; 46.366749 
+ CH-GR-3882 ; Fuorcla Scerscen Bernina ;3881;; 9.904993 ; 46.380042 
+ CH-GR-3972 ; Berninascharte ;3972;; 9.907316 ; 46.383664 
+ CH-JU-0711 ; Selle au Roi ;711;; 7.288585 ; 47.427063 
+ CH-JU-0730 ; Geisspass ;730;; 7.325091 ; 47.399727 
+ CH-JU-0772 ; Col de l'Aiguille ;772;; 6.87131 ; 47.180624 
+ CH-JU-0789 ; Col de la Croix ;789;; 7.141521 ; 47.372911 
+ CH-JU-0792 ; Col de Soulce ;792;; 7.269999 ; 47.311596 
+ CH-JU-0798 ; Col des Malettes ;798;; 7.202196 ; 47.385788 
+ CH-JU-0810 ; Welschgätterli ;810;; 7.521527 ; 47.365766 
+ CH-JU-0828 ; Haut de la Montée ;828;; 6.860154 ; 47.17286 
+ CH-JU-0832 ; Col de la Caquerelle ;832;; 7.210896 ; 47.379968 
+ CH-JU-0856 ; Col des Rangiers ;856;; 7.219192 ; 47.384778 
+ CH-JU-0858 ; Col de Montvoie ;858;; 7.051323 ; 47.370071 
+ CH-LU-0480 ; Geissmatthöhe ;480;; 8.299238 ; 47.057018 
+ CH-LU-0618 ; Gränzetürli ;618;; 8.389426 ; 47.067884 
+ CH-LU-0708 ; Mörisegg ;708;; 7.9748 ; 47.093243 
+ CH-LU-0732 ; Scharte ;732;; 7.904115 ; 47.189491 
+ CH-LU-0758 ; Ebnet ;758;; 7.878496 ; 47.105039 
+ CH-LU-0760 ; Sattel ;760;; 7.935851 ; 47.094471 
+ CH-LU-0769 ; Ausser Lindenegg ;769;; 7.974852 ; 47.082602 
+ CH-LU-0783 ; Sackhöchi ;783;; 7.948395 ; 47.088038 
+ CH-LU-0910 ; Twerenegg ;910;; 8.012604 ; 47.066408 
+ CH-LU-0934 ; Heiterloch ;934;; 8.032483 ; 46.980771 
+ CH-LU-0951 ; Egg ;951;; 8.078096 ; 46.983305 
+ CH-LU-0959 ; Pass an der Rengg ;959;; 8.09109 ; 47.003463 
+ CH-LU-0983 ; Gutenegg ;983;; 7.996249 ; 47.049551 
+ CH-LU-1019 ; Schüpferegg ;1019;; 8.007879 ; 46.970983 
+ CH-LU-1030 ; Grossscheidegg ;1030;; 7.907239 ; 47.033766 
+ CH-LU-1039 ; Schüregg ;1039;; 7.996765 ; 47.037072 
+ CH-LU-1040 ; Kaltenegg ;1040;; 7.988921 ; 47.043334 
+ CH-LU-1046 ; Obstaldenegg ;1046;; 7.992662 ; 46.965948 
+ CH-LU-1068 ; Unter Sattel ;1068;; 7.878415 ; 46.887859 
+ CH-LU-1083 ; Teuffi ;1083;; 7.988388 ; 46.96434 
+ CH-LU-1111 ; Hinder Brandsegg ;1109;; 7.937576 ; 46.950009 
+ CH-LU-1126 ; Felsentor ;1126;; 8.468385 ; 47.035187 
+ CH-LU-1162 ; Obermeisenegg ;1162;; 7.874429 ; 46.865485 
+ CH-LU-1167 ; Wissenegg ;1167;; 8.126517 ; 46.971826 
+ CH-LU-1176 ; Fälmisegg ;1176;; 8.511873 ; 47.009573 
+ CH-LU-1188 ; Breitäbnet ;1188;; 7.979911 ; 46.9993 
+ CH-LU-1290 ; Hilferenpass ;1290;; 7.978607 ; 46.876168 
+ CH-LU-1353 ; Bielilücke ;1353;; 8.254657 ; 46.993088 
+ CH-LU-1408 ; Risetenegg ;1408;; 8.155313 ; 46.969005 
+ CH-LU-1453 ; Firstgatter ;1453;; 8.479428 ; 47.040134 
+ CH-LU-1461 ; Trochemattsattel ;1455;; 8.183232 ; 46.978083 
+ CH-LU-1469 ; Ober Looegg ;1469;; 8.10189 ; 46.930322 
+ CH-LU-1481 ; Tannigsboden ;1481;; 7.978334 ; 46.783462 
+ CH-LU-1485 ; Toregg ;1485;; 8.09145 ; 46.924894 
+ CH-LU-1545 ; Rigi Staffelhöhe ;1545;; 8.463953 ; 47.048379 
+ CH-LU-1612 ; Schrotenegg ;1612;; 8.165463 ; 46.939319 
+ CH-LU-1637 ; Blattenegg ;1635;; 8.019033 ; 46.796693 
+ CH-LU-1649 ; Bärnerstig ;1649;; 8.119812 ; 46.9052 
+ CH-LU-1729 ; Wasserfallenegg ;1731;; 8.064574 ; 46.905749 
+ CH-LU-1750 ; Ober Gummenegg ;1750;; 7.990909 ; 46.857966 
+ CH-LU-1754 ; Chli Chrinne ;1754;; 8.04078 ; 46.890719 
+ CH-LU-1833 ; Chrinne ;1833;; 8.046793 ; 46.897983 
+ CH-LU-2175 ; Lättgässli ;2175;; 8.026018 ; 46.789703 
+ CH-NE-0587 ; Pertuis du Soc ;587;; 6.926438 ; 46.998103 
+ CH-NE-0919 ; Col des Roches ;919;; 6.720052 ; 47.05119 
+ CH-NE-0937 ; Col des Verrières ;937;; 6.527432 ; 46.909038 
+ CH-NE-0962 ; Col de Son Mont ;962;; 7.043539 ; 47.088294 
+ CH-NE-1025 ; Derrière Pertuis ;1153;; 6.93125 ; 47.100939 
+ CH-NE-1035 ; Haut de la Côte ;1035;; 6.731325 ; 46.962997 
+ CH-NE-1057 ; Le Basset ;1048;; 6.830831 ; 47.12409 
+ CH-NE-1079 ; Porte des Chaux ;1079;; 6.711761 ; 47.023999 
+ CH-NE-1095 ; Bas de Bétod ;1095;; 6.69732 ; 47.029502 
+ CH-NE-1105 ; Haut du Crosot ;1105;; 6.724405 ; 47.035647 
+ CH-NE-1114 ; Haut du Quartier ;1114;; 6.736275 ; 47.028488 
+ CH-NE-1120 ; Col France ;1121;; 6.56134 ; 46.978876 
+ CH-NE-1122 ; Col des Sagnettes ;1122;; 6.595328 ; 46.943832 
+ CH-NE-1135 ; Col des Trois Clédars ;1135;; 6.838902 ; 47.075442 
+ CH-NE-1137a ; Creux Rossel ;1137;; 6.845006 ; 47.077165 
+ CH-NE-1150 ; Haut des Combes ;1150;; 6.808826 ; 47.111504 
+ CH-NE-1158 ; Col de Boinod ;1158;; 6.854375 ; 47.080091 
+ CH-NE-1170 ; Col de la Tourne ;1170;; 6.778924 ; 46.983719 
+ CH-NE-1171 ; Col de Joux ;1171;; 6.713807 ; 47.001119 
+ CH-NE-1174 ; Col du Cernil ;1174;; 6.525589 ; 46.934085 
+ CH-NE-1174a ; Haut des Côtes ;1174;; 6.47436 ; 46.919334 
+ CH-NE-1189 ; Le Haut de la Ronde ;1189;; 6.455213 ; 46.925999 
+ CH-NE-1205 ; Col de Gautraine ;1205;; 6.890615 ; 47.092783 
+ CH-NE-1217 ; Col de la Dame ;1217;; 6.999831 ; 47.079805 
+ CH-NE-1225 ; Col de Chuffort ;1225;; 7.006916 ; 47.096059 
+ CH-NE-1238 ; Le Basset ;1238;; 6.757114 ; 47.086382 
+ CH-NE-1283 ; Col de la Vue des Alpes ;1283;; 6.869993 ; 47.072632 
+ CH-NE-1295 ; Col du Lagua ;1295;; 6.754606 ; 46.937367 
+ CH-NE-1325 ; Col de Tête de Ran ;1325;; 6.856684 ; 47.055429 
+ CH-NE-1353 ; Col des Neigeux ;1353;; 6.834605 ; 47.041993 
+ CH-NE-1375 ; Pertuis de Bise ;1375;; 6.718535 ; 46.938917 
+ CH-NE-1391 ; Croza Rognon ;1391;; 6.724947 ; 46.921866 
+ CH-NE-1412 ; Creux de l'Eau ;1412;; 6.731035 ; 46.928201 
+ CH-NE-1502 ; Col du Chasseral ;1502;; 7.031973 ; 47.119826 
+ CH-NW-0774 ; Egg ;774;; 8.518885 ; 46.956116 
+ CH-NW-0882 ; Gross Egg ;881;; 8.393235 ; 46.989725 
+ CH-NW-0886 ; Renggpass ;886;; 8.292246 ; 46.976604 
+ CH-NW-0899 ; Honegg ;899;; 8.399607 ; 46.993881 
+ CH-NW-1209 ; Eggeli ;1209;; 8.408658 ; 46.880673 
+ CH-NW-1382 ; Tellenfadlücke ;1382;; 8.275369 ; 46.977394 
+ CH-NW-1398 ; Aecherlipass ;1398;; 8.342257 ; 46.91102 
+ CH-NW-1719a ; Chrinnen ;1719;; 8.340442 ; 46.927298 
+ CH-NW-1742 ; Storeggpass ;1742;; 8.328504 ; 46.844675 
+ CH-NW-1757b ; Sätteli ;1757;; 8.467925 ; 46.919297 
+ CH-NW-1901a ; Lückli ;1876;; 8.51979 ; 46.922724 
+ CH-NW-1917 ; Schoneggpass ;1917;; 8.476515 ; 46.888183 
+ CH-NW-1919 ; Jochli ;1919;; 8.544251 ; 46.929687 
+ CH-NW-1970 ; Peterslücke ;1970;; 8.45638 ; 46.904512 
+ CH-NW-2002 ; Vorder Jochli ;2002;; 8.50003 ; 46.916125 
+ CH-NW-2058 ; Scheidegg ;2058;; 8.348773 ; 46.829097 
+ CH-NW-2100 ; Schinbergjochli ;2100;; 8.478017 ; 46.911568 
+ CH-NW-2105 ; Hinterjochli ;2105;; 8.484198 ; 46.912133 
+ CH-NW-2145c ; Sinsgäuerjochli ;2095;; 8.471837 ; 46.893983 
+ CH-NW-2157b ; Steinalper Jochli ;2157;; 8.463694 ; 46.903952 
+ CH-NW-2204 ; Sattel von Bocki-Rotisand ;2204;; 8.335268 ; 46.829644 
+ CH-NW-2250 ; Schoneggli ;2250;; 8.470135 ; 46.870933 
+ CH-NW-2406 ; Fikenloch ;2406;; 8.362035 ; 46.792997 
+ CH-NW-2412 ; Sattel ;2412;; 8.335473 ; 46.813567 
+ CH-NW-2452 ; Schyegglücke ;2452;; 8.428348 ; 46.850539 
+ CH-NW-2483 ; Rigidallücke ;2483;; 8.423149 ; 46.8516 
+ CH-NW-2520 ; Schlittkuchenpass ;2520;; 8.463016 ; 46.855262 
+ CH-NW-2552a ; Fullücke ;2552;; 8.343197 ; 46.802234 
+ CH-NW-2559 ; Rotgrätlipass ;2559;; 8.488656 ; 46.853366 
+ CH-NW-2681 ; Nordsattel ;2681;; 8.46899 ; 46.858384 
+ CH-OW-1468 ; Scharti ;1468;; 8.32929 ; 46.903259 
+ CH-OW-1527 ; Durrenegg ;1527;; 8.12911 ; 46.789001 
+ CH-OW-1543 ; Glaubenberg Pass ;1543;; 8.107722 ; 46.892462 
+ CH-OW-1547 ; Chrüzliegg ;1547;; 8.163921 ; 46.944708 
+ CH-OW-1561 ; Wenglihals ;1561;; 8.1876 ; 46.912396 
+ CH-OW-1584 ; Sattelpass ;1584;; 8.072371 ; 46.865676 
+ CH-OW-1611 ; Glaubenbüelen Pass ;1565;; 8.085941 ; 46.818373 
+ CH-OW-1611a ; Egg ;1611;; 8.157552 ; 46.902631 
+ CH-OW-1619 ; Obermattegg ;1619;; 8.153241 ; 46.900157 
+ CH-OW-1621 ; Sattelegg ;1621;; 8.302625 ; 46.813703 
+ CH-OW-1722 ; Miesenegg ;1722;; 8.085243 ; 46.872755 
+ CH-OW-1742 ; Sewenegg ;1742;; 8.09147 ; 46.883245 
+ CH-OW-1800b ; Teufimattsattel ;1800;; 8.050627 ; 46.83359 
+ CH-OW-1809 ; Egg ;1809;; 8.194228 ; 46.802974 
+ CH-OW-1865 ; Bachegg ;1865;; 8.246003 ; 46.801315 
+ CH-OW-1909 ; Furgge ;1909;; 8.107742 ; 46.809612 
+ CH-OW-1916 ; Chringe ;1916;; 8.108338 ; 46.801665 
+ CH-OW-2049 ; Chringengrätli ;2049;; 8.22981 ; 46.782519 
+ CH-OW-2152 ; Chringen ;2152;; 8.301275 ; 46.780941 
+ CH-OW-2171 ; Juchlipass ;2171;; 8.323167 ; 46.819033 
+ CH-OW-2686b ; Engelbergerlücke ;2686;; 8.498764 ; 46.851905 
+ CH-OW-2690 ; Oberbergsattel ;2690;; 8.475365 ; 46.855718 
+ CH-OW-2785 ; Sätteli ;2785;; 8.439122 ; 46.783955 
+ CH-OW-2800g ; Stössensattel ;2800;; 8.463416 ; 46.768833 
+ CH-SG-0639 ; Kirchweghöchi ;639;; 8.932788 ; 47.25115 
+ CH-SG-0783 ; Chrummentürli ;783;; 9.113527 ; 47.39536 
+ CH-SG-0790 ; Rickenpass ;790;; 9.039175 ; 47.261723 
+ CH-SG-0801 ; Winzenberg ;801;; 9.119483 ; 47.396434 
+ CH-SG-0831 ; Sedelegg ;831;; 9.194719 ; 47.30902 
+ CH-SG-0834 ; Steig ;834;; 8.996401 ; 47.402756 
+ CH-SG-0843 ; Wasserfluh Pass ;843;; 9.114073 ; 47.325928 
+ CH-SG-0860 ; Gruben ;860;; 9.068812 ; 47.318255 
+ CH-SG-0866 ; Egg ;866;; 9.051918 ; 47.312141 
+ CH-SG-0906 ; Schwantleregg ;904;; 9.114738 ; 47.301214 
+ CH-SG-0917 ; Stuelegg ;917;; 9.394464 ; 47.407212 
+ CH-SG-0939 ; Stämisegg ;939;; 9.056171 ; 47.301474 
+ CH-SG-0945 ; Loch ;945;; 9.176019 ; 47.300604 
+ CH-SG-0953a ; Hulftegg ;953;; 8.966798 ; 47.362499 
+ CH-SG-0968 ; Schlattberg ;968;; 8.964238 ; 47.366509 
+ CH-SG-0969 ; Egg ;965;; 8.99339 ; 47.354066 
+ CH-SG-0971 ; Brandhöchi ;971;; 9.200622 ; 47.302327 
+ CH-SG-0971a ; Wolfsgrueb ;971;; 8.951832 ; 47.296566 
+ CH-SG-0978 ; Tor ;978;; 8.989824 ; 47.35253 
+ CH-SG-0985 ; Chrüzbüel ;985;; 8.970228 ; 47.360241 
+ CH-SG-1002 ; Gerensattel ;1002;; 9.162613 ; 47.335559 
+ CH-SG-1017 ; Buebeneggli ;1017;; 9.201774 ; 47.207896 
+ CH-SG-1050 ; Hirzegg ;1050;; 8.974699 ; 47.339427 
+ CH-SG-1084 ; Eggli ;1084;; 9.002035 ; 47.271922 
+ CH-SG-1090 ; Passhöhe Wildhaus ;1027;; 9.35695 ; 47.199476 
+ CH-SG-1128 ; Holzweidsattel ;1128;; 9.035609 ; 47.30114 
+ CH-SG-1178 ; Vorderes Eggli ;1178;; 9.047111 ; 47.286964 
+ CH-SG-1189 ; Höhi ;1189;; 9.383488 ; 47.164741 
+ CH-SG-1205 ; Hinderes Eggli ;1205;; 9.041507 ; 47.286124 
+ CH-SG-1220 ; Alplisattel ;1220;; 9.028782 ; 47.30325 
+ CH-SG-1229 ; Tweralp Pass ;1229;; 9.023302 ; 47.295085 
+ CH-SG-1265 ; Chrüzegg ;1265;; 9.01498 ; 47.2985 
+ CH-SG-1269 ; Chräzerenpass ;1269;; 9.293347 ; 47.256922 
+ CH-SG-1343 ; Rossegg ;1343;; 9.341679 ; 47.212164 
+ CH-SG-1343a ; Böstritt ;1343;; 9.279667 ; 47.206254 
+ CH-SG-1347 ; Unterfurgglen ;1347;; 9.124249 ; 47.155967 
+ CH-SG-1349 ; Chrinn ;1349;; 9.290113 ; 47.210522 
+ CH-SG-1412 ; Heumooser Pass ;1412;; 9.168306 ; 47.200973 
+ CH-SG-1414b ; Rietegg ;1414;; 9.266464 ; 47.205079 
+ CH-SG-1416 ; Hinter Höhi ;1416;; 9.163009 ; 47.171812 
+ CH-SG-1424 ; Rossweidhöchi ;1424;; 8.966536 ; 47.125136 
+ CH-SG-1459a ; Risipass ;1459;; 9.250121 ; 47.219552 
+ CH-SG-1495a ; Höhe ;1495;; 9.145155 ; 47.207265 
+ CH-SG-1498 ; Ober Furgglen ;1498;; 9.126348 ; 47.159787 
+ CH-SG-1537b ; Vorder Höhi ;1537;; 9.198944 ; 47.169244 
+ CH-SG-1578 ; Mättler Höhi ;1578;; 9.130312 ; 47.172523 
+ CH-SG-1591 ; Bützalpsattel ;1591;; 9.13812 ; 47.196528 
+ CH-SG-1603 ; Furggen ;1603;; 9.102682 ; 47.179223 
+ CH-SG-1630 ; Windenpass ;1630;; 9.272612 ; 47.220726 
+ CH-SG-1669 ; Furggen ;1669;; 9.106403 ; 47.175841 
+ CH-SG-1691 ; Sattel ;1691;; 9.414729 ; 47.080116 
+ CH-SG-1746 ; Fürggli ;1746;; 9.402299 ; 47.012315 
+ CH-SG-1774 ; Obere Bützfurggle ;1774;; 9.095025 ; 47.166738 
+ CH-SG-1802 ; Stellisattel ;1802;; 9.255281 ; 47.076847 
+ CH-SG-1839 ; Nideri ;1839;; 9.337951 ; 47.145888 
+ CH-SG-1888 ; Sattel ;1888;; 9.364846 ; 47.225536 
+ CH-SG-1899 ; Sattel ;1899;; 9.301895 ; 47.162934 
+ CH-SG-1946 ; Sattel ;1946;; 9.329768 ; 47.15655 
+ CH-SG-1953 ; Maschgalugge ;1953;; 9.256484 ; 47.068839 
+ CH-SG-1958 ; Stollenfurgge ;1958;; 9.289298 ; 47.154572 
+ CH-SG-1997 ; Zigerfurgglen ;1997;; 9.242383 ; 47.066569 
+ CH-SG-2005 ; Seluner Joch ;2005;; 9.247588 ; 47.150153 
+ CH-SG-2010 ; Paliis Nideri ;2010;; 9.282421 ; 47.15327 
+ CH-SG-2027 ; Munzfurgglen ;2027;; 9.223242 ; 47.067111 
+ CH-SG-2033 ; Schleichübel ;2033;; 9.242248 ; 47.149436 
+ CH-SG-2044e ; Stosssattel ;2044;; 9.313726 ; 47.235134 
+ CH-SG-2045 ; Gluurisattel ;2045;; 9.298843 ; 47.154058 
+ CH-SG-2047 ; Rappenloch ;2045;; 9.261035 ; 47.151155 
+ CH-SG-2069 ; Mutschensattel ;2069;; 9.405237 ; 47.236712 
+ CH-SG-2083 ; Malunfurggel ;2083;; 9.401468 ; 47.119745 
+ CH-SG-2097 ; Schifflochlücke ;2097;; 9.365986 ; 47.134471 
+ CH-SG-2112 ; Furggeli ;2112;; 9.408498 ; 47.113776 
+ CH-SG-2149a ; Madfurggl ;2149;; 9.320457 ; 47.013687 
+ CH-SG-2157 ; Sterenbergsattel ;2157;; 9.369103 ; 47.134635 
+ CH-SG-2167 ; Gamsbergsattel ;2167;; 9.380723 ; 47.135447 
+ CH-SG-2192 ; Lauifurggla ;2192;; 9.286388 ; 47.011857 
+ CH-SG-2197 ; Schafberg Sattel ;2197;; 9.354104 ; 47.227631 
+ CH-SG-2200a ; Chläuifurggla ;2200;; 9.297726 ; 47.018287 
+ CH-SG-2248 ; Joch ;2248;; 9.311389 ; 47.154511 
+ CH-SG-2251 ; Türli ;2251;; 9.218673 ; 47.04055 
+ CH-SG-2269 ; Furggeli ;2269;; 9.352039 ; 47.230095 
+ CH-SG-2275 ; Fansfurggla ;2275;; 9.253071 ; 47.003031 
+ CH-SG-2294 ; Jöchli ;2294;; 9.35969 ; 47.233117 
+ CH-SG-2309 ; Faulfirstlücke ;2309;; 9.395355 ; 47.130313 
+ CH-SG-2316d ; Siexfurggla ;2316;; 9.271484 ; 47.005708 
+ CH-SG-2387b ; Heidelpass ;2387;; 9.331867 ; 46.945611 
+ CH-SG-2404b ; Guetentalfurggla ;2401;; 9.319533 ; 46.955442 
+ CH-SG-2409d ; Muetertalerfürggli ;2409;; 9.293237 ; 46.945524 
+ CH-SG-2420 ; Wissmilenpass ;2416;; 9.228136 ; 47.027923 
+ CH-SG-2438b ; Ritschlifurgga ;2437;; 9.31307 ; 46.947225 
+ CH-SG-2468b ; Heubützlipass ;2466;; 9.298554 ; 46.941613 
+ CH-SG-2493 ; Wildseeluggen ;2493;; 9.397781 ; 46.971443 
+ CH-SG-2556 ; Alplijoch ;2556;; 9.267259 ; 46.929206 
+ CH-SG-2574a ; Furggla ;2574;; 9.404522 ; 46.940869 
+ CH-SG-2587 ; Lavtinasattel ;2587;; 9.387182 ; 46.969158 
+ CH-SG-2588e ; Piltschinasattel ;2588;; 9.378254 ; 46.947624 
+ CH-SG-2629 ; Orglensattel ;2629;; 9.383902 ; 46.899317 
+ CH-SG-2652 ; Marchtalsattel ;2652;; 9.37077 ; 46.942658 
+ CH-SG-2691 ; Orglenlücke ;2691;; 9.387381 ; 46.901868 
+ CH-SG-2789 ; Pizolsattel ;2789;; 9.387568 ; 46.958084 
+ CH-SH-0506 ; Liteggli ;506;; 8.430559 ; 47.704464 
+ CH-SH-0555 ; Siblingerhöhe ;555;; 8.504577 ; 47.721779 
+ CH-SH-0734 ; Hengstsattel ;734;; 8.592411 ; 47.789628 
+ CH-SO-0551 ; Seetalhöhe ;551;; 7.629223 ; 47.429399 
+ CH-SO-0561 ; Buechtürli ;561;; 7.440121 ; 47.142343 
+ CH-SO-0613 ; Steinenbühlhöhe ;613;; 7.582964 ; 47.394235 
+ CH-SO-0618 ; Wolftürli ;618;; 7.484841 ; 47.130524 
+ CH-SO-0653 ; Engihöchi ;653;; 7.599434 ; 47.400861 
+ CH-SO-0669 ; Ebnet ;669;; 7.653474 ; 47.421918 
+ CH-SO-0677 ; Rumpelhöchi ;677;; 7.867221 ; 47.357483 
+ CH-SO-0722 ; Egglenboden ;722;; 7.60841 ; 47.411605 
+ CH-SO-0725 ; Balmhöchi ;725;; 7.607399 ; 47.410374 
+ CH-SO-0734 ; Binzebene ;734;; 7.61719 ; 47.410198 
+ CH-SO-0738 ; Col de Rote Flüh ;738;; 7.403287 ; 47.438444 
+ CH-SO-0764 ; Rosmaregg ;764;; 7.966 ; 47.414639 
+ CH-SO-0765 ; Steinegg ;765;; 7.614713 ; 47.414411 
+ CH-SO-0778 ; Wisnerhöchi ;786;; 7.884607 ; 47.38524 
+ CH-SO-0797 ; Santelhöchi ;797;; 7.805148 ; 47.339078 
+ CH-SO-0802 ; Chrüzboden ;802;; 7.906362 ; 47.392293 
+ CH-SO-0811 ; Wishöchi ;811;; 7.757569 ; 47.326177 
+ CH-SO-0813 ; Allerheiligenberg ;813;; 7.818658 ; 47.350269 
+ CH-SO-0828 ; Meltingerberg ;828;; 7.600939 ; 47.37724 
+ CH-SO-0840 ; Gätterli ;840;; 7.802956 ; 47.335901 
+ CH-SO-0856 ; Schlosshöchi ;856;; 7.7751 ; 47.33085 
+ CH-SO-0886 ; Stierenberg ;886;; 7.62343 ; 47.379347 
+ CH-SO-0887 ; Schlosshöhe ;887;; 7.782747 ; 47.332995 
+ CH-SO-0903 ; Chratteneggli ;903;; 7.616331 ; 47.346933 
+ CH-SO-0905 ; Homberglücke ;905;; 7.849382 ; 47.359752 
+ CH-SO-0943 ; Passwang Tunnel ;943;; 7.656102 ; 47.357713 
+ CH-SO-0966b ; Wuesthöchi ;966;; 7.803532 ; 47.354374 
+ CH-SO-0990 ; Solloch ;990;; 7.726733 ; 47.367794 
+ CH-SO-0992 ; Passwanghöhe ;992;; 7.665188 ; 47.359143 
+ CH-SO-0998 ; Gwidemhöchi ;998;; 7.807608 ; 47.359982 
+ CH-SO-1013 ; Binzberg ;1013;; 7.430823 ; 47.251907 
+ CH-SO-1049 ; Höchchrüz ;1049;; 7.583917 ; 47.272082 
+ CH-SO-1051 ; Scheltenpass ;1051;; 7.581787 ; 47.335522 
+ CH-SO-1073 ; Vorder Erzberg ;1073;; 7.589844 ; 47.340207 
+ CH-SO-1078 ; Balmberg Passhöhe ;1078;; 7.539582 ; 47.266129 
+ CH-SO-1102 ; Stierenberg ;1102;; 7.362586 ; 47.211028 
+ CH-SO-1104 ; Mieschegg ;1104;; 7.552092 ; 47.308392 
+ CH-SO-1105 ; Ober Passwang ;1105;; 7.676435 ; 47.364059 
+ CH-SO-1147 ; Col de Solterschwand ;1147;; 7.570244 ; 47.322395 
+ CH-SO-1159 ; Stierenberg ;1159;; 7.557401 ; 47.269387 
+ CH-SO-1279c ; Weissenstein Passhöhe ;1279;; 7.508384 ; 47.255089 
+ CH-SO-1292 ; Egg ;1292;; 7.459486 ; 47.242201 
+ CH-SO-1314 ; Stallberg ;1314;; 7.430904 ; 47.241132 
+ CH-SO-1318 ; Col de Müren ;1318;; 7.446727 ; 47.242562 
+ CH-SO-1342 ; Angloch ;1342;; 7.41321 ; 47.234347 
+ CH-SO-1353 ; Obergrenchenberg ;1353;; 7.399913 ; 47.232274 
+ CH-SZ-0473 ; Joch ;473;; 8.798173 ; 47.196772 
+ CH-SZ-0555a ; Bernerhöhe ;555;; 8.556921 ; 47.041304 
+ CH-SZ-0758 ; Schwyzerhöchi ;758;; 8.630024 ; 46.98921 
+ CH-SZ-0794 ; Hageggli ;789;; 8.630092 ; 47.086492 
+ CH-SZ-0932 ; Biberegg ;932;; 8.670445 ; 47.093803 
+ CH-SZ-0941 ; Renggloch ;941;; 8.60568 ; 47.018463 
+ CH-SZ-0950 ; Etzelpass ;950;; 8.77162 ; 47.173549 
+ CH-SZ-1065 ; Ober Tritt ;1065;; 8.920955 ; 47.110384 
+ CH-SZ-1105 ; Tritt ;1105;; 8.745986 ; 46.983988 
+ CH-SZ-1160 ; Müligassegg ;1160;; 8.812822 ; 47.161279 
+ CH-SZ-1190 ; Sattelegg ;1190;; 8.846526 ; 47.127316 
+ CH-SZ-1190a ; Gätterlipass ;1190;; 8.551312 ; 47.018329 
+ CH-SZ-1220 ; Ruchegg ;1206;; 8.703081 ; 47.101932 
+ CH-SZ-1266 ; Mostelegg ;1266;; 8.660023 ; 47.055591 
+ CH-SZ-1277 ; Sattel ;1277;; 8.814403 ; 47.108363 
+ CH-SZ-1288 ; Egg ;1288;; 8.574666 ; 47.01236 
+ CH-SZ-1288a ; Hinteregg ;1288;; 8.654556 ; 47.057152 
+ CH-SZ-1320 ; Halsegg ;1320;; 8.603602 ; 47.088158 
+ CH-SZ-1365 ; Schwarzenegghöchi ;1379;; 8.947785 ; 47.103846 
+ CH-SZ-1368 ; Fläschlipass ;1368;; 8.886961 ; 47.074454 
+ CH-SZ-1405 ; Holzegg ;1405;; 8.698355 ; 47.028683 
+ CH-SZ-1406a ; Ibergereggpass ;1406;; 8.733281 ; 47.017544 
+ CH-SZ-1414a ; Haggenegg ;1414;; 8.684022 ; 47.05169 
+ CH-SZ-1427 ; Müsliegg ;1427;; 8.715328 ; 47.023188 
+ CH-SZ-1430 ; Tierfäderenegg ;1430;; 8.830272 ; 47.04965 
+ CH-SZ-1440 ; Bannegg ;1440;; 8.67011 ; 47.064363 
+ CH-SZ-1463 ; Stäglerenegg ;1463;; 8.704725 ; 47.02542 
+ CH-SZ-1482 ; Fuederegg ;1482;; 8.782708 ; 47.013602 
+ CH-SZ-1487 ; Höchi ;1487;; 8.717192 ; 46.947373 
+ CH-SZ-1497 ; Sternenegg ;1491;; 8.746572 ; 47.006454 
+ CH-SZ-1506 ; Butzilücke ;1506;; 8.74336 ; 47.062024 
+ CH-SZ-1515 ; Pragelpass ;1515;; 8.869464 ; 46.999148 
+ CH-SZ-1521 ; Hüttenloch ;1521;; 8.581055 ; 47.083932 
+ CH-SZ-1526 ; Furggelen ;1529;; 8.734415 ; 47.042721 
+ CH-SZ-1562 ; Schindleneggen ;1562;; 8.728813 ; 47.034148 
+ CH-SZ-1567 ; Roggenegg ;1567;; 8.797037 ; 47.023689 
+ CH-SZ-1573 ; Schwialppass ;1570;; 8.888397 ; 47.037955 
+ CH-SZ-1582 ; Trittlipass ;1582;; 8.795731 ; 47.005847 
+ CH-SZ-1583 ; Halbegg ;1572;; 8.725731 ; 47.029099 
+ CH-SZ-1596 ; Wannentritt ;1596;; 8.721732 ; 46.954844 
+ CH-SZ-1702 ; Tor ;1702;; 8.865966 ; 46.966489 
+ CH-SZ-1726 ; Torloch ;1764;; 8.870355 ; 46.962538 
+ CH-SZ-1732 ; Furggeli ;1732;; 8.643269 ; 46.963108 
+ CH-SZ-1781 ; Durchgäng ;1781;; 8.91777 ; 47.038471 
+ CH-SZ-1805 ; Sattel ;1805;; 8.706983 ; 46.957347 
+ CH-SZ-1824 ; Ganthöchi ;1824;; 8.880851 ; 47.041199 
+ CH-SZ-1824a ; Hinterofenhöchi ;1822;; 8.838785 ; 47.020317 
+ CH-SZ-1837 ; Wannenhöchi Hinter ;1834;; 8.836333 ; 47.034778 
+ CH-SZ-1896 ; Saaspass ;1896;; 8.86722 ; 47.018563 
+ CH-SZ-2012 ; Bärentritt ;2012;; 8.95446 ; 46.935573 
+ CH-SZ-2029 ; Twäriberglücke ;2029;; 8.837898 ; 47.00848 
+ CH-SZ-2038 ; Sattel ;2038;; 8.885443 ; 47.060169 
+ CH-SZ-2046 ; Wit Tor ;2046;; 8.801461 ; 46.941454 
+ CH-SZ-2056 ; Lücke ;2109;; 8.872302 ; 46.92471 
+ CH-SZ-2081 ; Karrenalppass ;2081;; 8.932801 ; 46.945979 
+ CH-SZ-2085 ; Änggen Tor ;2085;; 8.782043 ; 46.940793 
+ CH-SZ-2109 ; Druesberglücke ;2109;; 8.828411 ; 47.002217 
+ CH-SZ-2141a ; Chratzerenfurggeli ;2141;; 8.906169 ; 46.968455 
+ CH-SZ-2143 ; Achsler Pass ;2143;; 8.745076 ; 46.935229 
+ CH-SZ-2207b ; Brunalpelihöchi ;2207;; 8.919846 ; 46.952085 
+ CH-SZ-2248 ; Firner Loch ;2248;; 8.871691 ; 46.893895 
+ CH-SZ-2334 ; Läckipass ;2334;; 8.882461 ; 46.899104 
+ CH-SZ-2335 ; Chaisertor ;2335;; 8.724094 ; 46.930563 
+ CH-SZ-2341 ; Kirchbergfurkel ;2341;; 8.913412 ; 46.93117 
+ CH-SZ-2395b ; Furggele ;2402;; 8.93919 ; 46.929656 
+ CH-TG-0620 ; Büeltürli ;620;; 9.120199 ; 47.50686 
+ CH-TG-0687 ; Scheidweg ;687;; 9.142566 ; 47.491816 
+ CH-TG-0756 ; Struussbüül ;756;; 9.090972 ; 47.50156 
+ CH-TG-0799 ; Schlossersbode ;799;; 8.94917 ; 47.400622 
+ CH-TG-0825 ; Gässli ;825;; 8.921714 ; 47.407661 
+ CH-TG-0828 ; Guggebüül ;828;; 8.922612 ; 47.413245 
+ CH-TG-0845 ; Ackerwishööchi ;845;; 8.939269 ; 47.392043 
+ CH-TG-0848 ; Schnäggebode ;848;; 8.94295 ; 47.388693 
+ CH-TG-0849a ; Roopelhööchi ;849;; 8.938158 ; 47.394441 
+ CH-TG-0852 ; Rotbühl ;852;; 8.938491 ; 47.398278 
+ CH-TI-0464 ; Forcola ;464;; 8.746944 ; 46.191309 
+ CH-TI-0554 ; Passo Monte Ceneri ;554;; 8.90588 ; 46.140052 
+ CH-TI-0596 ; Forcola di Dunzio ;596;; 8.738763 ; 46.217674 
+ CH-TI-0852 ; Forcora ;850;; 8.88276 ; 46.017225 
+ CH-TI-0869 ; Forcella ;869;; 9.05145 ; 45.855512 
+ CH-TI-0880 ; Sella ;883;; 8.923282 ; 45.894474 
+ CH-TI-0972 ; Gola di Lago ;972;; 8.965153 ; 46.102872 
+ CH-TI-1019 ; Sella ;1019;; 8.67161 ; 46.211229 
+ CH-TI-1020a ; Forcola ;1020;; 8.610686 ; 46.141794 
+ CH-TI-1076 ; Passo della Garina ;1076;; 8.683172 ; 46.223788 
+ CH-TI-1110 ; Forcora ;1110;; 8.831294 ; 46.199513 
+ CH-TI-1112 ; Sella ;1112;; 9.064895 ; 45.881626 
+ CH-TI-1114 ; Passo di Monte Faëta ;1118;; 8.822342 ; 46.02457 
+ CH-TI-1162 ; Sella Cavazza ;1162;; 9.057935 ; 45.877579 
+ CH-TI-1174 ; Passo Biscagno ;1174;; 9.011574 ; 46.039126 
+ CH-TI-1201 ; Passo di Prabello ;1201;; 9.073456 ; 45.912956 
+ CH-TI-1263 ; Bocchetta di Brumea ;1262;; 9.017195 ; 46.044959 
+ CH-TI-1342 ; Passo di Sant'Anna ;1342;; 8.814555 ; 46.105142 
+ CH-TI-1360 ; Passo Crocetta ;1360;; 9.013015 ; 45.942952 
+ CH-TI-1371 ; La Bassa ;1367;; 8.889217 ; 46.070747 
+ CH-TI-1382b ; Forcla ;1382;; 8.706075 ; 46.20536 
+ CH-TI-1395 ; Passo di Neggia ;1395;; 8.845419 ; 46.110745 
+ CH-TI-1396 ; Forcola ;1396;; 8.632833 ; 46.215784 
+ CH-TI-1399 ; Passo Streccione ;1399;; 9.024958 ; 46.052462 
+ CH-TI-1406b ; Passo Pairolo ;1405;; 9.047274 ; 46.060738 
+ CH-TI-1419 ; Bocchetta dei Sassi Palazzi ;1418;; 9.042464 ; 46.059349 
+ CH-TI-1441 ; Passo Bonello ;1105;; 9.060777 ; 45.91574 
+ CH-TI-1445 ; Bocchetta Camoscia ;1445;; 9.018887 ; 45.939973 
+ CH-TI-1447 ; Böcc della Cazzana ;1447;; 8.558564 ; 46.313131 
+ CH-TI-1460 ; Bassa di Bietri ;1467;; 8.804637 ; 46.20862 
+ CH-TI-1464 ; Bassa d'Ogé ;1411;; 9.033422 ; 46.055536 
+ CH-TI-1481 ; Forcola d'Arasio Sparavera ;1481;; 8.837466 ; 46.043753 
+ CH-TI-1501 ; Passo della Forcoletta ;1504;; 9.08424 ; 46.078811 
+ CH-TI-1503 ; Colle ;1503;; 9.086202 ; 46.151977 
+ CH-TI-1540 ; Bocchetta di Misello ;1540;; 8.610382 ; 46.129436 
+ CH-TI-1542 ; Passo San Lucio ;1540;; 9.089477 ; 46.086112 
+ CH-TI-1570 ; Passo d'Agario ;1550;; 8.859803 ; 46.068035 
+ CH-TI-1576 ; Colle ;1577;; 9.078516 ; 46.072461 
+ CH-TI-1586 ; Bocchetta di San Bernardo ;1585;; 9.078447 ; 46.068026 
+ CH-TI-1594 ; Sella Piancaccia ;1598;; 9.022361 ; 45.937468 
+ CH-TI-1600 ; Sella ;1625;; 8.789733 ; 46.461956 
+ CH-TI-1610 ; Bassa di Cardada ;1610;; 8.791014 ; 46.202756 
+ CH-TI-1620 ; Sella Squadrina ;1621;; 9.02185 ; 45.935397 
+ CH-TI-1677a ; Passo di Pianca Bella ;1676;; 9.065806 ; 46.061974 
+ CH-TI-1688 ; Passo di Fojorina ;1688;; 9.077639 ; 46.064808 
+ CH-TI-1688a ; Colle ;1688;; 8.866388 ; 46.108295 
+ CH-TI-1692 ; Passo di Pozzaiolo ;1692;; 9.052323 ; 46.113535 
+ CH-TI-1697 ; Passo Muazz ;1697;; 8.962206 ; 46.550933 
+ CH-TI-1700 ; Bassa di Indemini ;1723;; 8.867411 ; 46.097458 
+ CH-TI-1709 ; Forcola ;1709;; 8.918237 ; 46.211508 
+ CH-TI-1764 ; Bassa di Montoia ;1764;; 8.864395 ; 46.090425 
+ CH-TI-1769 ; Bocchetta di Salosa ;1773;; 9.019928 ; 46.313476 
+ CH-TI-1772 ; Bocchetta di Campo ;1772;; 8.880922 ; 46.10416 
+ CH-TI-1804 ; Passo della Bassa ;1804;; 8.636056 ; 46.238601 
+ CH-TI-1843 ; Bocchetta del Motto Rotondo ;1843;; 8.871421 ; 46.104407 
+ CH-TI-1850a ; Bocchetta di Poltrinone ;1850;; 9.106187 ; 46.140419 
+ CH-TI-1878 ; Bocchetta di Nembruno ;1878;; 9.141943 ; 46.1559 
+ CH-TI-1879 ; Bocchetta Nuzze ;1882;; 9.126933 ; 46.144078 
+ CH-TI-1880a ; Bocchetta di Albano ;1889;; 9.132394 ; 46.149449 
+ CH-TI-1920 ; Bassa dei Cantói ;1920;; 8.930707 ; 46.397048 
+ CH-TI-1925 ; Bocchetta di Sommafiume ;1924;; 9.122923 ; 46.137471 
+ CH-TI-1926 ; Passo Pian Croscio ;1926;; 8.51303 ; 46.306465 
+ CH-TI-1932 ; Bocchetta del Roccolo ;1936;; 9.124886 ; 46.140672 
+ CH-TI-1937 ; Passo Cantonill ;1937;; 8.91177 ; 46.547369 
+ CH-TI-1947 ; Bocchetta della Tappa ;1947;; 9.114676 ; 46.134876 
+ CH-TI-1948a ; Bocchetta di Valle ;1948;; 8.659085 ; 46.120679 
+ CH-TI-1950a ; Bocchetta di Orgnana ;1950;; 8.795728 ; 46.241116 
+ CH-TI-1973b ; Passo della Maggia ;1973;; 8.656356 ; 46.232627 
+ CH-TI-1976 ; Passo della Traversa ;1968;; 9.154623 ; 46.161404 
+ CH-TI-1978 ; Passo della Cavegna ;1978;; 8.48572 ; 46.24864 
+ CH-TI-1981a ; Bocchetta di Revolte ;1970;; 9.071913 ; 46.128323 
+ CH-TI-1990a ; Bocca dei Mulitt ;2086;; 8.532652 ; 46.215799 
+ CH-TI-1990b ; Forcarella ;1951;; 8.896471 ; 46.357439 
+ CH-TI-1993 ; Bocchetta del Corvo ;1992;; 9.118298 ; 46.135236 
+ CH-TI-1996 ; Forcadona ;1996;; 8.966692 ; 46.556928 
+ CH-TI-2006 ; Sella ;2006;; 9.042828 ; 46.416256 
+ CH-TI-2006a ; Forcarella d'Afata ;2006;; 8.84407 ; 46.389364 
+ CH-TI-2006b ; Passo del Bùsan ;2006;; 8.547411 ; 46.221422 
+ CH-TI-2012 ; Passo San Jorio ;2011;; 9.158983 ; 46.16661 
+ CH-TI-2017a ; Passo del Lupo ;1997;; 8.797956 ; 46.226514 
+ CH-TI-2020a ; Forcarella ;2017;; 8.928744 ; 46.406071 
+ CH-TI-2031 ; Passo di Piotta ;2031;; 8.996124 ; 46.50052 
+ CH-TI-2034a ; Bocchetta del Fornale ;2033;; 8.630529 ; 46.122333 
+ CH-TI-2036a ; Bocchetta di Cansgei ;2036;; 8.57245 ; 46.272364 
+ CH-TI-2036c ; Passo Deva ;2036;; 8.770939 ; 46.272001 
+ CH-TI-2045a ; Bocchetta di Stabbiello ;2042;; 9.102195 ; 46.129608 
+ CH-TI-2048 ; Passo di Nimi ;2048;; 8.775276 ; 46.253146 
+ CH-TI-2050 ; Bocchetta del Vallone ;2050;; 8.933611 ; 46.255536 
+ CH-TI-2054 ; Bocchetta di Doia ;2054;; 8.59635 ; 46.261506 
+ CH-TI-2057 ; Bocchetta d'Albagno ;2057;; 8.955227 ; 46.227393 
+ CH-TI-2060 ; Bocchetta di Scendorino ;2039;; 8.931322 ; 46.253893 
+ CH-TI-2069 ; Passo di Ruscada ;2069;; 8.929908 ; 46.230699 
+ CH-TI-2070 ; Passo dei due Laghi ;2068;; 8.699956 ; 46.309908 
+ CH-TI-2079 ; Bocchetta dei Ciapitt ;2079;; 8.540254 ; 46.220053 
+ CH-TI-2083 ; Bocchetta di Piatto ;2083;; 8.912028 ; 46.319736 
+ CH-TI-2089 ; Bocchetta del Mottale ;2089;; 9.034137 ; 46.321131 
+ CH-TI-2090 ; Forcarella di Cava ;2090;; 9.028468 ; 46.360404 
+ CH-TI-2091 ; Passo del San Gottardo ;2107;; 8.56114 ; 46.559314 
+ CH-TI-2100b ; Passo Forca ;2112;; 8.700669 ; 46.530259 
+ CH-TI-2104 ; Bocchetta Cazzane ;2104;; 8.926016 ; 46.23533 
+ CH-TI-2107 ; Cata d'Albezzona ;2107;; 8.56033 ; 46.253368 
+ CH-TI-2111b ; Passo di Piatto ;2111;; 8.799193 ; 46.390155 
+ CH-TI-2116a ; Bassa di Laghetto ;2116;; 8.872364 ; 46.457856 
+ CH-TI-2118 ; Passo Crastumo ;2118;; 8.871504 ; 46.459802 
+ CH-TI-2122a ; Bocchetta di Föisc ;2122;; 8.666858 ; 46.534983 
+ CH-TI-2123 ; Bassa di Nara ;2123;; 8.867974 ; 46.475528 
+ CH-TI-2130 ; Passo dei Laghetti ;2130;; 8.898761 ; 46.430123 
+ CH-TI-2135 ; Bocchetta di Sascòla ;2135;; 8.567877 ; 46.277088 
+ CH-TI-2136 ; Bocchetta del Sasso Bello ;2136;; 8.671061 ; 46.323865 
+ CH-TI-2137 ; Passo Quadrella ;2137;; 8.46464 ; 46.299843 
+ CH-TI-2138 ; Bassa della Sella ;2138;; 8.57808 ; 46.553631 
+ CH-TI-2138a ; Passo Venett ;2138;; 8.727029 ; 46.472239 
+ CH-TI-2141 ; Forca ;2141;; 8.962131 ; 46.579779 
+ CH-TI-2142b ; Passo del Cocco ;2142;; 8.692151 ; 46.337948 
+ CH-TI-2143 ; Bocchetta di Cremenzè ;2143;; 8.827533 ; 46.296962 
+ CH-TI-2149 ; Bocchetta di Medee ;2149;; 8.93244 ; 46.233185 
+ CH-TI-2153a ; Bocchetta della Molinera ;2153;; 8.573856 ; 46.265153 
+ CH-TI-2153b ; Bocchetta di Spluga ;2153;; 8.665866 ; 46.322671 
+ CH-TI-2156 ; Bassa di Pertüs ;2156;; 8.698459 ; 46.365777 
+ CH-TI-2165a ; Bocchetta di Catögn ;2150;; 8.563968 ; 46.266871 
+ CH-TI-2170 ; Bocchetta d'Arena ;2169;; 8.505194 ; 46.22397 
+ CH-TI-2178 ; Passo del Camoghè ;2178;; 8.670895 ; 46.540518 
+ CH-TI-2179a ; Bocchetta della Riva ;2179;; 8.917446 ; 46.327943 
+ CH-TI-2181 ; Forcola di Redòrta ;2181;; 8.725169 ; 46.366457 
+ CH-TI-2183 ; Passo Pianaccio ;2183;; 8.504088 ; 46.256862 
+ CH-TI-2198 ; Bocchetta dei Pini ;2198;; 8.693765 ; 46.340359 
+ CH-TI-2207a ; Bocchetta della Gana ;2207;; 8.856946 ; 46.336274 
+ CH-TI-2214a ; Bocchetta di Medaro ;2214;; 8.490814 ; 46.229052 
+ CH-TI-2215 ; Bocchetta di Lèis ;2215;; 8.925087 ; 46.249261 
+ CH-TI-2217 ; Passo di Gagnone ;2214;; 8.850581 ; 46.33127 
+ CH-TI-2218a ; Forcarella di Lodrino ;2218;; 8.907283 ; 46.292608 
+ CH-TI-2218b ; Passo dell' Uomo ;2212;; 8.763923 ; 46.552274 
+ CH-TI-2219 ; Bocchetta di Rognoi ;2219;; 8.909494 ; 46.238074 
+ CH-TI-2220 ; Bocchetta di Precastello ;2226;; 8.904705 ; 46.278849 
+ CH-TI-2222a ; Bocchetta di Borsgen ;2222;; 9.056144 ; 46.395148 
+ CH-TI-2224 ; Passo di Chènt ;2224;; 8.69278 ; 46.349484 
+ CH-TI-2225 ; Passo Bidensc ;2225;; 9.07023 ; 46.366243 
+ CH-TI-2226a ; Bocchetta Canòva ;2226;; 8.686756 ; 46.321363 
+ CH-TI-2233a ; Bassa ;2233;; 8.906882 ; 46.304687 
+ CH-TI-2238 ; Passo Scimfuss ;2238;; 8.590441 ; 46.543115 
+ CH-TI-2241b ; Sella ;2241;; 8.902859 ; 46.314366 
+ CH-TI-2242a ; Bocchetta del Camoghè ;2242;; 8.673739 ; 46.545165 
+ CH-TI-2255 ; Bocchetta d'Erbea ;2255;; 8.944466 ; 46.226898 
+ CH-TI-2256a ; Forcarella di Lago ;2256;; 9.024108 ; 46.353492 
+ CH-TI-2256b ; Passo delle Rosse ;2216;; 8.789873 ; 46.445094 
+ CH-TI-2259 ; Sella di Sopra ;2259;; 8.554553 ; 46.500425 
+ CH-TI-2274a ; Bassa di Motto ;2274;; 8.839096 ; 46.314004 
+ CH-TI-2274b ; Passo Bareta ;2271;; 8.874686 ; 46.503757 
+ CH-TI-2276 ; Bocchetta Sud di Fiorasca ;2276;; 8.615206 ; 46.381354 
+ CH-TI-2278 ; Bocchetta della Cima dell'Uomo ;2278;; 8.940324 ; 46.229472 
+ CH-TI-2280b ; Sella ;2367;; 8.912469 ; 46.271325 
+ CH-TI-2282 ; Forcula di Biasagno ;2282;; 9.026358 ; 46.399357 
+ CH-TI-2286 ; Bassa del Cristallo ;2286;; 8.712033 ; 46.532327 
+ CH-TI-2293 ; Bocchetta Fornasèl ;2293;; 8.505917 ; 46.392503 
+ CH-TI-2295 ; Bocchetta di Rierna ;2295;; 8.879223 ; 46.31422 
+ CH-TI-2298 ; Bassa della Fontana del Bo ;2298;; 8.676585 ; 46.549902 
+ CH-TI-2304 ; Bocchetta Cime Larghe ;2300;; 8.448509 ; 46.25945 
+ CH-TI-2304a ; Bocchetta di Nassa ;2304;; 8.503402 ; 46.37367 
+ CH-TI-2313b ; Passo San Giacomo ;2306;; 8.452174 ; 46.459101 
+ CH-TI-2316a ; Bocchetta di Cerentino ;2316;; 8.541924 ; 46.34086 
+ CH-TI-2318 ; Passo Campolungo ;2318;; 8.706709 ; 46.46644 
+ CH-TI-2319a ; Bocchetta del Madone ;2319;; 8.535959 ; 46.341368 
+ CH-TI-2323a ; Bocchetta della Campala ;2323;; 8.733257 ; 46.394975 
+ CH-TI-2323c ; Passo di Bosco ;2322;; 8.453777 ; 46.322881 
+ CH-TI-2327b ; Passo Fornale ;2327;; 8.690261 ; 46.41948 
+ CH-TI-2336 ; Passo Sassello ;2336;; 8.635923 ; 46.48907 
+ CH-TI-2340 ; Bocchetta di Larciolo ;2340;; 8.992331 ; 46.599516 
+ CH-TI-2357 ; Bocchetta del Vènn ;2357;; 8.903355 ; 46.273045 
+ CH-TI-2359 ; Sella di Ör Languosa ;2359;; 8.84774 ; 46.508242 
+ CH-TI-2360 ; Bassa del Mottone ;2354;; 8.859027 ; 46.366172 
+ CH-TI-2363 ; Catt da Ribia ;2363;; 8.542279 ; 46.261786 
+ CH-TI-2366b ; Forca di Pinadee ;2366;; 8.975996 ; 46.515298 
+ CH-TI-2366c ; Passo del Rampi ;2351;; 8.868261 ; 46.351607 
+ CH-TI-2368 ; Bocchetta di Tomè ;2368;; 8.698337 ; 46.349296 
+ CH-TI-2372 ; Bocchetta di Fiorasca ;2297;; 8.611608 ; 46.383893 
+ CH-TI-2373 ; Passo  della Ciossa ;2373;; 8.743534 ; 46.33295 
+ CH-TI-2376 ; Passo del Sole ;2375;; 8.770948 ; 46.531967 
+ CH-TI-2381b ; Passo del Lago Cavegna ;2381;; 8.465327 ; 46.242727 
+ CH-TI-2381c ; Passo delle Colombe ;2381;; 8.775555 ; 46.539065 
+ CH-TI-2392 ; Bocchetta Sud di Foiòi ;2392;; 8.573734 ; 46.404844 
+ CH-TI-2396 ; Passo della Cavegna ;2387;; 8.461253 ; 46.244662 
+ CH-TI-2400 ; Bocchetta Nord di Foiòi ;2400;; 8.57237 ; 46.406801 
+ CH-TI-2401b ; Passo di Gana Negra ;2437;; 8.834008 ; 46.555871 
+ CH-TI-2403 ; Cata della Quarantèria ;2403;; 8.521841 ; 46.258736 
+ CH-TI-2404a ; Bocchetta di Sasso Bianco ;2404;; 8.861886 ; 46.485204 
+ CH-TI-2409 ; Bocchetta di Magnasca ;2409;; 8.582658 ; 46.387049 
+ CH-TI-2409b ; Bocchetta di Campale ;2409;; 8.780824 ; 46.393973 
+ CH-TI-2411a ; Bassa di Partüs ;2411;; 8.849543 ; 46.363808 
+ CH-TI-2411b ; Passo Cazzòla ;2410;; 8.468258 ; 46.366203 
+ CH-TI-2419 ; Bocchetta Foglia ;2418;; 8.46513 ; 46.334744 
+ CH-TI-2419a ; Bocchetta ;2419;; 8.498532 ; 46.384511 
+ CH-TI-2420 ; Bocchetta del Madone di Formazzöö ;2420;; 8.481976 ; 46.363865 
+ CH-TI-2420a ; Passo di Leit ;2420;; 8.728587 ; 46.461111 
+ CH-TI-2420d ; Passo del Sasso Nero ;2420;; 8.563225 ; 46.469481 
+ CH-TI-2423a ; Bocchetta di Sròdan ;2423;; 8.556686 ; 46.420694 
+ CH-TI-2424 ; Bocchetta di Fümègna ;2411;; 8.889805 ; 46.305438 
+ CH-TI-2428b ; Passo del Mauro ;2428;; 9.039695 ; 46.3445 
+ CH-TI-2431 ; Passo di Corte Nuovo ;2431;; 8.851788 ; 46.321736 
+ CH-TI-2431a ; Passo di Bri ;2431;; 8.884875 ; 46.309001 
+ CH-TI-2432 ; Bocchetta degli Oréi ;2448;; 8.721442 ; 46.558087 
+ CH-TI-2432a ; Fil di Forcla ;2432;; 9.007581 ; 46.481765 
+ CH-TI-2433 ; Bocchetta dello Scaiee ;2433;; 8.838346 ; 46.329767 
+ CH-TI-2434 ; Bocchetta di Sovenat ;2434;; 8.575411 ; 46.395498 
+ CH-TI-2438a ; Passo del Narèt ;2438;; 8.557369 ; 46.479075 
+ CH-TI-2440 ; Nufenenpass ;2440;; 8.38932 ; 46.47295 
+ CH-TI-2443b ; Bassa di Söu ;2443;; 8.778846 ; 46.517128 
+ CH-TI-2443c ; Bocchetta d'Orsalia ;2443;; 8.514019 ; 46.336765 
+ CH-TI-2446 ; Passo della Stella ;2443;; 8.441712 ; 46.310097 
+ CH-TI-2447 ; Bocchetta del Corno ;2430;; 8.629441 ; 46.491658 
+ CH-TI-2449 ; Passo del Büsen ;2449;; 8.619782 ; 46.495537 
+ CH-TI-2452 ; Passo Predèlp ;2452;; 8.796119 ; 46.521997 
+ CH-TI-2453a ; Bassa della Cognora ;2359;; 8.822547 ; 46.380542 
+ CH-TI-2458 ; Bocchetta di Porchiér West ;2458;; 8.747238 ; 46.37136 
+ CH-TI-2469 ; Passo di Stou ;2469;; 8.865299 ; 46.499575 
+ CH-TI-2470a ; Bassa del Lago Scuro ;2477;; 8.694301 ; 46.560873 
+ CH-TI-2478b ; Nufenenpass ;2478;; 8.386764 ; 46.477245 
+ CH-TI-2479b ; Bocchetta di Pisone ;2479;; 8.616225 ; 46.436736 
+ CH-TI-2480 ; Bocchetta di Porchiér Est ;2480;; 8.757218 ; 46.370723 
+ CH-TI-2485b ; Passo del Corno ;2485;; 8.382371 ; 46.458263 
+ CH-TI-2488a ; Bassa di Canariscetto ;2488;; 8.835279 ; 46.513156 
+ CH-TI-2493 ; Passo Ramf ;2493;; 8.862468 ; 46.34773 
+ CH-TI-2502 ; Bocchetta di Larecc ;2509;; 8.735309 ; 46.380179 
+ CH-TI-2507 ; Bocchetta della Cròsa ;2480;; 8.482561 ; 46.382833 
+ CH-TI-2512c ; Passo Scheggia ;2512;; 8.667859 ; 46.481442 
+ CH-TI-2518a ; Bocchetta di Mügaia ;2518;; 8.714795 ; 46.35083 
+ CH-TI-2520a ; Krameggpass ;2517;; 8.442367 ; 46.31674 
+ CH-TI-2531 ; Passo Lareggio ;2530;; 8.435437 ; 46.302757 
+ CH-TI-2532 ; Passo di Lucendro ;2529;; 8.534047 ; 46.539759 
+ CH-TI-2534 ; Bocchetta di Cadlimo ;2534;; 8.69167 ; 46.57061 
+ CH-TI-2536 ; Bocchetta Gana Rossa ;2536;; 8.815323 ; 46.518617 
+ CH-TI-2538a ; Bassa del Barone ;2538;; 8.754718 ; 46.404328 
+ CH-TI-2538b ; Passo Comasnengo ;2538;; 8.73986 ; 46.529403 
+ CH-TI-2539a ; Bocchetta d'Era ;2539;; 8.807387 ; 46.519163 
+ CH-TI-2541 ; Bocchetta del Monte Zuccheron ;2541;; 8.712451 ; 46.356696 
+ CH-TI-2542 ; Bocchetta della Miniera ;2542;; 8.732912 ; 46.555573 
+ CH-TI-2544a ; Bocchetta del Masnee ;2544;; 8.548056 ; 46.425529 
+ CH-TI-2549a ; Bocchetta di Cramosino ;2549;; 8.830257 ; 46.374483 
+ CH-TI-2554a ; Passo dei Sassi ;2554;; 8.59454 ; 46.500025 
+ CH-TI-2558 ; Bocchetta di Caldözz ;2558;; 9.087045 ; 46.406354 
+ CH-TI-2560 ; Passo Mognoi ;2560;; 8.706808 ; 46.450596 
+ CH-TI-2562a ; Bassa di Folcra ;2562;; 8.531154 ; 46.480401 
+ CH-TI-2563a ; Bocchetta del Lago Nero ;2563;; 8.540453 ; 46.45414 
+ CH-TI-2568b ; Passo di Cristallina ;2568;; 8.527131 ; 46.471362 
+ CH-TI-2569d ; Passo Posmeda ;2569;; 8.625411 ; 46.55922 
+ CH-TI-2571 ; Bocchetta dell' Uomo di Campionigo ;2540;; 8.766222 ; 46.398247 
+ CH-TI-2574 ; Unteralppass ;2574;; 8.643275 ; 46.56488 
+ CH-TI-2579b ; Passo del Madone ;2579;; 8.557435 ; 46.488611 
+ CH-TI-2582 ; Passo del Barone ;2582;; 8.756742 ; 46.403063 
+ CH-TI-2586c ; Forcolaccia ;2586;; 8.462986 ; 46.349869 
+ CH-TI-2587 ; Bocchetta Cavagnolo ;2587;; 8.490951 ; 46.464929 
+ CH-TI-2592a ; Bassa della Prosa ;2592;; 8.587065 ; 46.565326 
+ CH-TI-2592b ; Bassa di Pos Lei ;2592;; 8.761904 ; 46.52465 
+ CH-TI-2613b ; Passo di Cavanna ;2613;; 8.507904 ; 46.536319 
+ CH-TI-2614 ; Bocchetta del Vespero ;2614;; 8.579099 ; 46.494918 
+ CH-TI-2635a ; Bocchetta di Val Maggia ;2633;; 8.463906 ; 46.439249 
+ CH-TI-2643 ; Passo della Valletta ;2643;; 8.539383 ; 46.546347 
+ CH-TI-2646a ; Passo del Laghetto ;2646;; 9.0206 ; 46.490482 
+ CH-TI-2654a ; Bocchetta di Staletto ;2654;; 8.750729 ; 46.429233 
+ CH-TI-2660a ; Bocchetta Formazzöö ;2660;; 8.472461 ; 46.3412 
+ CH-TI-2667a ; Bocchetta di Fiorèra ;2667;; 8.464648 ; 46.38287 
+ CH-TI-2677 ; Passo di Froda ;2677;; 8.675585 ; 46.578595 
+ CH-TI-2677a ; Passo Hireli ;2676;; 8.464365 ; 46.356172 
+ CH-TI-2679 ; Halbihorenpass ;2678;; 8.463261 ; 46.384421 
+ CH-TI-2687a ; Bocchetta di Formazzora ;2687;; 8.481181 ; 46.458569 
+ CH-TI-2690 ; Passo della Cima di Lago ;2696;; 8.517972 ; 46.471747 
+ CH-TI-2690a ; Bassa della Rossa ;2675;; 8.664946 ; 46.574904 
+ CH-TI-2691b ; Gerenpass ;2670;; 8.450577 ; 46.50326 
+ CH-TI-2692 ; Bocchetta della Froda ;2692;; 8.544685 ; 46.438265 
+ CH-TI-2693 ; Passo Gararesc ;2693;; 8.523537 ; 46.47397 
+ CH-TI-2695 ; Hüenersattel ;2695;; 8.496474 ; 46.534465 
+ CH-TI-2695a ; Westlicher Gerenpass ;2695;; 8.422972 ; 46.494048 
+ CH-TI-2698c ; Passo Grandinagia ;2698;; 8.484631 ; 46.461955 
+ CH-TI-2699 ; Bocchetta del Mottone ;2699;; 8.547856 ; 46.444388 
+ CH-TI-2709 ; Ywerberpass Sud ;2709;; 8.51522 ; 46.550231 
+ CH-TI-2714a ; Kastellücke ;2714;; 8.460042 ; 46.42757 
+ CH-TI-2716 ; Passo Valleggia Orientale ;2716;; 8.504308 ; 46.46619 
+ CH-TI-2716b ; Passo di Ghiacciaione ;2716;; 8.770686 ; 46.431249 
+ CH-TI-2733 ; Passo di Manio ;2712;; 8.445579 ; 46.498627 
+ CH-TI-2737 ; Ywerberpass Nord ;2737;; 8.515196 ; 46.555566 
+ CH-TI-2741b ; Gonerlilücke ;2741;; 8.406417 ; 46.492697 
+ CH-TI-2744 ; Sidelenlücke ;2744;; 8.417387 ; 46.493502 
+ CH-TI-2764b ; Passo di Rotondo ;2754;; 8.461331 ; 46.510433 
+ CH-TI-2769 ; Passo Est di Valrossa ;2764;; 8.407746 ; 46.458454 
+ CH-TI-2770 ; Sidelenlücke West ;2770;; 8.413193 ; 46.494285 
+ CH-TI-2770a ; Passo Valleggia Occidentale ;2770;; 8.497867 ; 46.466412 
+ CH-TI-2770f ; Passo Sella ;2701;; 8.630944 ; 46.565891 
+ CH-TI-2772b ; Tamierpass ;2771;; 8.467307 ; 46.39967 
+ CH-TI-2797 ; Passo dei Matörgn Est ;2797;; 8.474418 ; 46.446611 
+ CH-TI-2810 ; Forchetta del Piccolo Corno Gries ;2799;; 8.386933 ; 46.451892 
+ CH-TI-2820 ; Passo di Fiorina ;2844;; 8.466174 ; 46.442863 
+ CH-TI-2850 ; Passo dei Matörgn West ;2850;; 8.468611 ; 46.445117 
+ CH-TI-2857 ; Passo Sovèltra Sud ;2857;; 8.738976 ; 46.422575 
+ CH-TI-2867a ; Bocchetta di Croslina ;2867;; 8.723252 ; 46.433776 
+ CH-TI-2874e ; Passo Sovèltra ;2874;; 8.738677 ; 46.424198 
+ CH-TI-2880 ; Passo dei Cavagnöö ;2851;; 8.465047 ; 46.445221 
+ CH-TI-2886 ; Passo West di Valrossa ;2890;; 8.399248 ; 46.454937 
+ CH-TI-2888 ; Guspissattel ;2888;; 8.613023 ; 46.576145 
+ CH-TI-2899 ; Obere Kastellücke ;2891;; 8.457101 ; 46.424772 
+ CH-TI-2915 ; Forchetta del Corno Gries ;2916;; 8.3938 ; 46.452302 
+ CH-TI-2927 ; Passo di Ruino ;2927;; 8.467461 ; 46.514174 
+ CH-TI-2953 ; Bocchetta tre Corni ;2839;; 8.711771 ; 46.440239 
+ CH-TI-3033c ; Passo d'Antabia ;3032;; 8.464717 ; 46.40716 
+ CH-TI-3034 ; Passo Inferiore di Pesciora ;2981;; 8.47098 ; 46.520359 
+ CH-TI-3035 ; Passo Superiore di Pesciora ;3035;; 8.47505 ; 46.523993 
+ CH-TI-3194 ; Passo di Cavergno ;3151;; 8.465991 ; 46.414661 
+ CH-UR-0864 ; Lückeli ;864;; 8.565821 ; 46.960693 
+ CH-UR-1222 ; Obere Furggelen ;1217;; 8.558858 ; 46.918543 
+ CH-UR-1534b ; Sattel ;1533;; 8.544779 ; 46.902388 
+ CH-UR-1940 ; Tritt ;1940;; 8.767099 ; 46.90642 
+ CH-UR-1948b ; Klausenpass ;1948;; 8.855223 ; 46.868108 
+ CH-UR-1953 ; Sattel ;1953;; 8.816475 ; 46.875887 
+ CH-UR-2036b ; Fisetenpass ;2036;; 8.933354 ; 46.885108 
+ CH-UR-2045 ; Tor ;2045;; 8.775533 ; 46.910389 
+ CH-UR-2053 ; Vordere Waeldilücke ;2053;; 8.638745 ; 46.72002 
+ CH-UR-2068 ; Brunnifurggi ;2054;; 8.55895 ; 46.843559 
+ CH-UR-2069 ; Tor ;2069;; 8.489411 ; 46.884 
+ CH-UR-2073 ; Kinzig-Pass ;2073;; 8.725139 ; 46.907286 
+ CH-UR-2140a ; Schuenegg ;2167;; 8.467308 ; 46.9049 
+ CH-UR-2160 ; Laucherlückli ;2190;; 8.695064 ; 46.750506 
+ CH-UR-2172 ; Ruosalper Kulm Pass ;2172;; 8.815941 ; 46.883199 
+ CH-UR-2201a ; Furggi ;2160;; 8.625417 ; 46.783728 
+ CH-UR-2214 ; Riedfurggi ;2214;; 8.610992 ; 46.796742 
+ CH-UR-2218 ; Balmer Grätli Pass ;2218;; 8.830921 ; 46.882522 
+ CH-UR-2228 ; Lückli ;2228;; 8.636729 ; 46.711098 
+ CH-UR-2245 ; Furkle ;2245;; 8.72244 ; 46.817343 
+ CH-UR-2272b ; Furggeli ;2272;; 8.739225 ; 46.817756 
+ CH-UR-2288b ; Rossstock Lücke ;2288;; 8.710794 ; 46.917936 
+ CH-UR-2291 ; Surenenpass ;2291;; 8.545653 ; 46.836437 
+ CH-UR-2329 ; Leidseepass ;2329;; 8.60941 ; 46.791441 
+ CH-UR-2357 ; Bandlücke ;2353;; 8.55343 ; 46.682695 
+ CH-UR-2371 ; Hundtschingelfurggi ;2371;; 8.598106 ; 46.794534 
+ CH-UR-2381a ; Altisfurggi ;2381;; 8.550743 ; 46.829011 
+ CH-UR-2389a ; Bänderfurggi ;2389;; 8.58802 ; 46.825224 
+ CH-UR-2400b ; Lückli ;2400;; 8.57695 ; 46.735551 
+ CH-UR-2401c ; Päuggenfurggi ;2401;; 8.584569 ; 46.792422 
+ CH-UR-2407 ; Rot Bergli ;2407;; 8.550705 ; 46.747802 
+ CH-UR-2410 ; Lückli ;2410;; 8.482867 ; 46.755702 
+ CH-UR-2423b ; Guggitaler Furggi ;2423;; 8.547227 ; 46.823737 
+ CH-UR-2429c ; Furkapass ;2429;; 8.415021 ; 46.5726 
+ CH-UR-2442 ; Gitschentor ;2442;; 8.562714 ; 46.868747 
+ CH-UR-2445 ; Follenfurggi ;2445;; 8.582736 ; 46.823297 
+ CH-UR-2447a ; Chli Törli ;2447;; 8.779246 ; 46.898713 
+ CH-UR-2448 ; Alpler Tor ;2448;; 8.783937 ; 46.89209 
+ CH-UR-2478a ; Fellilücke ;2478;; 8.664785 ; 46.673734 
+ CH-UR-2487 ; Unteres Furggeli ;2487;; 8.736671 ; 46.797713 
+ CH-UR-2487a ; Sattel der Mittelplatten ;2487;; 8.72874 ; 46.708295 
+ CH-UR-2506 ; Pörtlilücke ;2506;; 8.683865 ; 46.71896 
+ CH-UR-2528c ; Passo d'Orsirora ;2528;; 8.520401 ; 46.571287 
+ CH-UR-2531a ; Älplilücke ;2531;; 8.560219 ; 46.820129 
+ CH-UR-2550b ; Lochplanggenlücke ;2491;; 8.523345 ; 46.754003 
+ CH-UR-2551 ; Guferjoch ;2551;; 8.450567 ; 46.746241 
+ CH-UR-2551a ; Mäntliserpass ;2551;; 8.592985 ; 46.789656 
+ CH-UR-2558 ; Wichelpass ;2558;; 8.580517 ; 46.774892 
+ CH-UR-2558a ; Blackenlücke ;2558;; 8.521248 ; 46.846432 
+ CH-UR-2565 ; Passo d'Orsino ;2565;; 8.524726 ; 46.578803 
+ CH-UR-2570 ; Lochstocklücke ;2570;; 8.548096 ; 46.641319 
+ CH-UR-2583 ; Porggerenlücke ;2583;; 8.679474 ; 46.604796 
+ CH-UR-2585a ; Sunnig Lücke ;2585;; 8.579667 ; 46.579435 
+ CH-UR-2600 ; Schijenlückli ;2600;; 8.491095 ; 46.664225 
+ CH-UR-2622 ; Ribener Lücke ;2622;; 8.635175 ; 46.694111 
+ CH-UR-2627b ; Schlossberglücke ;2627;; 8.525813 ; 46.795245 
+ CH-UR-2635 ; Ruchchälenpass ;2635;; 8.792945 ; 46.817797 
+ CH-UR-2656b ; Sustenjoch ;2656;; 8.465425 ; 46.716187 
+ CH-UR-2657b ; Steinchelenfurggi ;2657;; 8.584259 ; 46.783968 
+ CH-UR-2669a ; Sasspass ;2669;; 8.574696 ; 46.774555 
+ CH-UR-2683 ; Wichellücke ;2683;; 8.686418 ; 46.709459 
+ CH-UR-2693 ; Südliche Sewenzahnlücke ;2693;; 8.5241 ; 46.759618 
+ CH-UR-2700e ; Schijerlücke ;2700;; 8.685643 ; 46.711024 
+ CH-UR-2702b ; Rientallücke ;2702;; 8.641069 ; 46.676956 
+ CH-UR-2707 ; Schlierenlücke ;2707;; 8.534096 ; 46.865039 
+ CH-UR-2712 ; Grassenpass ;2712;; 8.494045 ; 46.773745 
+ CH-UR-2721 ; Windgällenlücke ;2721;; 8.715194 ; 46.799134 
+ CH-UR-2726b ; Schwarztallücke ;2710;; 8.782537 ; 46.762555 
+ CH-UR-2727a ; Gitziälpetlilücke ;2727;; 8.611566 ; 46.588377 
+ CH-UR-2732 ; Thierbergpass ;2732;; 8.437312 ; 46.563968 
+ CH-UR-2740 ; Rotstocksattel ;2740;; 8.542776 ; 46.855969 
+ CH-UR-2756d ; Schlossstocklücke ;2663;; 8.514328 ; 46.847909 
+ CH-UR-2758 ; Trotziglücke ;2758;; 8.475795 ; 46.762334 
+ CH-UR-2758c ; Staldenlücke ;2758;; 8.776879 ; 46.756143 
+ CH-UR-2765 ; Oberes Furggeli ;2680;; 8.733632 ; 46.803182 
+ CH-UR-2770 ; Schienlücke ;2770;; 8.641332 ; 46.672329 
+ CH-UR-2770b ; Mittaglücke ;2770;; 8.522935 ; 46.632664 
+ CH-UR-2772 ; Schneehüenerpass ;2760;; 8.548649 ; 46.780793 
+ CH-UR-2774 ; Nördliche Sewenzahnlücke ;2774;; 8.525713 ; 46.761096 
+ CH-UR-2778 ; Firnsattel ;2778;; 8.545022 ; 46.848471 
+ CH-UR-2781a ; Alpergenlücke ;2781;; 8.48539 ; 46.619295 
+ CH-UR-2785 ; Rotstocklücke ;2785;; 8.627184 ; 46.57463 
+ CH-UR-2799 ; Scheerhorn Griggeli Pass ;2798;; 8.81464 ; 46.827723 
+ CH-UR-2800a ; Bänderlücke ;2761;; 8.77904 ; 46.758817 
+ CH-UR-2800c ; Chlüserlücke ;2820;; 8.685673 ; 46.729287 
+ CH-UR-2815 ; Lochberglücke ;2815;; 8.478884 ; 46.620435 
+ CH-UR-2816b ; Witenwasserrenpass ;2805;; 8.470724 ; 46.531535 
+ CH-UR-2821a ; St. Annalücke ;2874;; 8.606269 ; 46.596915 
+ CH-UR-2822b ; Spitzberglücke ;2783;; 8.532562 ; 46.635999 
+ CH-UR-2825 ; Kröntenlücke ;2820;; 8.559544 ; 46.782639 
+ CH-UR-2829c ; Zandlücke ;2826;; 8.50602 ; 46.629225 
+ CH-UR-2833 ; Guspislücke ;2831;; 8.613127 ; 46.580354 
+ CH-UR-2846b ; Muttenlücke ;2846;; 8.450721 ; 46.535403 
+ CH-UR-2854a ; Chammlilücke ;2833;; 8.839695 ; 46.830963 
+ CH-UR-2854b ; Winterlücke ;2854;; 8.460994 ; 46.62379 
+ CH-UR-2857 ; Blaubergpass ;2857;; 8.423052 ; 46.555843 
+ CH-UR-2867 ; Wichellücke ;2867;; 8.472487 ; 46.766646 
+ CH-UR-2880d ; Rottällipass ;2865;; 8.465279 ; 46.541372 
+ CH-UR-2886 ; Muttepass ;2886;; 8.456747 ; 46.534153 
+ CH-UR-2892b ; Leckipass ;2892;; 8.4633 ; 46.538754 
+ CH-UR-2893c ; Untere Bielenlücke ;2893;; 8.434043 ; 46.599694 
+ CH-UR-2909a ; Muttenpass ;2909;; 8.461127 ; 46.534141 
+ CH-UR-2912 ; Chüefadpass ;2896;; 8.509657 ; 46.779852 
+ CH-UR-2922c ; Spannortjoch ;2922;; 8.523262 ; 46.782405 
+ CH-UR-2925 ; Blauberglücke ;2925;; 8.493669 ; 46.622683 
+ CH-UR-2926 ; Westlicher Zwächtenpass ;2926;; 8.531576 ; 46.777107 
+ CH-UR-2928 ; Hintere Feldschijenlücke ;2928;; 8.500623 ; 46.627071 
+ CH-UR-2933 ; Gafallenlücke ;2820;; 8.608734 ; 46.596242 
+ CH-UR-2934 ; Glatt Pass ;2934;; 8.527786 ; 46.776874 
+ CH-UR-2958 ; Sidelengratlücke ;2958;; 8.407846 ; 46.590078 
+ CH-UR-2965 ; Nördliche Fluelücke ;2969;; 8.501377 ; 46.701941 
+ CH-UR-2987c ; Südliche Fluelücke ;2987;; 8.503763 ; 46.700272 
+ CH-UR-3004a ; Östlicher Zwächtenpass ;3004;; 8.537872 ; 46.775707 
+ CH-UR-3021 ; Horefellilücke ;3021;; 8.468505 ; 46.674678 
+ CH-UR-3031 ; Chammlijoch ;3004;; 8.852571 ; 46.84205 
+ CH-UR-3083c ; Unter Gletschjoch ;3083;; 8.449516 ; 46.620969 
+ CH-UR-3092 ; Chelenalplücke ;3092;; 8.455988 ; 46.683885 
+ CH-UR-3109 ; Sidelenlücke ;3109;; 8.408158 ; 46.598739 
+ CH-UR-3113 ; Galensattel ;3113;; 8.411173 ; 46.60313 
+ CH-UR-3172 ; Mittlere Bielenlücke ;3172;; 8.425049 ; 46.60678 
+ CH-UR-3248 ; Obere Bielenlücke ;3219;; 8.422515 ; 46.608116 
+ CH-UR-3250b ; Ober Gletschjoch ;3157;; 8.43342 ; 46.621866 
+ CH-UR-3334 ; Nördlicher Tiefensattel ;3334;; 8.420505 ; 46.623247 
+ CH-UR-3406a ; Südlicher Tiefensattel ;3401;; 8.420431 ; 46.619154 
+ CH-UR-3500 ; Unteres Winterjoch ;3450;; 8.420252 ; 46.63014 
+ CH-UR-3520b ; Oberes Winterjoch ;3520;; 8.419388 ; 46.633602 
+ CH-UR-3545 ; Dammapass ;3501;; 8.420243 ; 46.639019 
+ CH-UR-3550 ; Rhonejoch ;3510;; 8.419041 ; 46.636079 
+ CH-UR-3620a ; Dammajoch ;3570;; 8.421171 ; 46.645507 
+ CH-VD-0440 ; Pertuis ;440;; 6.972887 ; 46.291955 
+ CH-VD-0525 ; Col de la Barre ;525;; 6.635972 ; 46.525518 
+ CH-VD-0554 ; Col de Verchiez ;554;; 6.98166 ; 46.307347 
+ CH-VD-0564a ; Les Caux ;564;; 7.028227 ; 46.231035 
+ CH-VD-0675 ; La Porte de Bret ;675;; 6.768855 ; 46.507021 
+ CH-VD-0683 ; Le Basset ;683;; 6.777518 ; 46.523076 
+ CH-VD-0753 ; Seuil d'Attalens ;753;; 6.852323 ; 46.489708 
+ CH-VD-0762 ; Collet de Châtel ;762;; 6.320282 ; 46.480617 
+ CH-VD-0799 ; Col de Gourze ;799;; 6.748174 ; 46.507347 
+ CH-VD-0810 ; Aux Creuses ;810;; 6.267512 ; 46.477565 
+ CH-VD-0872 ; Col du Chalet-à-Gobet ;872;; 6.696173 ; 46.566347 
+ CH-VD-0883 ; Forclaz ;883;; 7.007015 ; 46.310137 
+ CH-VD-0952 ; La Golette ;952;; 6.818017 ; 46.508875 
+ CH-VD-0958 ; Les Craux ;958;; 6.816775 ; 46.513816 
+ CH-VD-0963 ; Le Pas ;963;; 6.815836 ; 46.517302 
+ CH-VD-0999 ; Praz Basset ;999;; 7.021965 ; 46.290456 
+ CH-VD-1045 ; Les Vyfourches ;1045;; 6.306099 ; 46.658715 
+ CH-VD-1061 ; Col du Mont-d'Orzeires ;1061;; 6.336941 ; 46.685332 
+ CH-VD-1079 ; Col des Epoisats ;1079;; 6.338084 ; 46.670328 
+ CH-VD-1111 ; Col d'Agiez ;1111;; 6.391389 ; 46.696066 
+ CH-VD-1125 ; Col des Rochettes ;1125;; 6.470839 ; 46.845115 
+ CH-VD-1144 ; Col de Pétra Félix ;1144;; 6.347866 ; 46.659033 
+ CH-VD-1149 ; Col de Sonloup ;1149;; 6.940101 ; 46.457932 
+ CH-VD-1152 ; Col des Etroits ;1152;; 6.494674 ; 46.830237 
+ CH-VD-1154 ; Golet ;1154;; 6.381637 ; 46.696651 
+ CH-VD-1156 ; Creux aux Oies ;1156;; 6.930181 ; 46.4886 
+ CH-VD-1174a ; Col du Mollendruz ;1174;; 6.363905 ; 46.650819 
+ CH-VD-1189 ; Le Golet ;1189;; 6.299126 ; 46.685734 
+ CH-VD-1196 ; Les Crosats ;1196;; 6.565164 ; 46.837662 
+ CH-VD-1198 ; Col de l'Alliaz ;1198;; 6.933389 ; 46.490881 
+ CH-VD-1209a ; La Forcla ;1209;; 7.194543 ; 46.49457 
+ CH-VD-1211 ; Col de la Barboleuse ;1211;; 7.070353 ; 46.283014 
+ CH-VD-1228 ; Col de la Givrine ;1228;; 6.088333 ; 46.455978 
+ CH-VD-1231 ; Col des Tenasses ;1231;; 6.919161 ; 46.491455 
+ CH-VD-1242 ; Col de la Gittaz Dessous ;1242;; 6.477263 ; 46.809212 
+ CH-VD-1258 ; Le Basset ;1258;; 6.402913 ; 46.670649 
+ CH-VD-1261 ; La Forclaz ;1261;; 7.067527 ; 46.350949 
+ CH-VD-1263 ; Col du Cernil Ladame ;1263;; 6.633599 ; 46.887219 
+ CH-VD-1264 ; La Portaz ;1264;; 6.671421 ; 46.871116 
+ CH-VD-1276 ; Creux des Neiges ;1276;; 6.459196 ; 46.793306 
+ CH-VD-1284 ; Col de l'Aiguillon ;1293;; 6.459476 ; 46.789422 
+ CH-VD-1295 ; Col des Ecovets ;1295;; 7.026567 ; 46.302986 
+ CH-VD-1302 ; Le Basset ;1302;; 6.640963 ; 46.870251 
+ CH-VD-1306a ; Col du Pré de l'Haut ;1306;; 6.349819 ; 46.630839 
+ CH-VD-1312 ; Col des Croisettes ;1312;; 6.340133 ; 46.638339 
+ CH-VD-1320 ; Porte de l'Aiguillon ;1320;; 6.465948 ; 46.791529 
+ CH-VD-1331 ; Col de la Poyette ;1331;; 6.453385 ; 46.761572 
+ CH-VD-1341 ; Col des Voëttes ;1341;; 7.085554 ; 46.365733 
+ CH-VD-1344 ; Collet ;1344;; 7.07014 ; 46.371846 
+ CH-VD-1356 ; Col de Grange Neuve ;1356;; 6.469513 ; 46.779747 
+ CH-VD-1361 ; Col des Planards ;1361;; 7.224436 ; 46.475011 
+ CH-VD-1371 ; Creux du Croue ;1371;; 6.122328 ; 46.499158 
+ CH-VD-1371a ; Col des Loyettes ;1371;; 6.59731 ; 46.870882 
+ CH-VD-1371b ; Col de la Maya ;1371;; 6.522428 ; 46.84456 
+ CH-VD-1377 ; Col de la Sagne ;1377;; 6.455392 ; 46.767077 
+ CH-VD-1388 ; Col de la Lécherette ;1388;; 7.108795 ; 46.422279 
+ CH-VD-1397 ; Col de la Scierne-au-Cuir ;1397;; 7.151185 ; 46.496456 
+ CH-VD-1400 ; Col du Crêt de la Neige ;1425;; 6.547266 ; 46.867939 
+ CH-VD-1400a ; La Forcle ;1400;; 7.036225 ; 46.215375 
+ CH-VD-1408 ; Col de la Golette ;1408;; 7.062646 ; 46.342963 
+ CH-VD-1412 ; Col de la Casba ;1412;; 6.521286 ; 46.835429 
+ CH-VD-1427 ; Col du Chasseron ;1427;; 6.561824 ; 46.860783 
+ CH-VD-1445 ; Col des Mosses ;1445;; 7.102643 ; 46.399007 
+ CH-VD-1447 ; Col du Marchairuz ;1447;; 6.250183 ; 46.55275 
+ CH-VD-1461 ; Col de Mondisé ;1461;; 6.305448 ; 46.575824 
+ CH-VD-1465 ; Col d'Ayerne ;1465;; 6.99208 ; 46.397652 
+ CH-VD-1470 ; Col du Vuarne ;1470;; 6.111303 ; 46.430779 
+ CH-VD-1476 ; Creux Devant ;1476;; 6.152765 ; 46.503969 
+ CH-VD-1503 ; Col de Sonlomont ;1487;; 7.073917 ; 46.441989 
+ CH-VD-1512 ; Col de Jaman ;1512;; 6.977126 ; 46.451252 
+ CH-VD-1524 ; Col de Soud ;1524;; 7.069362 ; 46.30478 
+ CH-VD-1546a ; Col du Pillon ;1546;; 7.204793 ; 46.353359 
+ CH-VD-1557 ; Col de Porte ;1557;; 6.103437 ; 46.43263 
+ CH-VD-1560 ; Pas de Jayet ;1560;; 7.011185 ; 46.438234 
+ CH-VD-1563 ; Col du Sorcier ;1563;; 6.295674 ; 46.585847 
+ CH-VD-1569 ; Col des Combes ;1569;; 6.28556 ; 46.57915 
+ CH-VD-1570 ; Col de Prafandaz ;1573;; 6.988512 ; 46.343529 
+ CH-VD-1576 ; Col de Soladier ;1576;; 6.967014 ; 46.476579 
+ CH-VD-1588 ; Col des Ruvines ;1588;; 6.960747 ; 46.36496 
+ CH-VD-1590 ; Le Basset ;1590;; 7.078834 ; 46.305216 
+ CH-VD-1592 ; Col de Corjon ;1592;; 7.033734 ; 46.461022 
+ CH-VD-1601 ; Forclaz ;1601;; 7.075294 ; 46.306725 
+ CH-VD-1621 ; Col de Chaude ;1621;; 6.997877 ; 46.421946 
+ CH-VD-1622 ; La Forcla ;1614;; 6.956699 ; 46.479711 
+ CH-VD-1625 ; Col du Mont tendre ;1625;; 6.31951 ; 46.601765 
+ CH-VD-1638 ; Col des Gaules ;1638;; 7.041997 ; 46.443762 
+ CH-VD-1660 ; Col de la Forcla ;1660;; 7.223044 ; 46.526841 
+ CH-VD-1661 ; Col du Moëllé ;1661;; 7.046017 ; 46.39187 
+ CH-VD-1671 ; Les Forclettes ;1710;; 7.033781 ; 46.399033 
+ CH-VD-1710 ; Passage des Couronnes ;1710;; 6.995441 ; 46.439811 
+ CH-VD-1731 ; Col inférieur de la Croix ;1731;; 7.128036 ; 46.322121 
+ CH-VD-1740 ; Pas à l'Ane ;1740;; 6.965129 ; 46.394349 
+ CH-VD-1754 ; Col de Tompey ;1754;; 6.981342 ; 46.369732 
+ CH-VD-1759 ; Col des Bouquetins ;1759;; 7.072267 ; 46.316664 
+ CH-VD-1770 ; Forcla ;1770;; 7.222919 ; 46.4603 
+ CH-VD-1778 ; Col de la Croix ;1778;; 7.126916 ; 46.324969 
+ CH-VD-1796 ; Col de Vy Boveyre ;1796;; 7.094211 ; 46.330443 
+ CH-VD-1800 ; Pas de la Larze ;1800;; 7.107434 ; 46.270436 
+ CH-VD-1800a ; Derrière Forcle ;1800;; 7.147437 ; 46.510201 
+ CH-VD-1803 ; Pas de Sazième ;1803;; 7.180714 ; 46.390009 
+ CH-VD-1806a ; Col de Bretaye ;1806;; 7.074228 ; 46.322365 
+ CH-VD-1815 ; Col d'Argnaules ;1815;; 7.055246 ; 46.318497 
+ CH-VD-1831 ; Col de Bacholey ;1831;; 7.122029 ; 46.32581 
+ CH-VD-1832 ; Col de Sautodoz ;1831;; 6.972039 ; 46.428355 
+ CH-VD-1835 ; Col du Luissel ;1835;; 7.000545 ; 46.35581 
+ CH-VD-1840 ; Pertet à Bovets ;1840;; 7.212878 ; 46.533199 
+ CH-VD-1846b ; Pertuis d'Aveneyre ;1846;; 6.994245 ; 46.412747 
+ CH-VD-1854 ; Col de Base ;1854;; 7.153675 ; 46.439241 
+ CH-VD-1866 ; Pas de Clé ;1866;; 7.191893 ; 46.390394 
+ CH-VD-1878 ; Col de la Croix de Seron ;1878;; 7.169895 ; 46.390542 
+ CH-VD-1889 ; Brèche du Tombeau des Lièvres ;1889;; 6.990876 ; 46.433181 
+ CH-VD-1909 ; Selle Aubert ;1909;; 7.215186 ; 46.536226 
+ CH-VD-1924 ; Col d'Arennaz ;1924;; 6.989112 ; 46.434128 
+ CH-VD-1936 ; Col d'Encrene ;1936;; 7.111933 ; 46.326906 
+ CH-VD-1960 ; Col du Basset ;1930;; 7.165356 ; 46.437371 
+ CH-VD-1960a ; Col de Sur Champ ;1960;; 7.119807 ; 46.264202 
+ CH-VD-1963 ; Collet du Lanche de Perte ;1963;; 7.159779 ; 46.393477 
+ CH-VD-1980 ; Col du Petit Château ;2058;; 7.164975 ; 46.435436 
+ CH-VD-2003 ; Col de Chose ;2003;; 7.159206 ; 46.433893 
+ CH-VD-2029 ; Col des Essets ;2029;; 7.165581 ; 46.276853 
+ CH-VD-2030 ; Col des Anderets ;2030;; 7.199675 ; 46.373922 
+ CH-VD-2034b ; Col de la Videman ;2034;; 7.197341 ; 46.451396 
+ CH-VD-2038a ; Pas de Cheville ;2038;; 7.191181 ; 46.287374 
+ CH-VD-2044b ; Col de la Poreyrette ;2044;; 7.156845 ; 46.280295 
+ CH-VD-2060 ; Col de Famelon ;2060;; 7.021803 ; 46.382491 
+ CH-VD-2062 ; Col de Javernaz ;2062;; 7.058666 ; 46.221354 
+ CH-VD-2077 ; Col d'Isenau ;2077;; 7.191563 ; 46.37726 
+ CH-VD-2079 ; Col de la Rouge ;2079;; 7.11692 ; 46.381479 
+ CH-VD-2087 ; Col des Salaires ;2087;; 7.166722 ; 46.434874 
+ CH-VD-2088 ; Col aux Veillon ;2785;; 7.142617 ; 46.238878 
+ CH-VD-2106 ; Col du Nant Noir ;2106;; 7.134751 ; 46.298624 
+ CH-VD-2111a ; Col des Pauvres ;2111;; 7.08372 ; 46.233041 
+ CH-VD-2121 ; Col de la Videmanette ;2121;; 7.207166 ; 46.460827 
+ CH-VD-2130 ; Pas d'Aussel ;2130;; 7.13773 ; 46.299766 
+ CH-VD-2133 ; Col du Chéneau Rouge ;2133;; 7.196389 ; 46.443055 
+ CH-VD-2136 ; Col de Mayen ;2136;; 7.00526 ; 46.373793 
+ CH-VD-2140 ; Col du Rocher Ecroulé ;2140;; 7.157234 ; 46.390286 
+ CH-VD-2153c ; Col de Seron ;2153;; 7.167502 ; 46.380353 
+ CH-VD-2169 ; Col d'Aï ;2169;; 6.999633 ; 46.372179 
+ CH-VD-2200 ; Pertuis à Cayons ;2200;; 7.079452 ; 46.227639 
+ CH-VD-2237 ; Col de la Chenau ;2237;; 7.132423 ; 46.377564 
+ CH-VD-2340 ; Pertuis à l'Ecuellaz ;2340;; 7.167511 ; 46.269544 
+ CH-VD-2374 ; Col du Tarent ;2374;; 7.143015 ; 46.380255 
+ CH-VD-2455 ; Col de la Beudanne ;2455;; 7.138902 ; 46.244868 
+ CH-VD-2544b ; Col des Perris Blancs ;2544;; 7.075809 ; 46.214124 
+ CH-VD-2551a ; Col Pegnat ;2525;; 7.181163 ; 46.268389 
+ CH-VD-2584 ; Scharte der Frête de Sailles ;2584;; 7.122298 ; 46.230718 
+ CH-VD-2602 ; Col de la Loex ;2602;; 7.095255 ; 46.206584 
+ CH-VD-2615a ; Col des Martinets ;2615;; 7.070682 ; 46.205742 
+ CH-VD-2620 ; Col des Encrennes ;2620;; 7.122877 ; 46.240363 
+ CH-VD-2630 ; Pas de Coppet ;2630;; 7.112923 ; 46.216199 
+ CH-VD-2660 ; Trou à Chamorel ;2640;; 7.110941 ; 46.213827 
+ CH-VD-2660a ; Col de Tête Tsernou ;2660;; 7.171869 ; 46.261692 
+ CH-VD-2660b ; Col des Chamois Nord ;2654;; 7.1525 ; 46.257758 
+ CH-VD-2670 ; Col des Chamois Süd ;2647;; 7.152782 ; 46.256077 
+ CH-VD-2676 ; Le Creux d'Enfer ;2676;; 7.158736 ; 46.303571 
+ CH-VD-2709 ; Col Champion ;2709;; 7.069735 ; 46.202212 
+ CH-VD-2737a ; Col d'Audon ;2737;; 7.231399 ; 46.326604 
+ CH-VD-2739 ; Col du Pacheu ;2739;; 7.15248 ; 46.249338 
+ CH-VD-2820 ; Col de Prapio ;2831;; 7.209864 ; 46.321786 
+ CH-VD-2833 ; Col de Tsanfleuron ;2828;; 7.214913 ; 46.325223 
+ CH-VD-2929 ; Col du Refuge ;2929;; 7.183126 ; 46.303188 
+ CH-VS-0785 ; Les Fourches ;785;; 7.157088 ; 46.073395 
+ CH-VS-0915 ; Col du Prion ;915;; 7.144061 ; 46.068288 
+ CH-VS-1083 ; Col de la Frête ;1083;; 6.813806 ; 46.374903 
+ CH-VS-1161 ; Les Golettes ;1161;; 7.440082 ; 46.276645 
+ CH-VS-1235 ; Pas de la Face ;1235;; 7.134927 ; 46.070009 
+ CH-VS-1275 ; Col de Matze ;1365;; 7.013852 ; 46.138209 
+ CH-VS-1350 ; Sur Cou ;1350;; 6.866921 ; 46.18538 
+ CH-VS-1369a ; Pas de Morgins ;1369;; 6.8459 ; 46.249664 
+ CH-VS-1411 ; Col des Planches ;1408;; 7.124433 ; 46.096967 
+ CH-VS-1440 ; Col de Taney ;1440;; 6.84019 ; 46.343101 
+ CH-VS-1465 ; Col du Tretson ;1465;; 6.845632 ; 46.321747 
+ CH-VS-1468 ; Pas de Parc es Braye ;1468;; 6.844404 ; 46.349709 
+ CH-VS-1498 ; Col de Prélagine ;1498;; 6.859241 ; 46.348418 
+ CH-VS-1498a ; Col de Champex ;1498;; 7.106986 ; 46.031609 
+ CH-VS-1520 ; Pas de l'Ours ;1520;; 7.454972 ; 46.311142 
+ CH-VS-1523 ; Loch ;1523;; 7.84593 ; 46.280755 
+ CH-VS-1528 ; Col de la Forclaz ;1528;; 7.00139 ; 46.057695 
+ CH-VS-1560 ; Grand Gueule ;1560;; 6.943217 ; 46.056257 
+ CH-VS-1567 ; Col de Blancsex ;1567;; 6.845903 ; 46.325518 
+ CH-VS-1567b ; Pas du Croix ;1651;; 6.848356 ; 46.294513 
+ CH-VS-1588 ; Col de la Frâchette ;1588;; 6.874261 ; 46.206971 
+ CH-VS-1605 ; Le Cœur ;1605;; 7.034459 ; 46.102482 
+ CH-VS-1606 ; Col du Tronc ;1606;; 7.143028 ; 46.101515 
+ CH-VS-1610 ; Col du Bouchy ;1610;; 6.940301 ; 46.060103 
+ CH-VS-1621 ; Col de Barme ;1621;; 6.832169 ; 46.154217 
+ CH-VS-1628 ; Col de l'Abréviau ;1628;; 6.875222 ; 46.228035 
+ CH-VS-1640 ; Pas de Brâye ;1632;; 6.836571 ; 46.318038 
+ CH-VS-1653 ; Col de la Conche ;1687;; 6.864666 ; 46.265369 
+ CH-VS-1658 ; Col du Lein ;1657;; 7.157727 ; 46.10991 
+ CH-VS-1670 ; Pas Lieux ;1670;; 6.855729 ; 46.297996 
+ CH-VS-1718a ; Pertuis de Savalène ;1718;; 6.818634 ; 46.323203 
+ CH-VS-1735 ; Col de Recon ;1734;; 6.828336 ; 46.303357 
+ CH-VS-1750 ; La Forclaz ;1731;; 7.51858 ; 46.087368 
+ CH-VS-1757a ; Col de la Croix ;1757;; 6.783332 ; 46.35413 
+ CH-VS-1775 ; Col des Larzes ;1775;; 6.979008 ; 46.14373 
+ CH-VS-1787 ; Portes de Culet ;1787;; 6.872938 ; 46.258268 
+ CH-VS-1789 ; Col de Conche ;1789;; 6.827351 ; 46.308947 
+ CH-VS-1794 ; Col de Bonavau ;1794;; 6.857731 ; 46.148522 
+ CH-VS-1806b ; Col du Croix ;1805;; 6.84558 ; 46.2909 
+ CH-VS-1808 ; Col de Saune ;1826;; 6.82561 ; 46.179163 
+ CH-VS-1814 ; Col de Verne ;1813;; 6.798482 ; 46.323199 
+ CH-VS-1816 ; Col de l'Encrena ;1816;; 6.809007 ; 46.150114 
+ CH-VS-1818 ; Pas de la Bide ;1858;; 6.807719 ; 46.141749 
+ CH-VS-1823 ; Col de Ripailles ;1823;; 6.816557 ; 46.170216 
+ CH-VS-1826 ; Pas de Fécon ;1825;; 6.831731 ; 46.235303 
+ CH-VS-1850b ; Pas de Lovenex ;1850;; 6.788466 ; 46.348492 
+ CH-VS-1851 ; Pertuis Chetrain ;1851;; 6.850807 ; 46.217943 
+ CH-VS-1856 ; Col d'Outanne ;1856;; 6.821529 ; 46.312964 
+ CH-VS-1867 ; Col de Savalène ;1865;; 6.810368 ; 46.319424 
+ CH-VS-1870 ; Pas de Croisette ;1819;; 6.854594 ; 46.194754 
+ CH-VS-1872 ; Furggu ;1872;; 8.09855 ; 46.176444 
+ CH-VS-1873 ; Col de Chétillon ;1872;; 6.83636 ; 46.297292 
+ CH-VS-1893 ; Pas des Champeys ;1893;; 6.847536 ; 46.211269 
+ CH-VS-1901b ; Portes d'Onne ;1911;; 6.864214 ; 46.283601 
+ CH-VS-1912 ; Col de la Folière ;1911;; 6.863125 ; 46.278621 
+ CH-VS-1913 ; Col de la Derotscha ;1913;; 6.827601 ; 46.361746 
+ CH-VS-1914 ; Zehnerlücke ;1914;; 7.599521 ; 46.280355 
+ CH-VS-1915 ; Seuil de la Combe ;1915;; 6.808081 ; 46.349746 
+ CH-VS-1921 ; Col de Cou ;1920;; 6.792865 ; 46.150229 
+ CH-VS-1923 ; Col de Bretolet ;1922;; 6.796102 ; 46.142493 
+ CH-VS-1950 ; Pas du Pétau au Bois ;1950;; 7.256603 ; 46.299481 
+ CH-VS-1950c ; Portes du Soleil ;1950;; 6.831763 ; 46.194183 
+ CH-VS-1950d ; Col du Passet ;1950;; 6.926651 ; 46.064648 
+ CH-VS-1961 ; Basset du Ruvin ;1961;; 7.598472 ; 46.272027 
+ CH-VS-1965 ; Col de la Gueulaz ;1965;; 6.937329 ; 46.068492 
+ CH-VS-1971 ; Col des Crosses ;1971;; 6.8183 ; 46.354723 
+ CH-VS-1990 ; Zwölferlücke ;1990;; 7.590081 ; 46.277705 
+ CH-VS-1992a ; Col de Chésery ;1994;; 6.80598 ; 46.196794 
+ CH-VS-1995 ; Pas des Moutons ;1995;; 6.977344 ; 46.049943 
+ CH-VS-1998 ; Col du Petit Pré ;1998;; 7.13689 ; 46.196286 
+ CH-VS-1999 ; Porte de la Forcle ;1999;; 6.992835 ; 46.157288 
+ CH-VS-2005 ; Simplonpass ;2005;; 8.033839 ; 46.25111 
+ CH-VS-2018 ; Col d'Ugeon ;2018;; 6.779392 ; 46.34691 
+ CH-VS-2022 ; Col de l'Haut ;2022;; 6.844799 ; 46.202061 
+ CH-VS-2028 ; Col des Veyses ;2028;; 7.182839 ; 46.058596 
+ CH-VS-2030 ; Collet Villemod ;2030;; 6.796659 ; 46.34889 
+ CH-VS-2040 ; Cœur ;2040;; 7.225346 ; 46.251155 
+ CH-VS-2045 ; Pas du Blattin ;2048;; 6.814478 ; 46.2171 
+ CH-VS-2048 ; Pas de Combes ;2053;; 6.820679 ; 46.222307 
+ CH-VS-2048a ; Moosalp Passhöhe ;2048;; 7.828881 ; 46.251731 
+ CH-VS-2049 ; Porte à l'ors ;2049;; 7.044084 ; 46.057349 
+ CH-VS-2050 ; Gopplerlücke ;2050;; 8.049613 ; 46.385775 
+ CH-VS-2053 ; Pas du Tsévri ;2053;; 7.10393 ; 46.165608 
+ CH-VS-2062 ; Les Golettes ;2044;; 7.148114 ; 45.989237 
+ CH-VS-2065b ; Riederfurka ;2065;; 8.017682 ; 46.378035 
+ CH-VS-2084 ; Pas de Cuboré ;2083;; 6.810072 ; 46.180076 
+ CH-VS-2096 ; Portes de l'Hiver ;2096;; 6.821428 ; 46.191698 
+ CH-VS-2097a ; Col de Chaudin ;2095;; 6.799924 ; 46.335244 
+ CH-VS-2097b ; Pas de la Chaux des Rosés ;2082;; 6.807521 ; 46.209118 
+ CH-VS-2099 ; Pas de Bassachaux ;2093;; 6.798272 ; 46.168189 
+ CH-VS-2100 ; La Forcla ;2100;; 7.220629 ; 46.250373 
+ CH-VS-2103 ; Passo di Monscera ;2102;; 8.152024 ; 46.165918 
+ CH-VS-2128 ; Sattulti ;2128;; 8.177416 ; 46.377287 
+ CH-VS-2144 ; Pas de Chavanette ;2144;; 6.805342 ; 46.17368 
+ CH-VS-2144a ; Col de la Gouille ;2144;; 7.0843 ; 45.911458 
+ CH-VS-2149 ; Col des Fontanelles ;2149;; 7.26585 ; 46.265006 
+ CH-VS-2158 ; Bocchetta Gattascosa ;2157;; 8.152942 ; 46.152904 
+ CH-VS-2160a ; Col Sous Chaudin ;2160;; 6.79665 ; 46.330943 
+ CH-VS-2163 ; Bocchetta di Mezzo ;2160;; 8.149849 ; 46.160966 
+ CH-VS-2166 ; Col de Forcle ;2166;; 7.131212 ; 46.201605 
+ CH-VS-2173 ; Col de la Croix de Cœur ;2173;; 7.232322 ; 46.121802 
+ CH-VS-2190 ; Chastelbergpass ;2190;; 8.093544 ; 46.198469 
+ CH-VS-2201b ; Gebidumpass ;2201;; 7.938564 ; 46.254989 
+ CH-VS-2204 ; Col de Balme ;2190;; 6.969589 ; 46.027764 
+ CH-VS-2212a ; Col du Jorat ;2212;; 6.985502 ; 46.150287 
+ CH-VS-2220 ; Chrindellicka ;2220;; 7.851397 ; 46.440653 
+ CH-VS-2230 ; Col du Six Blanc ;2230;; 7.188261 ; 46.042992 
+ CH-VS-2232 ; Col du Renard ;2232;; 7.040567 ; 46.048845 
+ CH-VS-2250 ; Pas de Chaudin ;2249;; 6.78905 ; 46.332303 
+ CH-VS-2250b ; Pas de la Lé ;2172;; 7.375867 ; 46.141783 
+ CH-VS-2252 ; Col du Sanetsch ;2252;; 7.28626 ; 46.331702 
+ CH-VS-2266 ; Bas des Luées ;2266;; 6.971541 ; 46.099926 
+ CH-VS-2267 ; Portail de Fully ;2267;; 7.085656 ; 46.154424 
+ CH-VS-2272a ; Chleini Furgge ;2265;; 7.873271 ; 46.204873 
+ CH-VS-2277 ; Col de l'Arolette ;2277;; 6.972239 ; 46.03355 
+ CH-VS-2278 ; Col de Pépinet ;2278;; 7.479969 ; 46.337529 
+ CH-VS-2288a ; Col de Bossetan ;2288;; 6.809758 ; 46.134393 
+ CH-VS-2295 ; Col de Plan Berger ;2296;; 6.784736 ; 46.334626 
+ CH-VS-2315b ; Col de la Marlene ;2315;; 7.20787 ; 46.119209 
+ CH-VS-2320b ; Col des Mines ;2320;; 7.256852 ; 46.109215 
+ CH-VS-2322b ; Gemmipass ;2322;; 7.611422 ; 46.396274 
+ CH-VS-2331 ; Col de Chargerat ;2331;; 7.190262 ; 46.037401 
+ CH-VS-2335 ; Pas de Derbon ;2335;; 7.177955 ; 46.261005 
+ CH-VS-2337 ; Basso d'Alou ;2337;; 7.293563 ; 46.145709 
+ CH-VS-2347 ; Trou de Bougnone Dessous ;2347;; 7.126534 ; 46.213116 
+ CH-VS-2350 ; Nuseytritt ;2350;; 7.540649 ; 46.366511 
+ CH-VS-2351 ; Col de la Croix de la Cha ;2351;; 7.271911 ; 46.293307 
+ CH-VS-2352 ; Furggulti ;2352;; 8.216036 ; 46.342125 
+ CH-VS-2361 ; Col du Demècre ;2361;; 7.082085 ; 46.173988 
+ CH-VS-2363 ; Passo di Oriaccia ;2325;; 8.152774 ; 46.145034 
+ CH-VS-2365 ; Basset ;2365;; 7.19915 ; 46.02829 
+ CH-VS-2375b ; Col de Comba Mornay ;2375;; 6.849874 ; 46.136526 
+ CH-VS-2378 ; Passo di Pontimia ;2379;; 8.114939 ; 46.122786 
+ CH-VS-2382 ; Col de Barme ;2382;; 6.853082 ; 46.139062 
+ CH-VS-2386 ; Pas de Maimbré ;2386;; 7.385675 ; 46.313586 
+ CH-VS-2390 ; Col du Merle Blanc ;2390;; 6.955956 ; 46.174741 
+ CH-VS-2394 ; Schnydi ;2394;; 7.670646 ; 46.356911 
+ CH-VS-2395a ; Col du Sagerou ;2394;; 6.860249 ; 46.125893 
+ CH-VS-2400 ; Col du Grand Château ;2400;; 7.116225 ; 46.190337 
+ CH-VS-2401a ; Col de la Breya ;2401;; 7.090179 ; 46.014107 
+ CH-VS-2401e ; Tschawinerpass ;2406;; 8.129526 ; 46.144747 
+ CH-VS-2403 ; Galilicka ;2403;; 8.08713 ; 46.152671 
+ CH-VS-2409a ; Albrunpass ;2407;; 8.295574 ; 46.371158 
+ CH-VS-2417 ; Bistinepass ;2417;; 7.980303 ; 46.240044 
+ CH-VS-2418b ; Passo d'Andolla ;2409;; 8.075753 ; 46.106138 
+ CH-VS-2419 ; Col de la Rebarme ;2419;; 6.959071 ; 46.098893 
+ CH-VS-2424 ; Grossi Furgge ;2424;; 7.872629 ; 46.199127 
+ CH-VS-2424a ; Col de Bachet ;2424;; 7.483594 ; 46.21212 
+ CH-VS-2425 ; Creux de la Chaudière ;2425;; 7.087578 ; 45.892713 
+ CH-VS-2431 ; Col des Cornieules ;2431;; 7.083392 ; 46.178121 
+ CH-VS-2435 ; Col de Comba Rossa ;2435;; 6.955191 ; 46.098994 
+ CH-VS-2436 ; Col des Larges Baisses ;2436;; 7.293346 ; 46.139709 
+ CH-VS-2436b ; Pas d'Arpilles ;2436;; 7.442912 ; 46.102535 
+ CH-VS-2437 ; Giavinerpass ;2437;; 8.136235 ; 46.140099 
+ CH-VS-2439 ; Magelicke ;2439;; 7.980072 ; 46.229879 
+ CH-VS-2444 ; Pas de Chamosentse ;2453;; 7.159239 ; 46.238642 
+ CH-VS-2447b ; Nanzlicke ;2447;; 7.982158 ; 46.244083 
+ CH-VS-2451 ; Col de Fenestral ;2451;; 6.949224 ; 46.096791 
+ CH-VS-2451a ; Furgge ;2451;; 8.123499 ; 46.348299 
+ CH-VS-2451b ; Witentir ;2451;; 8.145915 ; 46.3238 
+ CH-VS-2453b ; Fenêtre Fenestral ;2453;; 7.101233 ; 46.189195 
+ CH-VS-2459 ; Col du Diabley ;2459;; 7.079864 ; 46.17112 
+ CH-VS-2462 ; Col d'Emaney ;2462;; 6.956654 ; 46.119312 
+ CH-VS-2462a ; Col de Blanchin ;2462;; 6.955765 ; 46.099905 
+ CH-VS-2469a ; Col du Grand.St.Bernard ;2469;; 7.170399 ; 45.869051 
+ CH-VS-2469c ; La Golette ;2466;; 6.97522 ; 46.126587 
+ CH-VS-2472 ; Col de Mille ;2472;; 7.208315 ; 46.013962 
+ CH-VS-2474 ; Passo della Rossa ;2474;; 8.256213 ; 46.346457 
+ CH-VS-2475 ; Passo del Contrabbandiere ;2554;; 8.301864 ; 46.374429 
+ CH-VS-2479c ; Griespass ;2465;; 8.372708 ; 46.452729 
+ CH-VS-2480 ; Passo del Büsin ;2479;; 8.098519 ; 46.109686 
+ CH-VS-2481 ; Col de Barberine ;2481;; 6.932366 ; 46.101934 
+ CH-VS-2482 ; Illpass ;2482;; 7.627443 ; 46.250716 
+ CH-VS-2484a ; Col des Orgières ;2484;; 6.959629 ; 46.163404 
+ CH-VS-2484b ; Col de Tenneverge ;2483;; 6.888398 ; 46.087766 
+ CH-VS-2485 ; Passo di Vallaro ;2487;; 8.129479 ; 46.135922 
+ CH-VS-2485a ; Col de Médran ;2465;; 7.267521 ; 46.089162 
+ CH-VS-2490b ; Petit col Ferret ;2487;; 7.068202 ; 45.898579 
+ CH-VS-2491 ; Col de Chardon ;2491;; 7.315585 ; 46.045723 
+ CH-VS-2492 ; Col des Rechasses ;2492;; 7.478181 ; 46.180952 
+ CH-VS-2494 ; Col de Susanfe ;2494;; 6.920286 ; 46.148297 
+ CH-VS-2494a ; Galenlücke ;2494;; 8.085482 ; 46.146852 
+ CH-VS-2494b ; Sattel ;2494;; 8.047128 ; 46.176553 
+ CH-VS-2495 ; Brèche des Perrons ;2494;; 6.909903 ; 46.051337 
+ CH-VS-2496 ; Col des Ottans ;2496;; 6.877995 ; 46.125083 
+ CH-VS-2497 ; Sattel ;2497;; 8.047128 ; 46.176553 
+ CH-VS-2498 ; Col de Pochet ;2498;; 7.491256 ; 46.352421 
+ CH-VS-2500a ; Chriegalppass ;2494;; 8.205579 ; 46.306203 
+ CH-VS-2502 ; Trou d'Aufalle ;2502;; 7.117951 ; 46.220558 
+ CH-VS-2507 ; Col du Lac Rouge ;2507;; 7.134275 ; 46.228421 
+ CH-VS-2510 ; Galgilicka ;2510;; 8.083983 ; 46.142641 
+ CH-VS-2522 ; Furggelti ;2522;; 8.224941 ; 46.41898 
+ CH-VS-2525 ; Col du Petit Clocher des Planereuses ;2550;; 7.07726 ; 45.978299 
+ CH-VS-2528a ; Col du Brotset ;2528;; 7.177147 ; 46.26721 
+ CH-VS-2529 ; Col de Cou ;2529;; 7.493963 ; 46.201833 
+ CH-VS-2533 ; Schwarzi Licka ;2533;; 7.80759 ; 46.389887 
+ CH-VS-2535 ; Col d'Esserze ;2535;; 7.35464 ; 46.152159 
+ CH-VS-2537c ; Grand col Ferret ;2536;; 7.07785 ; 45.889012 
+ CH-VS-2544c ; Pas de l'Illsee ;2544;; 7.617611 ; 46.257839 
+ CH-VS-2547 ; Col de la Forcla ;2547;; 7.148774 ; 46.236735 
+ CH-VS-2549 ; Meretschisattel ;2549;; 7.640768 ; 46.260076 
+ CH-VS-2550 ; Seileggpass ;2469;; 7.813921 ; 46.344708 
+ CH-VS-2552b ; Furggelti ;2489;; 8.231995 ; 46.501092 
+ CH-VS-2553a ; Grampielpass ;2552;; 8.25999 ; 46.348823 
+ CH-VS-2553b ; Passo del Rosso ;2552;; 8.109933 ; 46.113307 
+ CH-VS-2556 ; Totbode ;2556;; 8.307767 ; 46.540274 
+ CH-VS-2558 ; Col de Chalin ;2558;; 6.947376 ; 46.178464 
+ CH-VS-2560 ; Col du Bel Oiseau ;2560;; 6.936781 ; 46.085941 
+ CH-VS-2563b ; Saflischpass ;2563;; 8.094882 ; 46.323639 
+ CH-VS-2566 ; Passo Alto ;2566;; 8.065833 ; 46.104988 
+ CH-VS-2567 ; Col du Bec d'Aigle ;2567;; 7.316693 ; 46.046966 
+ CH-VS-2567a ; Col des Chèvres ;2567;; 6.940331 ; 46.095034 
+ CH-VS-2572 ; Col du Roc de la Vache ;2572;; 7.645767 ; 46.117963 
+ CH-VS-2572a ; Col du Vieux ;2572;; 6.875581 ; 46.04822 
+ CH-VS-2575 ; Col des Champs Ferrex ;2575;; 7.283353 ; 46.118214 
+ CH-VS-2577 ; Col Brunet ;2525;; 7.270035 ; 46.091487 
+ CH-VS-2579a ; Inneri Nanzlicke ;2579;; 7.982168 ; 46.252872 
+ CH-VS-2580 ; Col du Petit Renard ;2580;; 7.212522 ; 46.238635 
+ CH-VS-2584 ; Gueule de Cor ;2584;; 7.083435 ; 46.18744 
+ CH-VS-2586e ; Furggulti ;2586;; 8.161766 ; 46.456373 
+ CH-VS-2590a ; Col du Sattlegi ;2566;; 7.745179 ; 46.41589 
+ CH-VS-2596 ; Le Basse ;2596;; 7.10869 ; 46.185484 
+ CH-VS-2596a ; Bas de Ballavaux ;2510;; 6.890408 ; 46.080804 
+ CH-VS-2596b ; Grauhornlicka ;2595;; 8.063386 ; 46.142064 
+ CH-VS-2598 ; Furggulti ;2598;; 8.256437 ; 46.394198 
+ CH-VS-2599a ; Blauseelicke ;2599;; 8.121496 ; 46.312867 
+ CH-VS-2599b ; Col de la Brinta ;2599;; 7.530903 ; 46.212514 
+ CH-VS-2601 ; Fenêtre des Dents Blanches ;2601;; 6.834964 ; 46.132129 
+ CH-VS-2602a ; Niwenpass ;2602;; 7.710213 ; 46.362995 
+ CH-VS-2602e ; Üsseri Nanzlicke ;2602;; 7.981908 ; 46.258028 
+ CH-VS-2603a ; Col des Corbeaux ;2602;; 6.881995 ; 46.045077 
+ CH-VS-2614 ; Col de Tchiri ;2614;; 7.495815 ; 46.364303 
+ CH-VS-2614a ; Col de Bella Vouarda ;2614;; 7.641121 ; 46.187247 
+ CH-VS-2615 ; Brèche de Fontanabran ;2615;; 6.941085 ; 46.097331 
+ CH-VS-2616 ; Grande Brêche ;2602;; 6.829091 ; 46.132008 
+ CH-VS-2619 ; Col des Eves ;2610;; 6.88633 ; 46.044324 
+ CH-VS-2619b ; Brechette ;2619;; 7.489291 ; 46.193829 
+ CH-VS-2621b ; Sirwolte Sattel ;2621;; 7.983056 ; 46.217181 
+ CH-VS-2622 ; Col de Sarshlau ;2622;; 7.330227 ; 46.036257 
+ CH-VS-2624 ; Mettlilücke ;2624;; 8.410905 ; 46.498866 
+ CH-VS-2626 ; Restipass ;2626;; 7.706655 ; 46.379375 
+ CH-VS-2630a ; Col de Tsofeiret ;2621;; 7.380098 ; 45.951575 
+ CH-VS-2631b ; Steinejoch ;2631;; 8.131171 ; 46.30804 
+ CH-VS-2632 ; Trou de Bougnonne Dessus ;2632;; 7.115448 ; 46.216404 
+ CH-VS-2633 ; Col du Trou ;2631;; 6.824205 ; 46.131612 
+ CH-VS-2635b ; Col Ouest de Barasson ;2634;; 7.184218 ; 45.860177 
+ CH-VS-2637a ; Col du Creblet ;2637;; 7.265612 ; 46.10402 
+ CH-VS-2637c ; Simmiglicke ;2634;; 7.686383 ; 46.237469 
+ CH-VS-2640 ; Col de la Roue ;2640;; 7.55484 ; 46.366561 
+ CH-VS-2640a ; Col de la Terrasse ;2640;; 6.891909 ; 46.045818 
+ CH-VS-2640b ; Faldumpass ;2640;; 7.706336 ; 46.367412 
+ CH-VS-2642a ; Chrinnulicku ;2642;; 7.7851 ; 46.349207 
+ CH-VS-2646b ; Porte Vouilloz ;2598;; 6.912496 ; 46.05439 
+ CH-VS-2647a ; Col des Avouillons ;2647;; 7.279991 ; 46.00698 
+ CH-VS-2648 ; Col des Blèches ;2648;; 7.356848 ; 46.335113 
+ CH-VS-2648a ; Col des Eaux froides ;2648;; 7.388236 ; 46.351252 
+ CH-VS-2648b ; Col Termin ;2648;; 7.298587 ; 46.054771 
+ CH-VS-2650 ; Sattel ;2650;; 8.134368 ; 46.316468 
+ CH-VS-2650a ; nterdit à l'Ouest ;2648;; 6.879041 ; 46.066013 
+ CH-VS-2652 ; Réserve naturelle ;2605;; 8.358494 ; 46.448104 
+ CH-VS-2656 ; Chummefurgge ;2656;; 8.252849 ; 46.421932 
+ CH-VS-2656a ; Col de l'Arpalle ;2656;; 7.137822 ; 45.896943 
+ CH-VS-2657 ; Chastellicke ;2657;; 8.224949 ; 46.498541 
+ CH-VS-2664 ; Passo di Valdeserta ;2663;; 8.274694 ; 46.366411 
+ CH-VS-2665 ; Fenêtre d'Arpette ;2665;; 7.03992 ; 46.018977 
+ CH-VS-2666 ; Col des Pauvres ;2666;; 7.31122 ; 46.011877 
+ CH-VS-2669a ; Bochtepass Est ;2667;; 8.269825 ; 46.365862 
+ CH-VS-2669b ; Schaflicka ;2763;; 8.179584 ; 46.319006 
+ CH-VS-2673a ; Col des Trois Lacs ;2673;; 7.148687 ; 45.888786 
+ CH-VS-2681a ; Col Est de Barasson ;2681;; 7.192218 ; 45.859197 
+ CH-VS-2685 ; Col du Grenairon ;2685;; 6.876432 ; 46.06215 
+ CH-VS-2686a ; Col du Fourchon ;2695;; 7.128635 ; 45.865344 
+ CH-VS-2686c ; Fenêtre de Grône ;2686;; 7.054964 ; 46.027962 
+ CH-VS-2686d ; Furggubäumlicke ;2685;; 8.101944 ; 46.275551 
+ CH-VS-2686f ; Mandlischfurgga ;2686;; 7.716608 ; 46.393924 
+ CH-VS-2686g ; Ober Sattla ;2693;; 7.798995 ; 46.054106 
+ CH-VS-2690 ; Chollerjoch ;2690;; 8.25173 ; 46.362889 
+ CH-VS-2695 ; Col du Ban Darray ;2694;; 7.094028 ; 45.874922 
+ CH-VS-2698b ; Fenêtre de Ferret ;2694;; 7.145277 ; 45.87604 
+ CH-VS-2702a ; Col de la Meina ;2702;; 7.428558 ; 46.102355 
+ CH-VS-2703 ; Pas de la Grande Vire ;2703;; 7.08145 ; 46.189818 
+ CH-VS-2703a ; Col de la Lys ;2702;; 7.037516 ; 46.026354 
+ CH-VS-2704 ; Col des Rosettes ;2704;; 7.069111 ; 45.928024 
+ CH-VS-2705a ; Col des Vaux ;2705;; 7.273761 ; 46.09922 
+ CH-VS-2705b ; Mattefurgge ;2705;; 7.81526 ; 46.35226 
+ CH-VS-2706 ; Le Pas des Luys Zarnoz ;2706;; 7.16626 ; 46.257739 
+ CH-VS-2709b ; La Selle ;2709;; 7.367468 ; 46.338017 
+ CH-VS-2710 ; Seewischjoch ;2710;; 8.263192 ; 46.365487 
+ CH-VS-2711b ; Tellifurgga ;2711;; 7.710676 ; 46.377746 
+ CH-VS-2713 ; Varnerschnide ;2713;; 7.580225 ; 46.364103 
+ CH-VS-2714 ; Fenêtre de Zennepi ;2714;; 7.048511 ; 46.025547 
+ CH-VS-2714b ; Pas des Chevaux ;2714;; 7.169591 ; 45.881552 
+ CH-VS-2716a ; Col de la Plaine Morte ;2716;; 7.449558 ; 46.372493 
+ CH-VS-2721 ; Tällilücke ;2721;; 8.399522 ; 46.556377 
+ CH-VS-2722 ; Col de Fonteinte ;2721;; 7.150511 ; 45.877637 
+ CH-VS-2722a ; Elselücke ;2722;; 8.086165 ; 46.422582 
+ CH-VS-2722b ; Vordri Sulzlicke ;2722;; 8.34429 ; 46.454075 
+ CH-VS-2724 ; Bochtepass West ;2724;; 8.266222 ; 46.364826 
+ CH-VS-2725a ; Pas de Lovégno ;2695;; 7.490117 ; 46.176108 
+ CH-VS-2725b ; Passo dei Laghi ;2724;; 8.237938 ; 46.340488 
+ CH-VS-2732 ; Passo di Vallaperta ;2731;; 8.113285 ; 46.281007 
+ CH-VS-2734 ; Col du Grand Clocher des Planereuses ;2734;; 7.079036 ; 45.977028 
+ CH-VS-2735a ; Col Sud des Planards ;2735;; 7.141644 ; 45.90478 
+ CH-VS-2736 ; Blaslicken ;2736;; 8.37487 ; 46.500338 
+ CH-VS-2739a ; Col de Chassoure ;2743;; 7.278832 ; 46.102843 
+ CH-VS-2742a ; Bortellicke ;2741;; 8.11865 ; 46.287776 
+ CH-VS-2743 ; Pass Alte Gemmi ;2743;; 7.641474 ; 46.404554 
+ CH-VS-2748a ; Col du Tsan ;2748;; 7.532166 ; 46.192723 
+ CH-VS-2748c ; Passo Carnera ;2747;; 8.1279 ; 46.228149 
+ CH-VS-2749 ; Passo Loccia Carnera ;2748;; 8.131751 ; 46.227217 
+ CH-VS-2752a ; Col du Névé de la Rousse ;2752;; 7.134501 ; 45.914835 
+ CH-VS-2754 ; Col du Bastillon ;2754;; 7.145695 ; 45.894266 
+ CH-VS-2756 ; Halbelfjoch ;2756;; 8.211398 ; 46.329292 
+ CH-VS-2756c ; Schiltfurgga ;2756;; 7.915577 ; 46.354941 
+ CH-VS-2758a ; Col Sud de Menouve ;2755;; 7.204395 ; 45.877736 
+ CH-VS-2762 ; Ritzfurgge ;2755;; 8.321093 ; 46.452368 
+ CH-VS-2764c ; Ritterpass ;2763;; 8.167147 ; 46.296758 
+ CH-VS-2770a ; Kaltwasserpass ;2769;; 8.081335 ; 46.258478 
+ CH-VS-2771b ; Le Basset ;2771;; 7.12413 ; 45.925511 
+ CH-VS-2773a ; Balmalücke ;2773;; 8.075288 ; 46.136186 
+ CH-VS-2777 ; Col des Autannes ;2765;; 6.983473 ; 46.010567 
+ CH-VS-2779a ; Col de Proz ;2779;; 7.224627 ; 45.904249 
+ CH-VS-2781b ; Chastlertellipass ;2778;; 7.791387 ; 46.357194 
+ CH-VS-2787a ; Pas de Lona ;2787;; 7.519805 ; 46.15585 
+ CH-VS-2788 ; Selle des Ruans ;2775;; 6.894095 ; 46.124478 
+ CH-VS-2790 ; Meidenpass ;2790;; 7.661353 ; 46.209707 
+ CH-VS-2790c ; Meidpass ;2790;; 7.661562 ; 46.222948 
+ CH-VS-2792 ; Basset de Lona ;2792;; 7.54775 ; 46.148091 
+ CH-VS-2793a ; Blaslicke ;2793;; 8.379979 ; 46.500475 
+ CH-VS-2794 ; Col des Outannes ;2794;; 7.501018 ; 46.368339 
+ CH-VS-2796a ; Col des Ecandies ;2793;; 7.035087 ; 46.008975 
+ CH-VS-2798c ; Hinneri Sulzlicke ;2798;; 8.338673 ; 46.45286 
+ CH-VS-2799a ; Col du Ruan ;2784;; 6.893602 ; 46.114302 
+ CH-VS-2801 ; Col de Novèlé ;2801;; 7.428116 ; 46.1092 
+ CH-VS-2801a ; Col Nord de Menouve ;2771;; 7.207308 ; 45.880152 
+ CH-VS-2803 ; Passo della Pezza ;2802;; 8.055863 ; 46.101669 
+ CH-VS-2803a ; Chumminilicke ;2803;; 7.787042 ; 46.22641 
+ CH-VS-2803b ; Passo Fnè ;2803;; 8.120536 ; 46.2353 
+ CH-VS-2804a ; Col des Roux ;2804;; 7.381481 ; 46.070622 
+ CH-VS-2804b ; Col du Mont Gelé ;2804;; 7.283743 ; 46.094961 
+ CH-VS-2805a ; Fenêtre de Durand ;2798;; 7.356227 ; 45.909165 
+ CH-VS-2806 ; Weissengratpass ;2806;; 7.937016 ; 46.2176 
+ CH-VS-2811 ; Col de Sorebois Sud ;2811;; 7.587132 ; 46.142298 
+ CH-VS-2813 ; Rieschensattel ;2808;; 7.949959 ; 46.177214 
+ CH-VS-2813a ; Hautes Fenêtres ;2818;; 7.112564 ; 46.18089 
+ CH-VS-2817b ; Pas du Bœuf ;2817;; 7.656941 ; 46.234112 
+ CH-VS-2821b ; Brunnetlicku ;2821;; 7.664268 ; 46.250379 
+ CH-VS-2821c ; Col Nord des Planards ;2821;; 7.139157 ; 45.911969 
+ CH-VS-2824a ; Ferdenpass ;2821;; 7.695552 ; 46.395143 
+ CH-VS-2826d ; Mittelbergpass ;2824;; 8.262277 ; 46.359161 
+ CH-VS-2828a ; Galkilücke ;2828;; 8.065739 ; 46.127244 
+ CH-VS-2829 ; Col de Singline ;2829;; 7.588519 ; 46.138482 
+ CH-VS-2830 ; Col de la Montau ;2830;; 7.345463 ; 46.129663 
+ CH-VS-2830a ; Col de la Tour Sallière ;2811;; 6.912729 ; 46.126762 
+ CH-VS-2832b ; Mondellipass ;2830;; 7.994733 ; 46.002485 
+ CH-VS-2833 ; Col du Grand Bandon ;2833;; 7.500268 ; 46.163932 
+ CH-VS-2835b ; Col de Sorebois Nord ;2835;; 7.58632 ; 46.148587 
+ CH-VS-2835c ; Ofentalpass ;2833;; 8.011537 ; 46.019493 
+ CH-VS-2838a ; Antronapass ;2837;; 8.020382 ; 46.0377 
+ CH-VS-2838b ; Borterpass ;2838;; 7.66483 ; 46.229688 
+ CH-VS-2839 ; Brèche de l'Aiguillette ;2840;; 6.891309 ; 46.10301 
+ CH-VS-2839c ; Schintilicke ;2833;; 7.785012 ; 46.355775 
+ CH-VS-2840b ; Niggelinglicke ;2840;; 7.757228 ; 46.226003 
+ CH-VS-2841 ; Pas du Nant Rouge ;2841;; 7.077739 ; 46.196652 
+ CH-VS-2846a ; Col des Otanes ;2846;; 7.310604 ; 45.999283 
+ CH-VS-2853 ; Alpjenpass ;2853;; 8.077737 ; 46.222641 
+ CH-VS-2853c ; Montemoropass ;2854;; 7.981264 ; 45.998053 
+ CH-VS-2854 ; Wiwannijoch ;2854;; 7.854264 ; 46.356172 
+ CH-VS-2855b ; Pas de Chèvres ;2855;; 7.432061 ; 46.016178 
+ CH-VS-2861 ; Col de Plangolin ;2861;; 7.309319 ; 45.997122 
+ CH-VS-2864 ; Eggerscharte ;2856;; 8.314621 ; 46.380458 
+ CH-VS-2865 ; Galmpass ;2865;; 7.698628 ; 46.385961 
+ CH-VS-2867d ; Homattupass ;2867;; 8.068704 ; 46.238417 
+ CH-VS-2869a ; Basset de la Cretta ;2869;; 7.460624 ; 46.090569 
+ CH-VS-2869b ; Col du Tsaté ;2869;; 7.559811 ; 46.100312 
+ CH-VS-2874a ; Forcletta ;2874;; 7.657506 ; 46.181108 
+ CH-VS-2875 ; Saaspass ;2875;; 8.446758 ; 46.535366 
+ CH-VS-2882a ; Borterlicke ;2882;; 7.659578 ; 46.245171 
+ CH-VS-2882b ; Sparrenlücke ;2882;; 7.769499 ; 46.180504 
+ CH-VS-2885a ; Ferrichlücke ;2885;; 7.860362 ; 46.159017 
+ CH-VS-2886b ; Col des Audannes ;2882;; 7.358983 ; 46.340908 
+ CH-VS-2887c ; Mäderlicke ;2887;; 8.070886 ; 46.258825 
+ CH-VS-2888 ; Col de l'Evole ;2888;; 7.077524 ; 45.971626 
+ CH-VS-2889b ; La Forcla ;2868;; 7.452838 ; 46.029095 
+ CH-VS-2890 ; Col des Gentianes ;2894;; 7.302756 ; 46.082293 
+ CH-VS-2892a ; Col de Louché ;2892;; 7.520218 ; 46.172132 
+ CH-VS-2894 ; Augstbordpass ;2894;; 7.75324 ; 46.208697 
+ CH-VS-2896 ; Ober Ferdenpass ;2896;; 7.69093 ; 46.388263 
+ CH-VS-2899 ; Majingpass ;2899;; 7.689464 ; 46.385981 
+ CH-VS-2899a ; Basset de Levron ;2899;; 7.535697 ; 46.138746 
+ CH-VS-2899b ; Col de Crête Sèche ;2895;; 7.391067 ; 45.899542 
+ CH-VS-2901b ; Hohsandjoch ;2899;; 8.31703 ; 46.394375 
+ CH-VS-2902 ; Passo Terrarossa ;2899;; 8.075323 ; 46.261229 
+ CH-VS-2907 ; Col de Molenne ;2906;; 7.219173 ; 45.88919 
+ CH-VS-2908 ; Col de Mourti ;2908;; 7.371442 ; 46.068062 
+ CH-VS-2909b ; Rindersattel ;2909;; 7.647557 ; 46.424118 
+ CH-VS-2912a ; Fenêtre d'Allèves ;2912;; 7.361334 ; 46.087036 
+ CH-VS-2912b ; Gitzifurggu ;2912;; 7.704612 ; 46.413384 
+ CH-VS-2913 ; Ginalspass ;2909;; 7.776371 ; 46.219606 
+ CH-VS-2913a ; Col de la Rossette ;2913;; 7.35407 ; 46.119064 
+ CH-VS-2914 ; Col de Vijivi ;2914;; 7.660929 ; 46.194793 
+ CH-VS-2914a ; Col Molline Orientale ;2914;; 7.216192 ; 45.887151 
+ CH-VS-2915 ; Col de Bréona ;2915;; 7.563425 ; 46.09734 
+ CH-VS-2916 ; Col de Torrent ;2916;; 7.532576 ; 46.129933 
+ CH-VS-2917c ; Schinjoch ;2830;; 8.262109 ; 46.361789 
+ CH-VS-2919a ; Col de Riedmatten ;2919;; 7.432835 ; 46.018157 
+ CH-VS-2920c ; Tossenjoch ;2920;; 8.055223 ; 46.123973 
+ CH-VS-2920d ; Col des Rousses ;2920;; 6.88352 ; 46.095802 
+ CH-VS-2921 ; Col de Louvie ;2921;; 7.329428 ; 46.073966 
+ CH-VS-2921a ; Col du Rogneux ;2921;; 7.237172 ; 46.01032 
+ CH-VS-2923c ; Gischijoch ;2922;; 8.214586 ; 46.317908 
+ CH-VS-2924a ; Col de Crête Sèche ;2924;; 7.074152 ; 45.958823 
+ CH-VS-2927 ; Furggeltin ;2927;; 7.824115 ; 46.446955 
+ CH-VS-2929a ; Pas des Vèches ;2929;; 7.544659 ; 46.1158 
+ CH-VS-2936 ; Col de Roset ;2936;; 7.361263 ; 46.091893 
+ CH-VS-2936a ; Col des Angroniettes ;2935;; 7.11111 ; 45.858908 
+ CH-VS-2937 ; Rots Tällilicke ;2937;; 7.760042 ; 46.219563 
+ CH-VS-2937a ; Daubenjoch ;2903;; 7.597866 ; 46.384635 
+ CH-VS-2938 ; Col Rond ;2938;; 7.065971 ; 46.006617 
+ CH-VS-2940a ; Col de la Chaux ;2940;; 7.307583 ; 46.074662 
+ CH-VS-2942a ; Col d'Arpette ;2942;; 7.058867 ; 46.005279 
+ CH-VS-2942b ; Col des Becs de Bosson ;2959;; 7.523576 ; 46.166642 
+ CH-VS-2948 ; Col de Tsavolire ;2948;; 7.512438 ; 46.163772 
+ CH-VS-2950 ; Passage du Glacier Pendant ;2950;; 6.949928 ; 46.172592 
+ CH-VS-2952 ; Col de Tsena Réfien ;2952;; 7.433223 ; 46.01195 
+ CH-VS-2957 ; Passo degli Ometti ;2956;; 8.218274 ; 46.321544 
+ CH-VS-2960 ; Mittaglücke ;2960;; 8.388224 ; 46.495909 
+ CH-VS-2970 ; Col du Dôme ;2970;; 7.20399 ; 46.313813 
+ CH-VS-2974 ; Sattelti ;2962;; 7.636659 ; 45.985322 
+ CH-VS-2974a ; Passo d'Avino ;2974;; 8.115754 ; 46.23649 
+ CH-VS-2975 ; Seetalpass ;2975;; 7.862096 ; 46.175688 
+ CH-VS-2976 ; Bocca di Mottiscia ;2923;; 8.134266 ; 46.29934 
+ CH-VS-2981 ; Furggji ;2981;; 7.805708 ; 46.022473 
+ CH-VS-2983 ; Col supérieur de la Torbesse ;2983;; 7.341893 ; 46.041944 
+ CH-VS-2987a ; Col de la Couronne ;2987;; 7.573102 ; 46.088783 
+ CH-VS-2987b ; Col de Prafleuri ;2987;; 7.363668 ; 46.08209 
+ CH-VS-2989 ; Egginerjoch ;2989;; 7.925871 ; 46.068292 
+ CH-VS-2989a ; Gredetschlücke (Untere) ;2989;; 7.910623 ; 46.397836 
+ CH-VS-2990a ; Col de Milon ;2975;; 7.672971 ; 46.112027 
+ CH-VS-2990b ; Jungpass ;2990;; 7.735694 ; 46.189251 
+ CH-VS-2991 ; Fenêtre du Chamois ;2991;; 7.035182 ; 46.006672 
+ CH-VS-2992a ; Col d'Annibal ;2990;; 7.232729 ; 45.891284 
+ CH-VS-2992b ; Wyssegglicke ;2992;; 7.752447 ; 46.201413 
+ CH-VS-3001 ; Col de l'Omen Roso ;2999;; 7.660643 ; 46.175489 
+ CH-VS-3003a ; Col de Momin ;3000;; 7.334739 ; 46.068034 
+ CH-VS-3004 ; Col de la Dent Jaune ;3004;; 6.928611 ; 46.164581 
+ CH-VS-3005 ; Col des Arpettes ;3008;; 7.670782 ; 46.157126 
+ CH-VS-3005a ; Col du Schwarzhorn ;3002;; 7.573453 ; 46.384235 
+ CH-VS-3006 ; Ober Hohsandjoch ;3005;; 8.311514 ; 46.401488 
+ CH-VS-3009 ; Fenêtre de Soix ;3009;; 6.934932 ; 46.168559 
+ CH-VS-3010 ; Col du Giétro ;3104;; 7.373246 ; 45.997565 
+ CH-VS-3011 ; Frilijoch ;3011;; 7.660843 ; 46.173563 
+ CH-VS-3014b ; Hintere Lücke ;3014;; 7.912573 ; 46.472349 
+ CH-VS-3016 ; Schneejoch ;3016;; 7.562778 ; 46.382862 
+ CH-VS-3018 ; Col de Cleuson ;3018;; 7.344234 ; 46.062645 
+ CH-VS-3018a ; Passo di Blinden ;3015;; 8.291803 ; 46.409932 
+ CH-VS-3022 ; Simelipass ;3022;; 7.960681 ; 46.194707 
+ CH-VS-3022a ; Forchetta di Gemsland ;3022;; 8.352266 ; 46.44156 
+ CH-VS-3024 ; Col Supérieur de Crête Sèche ;3024;; 7.069122 ; 45.958717 
+ CH-VS-3025a ; Bocchetta di Galkernen ;2905;; 7.967734 ; 45.997721 
+ CH-VS-3026 ; Wängerjoch ;3026;; 7.672194 ; 46.163285 
+ CH-VS-3026a ; Col du Dôme ;3026;; 6.924058 ; 46.129954 
+ CH-VS-3026b ; Col du Mont Fort ;3026;; 7.323775 ; 46.076425 
+ CH-VS-3030 ; Col des Planereuses ;3030;; 7.06559 ; 45.965991 
+ CH-VS-3030a ; Col de la Cime de l'Est ;3030;; 6.941807 ; 46.171342 
+ CH-VS-3033a ; Col d'Orchèra ;2991;; 7.356798 ; 46.111716 
+ CH-VS-3033b ; Col de Lâne ;3033;; 7.245195 ; 45.990553 
+ CH-VS-3036 ; Zagenpass ;3036;; 7.667518 ; 46.413293 
+ CH-VS-3037 ; Grüenbergsattel ;3037;; 7.943046 ; 46.006515 
+ CH-VS-3037a ; Col Est de Lâne ;3037;; 7.247959 ; 45.989676 
+ CH-VS-3038a ; Col d'Ayace ;3037;; 7.3816 ; 45.89701 
+ CH-VS-3038b ; Stellipass ;3038;; 7.991294 ; 46.045411 
+ CH-VS-3039 ; Col de la Rionde ;3039;; 7.339145 ; 46.061381 
+ CH-VS-3040 ; Col Inférieur des Essettes ;3040;; 7.065751 ; 45.953758 
+ CH-VS-3042 ; Gässi ;3042;; 7.862537 ; 46.150786 
+ CH-VS-3044 ; Mittlebärgpass ;3043;; 8.304248 ; 46.40247 
+ CH-VS-3046 ; Tiereggpass ;3046;; 7.857692 ; 46.379548 
+ CH-VS-3049 ; Gamserjoch ;3049;; 7.980206 ; 46.191197 
+ CH-VS-3050 ; Pipjilicke ;3050;; 7.73022 ; 46.168368 
+ CH-VS-3051 ; Col de Tsarmine ;3051;; 7.522628 ; 46.055161 
+ CH-VS-3052a ; Furggwangjoch ;3052;; 7.736719 ; 46.196598 
+ CH-VS-3053 ; Col de Charmotane ;3015;; 7.474231 ; 45.978662 
+ CH-VS-3055 ; Gabelhornpass ;3055;; 7.858906 ; 46.170078 
+ CH-VS-3056 ; Col des Paresseux ;3053;; 6.923621 ; 46.158369 
+ CH-VS-3061a ; Col de La Lé ;3061;; 7.602234 ; 46.103228 
+ CH-VS-3064 ; Col des Oujets de Bagnes ;3064;; 7.238198 ; 45.998079 
+ CH-VS-3068 ; Brèche de l'Eperon ;3068;; 6.930804 ; 46.166894 
+ CH-VS-3069a ; Col du Gardien ;3069;; 7.603884 ; 46.09288 
+ CH-VS-3069b ; Wilerjoch ;3069;; 7.812999 ; 46.382403 
+ CH-VS-3073 ; Col des Aiguilles ;3073;; 7.600671 ; 46.099362 
+ CH-VS-3075 ; Col des Grands ;3045;; 6.991 ; 46.002681 
+ CH-VS-3076 ; Firehornlicke ;3071;; 8.197579 ; 46.508767 
+ CH-VS-3081 ; Jazzilücke ;3080;; 8.0147 ; 46.029219 
+ CH-VS-3082 ; Col Collon ;3068;; 7.513495 ; 45.960994 
+ CH-VS-3087 ; Griesgletscherpass ;3087;; 8.309993 ; 46.437988 
+ CH-VS-3098 ; Col d'Orny ;3098;; 7.041626 ; 45.997394 
+ CH-VS-3102a ; Col de Bocheresse ;3102;; 7.316834 ; 45.983998 
+ CH-VS-3108a ; Col de Valsoray ;3105;; 7.273615 ; 45.900168 
+ CH-VS-3108b ; Münsterjoch ;3108;; 8.197786 ; 46.523519 
+ CH-VS-3108c ; Seewjinenlücke ;3107;; 7.954563 ; 45.997108 
+ CH-VS-3109 ; Col de Sovereu ;3109;; 7.3535 ; 46.053747 
+ CH-VS-3111 ; Abbergjoch ;3111;; 7.753292 ; 46.134438 
+ CH-VS-3114 ; Wasulicke ;3114;; 7.753695 ; 46.175232 
+ CH-VS-3115 ; Col de Lire rose ;3064;; 7.390207 ; 45.967088 
+ CH-VS-3116a ; Col des Chamois ;3116;; 7.354695 ; 46.049933 
+ CH-VS-3117 ; Strahlgrätpass ;3112;; 8.287776 ; 46.407723 
+ CH-VS-3125 ; Hillejoch ;3125;; 8.140838 ; 46.302727 
+ CH-VS-3125b ; Rothornpass ;3114;; 8.320437 ; 46.424863 
+ CH-VS-3126 ; Turbejoch ;3126;; 8.272551 ; 46.409725 
+ CH-VS-3127a ; Chastlerjoch ;3126;; 7.795528 ; 46.374363 
+ CH-VS-3128 ; Beichpass ;3128;; 7.918749 ; 46.434631 
+ CH-VS-3129 ; Unnerlicke ;3129;; 8.187702 ; 46.501185 
+ CH-VS-3135 ; Bergenerloch ;3135;; 7.97878 ; 46.181848 
+ CH-VS-3138 ; Passo di Camposecco ;3137;; 8.032168 ; 46.047804 
+ CH-VS-3139 ; Hangende Gletscher Joch ;3300;; 7.923928 ; 46.031418 
+ CH-VS-3139a ; Col du Pucel ;3139;; 7.360462 ; 46.351047 
+ CH-VS-3141a ; Col du Pigne ;3141;; 7.608263 ; 46.087386 
+ CH-VS-3141b ; Fenêtre de Suzanne ;3141;; 7.03402 ; 45.978836 
+ CH-VS-3144a ; Col du Crêt ;3144;; 7.357907 ; 46.044664 
+ CH-VS-3144b ; Oberlicke ;3144;; 8.174041 ; 46.502444 
+ CH-VS-3147 ; Sonnigpass ;3142;; 8.029213 ; 46.08158 
+ CH-VS-3148b ; Rossbodepass ;3148;; 7.991493 ; 46.192941 
+ CH-VS-3150a ; Col de la Gouille ;3150;; 7.260964 ; 45.903863 
+ CH-VS-3157 ; Col de Tita Neire ;3157;; 7.063803 ; 45.963197 
+ CH-VS-3160a ; Col des Essettes ;3110;; 7.063717 ; 45.955128 
+ CH-VS-3160b ; Col des Vignettes ;3160;; 7.47247 ; 45.989781 
+ CH-VS-3165 ; Burstsattel ;3165;; 7.876344 ; 46.468356 
+ CH-VS-3166 ; Furggji ;3166;; 7.73079 ; 46.054545 
+ CH-VS-3167 ; Rothornpass ;3166;; 7.947571 ; 45.99749 
+ CH-VS-3167a ; Col des Ravines Rousses ;3167;; 7.049921 ; 45.992646 
+ CH-VS-3169 ; Col de Tseudet ;3169;; 7.237899 ; 45.904184 
+ CH-VS-3170 ; Fülbärgpass ;3170;; 8.061732 ; 46.501676 
+ CH-VS-3173 ; Lötschenlücke ;3157;; 7.963377 ; 46.474915 
+ CH-VS-3174a ; Bietschjoch ;3174;; 7.825259 ; 46.388209 
+ CH-VS-3175 ; Grisigpass ;3175;; 7.936581 ; 46.392723 
+ CH-VS-3177 ; Col du Pissoir ;3149;; 7.01573 ; 46.004639 
+ CH-VS-3178b ; Tällijoch ;3178;; 8.045241 ; 46.124522 
+ CH-VS-3179 ; Col Sud des Portons ;3179;; 7.4135 ; 45.948979 
+ CH-VS-3181 ; Col des Ignes ;3181;; 7.431541 ; 46.036418 
+ CH-VS-3184 ; Westliches Wilerjoch ;3184;; 7.803707 ; 46.376964 
+ CH-VS-3185 ; Col du Chardonney ;3182;; 7.402938 ; 45.910746 
+ CH-VS-3188 ; La Forcle ;3187;; 7.659632 ; 46.066158 
+ CH-VS-3189a ; Col de Bordon ;3189;; 7.601374 ; 46.118431 
+ CH-VS-3189b ; Col de By ;3188;; 7.317923 ; 45.911963 
+ CH-VS-3189c ; Kanziljoch ;3189;; 7.999401 ; 46.082686 
+ CH-VS-3190 ; Brèche des Doigts ;3190;; 6.924869 ; 46.161884 
+ CH-VS-3190a ; Col du Mont Avri ;3192;; 7.335732 ; 45.912476 
+ CH-VS-3191 ; Brèche des Moleires ;3190;; 7.277257 ; 45.901666 
+ CH-VS-3193 ; Col Sud des Plines ;3252;; 7.044947 ; 45.987996 
+ CH-VS-3195 ; Baltschiederjoch ;3169;; 7.856054 ; 46.403213 
+ CH-VS-3198 ; Col du Mérignier ;3198;; 7.251539 ; 45.969461 
+ CH-VS-3198a ; Olmenjoch ;3198;; 8.046179 ; 46.456492 
+ CH-VS-3206 ; Passo Loraccio ;3234;; 8.02964 ; 46.054159 
+ CH-VS-3208 ; Jolilicka ;3199;; 7.811919 ; 46.376649 
+ CH-VS-3209 ; Col d'Otemma ;3208;; 7.448882 ; 45.931909 
+ CH-VS-3209a ; Schönbiellicke ;3209;; 7.633948 ; 46.010343 
+ CH-VS-3213 ; Col du Mont Brulé ;3217;; 7.545387 ; 45.96472 
+ CH-VS-3215a ; Col du génépi ;3215;; 7.003914 ; 46.000366 
+ CH-VS-3216b ; Rothornjoch ;3216;; 7.732219 ; 46.178888 
+ CH-VS-3219 ; Baltschiederlicka ;3219;; 7.911335 ; 46.404976 
+ CH-VS-3220 ; Col supérieur des Ignes ;3220;; 7.434008 ; 46.035752 
+ CH-VS-3220a ; Col du Midi ;3231;; 7.008405 ; 45.998818 
+ CH-VS-3220c ; Jungtaljoch ;3220;; 7.737509 ; 46.175276 
+ CH-VS-3226 ; Steintällisattel ;3226;; 8.010131 ; 46.080221 
+ CH-VS-3228 ; Wasujoch ;3225;; 7.743578 ; 46.172291 
+ CH-VS-3230 ; Col Nord des Plines ;3230;; 7.046067 ; 45.990195 
+ CH-VS-3233 ; Col de l'Epicoune ;3232;; 7.431223 ; 45.918182 
+ CH-VS-3235a ; Col de Vasevay ;3235;; 7.367873 ; 46.029919 
+ CH-VS-3235b ; Gässijoch ;3235;; 7.736144 ; 46.162416 
+ CH-VS-3243 ; Zwischbergenpass Süd ;3243;; 8.022068 ; 46.11339 
+ CH-VS-3243a ; Col de Cheilon ;3237;; 7.40074 ; 45.994609 
+ CH-VS-3243b ; Col de Tsa de Tsan ;3244;; 7.543413 ; 45.957696 
+ CH-VS-3243c ; Schöllijoch ;3343;; 7.733327 ; 46.144252 
+ CH-VS-3245 ; Ober Blinnenjoch ;3215;; 8.303515 ; 46.422582 
+ CH-VS-3246 ; Grünhornlücke ;3273;; 8.08363 ; 46.513608 
+ CH-VS-3249 ; Hinter Allalinpass ;3249;; 7.91515 ; 46.062959 
+ CH-VS-3250 ; Triftjisattel ;3231;; 7.754855 ; 45.950609 
+ CH-VS-3250a ; Col de Tracuit ;3227;; 7.678266 ; 46.130889 
+ CH-VS-3251 ; Col du Filon ;3255;; 7.327527 ; 45.910471 
+ CH-VS-3252 ; Klein Blinnenhornlücke ;3252;; 8.306656 ; 46.427839 
+ CH-VS-3259a ; Col de l'Aouille Tseuque ;3258;; 7.435154 ; 45.922176 
+ CH-VS-3259b ; Col de Mourti ;3259;; 7.575656 ; 46.076186 
+ CH-VS-3259c ; Col des Chamois ;3255;; 7.266566 ; 45.896559 
+ CH-VS-3261 ; Fenêtre de Saleina ;3261;; 7.025473 ; 45.982942 
+ CH-VS-3262 ; Col d'Oren ;3266;; 7.475606 ; 45.950434 
+ CH-VS-3268 ; Col de Bertol ;3264;; 7.527717 ; 46.005439 
+ CH-VS-3269 ; Barrjoch ;3311;; 7.734682 ; 46.160189 
+ CH-VS-3270 ; Längfluejoch ;3264;; 7.850262 ; 46.016221 
+ CH-VS-3271 ; Furggjoch ;3270;; 7.673684 ; 45.967971 
+ CH-VS-3279 ; Brändjijoch ;3279;; 7.739039 ; 46.170954 
+ CH-VS-3281 ; Col du Tour ;3280;; 7.016364 ; 45.986102 
+ CH-VS-3287 ; Zwischbergenpass ;3268;; 8.020169 ; 46.114849 
+ CH-VS-3288 ; Col Supérieur du Tour ;3287;; 7.01179 ; 45.988513 
+ CH-VS-3289 ; Zenbächenlücke ;3289;; 8.023553 ; 46.440437 
+ CH-VS-3290 ; Col des Champignons ;3290;; 7.303902 ; 45.917408 
+ CH-VS-3290a ; Portjenpass ;3289;; 8.032003 ; 46.093287 
+ CH-VS-3292 ; Col du Petit Mont Collon ;3284;; 7.48508 ; 45.961027 
+ CH-VS-3293 ; Galmilücke ;3293;; 8.188558 ; 46.515933 
+ CH-VS-3294 ; Col de la Grande Arête ;3295;; 7.54359 ; 45.969426 
+ CH-VS-3295 ; Col du Grand Carré ;3293;; 7.28448 ; 45.912696 
+ CH-VS-3297 ; Col Droit ;3297;; 7.0443 ; 45.986464 
+ CH-VS-3298 ; Breitlauijoch ;3312;; 7.871132 ; 46.410578 
+ CH-VS-3301 ; Theodulpass ;3296;; 7.708651 ; 45.943398 
+ CH-VS-3303 ; Galenjoch ;3303;; 7.838712 ; 46.131784 
+ CH-VS-3308 ; Col d'Amiante ;3308;; 7.301247 ; 45.917422 
+ CH-VS-3309 ; Col de la Tsa ;3309;; 7.52721 ; 46.011736 
+ CH-VS-3310 ; Passo Banella ;3302;; 8.023894 ; 46.062951 
+ CH-VS-3315 ; Unter Gabeljoch ;3315;; 7.690468 ; 46.027143 
+ CH-VS-3320 ; Col de la Rayette ;3319;; 7.416031 ; 45.911424 
+ CH-VS-3321a ; Col de la Petite Lire ;3321;; 7.423685 ; 45.955908 
+ CH-VS-3321b ; Col du Chardonnet ;3320;; 7.011874 ; 45.966223 
+ CH-VS-3321c ; Steinchalchlücke ;3321;; 7.93388 ; 45.996472 
+ CH-VS-3322 ; Col du Mont Percé ;3321;; 7.284863 ; 45.913794 
+ CH-VS-3323a ; Breuiljoch ;3322;; 7.669866 ; 45.971127 
+ CH-VS-3325 ; Col du Mont Rouge ;3325;; 7.388587 ; 45.975777 
+ CH-VS-3335 ; Fenêtre du Tour ;3334;; 7.014799 ; 45.974977 
+ CH-VS-3336a ; Col Sud de Darbonneire ;3336;; 7.433993 ; 46.063674 
+ CH-VS-3337a ; Aebilücke ;3337;; 7.649753 ; 46.017781 
+ CH-VS-3342 ; Gemschlicke ;3335;; 8.143531 ; 46.520629 
+ CH-VS-3346 ; Col Nord des Dents de Bertol ;3346;; 7.530742 ; 46.000714 
+ CH-VS-3347a ; Col de la Balme ;3319;; 7.373659 ; 45.90082 
+ CH-VS-3351 ; Schwarzsee Joch ;3351;; 7.688512 ; 45.955004 
+ CH-VS-3355 ; Breithornpass ;3340;; 8.085247 ; 46.241706 
+ CH-VS-3357 ; Col des Bouquetins ;3357;; 7.559326 ; 45.986052 
+ CH-VS-3364 ; Col Nord de Darbonneire ;3364;; 7.431666 ; 46.065653 
+ CH-VS-3365 ; Bruneggjoch ;3365;; 7.737019 ; 46.132998 
+ CH-VS-3366 ; Col Nord des Portons ;3366;; 7.436582 ; 45.964724 
+ CH-VS-3369 ; Col de la Luette ;3369;; 7.382745 ; 46.010587 
+ CH-VS-3372 ; Furggsattel ;3348;; 7.702901 ; 45.951535 
+ CH-VS-3373 ; Stellijoch ;3330;; 7.738558 ; 46.16832 
+ CH-VS-3375 ; Sattellücke ;3375;; 7.958729 ; 46.46549 
+ CH-VS-3376 ; Col du Capucin ;3358;; 7.263111 ; 45.893351 
+ CH-VS-3380a ; Col Blanc ;3395;; 7.020514 ; 45.9818 
+ CH-VS-3382 ; Bächilicke ;3378;; 8.184972 ; 46.511009 
+ CH-VS-3383 ; Col de Purtscheller ;3383;; 7.012382 ; 45.992024 
+ CH-VS-3386 ; Col de l'Evêque ;3376;; 7.495887 ; 45.959466 
+ CH-VS-3390 ; Col de Saleina ;3390;; 7.055196 ; 45.95822 
+ CH-VS-3393 ; Col de la Petite Fourche ;3380;; 7.023844 ; 45.978232 
+ CH-VS-3394a ; Col Vert ;3392;; 7.290349 ; 45.920089 
+ CH-VS-3394b ; Stockhornpass ;3387;; 7.856728 ; 45.983741 
+ CH-VS-3403 ; Col de l'A Neuve ;3403;; 7.042063 ; 45.955116 
+ CH-VS-3404 ; Col des Luisettes ;3402;; 7.286119 ; 45.916332 
+ CH-VS-3406b ; Weissmiessattel ;3406;; 8.027888 ; 46.120521 
+ CH-VS-3408 ; Col des Dents de Bertol ;3408;; 7.537638 ; 45.9955 
+ CH-VS-3409 ; Col des Fourches ;3408;; 7.022954 ; 45.978156 
+ CH-VS-3410 ; Fenêtre du Pissoirs ;3410;; 7.010617 ; 45.996623 
+ CH-VS-3410a ; Hohwängsattel ;3410;; 7.652573 ; 46.022517 
+ CH-VS-3410b ; Col Copt ;3410;; 7.039182 ; 45.983928 
+ CH-VS-3411 ; Collet ;3411;; 8.026219 ; 46.108547 
+ CH-VS-3418a ; Col des Maisons Blanches ;3401;; 7.277347 ; 45.940769 
+ CH-VS-3418b ; Col du Moine ;3418;; 7.269593 ; 45.946785 
+ CH-VS-3419 ; Col de la Grande Lui ;3416;; 7.050558 ; 45.957485 
+ CH-VS-3423 ; Col de la Tsijiore Nouve ;3423;; 7.441743 ; 45.996658 
+ CH-VS-3424 ; Col de la Bouetta ;3424;; 7.460963 ; 45.935532 
+ CH-VS-3428 ; Brèche de l'Amone ;3427;; 7.043091 ; 45.927117 
+ CH-VS-3429 ; Col de l'Mitre ;3429;; 7.504041 ; 45.972541 
+ CH-VS-3439 ; Fenêtre supérieur du Tour ;3442;; 7.009575 ; 45.971512 
+ CH-VS-3442 ; Roffelpass Est ;3441;; 7.924503 ; 45.997196 
+ CH-VS-3443 ; Col Durand ;3438;; 7.640112 ; 46.029493 
+ CH-VS-3447 ; Wandfluhjoch ;3457;; 7.59302 ; 46.000152 
+ CH-VS-3451 ; Passo di Ventina Nord ;3450;; 7.709365 ; 45.933807 
+ CH-VS-3457 ; Brèche Labié ;3455;; 7.457275 ; 45.933797 
+ CH-VS-3459a ; Col d'Hérens ;3459;; 7.586035 ; 45.994404 
+ CH-VS-3459b ; Col de Panossière ;3459;; 7.271719 ; 45.968377 
+ CH-VS-3478 ; Col Est de Blanchen ;3559;; 7.472591 ; 45.934621 
+ CH-VS-3479 ; Col de Tournanche ;3472;; 7.633097 ; 45.970468 
+ CH-VS-3490a ; Col de Boveire ;3487;; 7.263869 ; 45.962338 
+ CH-VS-3490b ; Col de Zinal ;3490;; 7.626557 ; 46.031135 
+ CH-VS-3491 ; Chli Triftjisattel ;3491;; 7.769774 ; 45.944 
+ CH-VS-3492 ; Col Sud ;3492;; 7.433283 ; 46.052277 
+ CH-VS-3498 ; Col des Rosses ;3498;; 7.589209 ; 46.069422 
+ CH-VS-3498a ; Col Slingsby ;3498;; 7.430144 ; 46.049344 
+ CH-VS-3499a ; Lagginjoch ;3499;; 8.007318 ; 46.145275 
+ CH-VS-3499b ; Neues Weisstor ;3498;; 7.900893 ; 45.987697 
+ CH-VS-3502 ; Lonzajoch ;3502;; 7.902302 ; 46.422339 
+ CH-VS-3506 ; Brêche d'Argentière ;3505;; 7.037013 ; 45.941983 
+ CH-VS-3508a ; Gredetschjoch ;3502;; 7.910686 ; 46.412679 
+ CH-VS-3513 ; Col du Pic d'Amiante ;3512;; 7.29358 ; 45.921532 
+ CH-VS-3513a ; Roffelpass West ;3513;; 7.915925 ; 45.996279 
+ CH-VS-3514 ; Unterbaechjoch ;3514;; 7.936408 ; 46.4079 
+ CH-VS-3520a ; Col du Sonadon ;3520;; 7.296206 ; 45.927662 
+ CH-VS-3522 ; Brèche de la Mouche ;3522;; 7.036855 ; 45.942459 
+ CH-VS-3527a ; Col du Ritord ;3527;; 7.262845 ; 45.959818 
+ CH-VS-3527b ; Triftjoch ;3527;; 7.677263 ; 46.049301 
+ CH-VS-3528 ; Col Nord ;3528;; 7.433787 ; 46.056388 
+ CH-VS-3531 ; Col de la Dent Blanche ;3531;; 7.60812 ; 46.04115 
+ CH-VS-3534 ; Col du Tour Noir ;3533;; 7.035273 ; 45.955946 
+ CH-VS-3538 ; Col du Tournelon Blanc ;3541;; 7.317013 ; 45.961734 
+ CH-VS-3540 ; Selle de Sonadon ;3540;; 7.295863 ; 45.921059 
+ CH-VS-3541 ; Col de Tsalion ;3541;; 7.523691 ; 46.023604 
+ CH-VS-3543 ; Pass Über den Mergasch ;3543;; 7.709921 ; 46.129693 
+ CH-VS-3544 ; Arbenjoch ;3544;; 7.655635 ; 46.036031 
+ CH-VS-3547 ; Col de la Serpentine ;3542;; 7.430257 ; 45.99126 
+ CH-VS-3549a ; Bisjoch ;3549;; 7.731388 ; 46.120419 
+ CH-VS-3549b ; Col d'Argentière ;3543;; 7.038026 ; 45.944577 
+ CH-VS-3554 ; Unter Aeschijoch ;3554;; 7.711166 ; 46.060199 
+ CH-VS-3560 ; Altes Weisstor ;3555;; 7.880686 ; 45.967107 
+ CH-VS-3561 ; Riedpass ;3561;; 7.879809 ; 46.125784 
+ CH-VS-3562 ; Col de Valpelline ;3559;; 7.578154 ; 45.986129 
+ CH-VS-3563 ; Col de Corbassière ;3563;; 7.271127 ; 45.976139 
+ CH-VS-3564 ; Col de l'Epée ;3564;; 7.264685 ; 45.953092 
+ CH-VS-3564a ; Allalinpass ;3556;; 7.886856 ; 46.038588 
+ CH-VS-3564b ; Col de Corbassière ;3564;; 7.276441 ; 45.976678 
+ CH-VS-3568 ; Westtiefmattenjoch ;3561;; 7.586399 ; 45.971321 
+ CH-VS-3574 ; Osttiemattenjoch ;3572;; 7.58957 ; 45.970615 
+ CH-VS-3577 ; Schwarzberg Weisstor ;3577;; 7.907826 ; 45.998652 
+ CH-VS-3580 ; Colle del Leone ;3590;; 7.644867 ; 45.97167 
+ CH-VS-3581 ; Vecchio Weisstor Settentrionale ;3606;; 7.880855 ; 45.97531 
+ CH-VS-3583 ; Geisslücke ;3583;; 8.003452 ; 46.448329 
+ CH-VS-3584 ; Vecchio Weisstor Centrale ;3584;; 7.877814 ; 45.972524 
+ CH-VS-3586 ; Fillarjoch ;3581;; 7.875492 ; 45.958032 
+ CH-VS-3592 ; Col Occidental de Blanchen ;3512;; 7.467331 ; 45.93428 
+ CH-VS-3593 ; Brèche Lagarde ;3593;; 7.036707 ; 45.939858 
+ CH-VS-3597 ; Ober Gabeljoch ;3597;; 7.674362 ; 46.035544 
+ CH-VS-3600 ; Col de la Tête Blanche ;3596;; 7.580594 ; 45.991361 
+ CH-VS-3600a ; Col du Grand Cornier ;3600;; 7.604094 ; 46.055261 
+ CH-VS-3606 ; Col des Doves Blanches ;3606;; 7.521123 ; 46.016203 
+ CH-VS-3611 ; Col du Meitin ;3611;; 7.281614 ; 45.936548 
+ CH-VS-3614a ; Aletschjoch ;3621;; 8.00858 ; 46.476856 
+ CH-VS-3616 ; Senggjoch ;3616;; 7.995713 ; 46.174839 
+ CH-VS-3620b ; Passage d'Argentière ;3620;; 7.038449 ; 45.946602 
+ CH-VS-3622 ; Vecchio Weisstor Nord Est ;3621;; 7.884412 ; 45.976456 
+ CH-VS-3622a ; Col de Bricola ;3622;; 7.592549 ; 46.062176 
+ CH-VS-3622b ; Ober Aeschijoch ;3622;; 7.704048 ; 46.058057 
+ CH-VS-3627 ; Obers Mönchsjoch ;3627;; 8.007182 ; 46.554677 
+ CH-VS-3629 ; Anujoch ;3629;; 7.937472 ; 46.489874 
+ CH-VS-3634 ; Kinlücke ;3634;; 7.835938 ; 46.077766 
+ CH-VS-3637 ; Col Maquignaz ;3638;; 7.618227 ; 45.971986 
+ CH-VS-3639 ; Col de Brenay ;3635;; 7.447008 ; 45.987231 
+ CH-VS-3658 ; Col du Mountet ;3658;; 7.680248 ; 46.052353 
+ CH-VS-3669 ; Wannenhornsattel ;3669;; 8.102962 ; 46.485519 
+ CH-VS-3672 ; Col des Dents des Bouquetins ;3672;; 7.545607 ; 45.984905 
+ CH-VS-3685 ; Fiescherjoch ;3685;; 8.081335 ; 46.553032 
+ CH-VS-3690 ; Col Supérieur du Tour Noir ;3689;; 7.037736 ; 45.950666 
+ CH-VS-3694 ; Fletschjoch ;3685;; 8.004779 ; 46.16256 
+ CH-VS-3698 ; Mittelaletschlücke ;3698;; 7.997643 ; 46.458028 
+ CH-VS-3703 ; Wandfluehlücke ;3701;; 7.606508 ; 46.020822 
+ CH-VS-3720 ; Balfrinjoch ;3720;; 7.877461 ; 46.136336 
+ CH-VS-3723 ; Festijoch ;3723;; 7.848058 ; 46.101345 
+ CH-VS-3724 ; Schönbühljoch ;3724;; 8.09255 ; 46.496915 
+ CH-VS-3725 ; Fluchtpass ;3725;; 7.911694 ; 46.020478 
+ CH-VS-3731a ; Hohlichtpass ;3731;; 7.701703 ; 46.080911 
+ CH-VS-3731b ; Schwarztor ;3725;; 7.776831 ; 45.930036 
+ CH-VS-3734 ; Festi-Kin Lücke ;3734;; 7.842049 ; 46.093091 
+ CH-VS-3739 ; Klein Grünhornlücke ;3739;; 8.071562 ; 46.540214 
+ CH-VS-3750b ; Schalijoch ;3750;; 7.707834 ; 46.092051 
+ CH-VS-3759b ; Gabelhornsattel ;3759;; 8.086204 ; 46.50001 
+ CH-VS-3765 ; Chammjoch ;3765;; 8.079949 ; 46.502069 
+ CH-VS-3773 ; Alphubeljoch ;3773;; 7.87432 ; 46.05402 
+ CH-VS-3777 ; Col de Moming ;3777;; 7.69754 ; 46.075343 
+ CH-VS-3789 ; Adlerpass ;3789;; 7.887595 ; 46.018435 
+ CH-VS-3824 ; Breithornpass ;3813;; 7.73849 ; 45.929524 
+ CH-VS-3826 ; Feejoch ;3826;; 7.888213 ; 46.046589 
+ CH-VS-3827 ; Gabelhornjoch ;3827;; 7.675033 ; 46.041524 
+ CH-VS-3835 ; Ober Rothornjoch ;3835;; 7.68545 ; 46.059808 
+ CH-VS-3845 ; Zwillingsjoch ;3846;; 7.78878 ; 45.925672 
+ CH-VS-3847 ; Mischabeljoch ;3847;; 7.865821 ; 46.074113 
+ CH-VS-3850 ; Windjoch ;3850;; 7.873524 ; 46.116363 
+ CH-VS-3859 ; Selle ;3859;; 7.847278 ; 46.121561 
+ CH-VS-3913 ; Jägerjoch ;3911;; 7.877354 ; 45.950532 
+ CH-VS-3916 ; Dürrenjoch ;3912;; 7.850504 ; 46.116989 
+ CH-VS-3917 ; Hohbergjoch ;4141;; 7.856056 ; 46.112237 
+ CH-VS-3973 ; Fieschersattel ;3922;; 8.064834 ; 46.549148 
+ CH-VS-4001 ; Rimpfischsattel ;3990;; 7.880518 ; 46.021504 
+ CH-VS-4022 ; Selle ;4020;; 7.762531 ; 45.93812 
+ CH-VS-4055 ; Selletta ;4057;; 7.769496 ; 45.936417 
+ CH-VS-4058 ; Weisshornjoch ;4058;; 7.713381 ; 46.115426 
+ CH-VS-4076 ; Sella ;4075;; 7.752522 ; 45.939533 
+ CH-VS-4083 ; Col du Croissant ;4083;; 7.302936 ; 45.942953 
+ CH-VS-4087 ; Felikjoch ;4061;; 7.80168 ; 45.917527 
+ CH-VS-4088 ; Hugisattel ;4088;; 8.123443 ; 46.539733 
+ CH-VS-4121 ; Lenzjoch ;4119;; 7.867557 ; 46.10103 
+ CH-VS-4153 ; La Sella ;4152;; 7.853137 ; 45.920183 
+ CH-VS-4208 ; Nadeljoch ;4208;; 7.866718 ; 46.106224 
+ CH-VS-4218 ; Stecknadeljoch ;4218;; 7.861218 ; 46.11076 
+ CH-VS-4221 ; Col Félicité ;4221;; 7.654504 ; 45.975161 
+ CH-VS-4246 ; Colle del Lys ;4255;; 7.86042 ; 45.918491 
+ CH-VS-4281 ; Domjoch ;4281;; 7.859466 ; 46.08817 
+ CH-VS-4283 ; Piodejoch ;4283;; 7.864922 ; 45.917377 
+ CH-VS-4299 ; Colle Sesia ;4299;; 7.873984 ; 45.922461 
+ CH-VS-4359 ; Sattel ;4359;; 7.858951 ; 45.937136 
+ CH-VS-4417 ; Sella del Liskamm ;4419;; 7.830887 ; 45.92503 
+ CH-VS-4452 ; Colle Gnifetti ;4455;; 7.874443 ; 45.929952 
+ CH-VS-4452a ; Colle Zumstein ;4452;; 7.871138 ; 45.934247 
+ CH-VS-4515 ; Silbersattel ;4519;; 7.868457 ; 45.937576 
+ CH-ZG-0930 ; Sattel ;930;; 8.523152 ; 47.118677 
+ CH-ZG-0952 ; Chatzenbergegg ;952;; 8.539029 ; 47.103152 
+ CH-ZG-0972 ; Sätteli ;972;; 8.54068 ; 47.14368 
+ CH-ZG-0975 ; Sätteli ;975;; 8.538641 ; 47.141379 
+ CH-ZG-0978 ; Früebüel ;978;; 8.535958 ; 47.112744 
+ CH-ZG-1013 ; Tänndlichrütz ;1013;; 8.656515 ; 47.117872 
+ CH-ZG-1054 ; Chnollenweid Sätteli ;1054;; 8.605208 ; 47.153443 
+ CH-ZG-1070 ; Höllloch ;1070;; 8.614601 ; 47.153032 
+ CH-ZG-1077 ; Ratenpass ;1077;; 8.663561 ; 47.141879 
+ CH-ZG-1104 ; Mangelhöhe ;1103;; 8.626818 ; 47.152106 
+ CH-ZG-1162 ; Gottschalkenberg ;1162;; 8.647497 ; 47.152754 
+ CH-ZH-0473 ; Ob der Steig ;473;; 8.676038 ; 47.643575 
+ CH-ZH-0495 ; Cholplatz ;495;; 8.740303 ; 47.572281 
+ CH-ZH-0589 ; Waldegg ;589;; 8.462751 ; 47.368042 
+ CH-ZH-0595 ; Steig ;595;; 8.839538 ; 47.497625 
+ CH-ZH-0605 ; Gätterli ;605;; 8.420875 ; 47.520551 
+ CH-ZH-0608 ; Türli ;608;; 8.713132 ; 47.263073 
+ CH-ZH-0670 ; Leiloch ;670;; 8.522102 ; 47.258999 
+ CH-ZH-0675 ; Andresenboden ;675;; 8.604264 ; 47.236087 
+ CH-ZH-0683 ; Hirzelpass ;683;; 8.611122 ; 47.226599 
+ CH-ZH-0734 ; Höhe ;734;; 8.598135 ; 47.225084 
+ CH-ZH-0740 ; Ober Wolfbüel ;740;; 8.652712 ; 47.183861 
+ CH-ZH-0786 ; Buechenegg ;786;; 8.507388 ; 47.29626 
+ CH-ZH-0788 ; Felsenegg ;788;; 8.509643 ; 47.308482 
+ CH-ZH-0791 ; Albispass ;791;; 8.521454 ; 47.275935 
+ CH-ZH-0803 ; Schnabellücken ;803;; 8.535289 ; 47.260962 
+ CH-ZH-0819 ; Ebnet ;819;; 8.923714 ; 47.308771 
+ CH-ZH-0822a ; Chalchegg ;826;; 8.903418 ; 47.410683 
+ CH-ZH-0828b ; Guldener Höchi ;841;; 8.664518 ; 47.29942 
+ CH-ZH-0842 ; Krinnensberg ;842;; 8.909078 ; 47.415541 
+ CH-ZH-0846 ; Thürli ;846;; 8.845093 ; 47.346783 
+ CH-ZH-0962 ; Ghöch ;962;; 8.903395 ; 47.334192 
+ CH-ZH-0990 ; Schufelberger Egg ;990;; 8.887304 ; 47.306895 
+ CH-ZH-1037 ; Bärloch ;1037;; 8.960921 ; 47.332404 
+ CH-ZH-1094 ; Schwarzenboden ;1094;; 8.933131 ; 47.312535 
+ CH-ZH-1140 ; Strahleggertürli ;1140;; 8.978838 ; 47.334703 
+ CH-ZH-1200 ; Scheidegg ;1180;; 8.943788 ; 47.303464 
+ CH-ZH-1224 ; Vorderbrandegg ;1224;; 8.942471 ; 47.307871 
+ LI-1303 ; Sattel ;1303;; 9.532884 ; 47.07642 
+ LI-1433 ; Stärnaberg Kulm ;1433; Route ; 9.562334 ; 47.119214 
+ LI-1460 ; Geissloch ;1460; S2 ; 9.562841 ; 47.116047 
+ LI-1628 ; Sarojasattel ;1628; S3(O) ; 9.57364 ; 47.18298 
+ LI-1735 ; Weierböda ;1735; S1-2 ; 9.606484 ; 47.111137 
+ LI-1742 ; Bärgällasattel ;1741; R1 ; 9.551991 ; 47.142071 
+ LI-1771 ; Sassförkle ;1785; R1(S) ; 9.609772 ; 47.119407 
+ LI-1840 ; Mattaförkle ;1839; R1 (S) ; 9.622693 ; 47.132075 
+ LI-1848 ; Gafleisattel ;1855;; 9.552651 ; 47.151084 
+ LI-1849 ; Guschgfieljoch ;1861; S2-3(S) ; 9.623147 ; 47.140606 
+ LI-1857 ; Bremstallsattel ;1857; R1-2 S2-3  (S) ; 9.61552 ; 47.144062 
+ LI-1867 ; Mattajoch ;1867; R1 S2-3(S) ; 9.62547 ; 47.13192 
+ LI-1884 ; Wanghöhe ;1884; S ; 9.571204 ; 47.089392 
+ LI-1933 ; Sattel ;1933; S ; 9.567163 ; 47.095802 
+ LI-1956 ; Chüaloch ;1955; R1-2 S1-2 (O) ; 9.622594 ; 47.099584 
+ LI-1987 ; Fürstensteig ;1987; S ; 9.558635 ; 47.162959 
+ LI-2000 ; Sareiserjoch ;1991; R1-2 S1-2 (O) ; 9.625354 ; 47.095221 
+ LI-2029 ; Bettlerjöchle ;2028; S ; 9.632601 ; 47.124796 
+ LI-2045 ; Mazorahöhi ;2044; S ; 9.553362 ; 47.054953 
+ LI-2056 ; Tälihöhi ;2055; S1-2(S) ; 9.600353 ; 47.088235 
+ LI-2071 ; Rappensteinsattel ;2070; S ; 9.565399 ; 47.079916 
+ LI-2108 ; Bettlerjoch ;2108; R1-2(N) ; 9.61336 ; 47.07108 
+ LI-2245 ; Demmerahöhi ;2243;; 9.584116 ; 47.05916 
+ LI-2348 ; Ijesfürggli ;2347; S(N) ; 9.594777 ; 47.057736 

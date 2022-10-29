@@ -1,0 +1,831 @@
+ Code ; Nom complet ; Altitude ; Accès ; WGS84 Lon D ; WGS84 Lat D 
+ AR-A-0935 ; Abra El Motor ;935; R1 ; -65.185026 ; -24.56742 
+ AR-A-0955 ; Abra de Chalchanio ;955; R1 ; -65.175946 ; -24.496998 
+ AR-A-1145 ; Abra Las Garrapatas ;1145; HS ; -65.263704 ; -24.561753 
+ AR-A-1195 ; Abra de San Antonio ;1195; S ; -64.913339 ; -25.098505 
+ AR-A-1225 ; Abra de la Trampa ;1225; HS ; -65.242974 ; -24.488549 
+ AR-A-1385 ; Abra Santa Laura ;1385; RN 9 ; -65.307781 ; -24.499072 
+ AR-A-1515 ; Abra Despensilla ;1515; R ; -65.351975 ; -24.585425 
+ AR-A-1555 ; Abra de la Sierra ;1555; RN 9 ; -65.355689 ; -24.523746 
+ AR-A-1625 ; Abra de Lesser ;1625; R ; -65.475972 ; -24.624353 
+ AR-A-1955 ; Abra Baritú ;1955; HS ; -64.828701 ; -22.481863 
+ AR-A-2105 ; Abra del Cajoncito ;2105; HS ; -65.149446 ; -25.633005 
+ AR-A-2125 ; Abra del Talar ;2125; HS ; -65.279836 ; -25.802056 
+ AR-A-2135 ; Abra del Agua Tibia ;2135; HS ; -64.880095 ; -22.614958 
+ AR-A-2395 ; Abra de Sepultura ;2395; S ; -65.021449 ; -22.845702 
+ AR-A-2585 ; Abra de Astilleros ;2585; HS ; -64.939546 ; -22.796652 
+ AR-A-2645 ; Abra de Lampazar ;2645; HS ; -65.155134 ; -25.501596 
+ AR-A-2665 ; Abra Colorada ;2665; HS ; -65.636237 ; -25.973183 
+ AR-A-2695 ; Abra Real Quemado ;2695; S ; -64.901657 ; -22.879214 
+ AR-A-2865 ; Abra Arroyo Huemul ;2865; HS ; -65.633771 ; -25.880728 
+ AR-A-2865a ; Abra del Zorro ;2865; HS ; -65.750511 ; -25.095733 
+ AR-A-2905 ; Abra Sepultura ;2905; S ; -64.971429 ; -22.223166 
+ AR-A-3145 ; Abra Ciénaga Negra ;3145; HS ; -64.909835 ; -23.316318 
+ AR-A-3225 ; Abra Grande ;3225; HS ; -65.672967 ; -24.690063 
+ AR-A-3245 ; Abra de Los Guanacos ;3245; HS ; -65.867003 ; -25.24476 
+ AR-A-3255 ; Abra del Estanque ;3255; HS ; -66.203959 ; -25.783799 
+ AR-A-3315 ; Abra Honda ;3315; S ; -65.035291 ; -22.740748 
+ AR-A-3395 ; Abra Blanca ;3395; HS ; -65.973625 ; -25.385839 
+ AR-A-3405 ; Abra de Planchones ;3405; S ; -65.692798 ; -24.657589 
+ AR-A-3405a ; Abra de Planchones ;3405; S ; -65.697319 ; -24.655832 
+ AR-A-3445 ; Abra Helada Chorro ;3445; HS ; -65.706957 ; -26.245561 
+ AR-A-3515 ; Abra Pena Negra ;3515; S ; -64.863799 ; -22.285281 
+ AR-A-3545 ; Abra Yareta ;3545; S ; -65.52441 ; -24.449283 
+ AR-A-3575 ; Abra de Candado ;3575; HS ; -65.687872 ; -26.118498 
+ AR-A-3595 ; Abra Colca ;3595; HS ; -64.978474 ; -22.927236 
+ AR-A-3605 ; Abra Lagunita ;3605; HS ; -66.209303 ; -25.881267 
+ AR-A-3695 ; Abra de Achiras ;3695; S ; -65.197616 ; -22.810324 
+ AR-A-3705 ; Abra Azul ;3705; S ; -65.0935 ; -22.875592 
+ AR-A-3715 ; Abra Trancas ;3715; S ; -65.945571 ; -24.293601 
+ AR-A-3795 ; Abra de Minas ;3795; HS ; -66.307431 ; -23.662468 
+ AR-A-3825 ; Abra Grande ;3825; S ; -65.915216 ; -24.325901 
+ AR-A-3875 ; Paso Socompa ;3875; B-55 R1 ; -68.289669 ; -24.451433 
+ AR-A-3935 ; Abra Cóndor ;3935; RP 13 R1 ; -65.249933 ; -22.887738 
+ AR-A-3955 ; Abra Blanca ;3955; HS ; -65.809352 ; -24.220263 
+ AR-A-3965 ; Abra Patahuasi ;3965; R ; -65.122284 ; -22.279969 
+ AR-A-3975 ; Abra del Cerro Gordo ;3975; HS ; -66.568163 ; -25.581725 
+ AR-A-3975a ; Portezuelo del Pozo Bravo ;3975; HS ; -65.878199 ; -25.068685 
+ AR-A-4035 ; Abra de Senguel ;4035; R ; -66.745881 ; -24.770656 
+ AR-A-4035a ; Portezuelo de Salin Sur ;4035; S ; -68.170181 ; -24.385744 
+ AR-A-4045 ; Abra Itamuyo ;4045; HS ; -65.942001 ; -24.09735 
+ AR-A-4055 ; Abra Muñano ;4055; R ; -66.123491 ; -24.294174 
+ AR-A-4055a ; Abra Pelada ;4055; HS ; -66.113488 ; -26.12937 
+ AR-A-4075 ; Abra de Minas ;4075; HS ; -65.691941 ; -24.602375 
+ AR-A-4085 ; Paso Laguna Sico ;4085; S ; -67.271397 ; -23.875781 
+ AR-A-4095 ; Abra Blanca ;4095; RN 51 ; -66.125883 ; -24.315201 
+ AR-A-4115 ; Abra La Quesera ;4115; S ; -66.016824 ; -24.07059 
+ AR-A-4145 ; Abra de Piedras ;4145; S ; -64.991835 ; -22.981311 
+ AR-A-4155 ; Abra Piedra Blanca ;4155; HS ; -66.106762 ; -24.170555 
+ AR-A-4175 ; Abra de Ribera ;4175; HS ; -65.815982 ; -25.124668 
+ AR-A-4175a ; Abra de la Ovejería ;4175; HS ; -65.666461 ; -24.542427 
+ AR-A-4215 ; Abra Blanca ;4215; S ; -65.056395 ; -22.529326 
+ AR-A-4255 ; Abra de Jaimes ;4255; S ; -65.089852 ; -22.147433 
+ AR-A-4255a ; Abra de Molinito ;4255; HS ; -66.152209 ; -26.046958 
+ AR-A-4275 ; Abra Yavi Huaico ;4275; R ; -65.072989 ; -22.112709 
+ AR-A-4275a ; Portezuelo de Los Cardones ;4275; HS ; -66.170947 ; -26.065132 
+ AR-A-4295 ; Abra Tuc Tuca ;4295; R ; -65.199852 ; -22.382458 
+ AR-A-4355 ; Abra Aracar ;4355; HS ; -67.823743 ; -24.235889 
+ AR-A-4375 ; Abra de Rota ;4375; R1 ; -65.190188 ; -22.097111 
+ AR-A-4405 ; Abra del Escarmiento ;4405; HS ; -65.075818 ; -22.57114 
+ AR-A-4435 ; Abra Yareta ;4435; HS ; -66.081129 ; -24.138135 
+ AR-A-4435a ; Abra Campanario ;4435; HS ; -65.106492 ; -22.224573 
+ AR-A-4435b ; Abra de Quirusillal ;4435; R ; -65.066143 ; -23.050313 
+ AR-A-4455 ; Abra de Charco ;4455; HS ; -66.405871 ; -24.113853 
+ AR-A-4455a ; Abra de Zenta ;4455; R1 ; -65.049787 ; -23.170038 
+ AR-A-4475 ; Abra del Cerro Blanco ;4475; HS ; -66.53288 ; -25.482656 
+ AR-A-4485 ; Abra de la Cortadera ;4485; S ; -66.502361 ; -24.835218 
+ AR-A-4485a ; Abra de Chorrillos ;4485; R ; -66.480532 ; -24.221321 
+ AR-A-4485b ; Abra Colorada ;4485; R1 ; -65.036779 ; -23.235183 
+ AR-A-4485c ; Abra del Cóndor ;4485; R1 ; -65.284193 ; -22.397412 
+ AR-A-4485d ; Abra Limitayoc ;4485; HS ; -65.095432 ; -22.189439 
+ AR-A-4515 ; Paso de Azufre ;4515; S ; -68.464576 ; -25.13044 
+ AR-A-4535 ; Abra Lizoite ;4535; R1 ; -65.226273 ; -22.218486 
+ AR-A-4535a ; Alto Chorrillo ;4535; RN 51 ; -66.478714 ; -24.207134 
+ AR-A-4565 ; Portezuelo Tecar ;4565; HS ; -68.326945 ; -24.490259 
+ AR-A-4585 ; Abra de la Cruz ;4585; R1 ; -65.274262 ; -22.664346 
+ AR-A-4590 ; Abra Casillas ;4590; S ; -65.345329 ; -22.588478 
+ AR-A-4615 ; Abra de La Lagunita ;4615; HS ; -66.410969 ; -24.425824 
+ AR-A-4635 ; Abra Blanca ;4635; HS ; -65.207319 ; -22.347279 
+ AR-A-4655 ; Abra de Luyingo ;4655; HS ; -66.595154 ; -26.150329 
+ AR-A-4655a ; Abra de la Sepultura ;4655; HS ; -66.050828 ; -24.100621 
+ AR-A-4655b ; Abra Yuyuchayo ;4655; S ; -65.172811 ; -22.919939 
+ AR-A-4675 ; Abra de Barro Negro ;4675; HS ; -66.641925 ; -26.113072 
+ AR-A-4685 ; Abra del Diablo ;4685; HS ; -66.524085 ; -25.205352 
+ AR-A-4685a ; Abra de Callos ;4685; R1 ; -66.493359 ; -24.340836 
+ AR-A-4695 ; Abra de las Barrancas ;4695; HS ; -66.856905 ; -25.734898 
+ AR-A-4705 ; Abra de Lajas ;4705; R ; -65.253334 ; -22.335526 
+ AR-A-4755 ; Abra Durazno ;4755; S ; -65.196107 ; -22.955811 
+ AR-A-4795 ; Portezuelo Llullaillaco Norte ;4795; R ; -68.488933 ; -24.648928 
+ AR-A-4795a ; Abra del Abrigo ;4795; HS ; -66.575818 ; -26.209295 
+ AR-A-4815 ; Abra de Ambrosio ;4815; HS ; -66.567926 ; -26.244819 
+ AR-A-4835 ; Abra del Agua Caliente ;4835; HS ; -66.546494 ; -24.268459 
+ AR-A-4855 ; Abra de Chucha ;4855; HS ; -66.192939 ; -26.131198 
+ AR-A-4865 ; Portezuelo Sur de Llullaillaco ;4865; R ; -68.561076 ; -24.77674 
+ AR-A-4885 ; Abra Crugnios ;4885; HS ; -66.304289 ; -26.259319 
+ AR-A-4955 ; Abra del Acay ;4955; R1 ; -66.239194 ; -24.436775 
+ AR-A-4975 ; Abra de San Marcus ;4975; HS ; -66.638089 ; -24.326746 
+ AR-A-4985 ; Abra del Matadero ;4985; HS ; -65.688725 ; -24.440927 
+ AR-A-5075 ; Portezuelo de la Zorra Vieja ;5075; HS ; -68.489809 ; -24.638561 
+ AR-A-5075a ; Abra de las Pircas ;5075; HS ; -66.369239 ; -24.568081 
+ AR-A-5275 ; Abra de Incamayo ;5275; HS ; -66.385943 ; -24.653876 
+ AR-B-0555 ; Abra de la Ventana ;555; RP 76 ; -61.989666 ; -38.072611 
+ AR-F-1255 ; Portillo el Molle ;1255; RN 150 ; -67.628909 ; -30.232301 
+ AR-F-1545 ; Portezuelo Chilca ;1545; HS ; -67.270139 ; -28.585292 
+ AR-F-1665 ; Abra El Inca ;1665; HS ; -67.639474 ; -28.354239 
+ AR-F-1735 ; Portezuelo Las Trampas ;1735; HS ; -67.557965 ; -30.038619 
+ AR-F-1955 ; Abra El Portezuelo ;1955; HS ; -66.855976 ; -29.14149 
+ AR-F-2065 ; Portezuelo de Vega ;2065; HS ; -67.045621 ; -29.705836 
+ AR-F-2135 ; Abra Aguadita ;2135; RN 78 ; -67.592886 ; -28.751633 
+ AR-F-2375 ; Portezuelo de los Puestos ;2375; HS ; -67.276683 ; -28.959962 
+ AR-F-2395 ; Portezuelo del Burro ;2395; HS ; -67.102114 ; -29.426261 
+ AR-F-2695 ; Portezuelo Mal Paso ;2695; HS ; -67.259725 ; -28.992962 
+ AR-F-3405 ; Abra de La Punilla ;3405; S ; -67.988226 ; -28.121293 
+ AR-F-3445 ; Portezuelo Blanco ;3445; HS ; -67.826461 ; -28.424893 
+ AR-F-3645 ; Paso Los Sapitos ;3645; S ; -69.161934 ; -28.713232 
+ AR-F-3955 ; Portezuelo de la Piedra Parada ;3955; HS ; -68.110233 ; -28.204166 
+ AR-F-3975 ; Portezuelo de Los Potrerillos ;3975; HS ; -68.478289 ; -28.18723 
+ AR-F-3975a ; Portezuelo La Colorada ;3975; HS ; -68.642844 ; -28.343576 
+ AR-F-4015 ; Portezuelo del Leoncito ;4015; R ; -68.943666 ; -28.780495 
+ AR-F-4165 ; Paso Pircas Negras ;4165; R1 ; -69.299262 ; -28.069775 
+ AR-F-4235 ; Portezuelo Las Chapitas ;4235; HS ; -69.476704 ; -28.331089 
+ AR-F-4245 ; Paso del Peñasco de Diego ;4245; HS ; -69.284657 ; -28.057785 
+ AR-F-4285 ; Portezuelo del Quemadito ;4285; HS ; -68.657459 ; -28.216592 
+ AR-F-4375 ; Paso de  Peña Negra ;4375; HS ; -69.429076 ; -28.203164 
+ AR-F-4425 ; Paso del Deshecho de Peña Negra ;4425; HS ; -69.423307 ; -28.205415 
+ AR-F-4455 ; Abra Machaco ;4455; HS ; -68.440592 ; -28.02752 
+ AR-F-4555 ; Paso de Come Caballos ;4555; HS ; -69.372967 ; -28.181666 
+ AR-F-4555a ; Portezuelo del Peñón ;4555; HS ; -68.876995 ; -28.437574 
+ AR-F-4615 ; Paso de Quebrada Seca Sur ;4615; HS ; -69.217131 ; -27.968852 
+ AR-F-4675 ; Paso de Quebrada Seca Norte ;4675; HS ; -69.134111 ; -27.909121 
+ AR-F-4765 ; Paso de la Ollita ;4765; HS ; -69.492095 ; -28.258323 
+ AR-J-1005 ; Abra Blanco ;1005; HS ; -67.772156 ; -31.210309 
+ AR-J-1035 ; Portezuelo de La Rioja ;1035; HS ; -67.574771 ; -30.421602 
+ AR-J-1325 ; Abra El Tambolar ;1325; R ; -69.009944 ; -31.366978 
+ AR-J-1745 ; El Portezuelo ;1745; HS ; -71.788086 ; -47.008486 
+ AR-J-1895 ; Paso Manso ;1895; HS ; -68.585964 ; -29.955053 
+ AR-J-2495 ; Abra Lima ;2495; HS ; -67.897797 ; -31.176755 
+ AR-J-2575 ; Abra Las Chicas ;2575; HS ; -67.456578 ; -31.061021 
+ AR-J-2595 ; Paso Amarillo ;2595; HS ; -68.645005 ; -29.82918 
+ AR-J-2625 ; Abra del Colorado ;2625; RN 149 ; -69.087037 ; -30.627644 
+ AR-J-2745 ; Abra Los Loros ;2745; HS ; -67.863373 ; -31.277652 
+ AR-J-2865 ; Abra de Los Azules ;2865; HS ; -69.838493 ; -32.190414 
+ AR-J-3050 ; Portezuelo de Los Sombreros ;3050; HS ; -69.042126 ; -31.815402 
+ AR-J-3065 ; Abra Los Arroyos ;3065; HS ; -67.907973 ; -31.242938 
+ AR-J-3145 ; Portezuelo Los Chilenos ;3145; HS ; -69.66999 ; -32.040153 
+ AR-J-3205 ; Portezuelo Las Pirquitas ;3205; HS ; -69.073814 ; -30.948281 
+ AR-J-3215 ; Paso de la Laguna de la Overa II ;3215; S ; -70.406905 ; -31.166818 
+ AR-J-3225 ; Portezuelo Intermedio de la Laguna de la Overa III ;3225; HS ; -70.412609 ; -31.144796 
+ AR-J-3255 ; Paso de la Laguna de la Overa I ;3255; S ; -70.426096 ; -31.121798 
+ AR-J-3305 ; Paso Urrutia ;3305; R ; -70.386673 ; -31.444197 
+ AR-J-3325 ; Portezuelo de Los Relinchos ;3325; HS ; -69.98678 ; -31.725968 
+ AR-J-3365 ; Paso de la Llaretas ;3365; S ; -70.316602 ; -32.158682 
+ AR-J-3375 ; Portezuelo de Los Avestruces ;3375; HS ; -69.715173 ; -30.945902 
+ AR-J-3395 ; Paso del Soberado ;3395; S ; -70.476108 ; -31.115293 
+ AR-J-3475 ; Paso de los Teatinos ;3475; S ; -70.312911 ; -32.048047 
+ AR-J-3475a ; Portezuelo del Pachaco ;3475; S ; -69.118113 ; -31.711139 
+ AR-J-3505 ; Paso de Vacas Muertas ;3505; S ; -70.45998 ; -31.090818 
+ AR-J-3515 ; Paso de Valle Hermoso ;3515; HS ; -70.228676 ; -32.361697 
+ AR-J-3525 ; Paso de Palacios ;3525; HS ; -70.451783 ; -31.086796 
+ AR-J-3555 ; Portillo de Los Patos ;3555; R ; -70.208349 ; -30.773948 
+ AR-J-3565 ; Paso de Araya ;3565; HS ; -70.519567 ; -31.190812 
+ AR-J-3595 ; Paso de Pelambres ;3595; R ; -70.479187 ; -31.695314 
+ AR-J-3605 ; Paso de la Salina ;3605; S ; -70.299572 ; -31.046386 
+ AR-J-3615 ; Paso del Azufre Norte ;3615; S ; -70.538061 ; -31.295262 
+ AR-J-3615a ; Paso de Quebrada Fría ;3615; HS ; -70.347889 ; -32.08535 
+ AR-J-3615b ; Portezuelo de las Majadas ;3615; HS ; -70.520723 ; -31.179731 
+ AR-J-3615c ; Portezuelo La Cortadera ;3615; HS ; -69.019669 ; -29.812012 
+ AR-J-3625 ; Abra del Tonal ;3625; S ; -69.128481 ; -31.793834 
+ AR-J-3635 ; Paso de Calderón ;3635; S ; -70.52802 ; -31.269633 
+ AR-J-3645 ; Paso del Azufre Sur ;3645; S ; -70.543372 ; -31.304154 
+ AR-J-3665 ; Paso Golpe del Agua ;3665; HS ; -70.31628 ; -32.178919 
+ AR-J-3685 ; Paso del Gordito ;3685; S ; -70.296997 ; -31.001848 
+ AR-J-3685a ; Portezuelo de los Muchachos ;3685; HS ; -70.530045 ; -31.282513 
+ AR-J-3695 ; Paso de las Tres Quebradas ;3695; S ; -70.555236 ; -31.51556 
+ AR-J-3715 ; Paso de los Burros ;3715; HS ; -70.567253 ; -31.500295 
+ AR-J-3735 ; Paso del Portillo ;3735; HS ; -70.558164 ; -31.538622 
+ AR-J-3735a ; Portezuelo del Cobre ;3735; HS ; -70.256633 ; -32.103443 
+ AR-J-3755 ; Paso de los Azules ;3755; S ; -70.304794 ; -30.960485 
+ AR-J-3755a ; Abra del Medio ;3755; HS ; -69.903372 ; -32.394791 
+ AR-J-3775 ; Paso Origen del Arroyo Leones ;3775; HS ; -70.522604 ; -31.643928 
+ AR-J-3815 ; Paso del Verde ;3815; S ; -70.292131 ; -31.02243 
+ AR-J-3815a ; Portezuelo de Quebrada Grande ;3815; HS ; -70.367516 ; -32.055312 
+ AR-J-3815b ; Abra Negro ;3815; R1 ; -70.228945 ; -31.169403 
+ AR-J-3825 ; Portezuelo de la Quebrada Fría ;3825; HS ; -70.341604 ; -32.10837 
+ AR-J-3825a ; Portezuelo de las Pichireguas ;3825; R ; -70.029815 ; -31.899926 
+ AR-J-3835 ; Paso de la Casa de Piedra ;3835; HS ; -70.561233 ; -31.557959 
+ AR-J-3835a ; Paso de los Puiquenes ;3835; HS ; -70.549157 ; -31.445938 
+ AR-J-3835b ; Paso de Ortiz ;3835; HS ; -70.309276 ; -32.19635 
+ AR-J-3875 ; Paso del Rubio ;3875; S ; -70.163557 ; -32.457913 
+ AR-J-3885 ; Paso de Delgadito ;3885; S ; -70.306748 ; -30.891433 
+ AR-J-3905 ; Paso de los Leones ;3905; HS ; -70.54202 ; -31.620044 
+ AR-J-3905a ; Portezuelo del A. Negro ;3905; HS ; -70.113469 ; -31.212028 
+ AR-J-3925 ; Paso de Mondaca ;3925; HS ; -70.428352 ; -31.853916 
+ AR-J-3925a ; Paso del Cencerro ;3925; HS ; -70.243921 ; -31.991035 
+ AR-J-3945 ; Portezuelo de la Fortuna ;3945; HS ; -69.589061 ; -32.11289 
+ AR-J-3955 ; Paso de Puentecillas ;3955; HS ; -70.510939 ; -31.671348 
+ AR-J-3955a ; Paso de la Coipa ;3955; HS ; -70.364799 ; -31.103892 
+ AR-J-3955b ; Paso Origen del Arroyo Azules ;3955; HS ; -70.315418 ; -30.912284 
+ AR-J-3955c ; Portezuelo de Potrerillo ;3955; HS ; -69.772334 ; -31.03908 
+ AR-J-3965 ; Paso de la Laguna del Pelado ;3965; HS ; -70.248584 ; -32.006229 
+ AR-J-3975 ; Paso del Alitre ;3975; HS ; -70.367098 ; -31.881679 
+ AR-J-3975a ; Paso Bonito ;3975; S ; -70.408676 ; -31.867876 
+ AR-J-3985 ; Portezuelo de Lagunas ;3985; HS ; -70.383413 ; -32.048073 
+ AR-J-4015 ; Paso del Río Negro ;4015; S ; -70.53829 ; -31.394981 
+ AR-J-4035 ; Paso del Mercedario ;4035; HS ; -70.233146 ; -31.986571 
+ AR-J-4035a ; Portezuelo de La Guardia ;4035; R ; -70.196944 ; -31.896844 
+ AR-J-4045 ; Paso del Portillo ;4045; S ; -70.273608 ; -30.777384 
+ AR-J-4055 ; Portezuelo del Salto ;4055; HS ; -69.872837 ; -32.562755 
+ AR-J-4075 ; Paso de la Ojotas ;4075; HS ; -70.240172 ; -31.918896 
+ AR-J-4085 ; Portezuelo de La Punilla ;4085; HS ; -69.019869 ; -29.715075 
+ AR-J-4085a ; Portezuelo Pantano ;4085; HS ; -70.24008 ; -31.115054 
+ AR-J-4090 ; Portezuelo del Alitre ;4090; HS ; -70.358144 ; -31.88329 
+ AR-J-4105 ; Paso de Cerro Blanco ;4105; HS ; -70.454361 ; -31.816439 
+ AR-J-4105a ; Paso de Valle Hermoso ;4105; S ; -70.274836 ; -30.782144 
+ AR-J-4115 ; Paso de la Honda ;4115; S ; -70.314503 ; -32.247791 
+ AR-J-4155 ; Paso de Delgado ;4155; S ; -70.300381 ; -30.861953 
+ AR-J-4155a ; Portezuelo de La Totora ;4155; R1 ; -70.144044 ; -31.232813 
+ AR-J-4165 ; Portezuelo El Coquimbito ;4165; HS ; -69.63179 ; -30.633269 
+ AR-J-4215 ; Portezuelo del Pachón ;4215; R ; -70.468698 ; -31.750772 
+ AR-J-4215a ; Portezuelo del Castillo ;4215; R ; -70.220811 ; -30.588778 
+ AR-J-4215b ; Abra del Tigre ;4215; HS ; -69.548418 ; -32.141276 
+ AR-J-4225 ; Paso de la Coipita ;4225; S ; -70.208033 ; -30.571923 
+ AR-J-4255 ; Paso del Soberado ;4255; HS ; -69.897011 ; -29.157499 
+ AR-J-4255a ; Paso Oriental de la Quebrada Seca ;4255; S ; -70.076135 ; -30.381959 
+ AR-J-4255b ; Paso de la Lieva ;4255; HS ; -70.13134 ; -32.518087 
+ AR-J-4255c ; Portezuelo del Indio ;4255; HS ; -69.938729 ; -32.543925 
+ AR-J-4265 ; Paso de Doña Rosa ;4265; S ; -70.205089 ; -30.557518 
+ AR-J-4285 ; Paso de Guana ;4285; S ; -70.262889 ; -30.738185 
+ AR-J-4285a ; Paso de Miranda ;4285; S ; -70.24094 ; -30.66522 
+ AR-J-4285b ; Paso del Viento ;4285; HS ; -70.256857 ; -30.705319 
+ AR-J-4295 ; Portezuelo de Longomiche ;4295; HS ; -70.232532 ; -32.318655 
+ AR-J-4315 ; Paso de Valeriano ;4315; HS ; -69.853457 ; -29.133465 
+ AR-J-4315a ; Portezuelo Colorado ;4315; HS ; -69.381726 ; -29.744456 
+ AR-J-4325 ; Portezuelo Las Carachas ;4325; HS ; -69.538242 ; -28.804897 
+ AR-J-4325a ; Portezuelo Santa Rosa ;4325; HS ; -69.461967 ; -28.732837 
+ AR-J-4345 ; Portezuelo de Las Burras ;4345; HS ; -69.823976 ; -31.110049 
+ AR-J-4355 ; Portezuelo de la Quebrada Honda ;4355; HS ; -70.230018 ; -32.430927 
+ AR-J-4375 ; Portezuelo del Ventillo ;4375; HS ; -70.252938 ; -30.720035 
+ AR-J-4385 ; Abra de Los Despoblados ;4385; R1 ; -69.769583 ; -29.502943 
+ AR-J-4395 ; Portezuelo  Occidental de la Quebrada Seca ;4395; S ; -70.084124 ; -30.373999 
+ AR-J-4395a ; Paso de Ansilta ;4395; HS ; -69.956105 ; -31.587588 
+ AR-J-4405 ; Portillo de La Laguna ;4405; HS ; -69.974382 ; -32.269106 
+ AR-J-4415 ; Paso Cajón de La Brea ;4415; HS ; -69.368065 ; -28.630954 
+ AR-J-4425 ; Paso del Sancarrón ;4425; S ; -69.938767 ; -29.607779 
+ AR-J-4435 ; Paso de la Flecha ;4435; HS ; -69.714051 ; -28.820449 
+ AR-J-4435a ; Paso de la Gloria ;4435; HS ; -69.925151 ; -30.354004 
+ AR-J-4445 ; Paso del Espinacito ;4445; HS ; -69.993929 ; -32.148052 
+ AR-J-4445a ; Paso San Guillermito ;4445; HS ; -69.560772 ; -29.018693 
+ AR-J-4465 ; Paso de los Amarillos ;4465; HS ; -69.943747 ; -29.258133 
+ AR-J-4480 ; Paso del Guanaco Sonso ;4480; HS ; -69.968397 ; -29.419532 
+ AR-J-4495 ; Paso Origen del Arroyo del Guanaco Sonso ;4495; HS ; -69.972533 ; -29.439498 
+ AR-J-4495a ; Paso de los Bañitos ;4495; HS ; -69.893224 ; -29.695558 
+ AR-J-4495b ; Paso del Yunque ;4495; HS ; -70.29116 ; -31.883349 
+ AR-J-4505 ; Portezuelo de las Vacas ;4505; HS ; -69.829377 ; -32.564817 
+ AR-J-4515 ; Paso de Barahona ;4515; HS ; -70.185691 ; -30.505944 
+ AR-J-4535 ; Paso del Chivato ;4535; HS ; -69.974352 ; -29.409407 
+ AR-J-4545 ; Paso Origen del Río Potrerillo ;4545; HS ; -69.985145 ; -29.40168 
+ AR-J-4545a ; Paso de Potrerillo ;4545; HS ; -69.979843 ; -29.402974 
+ AR-J-4555 ; Portezuelo Rinconada del Yunque ;4555; HS ; -70.345278 ; -31.887565 
+ AR-J-4565 ; Portezuelo del Inca ;4565; HS ; -69.534879 ; -28.729581 
+ AR-J-4575 ; Paso Los Puentes ;4575; HS ; -69.527278 ; -29.776188 
+ AR-J-4595 ; Paso de Chollay ;4595; HS ; -69.950636 ; -29.212418 
+ AR-J-4595a ; Paso del Rincón de la Flecha I ;4595; HS ; -69.69719 ; -28.759763 
+ AR-J-4615 ; Paso del Volcán ;4615; HS ; -70.127943 ; -32.552887 
+ AR-J-4620 ; Paso del Rincón de la Flecha III ;4620; HS ; -69.715971 ; -28.744736 
+ AR-J-4635 ; Paso de La Fortuna ;4635; HS ; -69.888038 ; -31.710144 
+ AR-J-4645 ; Paso del Rincón de la Flecha II ;4645; HS ; -69.708915 ; -28.746951 
+ AR-J-4665 ; Paso de la Mina de Sal ;4665; HS ; -69.747195 ; -28.868216 
+ AR-J-4695 ; Paso de San Andrés ;4695; HS ; -70.035176 ; -30.391701 
+ AR-J-4715 ; Portezuelo de los Indios ;4715; HS ; -70.127043 ; -32.566083 
+ AR-J-4715a ; Portillo Araya ;4715; HS ; -70.120971 ; -31.367455 
+ AR-J-4725 ; Paso de la Deidad ;4725; HS ; -69.89406 ; -29.759727 
+ AR-J-4725a ; Paso Vallecito ;4725; HS ; -70.124908 ; -30.440718 
+ AR-J-4725b ; Portezuelo el Salto ;4725; HS ; -69.508234 ; -29.775165 
+ AR-J-4765 ; Paso Agua Negra ;4765; 41-CH R1 ; -69.825065 ; -30.192735 
+ AR-J-4780 ; Paso de Vacas Heladas ;4780; HS ; -69.87755 ; -29.861858 
+ AR-J-4785 ; Paso del Macho Muerto ;4785; HS ; -69.702939 ; -28.638304 
+ AR-J-4795 ; Portezuelo del Norte ;4795; HS ; -69.615882 ; -32.223599 
+ AR-J-4805 ; Paso del Inca ;4805; HS ; -69.724175 ; -28.667047 
+ AR-J-4815 ; Portezuelo del Norte ;4815; HS ; -70.095509 ; -32.598819 
+ AR-J-4825 ; Abra de La Quebrada Honda ;4825; HS ; -69.951097 ; -32.180964 
+ AR-J-4835 ; Paso de la Lagunita ;4835; R ; -69.925802 ; -30.00205 
+ AR-J-4855 ; Paso de las Tórtolas ;4855; HS ; -69.889951 ; -29.900817 
+ AR-J-4865 ; Portezuelo Ingaguas ;4865; HS ; -70.136847 ; -30.341405 
+ AR-J-4865a ; Portezuelo de Conconta ;4865; R1 ; -69.629676 ; -29.956843 
+ AR-J-4885 ; Portezuelo del Agua Negra ;4885; HS ; -69.820415 ; -30.18103 
+ AR-J-4915 ; Portezuelo de Olivares ;4915; HS ; -69.858092 ; -30.283985 
+ AR-J-4935 ; Portezuelo del Salado ;4935; HS ; -69.484495 ; -29.759324 
+ AR-J-4970 ; Portezuelo de los Penitentes ;4970; HS ; -70.05077 ; -32.609258 
+ AR-J-4975 ; Paso Pascua-Lama ;4975; R1 ; -70.012904 ; -29.318761 
+ AR-J-5185 ; Paso de la Ramada ;5185; HS ; -70.052782 ; -32.089597 
+ AR-J-5200 ; Portezuelo del Cuerno ;5200; HS ; -70.069015 ; -32.626117 
+ AR-J-5485 ; Portezuelo Blanco ;5485; HS ; -69.741389 ; -30.533632 
+ AR-K-1535 ; Portezuelo La Tranca ;1535; HS ; -66.776615 ; -27.609006 
+ AR-K-1935 ; Portezuelo Ovejeros ;1935; HS ; -67.291905 ; -28.16743 
+ AR-K-2145 ; Portezuelo de La Quebrada Seca ;2145; HS ; -67.293708 ; -28.198232 
+ AR-K-2225 ; Abra de Condor Huasi ;2225; HS ; -65.956356 ; -27.575 
+ AR-K-2525 ; Abra Agua del Medio ;2525; HS ; -67.274964 ; -28.130881 
+ AR-K-2565 ; Portezuelo de Buenaventura ;2565; HS ; -66.628461 ; -27.384567 
+ AR-K-2595 ; Portezuelo Colorado ;2595; HS ; -66.421125 ; -27.400826 
+ AR-K-2615 ; Portezuelo del Rodeo ;2615; HS ; -67.273029 ; -28.0783 
+ AR-K-2655 ; Portezuelo Blanco ;2655; HS ; -66.419529 ; -27.389747 
+ AR-K-2955 ; Portezuelo de La Mina ;2955; S ; -66.17106 ; -26.690514 
+ AR-K-3055 ; Portezuelo del Río Blanco ;3055; S ; -67.233602 ; -27.550079 
+ AR-K-3115 ; Portezuelo de La Ojota ;3115; HS ; -68.029281 ; -27.822834 
+ AR-K-3135 ; Abra de Santa María ;3135; HS ; -66.194695 ; -26.696068 
+ AR-K-3335 ; Portezuelo del Calvario ;3335; HS ; -67.810158 ; -28.350292 
+ AR-K-3375 ; Portezuelo de Piedra Joyango ;3375; HS ; -66.027796 ; -28.094397 
+ AR-K-3555 ; Abra del Guaicho ;3555; HS ; -67.84511 ; -28.30575 
+ AR-K-3735 ; Portezuelo del Guaicho ;3735; HS ; -67.836235 ; -28.316997 
+ AR-K-3925 ; Portezuelo de Quilmes ;3925; HS ; -66.165962 ; -26.498068 
+ AR-K-3945 ; Portezuelo Curuto ;3945; HS ; -67.373065 ; -26.735826 
+ AR-K-3975 ; Portezuelo de Pasto Ventura ;3975; RP 43 ; -67.225368 ; -26.66881 
+ AR-K-4055 ; Abra de Las Flechas ;4055; HS ; -67.950838 ; -27.8249 
+ AR-K-4095 ; Portezuelo del Abra ;4095; HS ; -67.893672 ; -28.06279 
+ AR-K-4105 ; Abra de Tomas ;4105; HS ; -66.133665 ; -26.39092 
+ AR-K-4175 ; Portezuelo de Robledo ;4175; S ; -67.732689 ; -26.778394 
+ AR-K-4235 ; Portezuelo de San Buenaventura ;4235; HS ; -67.88279 ; -26.784575 
+ AR-K-4265 ; Portezuelo Soroche ;4265; HS ; -67.462389 ; -27.076574 
+ AR-K-4305 ; Portezuelo del Tapado ;4305; HS ; -68.240189 ; -27.880906 
+ AR-K-4325 ; Portezuelo de Las Ánimas ;4325; HS ; -65.880475 ; -26.942722 
+ AR-K-4415 ; Portezuelo Vicuñorco ;4415; HS ; -67.000835 ; -26.229584 
+ AR-K-4595 ; Portezuelo de Valle Ancho Sur ;4595; HS ; -68.929257 ; -27.43379 
+ AR-K-4665 ; Portezuelo de Valle Ancho Norte ;4665; R ; -68.924303 ; -27.409246 
+ AR-K-4725 ; Portezuelo de los Patos ;4725; HS ; -68.860551 ; -27.233893 
+ AR-K-4725a ; Abra del Toro ;4725; HS ; -65.919861 ; -27.017118 
+ AR-K-4745 ; Paso de Aguas Calientes ;4745; S ; -68.54372 ; -25.532477 
+ AR-K-4755 ; Paso San Francisco ;4755; 31-CH ; -68.299149 ; -26.873676 
+ AR-K-4775 ; Portezuelo de Lagunillas ;4775; HS ; -69.057114 ; -27.666234 
+ AR-K-4785 ; Paso Agua de la Falda ;4785; S ; -68.53454 ; -25.588263 
+ AR-K-4795 ; Portezuelo de Arroyo Pampa ;4795; HS ; -69.030402 ; -27.594835 
+ AR-K-4795a ; Portezuelo León Muerto ;4795; HS ; -66.856239 ; -26.022798 
+ AR-K-4805 ; Portezuelo del Campo Colorado ;4805; HS ; -66.03866 ; -27.131894 
+ AR-K-4875 ; Paso de Tres Quebradas ;4875; HS ; -68.858631 ; -27.316869 
+ AR-K-4905 ; Portezuelo de Incahuasi ;4905; S ; -68.31465 ; -26.987277 
+ AR-K-4905a ; Portezuelo Vidal Gormaz ;4905; HS ; -69.07247 ; -27.709705 
+ AR-K-4910 ; Portezuelo de Río Bayo ;4910; HS ; -68.984996 ; -27.445328 
+ AR-K-5025 ; Paso de la Aguita ;5025; HS ; -68.852019 ; -27.272685 
+ AR-K-5105 ; Paso de las Lozas ;5105; HS ; -68.35308 ; -27.037405 
+ AR-K-5135 ; Abra de Atacamara ;5135; HS ; -66.846033 ; -25.964379 
+ AR-K-5545 ; Portezuelo Negro ;5545; HS ; -68.459326 ; -27.165074 
+ AR-M-1485 ; Portezuelo del Milico ;1485; RN 40 ; -69.8398 ; -36.681625 
+ AR-M-1765 ; Portezuelo de las Minas ;1765; S ; -69.631062 ; -36.847894 
+ AR-M-1795 ; Portezuelo del Quemado ;1795; HS ; -68.906311 ; -32.372769 
+ AR-M-1925 ; Portezuelo El Duende ;1925; HS ; -69.344504 ; -33.704002 
+ AR-M-2005 ; Portillo de Mulas ;2005; S ; -68.989605 ; -32.813537 
+ AR-M-2015 ; Portillo Casa de Piedra ;2015; RP 13 R1 ; -69.006061 ; -32.803695 
+ AR-M-2035 ; Portillo del Telegrafo ;2035; HS ; -68.994495 ; -32.788473 
+ AR-M-2065 ; Portillo de la Pozos ;2065; S ; -69.011809 ; -32.818582 
+ AR-M-2105 ; Portezuelo Amarillo ;2105; HS ; -69.385329 ; -33.63302 
+ AR-M-2145 ; Portezuelo de Palauco ;2145; R ; -69.496061 ; -35.884263 
+ AR-M-2185 ; Portezuelo de las Peñas ;2185; HS ; -69.409778 ; -33.522352 
+ AR-M-2215 ; Portezuelo de Loncoche ;2215; HS ; -69.672396 ; -35.708642 
+ AR-M-2245 ; Portezuelo de la Contra Yerba ;2245; HS ; -69.290423 ; -33.923979 
+ AR-M-2275 ; Portillo de la Cuestita ;2275; HS ; -69.077922 ; -32.896122 
+ AR-M-2285 ; Abra del Diablo ;2285; HS ; -69.365813 ; -33.661388 
+ AR-M-2365 ; Portezuelo Mayán ;2365; HS ; -70.018421 ; -36.211879 
+ AR-M-2385 ; Paso Buta - Có ;2385; HS ; -70.214119 ; -36.257088 
+ AR-M-2395 ; Portillo de la Falda ;2395; R ; -69.061541 ; -32.881413 
+ AR-M-2405 ; Portezuelo Colorado ;2405; HS ; -70.186372 ; -35.951529 
+ AR-M-2425 ; Portezuelo del Choique ;2425; R ; -69.8043 ; -36.374325 
+ AR-M-2425a ; Abra de La Quebrada del Camino ;2425; HS ; -69.283927 ; -34.114876 
+ AR-M-2465 ; Portezuelo Toscoso ;2465; R ; -70.178472 ; -35.553098 
+ AR-M-2485 ; Paso Laguna ;2485; R ; -70.473049 ; -35.314039 
+ AR-M-2485a ; Portezuelo Piedras Bayas ;2485; HS ; -70.205059 ; -35.975133 
+ AR-M-2505 ; Paso de Vergara ;2505; R1 ; -70.520144 ; -35.205408 
+ AR-M-2515 ; Portezuelo de los Cueros ;2515; HS ; -69.433249 ; -33.512646 
+ AR-M-2555 ; Paso Pehuenche ;2555; 115-CH ; -70.394053 ; -35.981765 
+ AR-M-2565 ; Paso del Desecho ;2565; HS ; -70.493412 ; -35.322014 
+ AR-M-2565a ; Paso Choroyales ;2565; S ; -69.975911 ; -36.171672 
+ AR-M-2605 ; Portezuelo de La Pampa ;2605; R ; -69.042935 ; -32.279614 
+ AR-M-2665 ; Portezuelo del Medio ;2665; HS ; -69.368021 ; -33.741399 
+ AR-M-2675 ; Paso del Yeso ;2675; HS ; -70.408698 ; -35.560093 
+ AR-M-2695 ; Paso Laguna Negra ;2695; HS ; -70.414951 ; -36.109743 
+ AR-M-2705 ; Paso del Campanario ;2705; HS ; -70.390765 ; -35.947631 
+ AR-M-2715 ; Paso de las Lagunas de Teno ;2715; S ; -70.53543 ; -35.199136 
+ AR-M-2715a ; Portillo Rincon Guamparito ;2715; S ; -69.069916 ; -32.830324 
+ AR-M-2720 ; Portezuelo Vega del Loro ;2720; R ; -69.65136 ; -34.728096 
+ AR-M-2725 ; Abra Meson de Afuera ;2725; HS ; -69.63413 ; -34.714961 
+ AR-M-2755 ; Paso de la Overas Norte ;2755; HS ; -70.341653 ; -35.83439 
+ AR-M-2755a ; Paso de San Francisco Sur ;2755; HS ; -70.385176 ; -35.69408 
+ AR-M-2795 ; Paso Ralhué ;2795; HS ; -70.141526 ; -36.227259 
+ AR-M-2805 ; Paso del Guanaco ;2805; HS ; -70.376406 ; -36.028568 
+ AR-M-2805a ; Paso de Mora ;2805; HS ; -70.409031 ; -35.535051 
+ AR-M-2815 ; Paso Cajón Chico ;2815; HS ; -70.369124 ; -35.725913 
+ AR-M-2840 ; Portezuelo Grande ;2840; HS ; -69.388861 ; -33.676752 
+ AR-M-2845 ; Paso de Debia ;2845; HS ; -70.438447 ; -35.412714 
+ AR-M-2845a ; Portezuelo Calquenque ;2845; R1 ; -70.049409 ; -35.517894 
+ AR-M-2885 ; Paso de las Overas Sur ;2885; HS ; -70.379621 ; -35.853333 
+ AR-M-2885a ; Portezuelo El Bayo ;2885; HS ; -69.381947 ; -33.683924 
+ AR-M-2915 ; Paso de Potrerillos ;2915; HS ; -70.436575 ; -35.326097 
+ AR-M-2915a ; Portezuelo Aguada del Toro ;2915; S ; -69.101508 ; -32.717315 
+ AR-M-2925 ; Paso de Villagra ;2925; S ; -70.482487 ; -35.203095 
+ AR-M-2935 ; Paso de Tiburcio ;2935; HS ; -70.375564 ; -35.162337 
+ AR-M-2955 ; Paso del Planchón ;2955; S ; -70.545664 ; -35.205587 
+ AR-M-2955a ; Paso de los Paramillos ;2955; RP 52 R1 ; -69.115789 ; -32.48586 
+ AR-M-2965 ; Paso del Montañecito ;2965; HS ; -70.38825 ; -35.505841 
+ AR-M-2965a ; Paso de San Francisco Norte ;2965; HS ; -70.410911 ; -35.645905 
+ AR-M-2975 ; Paso del Fierro ;2975; S ; -70.434409 ; -35.379057 
+ AR-M-2985 ; Paso del Cajón Grande ;2985; HS ; -70.410784 ; -35.921406 
+ AR-M-2985a ; Paso de las Peñas ;2985; HS ; -70.444959 ; -35.457886 
+ AR-M-2985b ; Paso del Montañes ;2985; HS ; -70.429373 ; -35.475061 
+ AR-M-2985c ; Abra de Los Blancos ;2985; HS ; -69.38227 ; -34.014561 
+ AR-M-3035 ; Paso Trolón ;3035; HS ; -70.364563 ; -35.79318 
+ AR-M-3045 ; Paso Pichi Trolón ;3045; HS ; -70.327077 ; -35.806201 
+ AR-M-3065 ; Paso de Santa Elena ;3065; HS ; -70.365032 ; -35.128028 
+ AR-M-3075 ; Paso de la Damas ;3075; R ; -70.289738 ; -34.884994 
+ AR-M-3095 ; Portezuelo del Mal Barco ;3095; HS ; -69.89073 ; -35.089232 
+ AR-M-3095a ; Portezuelo de Bonilla ;3095; R1 ; -69.183198 ; -32.654617 
+ AR-M-3115 ; Portezuelo Los Manantiales ;3115; HS ; -69.397613 ; -33.746118 
+ AR-M-3135 ; Portezuelo del Chifle ;3135; HS ; -69.361503 ; -33.975506 
+ AR-M-3165 ; Abra de La Piedra Blanca ;3165; HS ; -69.48412 ; -33.575609 
+ AR-M-3175 ; Paso de los Angeles ;3175; HS ; -70.42036 ; -35.632429 
+ AR-M-3375 ; Abra El Toscal ;3375; HS ; -69.670928 ; -34.004683 
+ AR-M-3425 ; Paso de Maipo ;3425; S ; -69.795275 ; -34.236747 
+ AR-M-3465 ; Abra Plomo ;3465; HS ; -69.756769 ; -34.237998 
+ AR-M-3495 ; Abra El Risco Plateado ;3495; HS ; -70.079801 ; -34.893923 
+ AR-M-3645 ; Portezuelo de la Lágrimas ;3645; HS ; -70.233475 ; -34.68674 
+ AR-M-3645a ; Abra de La Yesera ;3645; HS ; -69.637409 ; -34.031815 
+ AR-M-3675 ; Portillo Cortadera ;3675; HS ; -69.624782 ; -32.695874 
+ AR-M-3675a ; Portezuelo del Viento ;3675; HS ; -69.414144 ; -33.925565 
+ AR-M-3745 ; Portezuelo El Durazno ;3745; HS ; -69.773981 ; -34.083245 
+ AR-M-3765 ; Paso de la Cruz de Piedra ;3765; HS ; -69.937533 ; -34.27989 
+ AR-M-3775 ; Portezuelo Las Numeradas ;3775; HS ; -69.69201 ; -34.094802 
+ AR-M-3795 ; Paso de Alvarado Norte ;3795; S ; -69.862249 ; -34.120408 
+ AR-M-3795a ; Paso de Alvarado Sur ;3795; HS ; -69.865738 ; -34.141461 
+ AR-M-3815 ; Paso de Molina ;3815; HS ; -70.013041 ; -34.405569 
+ AR-M-3815a ; Paso de la Iglesia ;3815; S ; -70.07593 ; -32.823124 
+ AR-M-3830 ; Portezuelo al S.O. del Portezuelo de las Lágrimas ;3830; HS ; -70.244394 ; -34.692074 
+ AR-M-3835 ; Paso de Nieves Negras ;3835; HS ; -69.884333 ; -33.854977 
+ AR-M-3835a ; Portezuelo Oriental de Río Bayo ;3835; HS ; -69.842663 ; -34.256909 
+ AR-M-3835b ; Paso del Bermejo ;3835; R1 ; -70.071312 ; -32.824939 
+ AR-M-3845 ; Paso de Alvarado Centro ;3845; HS ; -69.870075 ; -34.136576 
+ AR-M-3875 ; Portezuelo de La Lágrima Viva ;3875; HS ; -69.608117 ; -32.593517 
+ AR-M-3895 ; Paso Sistema Cristo Redentor ;3895; HS - Tunnel 600m en-dessous ; -70.08265 ; -32.815035 
+ AR-M-3915 ; Abra Borbollón ;3915; HS ; -69.980454 ; -34.253362 
+ AR-M-3925 ; Paso de Río Bayo ;3925; HS ; -69.864936 ; -34.263894 
+ AR-M-3925a ; Portezuelo La Batea ;3925; HS ; -69.422743 ; -33.765763 
+ AR-M-3935 ; Abra del Viento ;3935; HS ; -69.516918 ; -34.062737 
+ AR-M-3975 ; Portezuelo de la Cruz de Piedra ;3975; HS ; -69.92565 ; -34.284307 
+ AR-M-3995 ; Portezuelo Pedernales ;3995; HS ; -69.486284 ; -33.90721 
+ AR-M-3995a ; Abra del Hielo ;3995; HS ; -69.809009 ; -33.053404 
+ AR-M-3995b ; Portezuelo de La Laguna ;3995; HS ; -69.522678 ; -34.324568 
+ AR-M-4015 ; Paso de las Leñas ;4015; HS ; -70.074968 ; -34.464323 
+ AR-M-4015a ; Portezuelo Occidental de Río Bayo ;4015; HS ; -69.874762 ; -34.266511 
+ AR-M-4025 ; Paso Portillo de Puiquenes ;4025; S ; -69.874779 ; -33.633325 
+ AR-M-4045 ; Portezuelo del Potrero Escondido ;4045; HS ; -70.123983 ; -32.762823 
+ AR-M-4075 ; Portezuelo de Colina ;4075; HS ; -69.880414 ; -33.915071 
+ AR-M-4075a ; Abra del Papal ;4075; HS ; -69.712459 ; -34.071817 
+ AR-M-4135 ; Portezuelo de Navarro ;4135; HS ; -70.03877 ; -32.871417 
+ AR-M-4325 ; Paso de los Contrabandistas ;4325; HS ; -70.147615 ; -32.654618 
+ AR-M-4345 ; Portezuelo Argentino ;4345; S ; -69.607483 ; -33.621995 
+ AR-M-4355 ; Portezuelo de Lomas Coloradas ;4355; HS ; -70.14587 ; -32.723534 
+ AR-M-4405 ; Portezuelo de los Contrabandistas ;4405; HS ; -70.148184 ; -32.658337 
+ AR-M-4465 ; Portezuelo del Rincón ;4465; HS ; -69.664536 ; -33.332122 
+ AR-M-4555 ; Portezuelo del Pico ;4555; HS ; -69.560529 ; -33.789258 
+ AR-M-4575 ; Portezuelo Santa Clara ;4575; HS ; -69.68876 ; -33.261712 
+ AR-M-4615 ; Portezuelo de Contrabandistas ;4615; HS ; -69.768919 ; -33.719709 
+ AR-M-4635 ; Portezuelo de las Cuevas ;4635; HS ; -70.162813 ; -32.598075 
+ AR-M-4705 ; Paso del Fraile ;4705; HS ; -69.680105 ; -33.342376 
+ AR-M-4705a ; Portezuelo Blanco ;4705; HS ; -69.426943 ; -32.956732 
+ AR-M-4715 ; Portezuelo del Tupungato ;4715; HS ; -69.791383 ; -33.307004 
+ AR-M-4815 ; Paso de Pircas ;4815; HS ; -70.03397 ; -33.25371 
+ AR-M-4815a ; Portezuelo Relinchos ;4815; HS ; -69.969481 ; -32.667946 
+ AR-M-4825 ; Portezuelo del Morado ;4825; S ; -70.008075 ; -33.316043 
+ AR-M-4835 ; Portillo Pan de Azucar ;4835; HS ; -70.102902 ; -32.618334 
+ AR-M-4875 ; Paso de las Tunas ;4875; HS ; -69.633323 ; -33.477102 
+ AR-M-4995 ; Portezuelo del Catedral ;4995; HS ; -70.088645 ; -32.634681 
+ AR-M-5115 ; Portezuelo Sargento Más ;5115; HS ; -70.015997 ; -32.690203 
+ AR-M-5365 ; Collado Ameghino ;5365; HS ; -69.987278 ; -32.634476 
+ AR-Q-0345 ; El Abra ;345; S ; -68.665539 ; -37.998247 
+ AR-Q-0465 ; Portezuelo Grande ;465; RP 51 R1 ; -68.69832 ; -38.458864 
+ AR-Q-0665 ; Paso Huahum ;665; RP48 CV R1 ; -71.672417 ; -40.100408 
+ AR-Q-0870 ; Paso de Piedra ;870; R ; -71.43075 ; -41.005073 
+ AR-Q-0895 ; Portezuelo al Norte del Lago Queni ;895; HS ; -71.70075 ; -40.116623 
+ AR-Q-1025 ; Portezuelo de Quintuco ;1025; R1 ; -70.367567 ; -38.152379 
+ AR-Q-1045 ; Portezuelo Grande ;1045; S ; -69.430025 ; -39.0083 
+ AR-Q-1075 ; Paso de Pirehueico ;1075; HS ; -71.671045 ; -40.00817 
+ AR-Q-1085 ; Paso del Carro Quebrado ;1085; HS ; -69.949792 ; -39.195259 
+ AR-Q-1115 ; Paso de Añahueraqui I ;1115; HS ; -71.451163 ; -39.435945 
+ AR-Q-1125 ; Paso de Reigolil ;1125; HS ; -71.415069 ; -39.119931 
+ AR-Q-1135 ; Paso de Rilul I ;1135; HS ; -71.396025 ; -39.327502 
+ AR-Q-1145 ; Paso de Huirinlil ;1145; HS ; -71.452059 ; -39.409335 
+ AR-Q-1145a ; Paso de Carirriñe ;1145; 201-CH ; -71.681458 ; -39.788921 
+ AR-Q-1155 ; Portezuelo de Lipinza ;1155; HS ; -71.67682 ; -39.860117 
+ AR-Q-1165 ; Portezuelo Chacay Melehué ;1165; RP 43 ; -70.368271 ; -37.291534 
+ AR-Q-1175 ; Paso de Pil-Pil ;1175; RN 40 ; -71.372478 ; -40.241956 
+ AR-Q-1195 ; Portezuelo Cacho Sur ;1195; HS ; -71.855493 ; -40.509178 
+ AR-Q-1205 ; Paso de Mamuil-Malal ;1205; 199-CH ; -71.46136 ; -39.582457 
+ AR-Q-1205a ; Paso de Rilul II ;1205; HS ; -71.395359 ; -39.342333 
+ AR-Q-1205b ; Paso Ranqueles ;1205; RP 7 R1 ; -69.756871 ; -37.595776 
+ AR-Q-1235 ; Portezuelo de Quillehue ;1235; HS ; -71.496892 ; -39.556474 
+ AR-Q-1255 ; Paso de Quetru ;1255; HS ; -71.694885 ; -39.624667 
+ AR-Q-1285 ; Paso de Tromen I ;1285; HS ; -71.480686 ; -39.494768 
+ AR-Q-1285a ; Paso Oconi ;1285; HS ; -71.680948 ; -39.814524 
+ AR-Q-1295 ; Paso de Tromen II ;1295; HS ; -71.48846 ; -39.495539 
+ AR-Q-1305 ; Paso Icalma ;1305; CV R1 ; -71.268008 ; -38.833619 
+ AR-Q-1305a ; Portezuelo de Puyehue ;1305; 215-CH ; -71.94458 ; -40.711568 
+ AR-Q-1315 ; Portezuelo de Lago Hermoso ;1315; S ; -71.656583 ; -40.353737 
+ AR-Q-1315a ; Portezuelo Lago Gris ;1315; HS ; -71.860181 ; -40.54544 
+ AR-Q-1315b ; Paso del Córdoba ;1315; RP 63 R1 ; -71.145127 ; -40.59233 
+ AR-Q-1325 ; Portezuelo de las Araucarias ;1325; HS ; -71.408827 ; -39.055941 
+ AR-Q-1355 ; Portezuelo de Constancia ;1355; HS ; -71.887406 ; -40.669059 
+ AR-Q-1365 ; Portezuelo Laguna Campana ;1365; HS ; -71.837446 ; -40.595111 
+ AR-Q-1365a ; Portezuelo de Cajón Negro ;1365; HS ; -71.691712 ; -40.400739 
+ AR-Q-1375 ; Paso de Añahueraqui II ;1375; HS ; -71.456902 ; -39.451595 
+ AR-Q-1385 ; Paso del Arco Norte ;1385; S ; -71.0854 ; -38.75935 
+ AR-Q-1395 ; Paso de Mallín de Icalma ;1395; S ; -71.243611 ; -38.80879 
+ AR-Q-1395a ; Paso de Nellocahui ;1395; HS ; -71.426325 ; -39.001854 
+ AR-Q-1395b ; Paso del Arco ;1395; R ; -71.076995 ; -38.766994 
+ AR-Q-1395c ; Portezuelo de Auquinco ;1395; S ; -71.547473 ; -39.880016 
+ AR-Q-1405 ; Portezuelo de Pantojo ;1405; HS ; -71.965401 ; -40.735931 
+ AR-Q-1415 ; Portezuelo de Carilafquen ;1415; HS ; -71.599197 ; -39.628803 
+ AR-Q-1415a ; Paso de Coloco ;1415; HS ; -71.381207 ; -39.212881 
+ AR-Q-1415b ; Portezuelo de Quelguenco ;1415; HS ; -71.645058 ; -39.970363 
+ AR-Q-1415c ; Portezuelo Crespo ;1415; HS ; -71.729858 ; -40.430652 
+ AR-Q-1425 ; Portezuelo Cacho Norte ;1425; HS ; -71.843617 ; -40.482108 
+ AR-Q-1435 ; Paso de Ipela ;1435; HS ; -71.819875 ; -40.162923 
+ AR-Q-1435a ; Portezuelo de Huncal ;1435; S ; -70.324177 ; -37.926967 
+ AR-Q-1455 ; Portezuelo sin Nombre ;1455; S ; -71.1248 ; -38.776872 
+ AR-Q-1465 ; Paso de Paimún ;1465; HS ; -71.576658 ; -39.632344 
+ AR-Q-1475 ; Paso de Llaima ;1475; HS ; -71.433062 ; -38.96914 
+ AR-Q-1475a ; Paso de Malalco ;1475; HS ; -71.386188 ; -39.245664 
+ AR-Q-1475b ; Portezuelo el Clavo ;1475; HS ; -71.672691 ; -40.318932 
+ AR-Q-1505 ; Paso del Mirador ;1505; HS ; -71.93259 ; -40.699586 
+ AR-Q-1545 ; Paso de Millaqueo I ;1545; HS ; -71.927383 ; -40.793873 
+ AR-Q-1585 ; Paso de Millaqueo II ;1585; HS ; -71.930127 ; -40.815415 
+ AR-Q-1615 ; Portezuelo de Arce ;1615; HS ; -70.774695 ; -39.495513 
+ AR-Q-1615a ; Paso Ranquilón ;1615; R1 ; -70.522542 ; -37.735311 
+ AR-Q-1675 ; Portezuelo Cajón Chico ;1675; RP 26 ; -70.976571 ; -37.912089 
+ AR-Q-1685 ; Portezuelo Crespo Poniente ;1685; HS ; -71.813007 ; -40.411705 
+ AR-Q-1705 ; Paso de Batea-Mahuida ;1705; S ; -71.168644 ; -38.801803 
+ AR-Q-1705a ; Paso de Rahue ;1705; HS ; -71.009031 ; -38.276137 
+ AR-Q-1745 ; Portezuelo de las Cabras ;1745; HS ; -70.980742 ; -38.761154 
+ AR-Q-1755 ; Paso de Lumabia B ;1755; R ; -71.03139 ; -36.702359 
+ AR-Q-1765 ; Paso Zaña-Zaña ;1765; HS ; -71.047662 ; -36.606229 
+ AR-Q-1775 ; Paso de Mallín Chileno ;1775; HS ; -70.887258 ; -38.707604 
+ AR-Q-1775a ; Portezuelo Los Tabanos ;1775; HS ; -71.196434 ; -37.345178 
+ AR-Q-1785 ; Paso de Atacalco ;1785; HS ; -71.138322 ; -37.219251 
+ AR-Q-1795 ; Paso de Lumabia C ;1795; S ; -71.039335 ; -36.704309 
+ AR-Q-1795a ; Paso los Moscos ;1795; HS ; -71.047121 ; -36.585959 
+ AR-Q-1805 ; Portezuelo El Fuerte ;1805; HS ; -71.160511 ; -37.242911 
+ AR-Q-1805a ; Paso de Buraleo ;1805; HS ; -71.125588 ; -36.971734 
+ AR-Q-1815 ; Paso de Coliqueo Sur ;1815; S ; -71.070338 ; -37.981955 
+ AR-Q-1825 ; Portezuelo de Guacalafquen ;1825; HS ; -71.136297 ; -36.929999 
+ AR-Q-1835 ; Paso Chureo ;1835; HS ; -71.155162 ; -36.825749 
+ AR-Q-1855 ; Paso de Coliqueo Norte ;1855; S ; -71.075657 ; -37.964741 
+ AR-Q-1875 ; Portezuelo sin Nombre ;1875; HS ; -71.013548 ; -38.111934 
+ AR-Q-1880 ; Paso Pino Hachado ;1880; 181-CH ; -70.897511 ; -38.66297 
+ AR-Q-1895 ; Portezuelo Los Rucos ;1895; S ; -71.18653 ; -37.269839 
+ AR-Q-1895a ; Paso Cajón Colorado ;1895; HS ; -71.043504 ; -36.541049 
+ AR-Q-1900 ; Portezuelo La Atravesada ;1900; RP13 R1 ; -70.662948 ; -38.89022 
+ AR-Q-1915 ; Paso de Buta Mallín ;1915; S ; -71.115317 ; -37.207288 
+ AR-Q-1925 ; Paso Leña Malal ;1925; HS ; -71.215378 ; -37.288642 
+ AR-Q-1925a ; Portezuelo sin Nombre ;1925; HS ; -71.05764 ; -38.020604 
+ AR-Q-1925b ; Portezuelo Sanquilco ;1925; HS ; -70.809429 ; -38.741205 
+ AR-Q-1945 ; Paso las Diucas ;1945; S ; -71.041559 ; -36.642375 
+ AR-Q-1945a ; Portezuelo de Las Lagunas ;1945; HS ; -70.962283 ; -38.363239 
+ AR-Q-1955 ; Paso de Pucón Mahuida ;1955; R ; -71.12131 ; -37.881793 
+ AR-Q-1975 ; Portezuelo de Romero ;1975; HS ; -70.945492 ; -38.322301 
+ AR-Q-1985 ; Paso Picunleo ;1985; HS ; -71.13702 ; -37.531186 
+ AR-Q-1985a ; Paso del Lonqueo ;1985; HS ; -70.721864 ; -39.274262 
+ AR-Q-1995 ; Paso las Maroposas ;1995; HS ; -71.028333 ; -36.66006 
+ AR-Q-2015 ; Paso de Copahue ;2015; Q-61 R1 ; -71.128033 ; -37.826026 
+ AR-Q-2035 ; Paso de Pino Solo ;2035; HS ; -70.834806 ; -38.569923 
+ AR-Q-2035a ; Paso Lagunas de Epulafquen ;2035; HS ; -71.127977 ; -36.787672 
+ AR-Q-2035b ; Abra de Cachil ;2035; HS ; -70.638942 ; -39.05667 
+ AR-Q-2045 ; Paso Desecho ;2045; S ; -71.118844 ; -37.468359 
+ AR-Q-2055 ; Paso Desecho de Mendoza ;2055; HS ; -70.854789 ; -38.619969 
+ AR-Q-2065 ; Paso de Pichachen ;2065; Q-45 CV R1 ; -71.124108 ; -37.453352 
+ AR-Q-2085 ; Paso de Copulhue ;2085; S ; -71.131829 ; -37.590971 
+ AR-Q-2095 ; Paso de Pehuenco ;2095; HS ; -70.946169 ; -38.459035 
+ AR-Q-2095a ; Portezuelo sin Nombre ;2095; HS ; -71.106343 ; -37.953703 
+ AR-Q-2095b ; Paso Catrinao ;2095; S ; -70.904505 ; -36.473958 
+ AR-Q-2095c ; Paso Palau Mahuida ;2095; HS ; -70.675341 ; -38.829234 
+ AR-Q-2095d ; Paso Aclenio ;2095; HS ; -70.956367 ; -38.446352 
+ AR-Q-2105 ; Paso Columpios 1 ;2105; HS ; -71.147096 ; -37.028293 
+ AR-Q-2105a ; Paso de Pincheira ;2105; HS ; -71.091334 ; -36.67833 
+ AR-Q-2105b ; Paso Loma del Medio ;2105; HS ; -70.833165 ; -38.607301 
+ AR-Q-2115 ; Paso de Palul ;2115; HS ; -70.997015 ; -38.169842 
+ AR-Q-2115a ; Paso del Saco ;2115; HS ; -70.85421 ; -36.415431 
+ AR-Q-2125 ; Portezuelo sin Nombre ;2125; HS ; -71.023171 ; -38.149536 
+ AR-Q-2135 ; Paso de Codihue ;2135; S ; -70.98326 ; -38.432003 
+ AR-Q-2135a ; Paso de Pajaritos ;2135; HS ; -71.086924 ; -36.934005 
+ AR-Q-2195 ; Paso del Dial ;2195; HS ; -70.888506 ; -36.414491 
+ AR-Q-2195a ; Paso Piuquenes ;2195; HS ; -70.953558 ; -36.501914 
+ AR-Q-2205 ; Paso de Collochué ;2205; HS ; -71.011754 ; -38.079845 
+ AR-Q-2205a ; Paso Cajón Negro ;2205; HS ; -71.011024 ; -36.668261 
+ AR-Q-2215 ; Portezuelo de las Palmillas ;2215; HS ; -71.129418 ; -37.069588 
+ AR-Q-2225 ; Paso de Pilunchaya ;2225; HS ; -71.175078 ; -37.613418 
+ AR-Q-2235 ; Portezuelo El Novel ;2235; HS ; -70.263758 ; -36.420532 
+ AR-Q-2250 ; Abra de Ñireco ;2250; HS ; -70.610756 ; -39.043504 
+ AR-Q-2265 ; Paso Mallín ;2265; HS ; -71.128378 ; -36.764971 
+ AR-Q-2325 ; Paso de Trapa-Trapa ;2325; HS ; -71.199468 ; -37.645149 
+ AR-Q-2355 ; Paso Valdés ;2355; HS ; -70.708397 ; -36.41844 
+ AR-Q-2395 ; Portillo Cruce del Viento ;2395; HS ; -70.511289 ; -36.956528 
+ AR-Q-2425 ; Paso del Macho ;2425; HS ; -70.763662 ; -36.4217 
+ AR-Q-2515 ; Paso Puerta Nieva ;2515; HS ; -70.685415 ; -36.256497 
+ AR-Q-2525 ; Paso Cajón Nuevo ;2525; HS ; -71.102324 ; -37.106536 
+ AR-Q-2555 ; Portezuelo del Tocuyo ;2555; HS ; -70.549125 ; -37.007826 
+ AR-Q-2585 ; Paso Barrancas ;2585; S ; -70.425167 ; -36.157566 
+ AR-Q-2585a ; Portezuelo de Sepúlveda ;2585; HS ; -70.481469 ; -36.174692 
+ AR-Q-2645 ; Paso El Portillo ;2645; S ; -70.604705 ; -36.199215 
+ AR-Q-2755 ; Paso Puerta Vieja ;2755; HS ; -70.689567 ; -36.281283 
+ AR-Q-2835 ; Portezuelo Laguna Fea ;2835; HS ; -70.571749 ; -36.170054 
+ AR-R-0845 ; Portezuelo de Apichig ;845; RN 1540 ; -71.005161 ; -41.903468 
+ AR-R-0945 ; Portezuelo de la Laguna del Seco Este ;945; HS ; -71.847038 ; -41.645674 
+ AR-R-1035 ; Paso de Pérez Rosales ;1035; Route ; -71.827726 ; -41.069252 
+ AR-R-1075 ; Portezuelo de Bastión ;1075; HS ; -71.837666 ; -41.43136 
+ AR-R-1185 ; Paso de las Minas ;1185; S ; -71.219907 ; -41.847207 
+ AR-R-1225 ; Paso Deseado ;1225; HS ; -71.763052 ; -41.103787 
+ AR-R-1275 ; Portezuelo Horqueta ;1275; HS ; -71.769537 ; -41.829413 
+ AR-R-1335 ; Paso de los Raulies ;1335; HS ; -71.835024 ; -41.048576 
+ AR-R-1365 ; Portezuelo Cimbra ;1365; HS ; -71.89997 ; -41.330477 
+ AR-R-1385 ; Paso de Buriloche ;1385; HS ; -71.856526 ; -41.220867 
+ AR-R-1385a ; Paso de Las Nubes ;1385; S ; -71.804602 ; -41.156906 
+ AR-R-1395 ; Portezuelo Motoco ;1395; HS ; -71.773886 ; -41.936613 
+ AR-R-1445 ; Portezuelo Laguna Cauquenes ;1445; HS ; -71.853275 ; -41.2449 
+ AR-T-3055 ; Abra del Infiernillo ;3055; RP 307 ; -65.775875 ; -26.740597 
+ AR-T-3315 ; Abra del Tafi ;3315; HS ; -65.627266 ; -26.82076 
+ AR-U-0665 ; Paso Esperanza ;665; HS ; -71.928355 ; -42.187702 
+ AR-U-0735 ; Paso Triana ;735; X-595 R1 ; -71.734185 ; -45.582455 
+ AR-U-0790 ; Paso Coihaique ;790; 243-CH CV R1 ; -71.555605 ; -45.522237 
+ AR-U-0875 ; Paso Arroyo Huemul ;875; HS ; -71.876427 ; -43.128567 
+ AR-U-0915 ; Paso Río Frías-Appeleg ;915; X-25 R1 ; -71.099258 ; -44.550932 
+ AR-U-1045 ; Paso Navarro ;1045; HS ; -72.144085 ; -42.710117 
+ AR-U-1105 ; Portezuelo Cerro Catedral ;1105; HS ; -71.871668 ; -44.953271 
+ AR-U-1175 ; Boquete Oyarzun ;1175; HS ; -72.076241 ; -42.566998 
+ AR-U-1175a ; Paso Alerce ;1175; HS ; -72.125989 ; -42.672737 
+ AR-U-1185 ; Paso de Menendez ;1185; HS ; -72.108034 ; -42.649548 
+ AR-U-1235 ; Portezuelo de Los Contrabandistas ;1235; HS ; -71.807985 ; -44.399759 
+ AR-U-1595 ; Abra Casanova ;1595; HS ; -71.763436 ; -43.837355 
+ AR-U-1625 ; Abra Norte ;1625; HS ; -71.631339 ; -43.703452 
+ AR-U-1665 ; Portezuelo Cumbre Negra ;1665; HS ; -71.263402 ; -44.805226 
+ AR-V-0105 ; Paso Alfa Cullen ;105; HS ; -68.606557 ; -52.770347 
+ AR-V-0115 ; Paso Laziar ;115; HS ; -64.533574 ; -54.738565 
+ AR-V-0185 ; Paso Molina ;185; HS ; -64.571678 ; -54.819881 
+ AR-V-0295 ; Paso Karen ;295; HS ; -65.557843 ; -54.905358 
+ AR-V-0385 ; Paso Brouchod ;385; HS ; -64.345725 ; -54.788091 
+ AR-V-0405 ; Paso Chato ;405; HS ; -64.123685 ; -54.792387 
+ AR-V-0405a ; Paso San Juan ;405; HS ; -64.341914 ; -54.794236 
+ AR-V-0415 ; Paso Foster ;415; HS ; -63.89337 ; -54.741372 
+ AR-V-0415a ; Paso Gallardo ;415; HS ; -64.34687 ; -54.781786 
+ AR-V-0430 ; Paso Garibaldi ;430; RN 3 ; -67.842222 ; -54.689823 
+ AR-V-0470 ; Paso Los Dos Gallos ;470; HS ; -64.070931 ; -54.763614 
+ AR-V-0485 ; Paso Los Ávila ;485; HS ; -64.088897 ; -54.783679 
+ AR-V-0505 ; Paso Sanabria ;505; HS ; -64.341041 ; -54.803777 
+ AR-V-0545 ; Paso Sepegazzini ;545; HS ; -64.517716 ; -54.820957 
+ AR-V-0575 ; Paso Tristén ;575; HS ; -67.972055 ; -54.679111 
+ AR-V-0625 ; Portezuelo de las 5 Lagunas ;625; S ; -68.356205 ; -54.653236 
+ AR-V-0655 ; Paso K-Jeiponohrrh ;655; HS ; -67.29297 ; -54.686032 
+ AR-V-0775 ; Paso Beban ;775; S ; -68.21815 ; -54.662336 
+ AR-V-0825 ; Paso de la Obeja ;825; S ; -68.437919 ; -54.773928 
+ AR-V-0985 ; Paso Olivia ;985; S ; -68.392582 ; -54.777214 
+ AR-V-1065 ; Paso Hyades ;1065; HS ; -68.467011 ; -54.783959 
+ AR-Y-0855 ; Abra del Guayacán ;855; HS ; -64.630449 ; -24.452322 
+ AR-Y-1375 ; Abra de los Barrosos ;1375; S ; -65.100485 ; -23.781518 
+ AR-Y-1425 ; Abra de los Morteros ;1425; RP 6 R1 ; -64.496341 ; -24.301586 
+ AR-Y-1765 ; Abra Colorada ;1765; HS ; -65.031397 ; -23.755257 
+ AR-Y-1875 ; Abra de Hacienda Ruana ;1875; RP 29 R1 ; -65.385882 ; -24.010943 
+ AR-Y-1875a ; Abra de Chaquimayo ;1875; HS ; -65.373131 ; -24.040628 
+ AR-Y-1935 ; Abra de La Quebrada Fría ;1935; HS ; -65.349935 ; -24.094396 
+ AR-Y-2035 ; Abra de Caña de Agua Dulce ;2035; HS ; -65.360293 ; -23.943109 
+ AR-Y-2095 ; Abra Colorada ;2095; HS ; -65.456081 ; -24.055236 
+ AR-Y-2175 ; Abra de Despensa ;2175; HS ; -65.304401 ; -23.87415 
+ AR-Y-2525 ; Abra de Caña ;2525; HS ; -65.339467 ; -23.866594 
+ AR-Y-2535 ; Abra Delgada ;2535; HS ; -65.476781 ; -23.972144 
+ AR-Y-2550 ; Abra de Lozano ;2550; HS ; -65.480041 ; -24.050296 
+ AR-Y-2655 ; Abra Grande ;2655; HS ; -64.865798 ; -23.483297 
+ AR-Y-2885 ; Abra del Huracatao ;2885; HS ; -65.483329 ; -24.39279 
+ AR-Y-2945 ; Abra Mayo ;2945; HS ; -65.306362 ; -23.77878 
+ AR-Y-2955 ; Abra de Leuquencho ;2955; S ; -65.29036 ; -23.763414 
+ AR-Y-3205 ; Abra Quesería ;3205; HS ; -65.515571 ; -24.298322 
+ AR-Y-3215 ; Abra Grande del Volcán ;3215; S ; -65.422971 ; -23.917349 
+ AR-Y-3255 ; Abra de Tiraxi ;3255; HS ; -65.408311 ; -23.863584 
+ AR-Y-3305 ; Abra de Queragua ;3305; R1 ; -65.303431 ; -23.109558 
+ AR-Y-3385 ; Abra de San Antonio ;3385; S ; -65.292418 ; -23.744806 
+ AR-Y-3385a ; Abra Honda del Volcán ;3385; S ; -65.41441 ; -23.876199 
+ AR-Y-3505 ; Abra Llumpaite ;3505; R1 ; -65.944073 ; -22.970904 
+ AR-Y-3565 ; Abra Delgada ;3565; HS ; -65.584548 ; -24.021657 
+ AR-Y-3585 ; Abra de Tionso ;3585; S ; -65.432268 ; -23.141242 
+ AR-Y-3625 ; Abra Chorro ;3625; HS ; -65.963266 ; -22.959933 
+ AR-Y-3635 ; Abra Toimate ;3635; HS ; -66.025429 ; -22.890715 
+ AR-Y-3645 ; Abra de Novillo ;3645; S ; -65.292876 ; -23.725 
+ AR-Y-3655 ; Abra de Huaira Huasi ;3655; R ; -65.548864 ; -23.119613 
+ AR-Y-3695 ; Abra de la Cruz ;3695; RP 21 R1 ; -65.891388 ; -22.746872 
+ AR-Y-3695a ; Abra Grande ;3695; HS ; -65.956946 ; -22.626306 
+ AR-Y-3715 ; Abra del Angosto ;3715; S ; -65.990349 ; -22.657369 
+ AR-Y-3715a ; Abra Sorco ;3715; HS ; -65.904973 ; -22.77643 
+ AR-Y-3745 ; Abra de Huajra ;3745; S ; -65.803782 ; -22.075177 
+ AR-Y-3755 ; Abra de Rodeo ;3755; HS ; -66.211867 ; -21.82242 
+ AR-Y-3765 ; Abra de la Cruz ;3765; R ; -66.032997 ; -22.703927 
+ AR-Y-3795 ; Abra de Médano ;3795; R ; -65.596361 ; -22.903052 
+ AR-Y-3805 ; Abra de Punta Corral ;3805; S ; -65.375857 ; -23.675598 
+ AR-Y-3805a ; Abra de Minas ;3805; R ; -65.815975 ; -22.315165 
+ AR-Y-3845 ; Abra Tuite ;3845; R ; -65.575802 ; -22.578048 
+ AR-Y-3855 ; Abra Colorada ;3855; HS ; -65.435463 ; -23.254683 
+ AR-Y-3855a ; Abra de Miyuyoc ;3855; S ; -65.319968 ; -22.880015 
+ AR-Y-3865 ; Abra de las Burras ;3865; S ; -66.248436 ; -23.331633 
+ AR-Y-3905 ; Abra Moreta ;3905; RP 7 R1 ; -65.867862 ; -22.532081 
+ AR-Y-3915 ; Abra de Torre ;3915; HS ; -66.135637 ; -23.119108 
+ AR-Y-3915a ; Abra de Huaca Corral ;3915; S ; -65.292996 ; -23.69719 
+ AR-Y-3935 ; Abra de Mal Paso ;3935; HS ; -65.690424 ; -22.960303 
+ AR-Y-3950 ; Abra de Cortadera ;3950; HS ; -65.344174 ; -22.85071 
+ AR-Y-3955 ; Abra del Corral Blanco ;3955; HS ; -65.417215 ; -22.90069 
+ AR-Y-3975 ; Abra de Laguna ;3975; R1 ; -66.358648 ; -22.479945 
+ AR-Y-3975a ; Abra Layadero ;3975; R ; -66.361946 ; -22.5751 
+ AR-Y-3985 ; Abra de Totora ;3985; R1 ; -65.714023 ; -23.765641 
+ AR-Y-3985a ; Abra Cobres ;3985; R ; -66.310343 ; -23.561043 
+ AR-Y-4035 ; Abra de la Cruz ;4035; HS ; -65.484382 ; -23.407065 
+ AR-Y-4055 ; Abra de Leandro ;4055; HS ; -65.448342 ; -22.920514 
+ AR-Y-4055a ; Abra Rosada ;4055; HS ; -65.390981 ; -23.804351 
+ AR-Y-4065 ; Abra de Mudana ;4065; HS ; -65.439369 ; -22.888702 
+ AR-Y-4065a ; Abra Yusca ;4065; HS ; -65.385985 ; -23.791347 
+ AR-Y-4075 ; Abra de Molinas ;4075; S ; -65.591405 ; -23.871287 
+ AR-Y-4075a ; Abra Corán ;4075; HS ; -66.121294 ; -22.862677 
+ AR-Y-4085 ; Abra de Volcán ;4085; HS ; -66.132142 ; -23.261505 
+ AR-Y-4085a ; Abra Cruz ;4085; S ; -65.249505 ; -22.929177 
+ AR-Y-4105 ; Abra Azul ;4105; S ; -65.220118 ; -23.115398 
+ AR-Y-4105a ; Abra de Coraya ;4105; HS ; -65.469147 ; -23.187228 
+ AR-Y-4115 ; Abra Sepultura ;4115; S ; -65.601602 ; -23.52396 
+ AR-Y-4125 ; Abra Macía ;4125; HS ; -65.58771 ; -22.564823 
+ AR-Y-4135 ; Abra Blanca ;4135; HS ; -66.547555 ; -23.618635 
+ AR-Y-4155 ; Abra del Altar ;4155; HS ; -65.44161 ; -22.85644 
+ AR-Y-4165 ; Abra Galán ;4165; R1 ; -66.439698 ; -22.684127 
+ AR-Y-4175 ; Abra Grande ;4175; HS ; -66.040267 ; -23.348815 
+ AR-Y-4175a ; Abra Cortadera ;4175; HS ; -65.425755 ; -22.78329 
+ AR-Y-4185 ; Abra de Calara ;4185; R ; -66.140122 ; -21.869326 
+ AR-Y-4185a ; Abra Macho Cruz ;4185; HS ; -66.153898 ; -22.761972 
+ AR-Y-4195 ; Abra Chañi ;4195; S ; -65.714126 ; -24.164276 
+ AR-Y-4195a ; Abra de Ananoca ;4195; HS ; -66.274793 ; -22.240525 
+ AR-Y-4195b ; Abra Mesquinantes ;4195; HS ; -66.702387 ; -23.943343 
+ AR-Y-4205 ; Abra Blanca ;4205; HS ; -66.043827 ; -23.268786 
+ AR-Y-4205a ; Abra Tambor ;4205; S ; -65.232489 ; -23.118995 
+ AR-Y-4215 ; Abra Rachaite ;4215; R ; -66.221455 ; -22.887619 
+ AR-Y-4215a ; Abra de Cajas ;4215; HS ; -65.256519 ; -22.228825 
+ AR-Y-4225 ; Abra de Chisca ;4225; R1 ; -65.19506 ; -23.182947 
+ AR-Y-4235 ; Abra Estancia Nueva ;4235; HS ; -65.373746 ; -23.767493 
+ AR-Y-4235a ; Abra Estancia Vieja ;4235; S ; -65.365314 ; -23.729665 
+ AR-Y-4245 ; Abra Grande ;4245; HS ; -65.906063 ; -22.640073 
+ AR-Y-4245a ; Abra Piscun ;4245; HS ; -66.596717 ; -23.579318 
+ AR-Y-4255 ; Abra Laguna ;4255; R1 ; -66.343599 ; -22.956224 
+ AR-Y-4255a ; Abra de Fundiciones ;4255; R1 ; -66.262116 ; -22.492907 
+ AR-Y-4265 ; Abra de Cofradilla ;4265; S ; -65.459502 ; -23.109501 
+ AR-Y-4285 ; Abra Vicuñayoc ;4285; HS ; -65.40809 ; -22.742296 
+ AR-Y-4305 ; Abra Mudana ;4305; S ; -65.215665 ; -23.327515 
+ AR-Y-4335 ; Abra San Pedro ;4335; R1 ; -66.278658 ; -22.514535 
+ AR-Y-4355 ; Abra Huancar ;4355; HS ; -66.59807 ; -23.737894 
+ AR-Y-4365 ; Abra Romi Cruz ;4365; R1 ; -65.205431 ; -22.110001 
+ AR-Y-4395 ; Abra Barro Blanco ;4395; HS ; -66.496263 ; -23.13865 
+ AR-Y-4415 ; Abra de Punta Corral ;4415; S ; -65.337281 ; -23.652381 
+ AR-Y-4415a ; Abra El Mojón ;4415; S ; -66.485379 ; -22.631792 
+ AR-Y-4415b ; Abra Rabón ;4415; HS ; -66.587224 ; -23.960249 
+ AR-Y-4425 ; Abra de Fundición ;4425; HS ; -65.465202 ; -23.407727 
+ AR-Y-4435 ; Abra Grande ;4435; RN 40 R1 ; -66.355396 ; -22.870085 
+ AR-Y-4445 ; Abra del Médano ;4445; HS ; -66.578245 ; -23.613305 
+ AR-Y-4455 ; Abra Blanca ;4455; HS ; -66.784897 ; -22.95877 
+ AR-Y-4465 ; Abra Ciénaga Grande ;4465; HS ; -66.257597 ; -23.539618 
+ AR-Y-4485 ; Abra de Pocoia ;4485; HS ; -65.564259 ; -23.502054 
+ AR-Y-4495 ; Abra Paca Huasi ;4495; HS ; -66.830639 ; -22.970199 
+ AR-Y-4505 ; Abra Aperito ;4505; HS ; -66.880056 ; -22.940347 
+ AR-Y-4525 ; Abra Blanca ;4525; S ; -65.605432 ; -24.097424 
+ AR-Y-4535 ; Abra de Apacheta ;4535; HS ; -66.685649 ; -22.490226 
+ AR-Y-4535a ; Abra de Corral Colorado ;4535; S ; -65.35017 ; -23.682845 
+ AR-Y-4575 ; Abra Blanca ;4575; HS ; -65.313374 ; -22.663229 
+ AR-Y-4585 ; Abra de Minas ;4585; HS ; -65.70122 ; -23.941536 
+ AR-Y-4585a ; Abra Blanca ;4585; HS ; -66.93119 ; -22.889262 
+ AR-Y-4585b ; Abra Médano ;4585; HS ; -66.380756 ; -22.917016 
+ AR-Y-4615 ; Abra de Remate ;4615; HS ; -65.27774 ; -23.550911 
+ AR-Y-4615a ; Abra Sepultura ;4615; HS ; -66.731235 ; -22.75545 
+ AR-Y-4625 ; Abra Maray ;4625; R ; -66.32182 ; -22.726396 
+ AR-Y-4625a ; Abra Sotra ;4625; HS ; -66.107375 ; -22.91592 
+ AR-Y-4625b ; Paso Brajma ;4625; R ; -67.147983 ; -22.756437 
+ AR-Y-4635 ; Abra de Laguna Blanca ;4635; S ; -65.215244 ; -22.98193 
+ AR-Y-4655 ; Abra Corral Viejo ;4655; HS ; -66.506931 ; -22.854234 
+ AR-Y-4655a ; Abra Mina Huasi ;4655; HS ; -66.596802 ; -22.682609 
+ AR-Y-4705 ; Abra Lajitas ;4705; HS ; -66.664102 ; -22.771202 
+ AR-Y-4715 ; Abra Granada ;4715; R ; -66.580393 ; -22.562394 
+ AR-Y-4725 ; Abra Laguna ;4725; HS ; -65.64511 ; -24.249481 
+ AR-Y-4735 ; Abra Cortadera ;4735; HS ; -65.584807 ; -24.224444 
+ AR-Y-4815 ; Abra Lari ;4815; HS ; -66.611499 ; -24.036728 
+ AR-Y-4825 ; Abra Bonanza ;4825; S ; -66.964378 ; -22.705539 
+ AR-Y-4825a ; Abra Colla ;4825; HS ; -66.965114 ; -22.727204 
+ AR-Y-4855 ; Abra Tejada ;4855; HS ; -66.958265 ; -22.793331 
+ AR-Y-4865 ; Abra Negra ;4865; HS ; -65.586054 ; -24.273565 
+ AR-Y-4925 ; Abra de Gallo ;4925; R ; -66.352953 ; -22.77703 
+ AR-Y-4975 ; Abra Taruna ;4975; HS ; -66.964214 ; -22.983112 
+ AR-Y-5005 ; Abra Toma ;5005; HS ; -66.647433 ; -22.856699 
+ AR-Y-5015 ; Abra Chajchurina ;5015; HS ; -66.581945 ; -22.891989 
+ AR-Y-5075 ; Abra Casa de Piedra ;5075; HS ; -66.75986 ; -22.453185 
+ AR-Y-5085 ; Abra Soltería ;5085; HS ; -66.617905 ; -22.559123 
+ AR-Y-5125 ; Abra Cajchimayo ;5125; HS ; -67.007073 ; -22.889638 
+ AR-Y-5255 ; Abra Tinte ;5255; HS ; -67.01928 ; -22.598257 
+ AR-Z-0445 ; Paso Ingeniero Ibáñez Pallavicini ;445; X-65 CV  R1 ; -71.726734 ; -46.27528 
+ AR-Z-0615 ; Portezuelo Dorotea ;615; 250-CH R1 ; -72.348057 ; -51.586179 
+ AR-Z-0645 ; Paso Roballos ;645; X-83 CV R1 ; -71.853772 ; -47.157633 
+ AR-Z-0690 ; Portezuelo de la Divisoria ;690; R ; -72.815869 ; -48.960074 
+ AR-Z-0715 ; Paso Baguales N° 1 ;715; S ; -72.781015 ; -50.630486 
+ AR-Z-0735 ; Portezuelo Lago Brown ;735; HS ; -72.26876 ; -47.416643 
+ AR-Z-0765 ; Abra Sumich ;765; RN 40 ; -70.687536 ; -46.974692 
+ AR-Z-0815 ; Portezuelo Arroyo San Lorenzo ;815; R ; -72.317031 ; -47.481052 
+ AR-Z-0835 ; Portezuelo del Tambo ;835; S ; -72.988209 ; -48.991242 
+ AR-Z-0875 ; Portezuelo Ríos Tranquilo y Oro ;875; S ; -72.342717 ; -47.458095 
+ AR-Z-0905 ; Portezuelo Río Bravo Lago Mogote ;905; HS ; -72.473416 ; -47.845317 
+ AR-Z-0995 ; Paso Banderas ;995; HS ; -72.651129 ; -50.594274 
+ AR-Z-1015 ; Paso Huemul ;1015; S ; -73.014683 ; -49.486223 
+ AR-Z-1135 ; Paso del Fraile ;1135; HS ; -72.629096 ; -50.546801 
+ AR-Z-1165 ; Portezuelo Baguales II ;1165; HS ; -72.591952 ; -50.681649 
+ AR-Z-1200 ; Portezuelo Ancho ;1200; HS ; -72.080132 ; -44.062105 
+ AR-Z-1245 ; Paso Altamirano ;1245; HS ; -72.798757 ; -49.005054 
+ AR-Z-1265 ; Paso Baguales Cuarto ;1265; HS ; -72.37482 ; -50.622542 
+ AR-Z-1285 ; Paso Baguales Occidental ;1285; HS ; -72.526013 ; -50.61871 
+ AR-Z-1345 ; Paso Altas Cumbres ;1345; HS ; -72.394633 ; -50.631261 
+ AR-Z-1345a ; Paso Baguales III ;1345; HS ; -72.473493 ; -50.605792 
+ AR-Z-1355 ; Portezuelo de la Sombra ;1355; HS ; -73.032939 ; -50.614913 
+ AR-Z-1355a ; Paso de la Agochonas ;1355; S ; -72.983708 ; -49.354024 
+ AR-Z-1385 ; Paso Cañadón de los Toros ;1385; HS ; -73.010425 ; -49.039254 
+ AR-Z-1395 ; Portezuelo Baguales ;1395; HS ; -72.581413 ; -50.663735 
+ AR-Z-1405 ; Paso del Viento ;1405; S ; -73.115585 ; -49.395815 
+ AR-Z-1435 ; Paso Verlika ;1435; HS ; -72.327959 ; -50.651032 
+ AR-Z-1725 ; Paso del Cuadrado ;1725; S ; -73.03804 ; -49.248344 
+ AR-Z-2575 ; Paso Brecha de los Italianos ;2575; HS ; -73.040009 ; -49.276935 

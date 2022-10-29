@@ -1,0 +1,212 @@
+ Code ; Nom complet ; Altitude ; Accès ; WGS84 Lon D ; WGS84 Lat D 
+ PT-01-0266 ; Portela de Cácemes ;266; CV ; -8.359933 ; 40.346649 
+ PT-01-0429 ; Portelinha ;429; R ; -8.301862 ; 40.932596 
+ PT-01-0615 ; Portela da Felgueira ;615; R ; -8.28162 ; 40.53418 
+ PT-01-0912 ; Portal do Inferno ;912; R ; -8.10937 ; 40.87316 
+ PT-01-1016 ; Portela da Anta ;1016; S ; -8.254239 ; 40.858735 
+ PT-02-0146 ; Portela de Soares ;146; S ; -8.45379 ; 37.477346 
+ PT-02-0148 ; Portela do Moinho ;148; R1 ; -8.21562 ; 37.44708 
+ PT-02-0164 ; Portela da Zambreira ;164; N265 ; -7.593 ; 37.63413 
+ PT-02-0165 ; Portela do Moinho ;165; R1 ; -8.292548 ; 37.508622 
+ PT-02-0167 ; Portela do Moinho ;167; R1 ; -8.377453 ; 37.551979 
+ PT-02-0176 ; Portela do Mato ;176; S ; -8.445369 ; 37.494879 
+ PT-02-0205 ; Portela da Choça ;205; R ; -8.506352 ; 37.399518 
+ PT-02-0208 ; Portela da Cruz ;208; lc1 ; -8.282586 ; 37.514856 
+ PT-02-0236 ; Portela do Mestre ;236; R ; -8.259575 ; 37.418944 
+ PT-02-0256 ; Portela Baixa ;256; S ; -8.407313 ; 37.611334 
+ PT-02-0287 ; Portela Baixa ;287; N383 ; -8.241394 ; 37.492626 
+ PT-02-0296 ; Portela dos Caibros ;296; En266/N266 ; -8.48247 ; 37.38336 
+ PT-02-0300 ; Portela da Formiga ;300; S ; -8.034343 ; 37.490355 
+ PT-02-0344 ; Portela da Cabana ;344; S ; -8.627171 ; 37.392528 
+ PT-02-0353 ; Portela Má ;353; S ; -8.390499 ; 37.604873 
+ PT-03-0205 ; Portela de Agudelo ;205; R ; -8.643444 ; 41.654489 
+ PT-03-0545 ; Portela do Monte ;545; R1 ; -8.089768 ; 41.707178 
+ PT-03-0575 ; Portela da Asnela ;575; R ; -7.93217 ; 41.53605 
+ PT-03-0720 ; Portela das Areias ;720; R ; -8.04171 ; 41.52637 
+ PT-03-0757 ; Portela do Home ;755; Or-312 ; -8.131565 ; 41.809117 
+ PT-03-0815 ; Portela ;815; R ; -8.23807 ; 41.70744 
+ PT-03-0855 ; Portela de Leonte ;855; N308-1 ; -8.14679 ; 41.7671 
+ PT-03-0862 ; Portela ;862; CL ; -8.06553 ; 41.65568 
+ PT-03-0965 ; Portela de São Bento ;965; S ; -7.992835 ; 41.624975 
+ PT-03-1075 ; Portela Velha ;1075; S ; -7.967119 ; 41.603026 
+ PT-03-1335 ; Portela do Sobreiro ;1335; HS ; -8.057966 ; 41.816022 
+ PT-03-1352 ; Portela da Amoreira ;1352; HS ; -8.061964 ; 41.816019 
+ PT-04-0452 ; Portela do Ferronho ;452; S ; -6.884072 ; 41.131989 
+ PT-04-0561 ; Portelas ;561; S ; -6.949371 ; 41.086812 
+ PT-04-0562 ; Portela das Eiras ;562; HS ; -6.76364 ; 41.45768 
+ PT-04-0563 ; Portela ;563; Cm1148-1 ; -7.15998 ; 41.28475 
+ PT-04-0585 ; Portela ;585; R ; -6.82522 ; 41.53299 
+ PT-04-0592 ; Portela de Saradelo ;592; S ; -6.75933 ; 41.26342 
+ PT-04-0595 ; Portela da Chaiça ;595; R ; -6.868666 ; 41.448437 
+ PT-04-0605 ; Portela de Malara ;605; R ; -6.699487 ; 41.824784 
+ PT-04-0609 ; Portela ;609; R1 ; -6.890855 ; 41.225364 
+ PT-04-0650 ; Portela ;650; R ; -7.083554 ; 41.864514 
+ PT-04-0668 ; Portela do Bacelo ;668; R ; -6.65798 ; 41.43969 
+ PT-04-0675 ; Portela ;675; R ; -6.837224 ; 41.576484 
+ PT-04-0678 ; Colado ;678; N103/R1 ; -6.937013 ; 41.838403 
+ PT-04-0701 ; Portela da Rainha ;701; S ; -6.78222 ; 41.21351 
+ PT-04-0705 ; Portela ;705; R ; -6.7751 ; 41.38026 
+ PT-04-0725 ; Portela da Espadana ;725; S ; -6.511126 ; 41.660899 
+ PT-04-0727 ; Portelas ;727; R ; -6.55861 ; 41.79156 
+ PT-04-0738 ; Portela da Açoreira ;738; S ; -7.02982 ; 41.14757 
+ PT-04-0753 ; Portela da Carvalha ;753; HS ; -6.845978 ; 41.619382 
+ PT-04-0756 ; Portela ;756; S ; -6.78959 ; 41.73629 
+ PT-04-0804 ; Portelo do Nuzedo ;804; R ; -7.044107 ; 41.738123 
+ PT-04-0811 ; Portela ;811; R ; -7.168813 ; 41.82652 
+ PT-04-0815 ; Portelo Formoso ;815; S ; -7.054935 ; 41.745084 
+ PT-04-0816 ; Portela do Anastácio ;816; S ; -7.03919 ; 41.16242 
+ PT-04-0818 ; Portela ;818; N613 ; -6.99515 ; 41.17071 
+ PT-04-0825 ; Portela ;825; R ; -6.827474 ; 41.710385 
+ PT-04-0828 ; Portela dos Pegeiros ;828; S ; -7.087035 ; 41.93026 
+ PT-04-0853 ; Portela da Serra ;853; S ; -6.68078 ; 41.31229 
+ PT-04-0865 ; Portela da Abelheira ;865; R ; -7.064054 ; 41.82254 
+ PT-04-0896 ; El Portillo ;896; R ; -6.448124 ; 41.683943 
+ PT-04-0927 ; Portela ;927; S ; -6.796514 ; 41.883489 
+ PT-04-0955 ; Portela de Lama Cerdeira ;955; S ; -6.910704 ; 41.747831 
+ PT-04-1135 ; Portela do Cerro da Esculqueira ;1135; R1 ; -7.087606 ; 41.973583 
+ PT-05-0182 ; Portela do Freixo ;182; S ; -8.233491 ; 39.708668 
+ PT-05-0246 ; Portela do Fojo ;246; HS ; -8.14251 ; 39.786992 
+ PT-05-0257 ; Portela de Oliveira ;257; N238/R1 ; -8.225353 ; 39.783422 
+ PT-05-0389 ; Portela da Milhariça ;389; lp2 ; -7.71612 ; 39.688904 
+ PT-05-0489 ; Portela do Telhadouro ;489; S ; -7.81352 ; 39.989616 
+ PT-05-0518 ; Portela do Moreira ;518; S ; -7.785709 ; 40.060376 
+ PT-05-0549 ; Portela ;549; S1 100m R1 ; -7.623747 ; 40.187541 
+ PT-05-0585 ; Portela do Sinal ;585; Em529-1 ; -8.00045 ; 39.81867 
+ PT-05-0636 ; Selada dos Burreiros ;636; N238 ; -7.760081 ; 39.966417 
+ PT-05-0645 ; Portela dos Lobos ;645; R ; -6.981608 ; 40.035789 
+ PT-05-0696 ; Portela do Armadoura ;696; N343/En344 ; -7.860422 ; 40.058682 
+ PT-05-0717 ; Portela da Casa Branca ;717; N230 ; -7.6719 ; 40.23288 
+ PT-05-0759 ; Portelo ;759; R1 ; -7.761727 ; 39.940925 
+ PT-05-0767 ; Selada da Recusa ;767; N238 ; -7.773331 ; 39.952091 
+ PT-05-0785 ; Portela do Vale Castanho ;785; R ; -7.82127 ; 39.94335 
+ PT-05-0855 ; Portela ;855; S ; -7.484006 ; 40.315992 
+ PT-05-0885 ; Portela de São Jorge da Beira ;885; R1 ; -7.796492 ; 40.161633 
+ PT-05-0934 ; Portela do Carvalho ;934; Em511 ; -7.74143 ; 40.23566 
+ PT-06-0095 ; Portela de Santa Cristina ;95; CL ; -8.380253 ; 40.149935 
+ PT-06-0115 ; Portela de Torres ;115; R1 ; -8.278863 ; 40.152478 
+ PT-06-0236 ; Portelada ;236; R ; -8.37599 ; 40.33354 
+ PT-06-0243 ; Portela da Urgueira ;243; Em522 ; -8.116539 ; 40.256958 
+ PT-06-0284 ; Portela do Coimbrão ;284; R ; -8.348931 ; 40.196066 
+ PT-06-0405 ; Portela de Albargaria ;405; En342/R1 ; -8.158139 ; 40.138199 
+ PT-06-0415 ; Portela de Góis ;415; En342/En2 ; -8.135722 ; 40.14445 
+ PT-06-0433 ; Portela da Armada ;433; R ; -8.34341 ; 40.34869 
+ PT-06-0629 ; Selada do Mucilhão ;629; Estrada Em542 ; -8.033603 ; 40.17316 
+ PT-06-0648 ; Portela da Ferraria ;648; R ; -8.324585 ; 39.975905 
+ PT-06-0655 ; Portela do Papão ;655; S ; -7.93697 ; 40.08165 
+ PT-06-0684 ; Selada da Boiça ;684; R ; -8.143792 ; 40.029671 
+ PT-06-0689 ; Selada Porta ;689; CL ; -7.789731 ; 40.107376 
+ PT-06-0698 ; Selada das Raposas ;698; S ; -8.117067 ; 40.04837 
+ PT-06-0705 ; Portela do Ribeiro ;705; En344 ; -7.8897 ; 40.09806 
+ PT-06-0714 ; Selada do Candam ;714; R ; -7.911352 ; 40.247719 
+ PT-06-0799 ; Selada das Eiras ;799; Estrada Em544 ; -7.975395 ; 40.185344 
+ PT-06-0816 ; Portela de Unhais ;816; En343/Cm1374/C.L. ; -7.800762 ; 40.124022 
+ PT-06-0857 ; Colada do Gestal ;857; Em343 ; -7.926802 ; 40.123031 
+ PT-06-0862 ; Selada da Mata ;862; S ; -7.852836 ; 40.077197 
+ PT-06-0881 ; Selada da Cova ;881; Estrada Em343 ; -7.938374 ; 40.122842 
+ PT-06-0888 ; Colada de Belide ;888; Em343/R1 ; -7.966478 ; 40.104376 
+ PT-06-0899 ; Selada do Braçal ;899; Estrada das Beiras ; -8.030853 ; 40.110866 
+ PT-06-0964 ; Selada de Franco ;964; R ; -8.195716 ; 40.103044 
+ PT-06-0982 ; Selada da Ereira ;982; Estrada Em343 ; -7.991483 ; 40.111699 
+ PT-06-1002 ; Selada das Poças ;1002; R ; -8.189866 ; 40.076862 
+ PT-06-1028 ; Portas do Inferno ;1028; C.L. ; -7.828087 ; 40.254798 
+ PT-06-1133 ; Selada de Pera ;1133; R ; -8.171157 ; 40.085415 
+ PT-06-1224 ; Portas de Égua ;1224; R1 ; -7.789868 ; 40.226221 
+ PT-08-0155 ; Portinhola ;155; S ; -8.363092 ; 37.332599 
+ PT-08-0236 ; Portela das Voltas ;236; S ; -8.320602 ; 37.354207 
+ PT-08-0266 ; Portela da Choça ;266; R ; -8.18937 ; 37.2889 
+ PT-08-0321 ; Portela Larga ;321; R ; -8.470169 ; 37.340037 
+ PT-08-0327 ; Portela da Pomba ;327; R1 ; -8.52607 ; 37.352392 
+ PT-08-0339 ; Portela do Canivete ;339; R ; -8.502931 ; 37.368738 
+ PT-08-0365 ; Portela da Laranjeira ;365; S ; -8.14332 ; 37.25602 
+ PT-08-0389 ; Portela do Zambujeiro ;389; S ; -8.557761 ; 37.390293 
+ PT-08-0427 ; Portela da Serenada ;427; En 266 ; -8.559309 ; 37.340078 
+ PT-08-0429 ; Portela do Fuzil ;429; S ; -7.788013 ; 37.321648 
+ PT-08-0438 ; Portela das Corchas ;438; En266 ; -8.543705 ; 37.359724 
+ PT-08-0448 ; Portela dos Tremoços ;448; S ; -7.728209 ; 37.245354 
+ PT-08-0459 ; Portela ;459; R ; -8.539313 ; 37.381903 
+ PT-08-0507 ; Portela dos Gralhos ;507; M1067 ; -8.638086 ; 37.301841 
+ PT-08-0714 ; Portela de Monchique ;714; S ; -8.524675 ; 37.313554 
+ PT-09-0449 ; Portela ;449; HS ; -7.06768 ; 40.9943 
+ PT-09-0617 ; Portelas ;617; HS ; -7.02574 ; 40.93234 
+ PT-09-0618 ; Portela ;618; N232/R1 ; -7.446917 ; 40.39598 
+ PT-09-0669 ; Portela ;669; S ; -7.147051 ; 40.758321 
+ PT-09-0814 ; Portela ;814; R1 ; -7.319396 ; 40.517348 
+ PT-09-0965 ; Portela do Arão ;965; N231 ; -7.716055 ; 40.339869 
+ PT-09-0971 ; Portelha de Areja ;971; R ; -6.924228 ; 40.257562 
+ PT-09-0974 ; Puerto Salguero ;974; S ; -6.906159 ; 40.254938 
+ PT-09-1165 ; Portela ;1165; S ; -7.68635 ; 40.36881 
+ PT-09-1268 ; Portela ;1268; CL ; -7.51431 ; 40.48136 
+ PT-10-0214 ; Portela ;214; HS ; -8.44049 ; 39.77868 
+ PT-10-0285 ; Portela ;285; Em526 ; -8.45169 ; 39.95385 
+ PT-10-0289 ; Portela ;299; HS ; -8.462785 ; 39.997316 
+ PT-10-0328 ; Portela de Codeceira ;328; R ; -8.309953 ; 39.80337 
+ PT-10-0341 ; Portela ;341; R ; -8.40368 ; 39.80988 
+ PT-10-0418 ; Portela das Cruzes ;418; R ; -8.90873 ; 39.45799 
+ PT-11-0336 ; Portela ;336; CV ; -9.43675 ; 38.76696 
+ PT-12-0269 ; Portela do Atalho ;269; N18 ; -7.66418 ; 39.62502 
+ PT-12-0579 ; Portilla de Jola ;579; R ; -7.244101 ; 39.28584 
+ PT-12-0688 ; Puerto Roque ;649; N-521 ; -7.3063 ; 39.351418 
+ PT-12-0701 ; Puerto de San Pedro ;701; S ; -7.306765 ; 39.355696 
+ PT-13-1011 ; Alto do Espinho ;1011; lp4 ; -7.91419 ; 41.27974 
+ PT-14-0177 ; Portela da Boa Vista ;177; S ; -8.31406 ; 39.49595 
+ PT-14-0188 ; Portela da Vila ;188; CL ; -8.40714 ; 39.6825 
+ PT-14-0316 ; Portelinha ;316; N348/R1 ; -8.323037 ; 39.706618 
+ PT-14-0407 ; Portela das Salgueiras ;407; R ; -8.890529 ; 39.461329 
+ PT-16-0045 ; Portela ;45; R ; -8.73383 ; 41.720002 
+ PT-16-0128 ; Portela ;128; R ; -8.60883 ; 41.78418 
+ PT-16-0345 ; Portela de Bustarenga ;345; S ; -8.657156 ; 41.859319 
+ PT-16-0360 ; Portela Pequena ;360; R ; -8.618274 ; 41.85076 
+ PT-16-0395 ; Portela Grande ;395; Gr camino de Santiago. R1 ; -8.60789 ; 41.862813 
+ PT-16-0407 ; Portela do Alvito ;407; En304/C.L. ; -8.375927 ; 41.981192 
+ PT-16-0545 ; Portela do Marco ;545; S ; -8.355593 ; 41.988187 
+ PT-16-0610 ; Portela de Antela ;610; R ; -8.57713 ; 41.95398 
+ PT-16-0625 ; Portelinha ;625; HS ; -8.276075 ; 41.88568 
+ PT-16-0655 ; Portela da Ferreira ;655; R ; -8.313826 ; 41.8873 
+ PT-16-0785 ; Portelada ;785; HS ; -8.343247 ; 41.908042 
+ PT-16-1006 ; Portela do Lagarto ;1006; En202 ; -8.20431 ; 42.01886 
+ PT-17-0335 ; Portela do Ouro ;335; R ; -7.7683 ; 41.54747 
+ PT-17-0439 ; Portela ;439; S ; -7.50902 ; 41.74498 
+ PT-17-0485 ; Portela do Melhe ;485; N312 ; -7.791082 ; 41.569126 
+ PT-17-0535 ; Portela de Vamba ;535; R1 ; -7.484994 ; 41.861063 
+ PT-17-0643 ; Portela ;643; En223/Cm1254 ; -7.590179 ; 41.358193 
+ PT-17-0687 ; Portela dos Pelames ;687; R ; -7.45859 ; 41.43466 
+ PT-17-0697 ; Portela da Louseira ;697; R ; -7.93103 ; 41.33315 
+ PT-17-0815 ; Portela de Olho ;815; R ; -7.96615 ; 41.70372 
+ PT-17-0865 ; Portela de Ramos ;865; S ; -7.97018 ; 41.78728 
+ PT-17-0867 ; Portela ;867; CL ; -7.81012 ; 41.32028 
+ PT-17-0914 ; Alto do Velão ;914; N304 ; -7.88844 ; 41.3176 
+ PT-17-0955 ; Portela ;955; R ; -7.719939 ; 41.500699 
+ PT-17-0995 ; Portela de Fril ;995; R ; -7.932535 ; 41.597113 
+ PT-17-1075 ; Portela da Fairra ;1075; HS ; -7.94191 ; 41.81193 
+ PT-17-1095 ; Portela de Vale de Cais ;1095; S ; -7.78924 ; 41.85625 
+ PT-17-1135 ; Porto de Cancelos ;1135; S3 ; -7.805056 ; 41.882428 
+ PT-17-1185 ; Portela de San Fitoiro ;1185; S ; -7.780261 ; 41.886428 
+ PT-17-1195 ; Portela de Pitões ;1195; S ; -7.9487 ; 41.87099 
+ PT-17-1195a ; Portela ;1195; R1 ; -7.76724 ; 41.89553 
+ PT-17-1207 ; Alto da Escusa ;1207; HS ; -7.787957 ; 41.882925 
+ PT-17-1235 ; Portela do Touzal ;1235; R2 ; -7.884955 ; 41.856625 
+ PT-17-1253 ; Portela do Grito ;1265; R ; -7.845364 ; 41.864124 
+ PT-17-1285 ; Portela da Cerdeiriña ;1285; HS ; -8.020369 ; 41.830722 
+ PT-17-1409 ; Alto do Candal ;1419; HS2 (piste à 20m) ; -7.843957 ; 41.873324 
+ PT-18-0103 ; Portela da Barrosa ;103; CL ; -8.243236 ; 40.382729 
+ PT-18-0189 ; Portela do Carvão ;189; R ; -8.20286 ; 40.38211 
+ PT-18-0256 ; Portela ;256; CL ; -7.35733 ; 41.12951 
+ PT-18-0493 ; Portela do Pecegueiro ;493; R ; -8.23506 ; 40.48764 
+ PT-18-0584 ; Portela ;584; R ; -7.73702 ; 41.05031 
+ PT-18-0717 ; Selado ;717; R ; -7.453956 ; 41.16438 
+ PT-18-0841 ; Portela ;841; R ; -7.457215 ; 40.976684 
+ PT-18-0907 ; Portela do Guardão ;907; N230/En1506 ; -8.17076 ; 40.58538 
+ PT-18-0975 ; Portela ;975; En1168 ; -7.80682 ; 40.98761 
+ PT-18-0979 ; Portelada ;979; S ; -7.890302 ; 40.993849 
+ PT-18-1213 ; Portas de Montemuro ;1213; N321 ; -8.00939 ; 40.96656 
+ PT-20-0611 ; Portal do Vento ;611; Er 9-2A ; -25.78504 ; 37.83683 
+ PT-30-0125 ; Portela ;125; R111 ; -16.31735 ; 33.06663 
+ PT-30-0330 ; Boca do Risco ;330; S1-2 ; -16.772442 ; 32.755487 
+ PT-30-0622 ; Portela ;622; R102/R108 ; -16.82603 ; 32.74691 
+ PT-30-1007 ; Boca da Encumeada ;1007; R104 ; -17.018932 ; 32.754452 
+ PT-30-1074 ; Boca dos Namorados ;1074; CV ; -16.97834 ; 32.6954 
+ PT-30-1216 ; Boca dos Corgos ;1216; S2-3 ; -16.990367 ; 32.718076 
+ PT-30-1240 ; Passo de Ares ;1240; S2-3 ; -16.990356 ; 32.722873 
+ PT-30-1263 ; Boca do Cerro ;1263; S2-3 ; -16.985752 ; 32.729606 
+ PT-30-1400 ; Paso do Poiso ;1400; R103/R202 ; -16.88749 ; 32.7131 
+ PT-30-1440 ; Boca das Torrinhas ;1440; S3 ; -16.976592 ; 32.755115 

@@ -1,0 +1,1215 @@
+ Code ; Nom complet ; Altitude ; Accès ; WGS84 Lon D ; WGS84 Lat D 
+ GB-ENG-0142 ; Hydegate ;142; Minor road ; -2.32027 ; 51.68682 
+ GB-ENG-0155 ; Kerry’s Gate ;155; Minor road ; -2.88605 ; 51.99538 
+ GB-ENG-0187 ; Beacon Pass ;187; R ; -1.35183 ; 51.31605 
+ GB-ENG-0190 ; Dogbury Gate ;190; A352 ; -2.48993 ; 50.84564 
+ GB-ENG-0205 ; Coldfell Gate ;205; Minor road ; -3.45922 ; 54.47739 
+ GB-ENG-0213 ; Dorsetshire Gap ;213; R ; -2.36553 ; 50.82711 
+ GB-ENG-0216 ; Moor Gate ;216; Minor road ; -1.17195 ; 54.31791 
+ GB-ENG-0217 ; Chadwick Nick ;217; Minor road ; -1.48181 ; 53.07505 
+ GB-ENG-0219 ; Nick i'th' Hill ;219; Minor road ; -2.18673 ; 53.13605 
+ GB-ENG-0227 ; Pass of Dunmail Raise ;227; A591 ; -3.03962 ; 54.494922 
+ GB-ENG-0229 ; Scarth Nick ;229; Minor road ; -1.27456 ; 54.39325 
+ GB-ENG-0239 ; Caw Gap ;239; Minor road ; -2.42824 ; 54.99588 
+ GB-ENG-0245 ; Busy Gap ;245; HS ; -2.02542 ; 55.1778 
+ GB-ENG-0257 ; St Kenelm’s Pass ;257; Minor road ; -2.08953 ; 52.42192 
+ GB-ENG-0265 ; Kingscrag Gate ;265; R ; -2.32455 ; 55.03144 
+ GB-ENG-0265a ; Mockham Down Gate ;265; A399 ; -3.90813 ; 51.11039 
+ GB-ENG-0275 ; Wyche Pass ;275; B4218 - B4232 ; -2.33872 ; 52.09118 
+ GB-ENG-0275a ; Blackmoor Gate ;275; A39/A399 ; -3.93699 ; 51.17189 
+ GB-ENG-0283 ; Bwlch ;283; Minor Road ; -3.11813 ; 52.393098 
+ GB-ENG-0293 ; Nick of Pendle ;293; Minor road ; -2.34822 ; 53.84263 
+ GB-ENG-0303 ; Garfit Gap ;303; S ; -1.14513 ; 54.42365 
+ GB-ENG-0305 ; Curbar Gap ;305; Minor road ; -1.60985 ; 53.26847 
+ GB-ENG-0305a ; Trough Gate ;305; A6066 ; -2.1744 ; 53.68929 
+ GB-ENG-0315 ; Whinlatter Pass ;315; B5292 ; -3.23111 ; 54.6095 
+ GB-ENG-0315a ; Humbleton Swyre ;315; HS ; -2.23225 ; 55.54483 
+ GB-ENG-0325 ; County Gate ;325; A739 ; -3.72884 ; 51.22405 
+ GB-ENG-0325a ; Midway Nick ;325; HS ; -2.13953 ; 55.31338 
+ GB-ENG-0335 ; Newlands Hause ;335; Minor road ; -3.24935 ; 54.54725 
+ GB-ENG-0335a ; Bracken Hause ;335; S ; -3.04418 ; 54.47655 
+ GB-ENG-0358 ; Honister Pass ;358; B5289 ; -3.19845 ; 54.51136 
+ GB-ENG-0365 ; Hause Gate ;365; S ; -3.17019 ; 54.56223 
+ GB-ENG-0377 ; Widow Hause ;377; HS ; -3.27158 ; 54.63042 
+ GB-ENG-0385 ; Barrow Door ;385; S ; -3.20529 ; 54.58434 
+ GB-ENG-0385a ; The Hause ;385; Minor road ; -2.89411 ; 54.60366 
+ GB-ENG-0385b ; Whitelaw Nick ;385; S ; -2.23323 ; 55.52961 
+ GB-ENG-0388 ; Wrynose Pass ;388; Minor road ; -3.11714 ; 54.41422 
+ GB-ENG-0393 ; Hardknott Pass ;393; Minor road ; -3.18592 ; 54.40281 
+ GB-ENG-0395 ; Hemsworthy Gate ;395; B3387 ; -3.77825 ; 50.57101 
+ GB-ENG-0395a ; Long Doors ;395; R ; -3.16418 ; 54.6359 
+ GB-ENG-0398 ; Boredale Hause ;398; HS ; -2.91327 ; 54.53308 
+ GB-ENG-0416 ; Winnats Pass ;416; Minor road ; -1.81673 ; 53.33848 
+ GB-ENG-0418 ; Redeswire ;418; A68 ; -2.47764 ; 55.35434 
+ GB-ENG-0435 ; Stone Hause ;435; S ; -3.07656 ; 54.52014 
+ GB-ENG-0439 ; Oldgate Nick ;439; Minor road ; -2.00205 ; 53.28383 
+ GB-ENG-0446 ; Scarth Gap Pass ;446; S ; -3.25389 ; 54.50868 
+ GB-ENG-0448 ; Garburn Pass ;448; R ; -2.87115 ; 54.43152 
+ GB-ENG-0453 ; Kirkstone Pass ;453; A592 ; -2.92493 ; 54.46569 
+ GB-ENG-0456 ; Blakehope Nick ;456; R ; -2.45412 ; 55.2782 
+ GB-ENG-0475 ; Windy Gap ;475; R ; -2.54889 ; 54.71338 
+ GB-ENG-0480 ; Stake Pass ;480; S2-3 (S) ; -3.13496 ; 54.46815 
+ GB-ENG-0495 ; Saddle ;495; S ; -2.48405 ; 54.38518 
+ GB-ENG-0505 ; Hause Mouth ;505; HS ; -2.54783 ; 54.72664 
+ GB-ENG-0505a ; Randy’s Gap ;505; S ; -2.19414 ; 55.44551 
+ GB-ENG-0512 ; Snake Pass ;512; A57 ; -1.86868 ; 53.43283 
+ GB-ENG-0519 ; Cut Gate ;519; S ; -1.72536 ; 53.46462 
+ GB-ENG-0519a ; Scandale Pass ;519; S ; -2.94618 ; 54.47748 
+ GB-ENG-0525 ; Butter Tubs Pass ;525; Minor road ; -2.20483 ; 54.35496 
+ GB-ENG-0547 ; Black Sail Pass ;547; S ; -3.24943 ; 54.49178 
+ GB-ENG-0577 ; Gatescarth Pass ;577; S ; -2.81243 ; 54.47664 
+ GB-ENG-0591 ; Grisedale Hause ;591; S3-4 ; -3.00679 ; 54.49621 
+ GB-ENG-0595 ; Horse Head Pass ;595; R ; -2.17142 ; 54.19441 
+ GB-ENG-0595a ; Threshthwaite Mouth ;595; S ; -2.88786 ; 54.48454 
+ GB-ENG-0600 ; Coledale Hause ;600; S ; -3.25646 ; 54.58013 
+ GB-ENG-0604 ; Saddle of Fells ;604; HS ; -2.45941 ; 54.23772 
+ GB-ENG-0615 ; Swirl Hawse ;615; S ; -3.11328 ; 54.39717 
+ GB-ENG-0625 ; Saddle Gate ;625; S ; -3.26763 ; 54.56093 
+ GB-ENG-0625a ; The Saddle ;625; S ; -3.29452 ; 54.52924 
+ GB-ENG-0631 ; Nan Bield Pass ;631; S ; -2.8468 ; 54.47864 
+ GB-ENG-0649 ; Goat’s Hawse ;649; S ; -3.13143 ; 54.37452 
+ GB-ENG-0677 ; Deepdale Hause ;677; S ; -2.98966 ; 54.50371 
+ GB-ENG-0678 ; Levers Hawse ;678; S ; -3.12449 ; 54.38516 
+ GB-ENG-0715 ; Straits of Riggindale ;715; S ; -2.86661 ; 54.50175 
+ GB-ENG-0735 ; Lingmell Col ;735; S ; -3.21963 ; 54.46028 
+ GB-ENG-0749 ; Sticks Pass ;749; S ; -3.01905 ; 54.55463 
+ GB-ENG-0750 ; Wind Gap ;750; S ; -3.28581 ; 54.49417 
+ GB-ENG-0756 ; Windy Gap ;756; S ; -3.21431 ; 54.48415 
+ GB-ENG-0759 ; Esk Hause ;759; S3-4 (privé) ; -3.18493 ; 54.46197 
+ GB-ENG-0775 ; Link Hause ;775; S ; -2.97933 ; 54.49396 
+ GB-ENG-0776 ; Ore Gap ;776; S4 ; -3.17284 ; 54.45437 
+ GB-ENG-0835 ; Mickledore ;835; S ; -3.21963 ; 54.45136 
+ GB-SCT-0020 ; Balloch o’Lusk ;20; R ; -4.95943 ; 54.76121 
+ GB-SCT-0035 ; Scord of Brouster ;35; A971 ; -1.54258 ; 60.24607 
+ GB-SCT-0035a ; Pass of Balmaha ;35; B837 ; -4.54529 ; 56.08558 
+ GB-SCT-0045 ; Bealach Tharbait ;45; Minor road ; -5.13064 ; 58.39155 
+ GB-SCT-0045a ; Cadh’ a’ Bhuic ;45; B8056 ; -5.70679 ; 57.69278 
+ GB-SCT-0045b ; Bealach Mòr ;45; HS ; -5.28845 ; 58.1174 
+ GB-SCT-0045c ; Bealach Dearg ;45; HS ; -5.02801 ; 55.72751 
+ GB-SCT-0045d ; Bealach nam Biodag ;45; HS ; -5.80636 ; 56.73952 
+ GB-SCT-0049 ; Scord ;49; R ; -1.3929 ; 60.2847 
+ GB-SCT-0052 ; Bealach an Tarabairt ;52; HS ; -5.76781 ; 56.24396 
+ GB-SCT-0055 ; Bealach Phuill Domhain ;55; HS ; -5.81013 ; 57.3831 
+ GB-SCT-0056 ; Am Bealach ;56; R ; -3.89616 ; 58.50915 
+ GB-SCT-0059 ; Scord of Touby ;59; HS ; -1.26882 ; 60.26916 
+ GB-SCT-0061 ; Bealach an Eoin ;61; S3 ; -4.54086 ; 56.08757 
+ GB-SCT-0061a ; Chalder Scord ;61; R ; -1.39059 ; 60.51676 
+ GB-SCT-0065 ; Bealach an Lòin ;65; HS ; -5.74983 ; 57.26415 
+ GB-SCT-0065a ; Bealach nam Beanna Beag ;65; HS ; -7.33056 ; 57.24368 
+ GB-SCT-0069 ; Belach Stocleit ;69; HS ; -6.87012 ; 57.8506 
+ GB-SCT-0070 ; Bealach na Nighinn ;70; HS ; -5.52229 ; 56.3744 
+ GB-SCT-0073 ; Lamba Scord ;73; B9075 ; -1.26412 ; 60.27711 
+ GB-SCT-0075 ; Bealach na Beinne ;75; HS ; -7.198 ; 57.67241 
+ GB-SCT-0075a ; Scord of Cuckron ;75; HS ; -1.24637 ; 60.24888 
+ GB-SCT-0079 ; Scord of Grunnigeo ;79; HS ; -0.91648 ; 60.5924 
+ GB-SCT-0080 ; Fillarunnie Scord ;80; HS ; -1.24032 ; 60.34178 
+ GB-SCT-0084 ; Windy Scord ;84; S ; -1.58583 ; 60.29028 
+ GB-SCT-0084a ; Bealach na Caillich ;84; R ; -6.45897 ; 55.76351 
+ GB-SCT-0085 ; Bealach Sheabhal ;85; HS ; -7.34918 ; 57.2197 
+ GB-SCT-0088 ; Trona Scord ;88; A971 ; -1.61509 ; 60.28341 
+ GB-SCT-0088a ; Bealach a’ Sgail ;88; HS ; -7.14536 ; 57.57515 
+ GB-SCT-0090 ; Hamara Scord ;90; HS ; -1.38564 ; 60.4709 
+ GB-SCT-0094 ; Bealach Eòrabhat ;94; S ; -6.88845 ; 57.8476 
+ GB-SCT-0094a ; Bealach Buidhe ;94; R ; -5.78868 ; 57.75419 
+ GB-SCT-0095 ; Nick of Whirstone ;95; HS ; -4.04552 ; 54.92796 
+ GB-SCT-0095a ; Bealach a’ Bhaid Lònanaich ;95; HS ; -5.00729 ; 58.36323 
+ GB-SCT-0095b ; Bealach Tigh Iarras ;95; HS ; -7.32405 ; 57.2527 
+ GB-SCT-0095c ; Bealach Gaothach ;95; R (S) ; -5.41985 ; 56.42219 
+ GB-SCT-0097 ; Balloch ;97; S ; -4.95184 ; 54.68452 
+ GB-SCT-0098 ; Easterscord ;98; HS ; -1.24092 ; 60.37682 
+ GB-SCT-0099 ; Bealach Maari ;99; HS ; -7.25504 ; 57.63746 
+ GB-SCT-0101 ; Bealach Airneabhail ;101; HS ; -7.33154 ; 57.21309 
+ GB-SCT-0101a ; Bealach Ruadh ;101; HS ; -6.16349 ; 56.73056 
+ GB-SCT-0103 ; Bealach an Easain ;103; HS ; -7.27676 ; 57.16175 
+ GB-SCT-0105 ; Bealach a' Chaolais ;105; HS ; -7.27508 ; 57.18694 
+ GB-SCT-0105a ; The Hawse ;105; S1 ; -3.166069 ; 55.942784 
+ GB-SCT-0110 ; Hamarigrind Scord ;110; HS ; -1.26165 ; 60.32895 
+ GB-SCT-0110a ; Bealach Strome ;110; A894 ; -5.05262 ; 58.26808 
+ GB-SCT-0112 ; Scord of Hamarsland ;112; HS ; -1.26884 ; 60.21184 
+ GB-SCT-0114 ; Scord of Sound ;114; A971 ; -1.32281 ; 60.23677 
+ GB-SCT-0115 ; Cadha Beag ;115; A832 ; -5.47397 ; 57.85306 
+ GB-SCT-0115a ; Bealach na Baintighearna ;115; R ; -5.96719 ; 55.99598 
+ GB-SCT-0115b ; Bealach an Tùir ;115; HS ; -4.98539 ; 58.43545 
+ GB-SCT-0116 ; King’s Pass ;116; Minor road ; -3.61288 ; 56.56915 
+ GB-SCT-0120 ; Scord of Scarfataing ;120; R ; -1.41817 ; 60.36108 
+ GB-SCT-0125 ; Cadha Mòr ;125; HS ; -5.47426 ; 57.84313 
+ GB-SCT-0125a ; Bealach Bad na h-Achlaise ;125; HS ; -5.00856 ; 58.35662 
+ GB-SCT-0125b ; Bealach Càrnach ;125; HS ; -7.51317 ; 56.89331 
+ GB-SCT-0127 ; Swyre ;127; R ; -3.75828 ; 55.15008 
+ GB-SCT-0129 ; Stoura Scord ;129; HS ; -1.07979 ; 60.5597 
+ GB-SCT-0130 ; Setter Scord ;130; B9071 ; -1.29741 ; 60.34319 
+ GB-SCT-0133 ; Inni Scord ;133; HS ; -1.41106 ; 60.59302 
+ GB-SCT-0135 ; Bealach an Fheadain ;135; R ; -5.62494 ; 57.33165 
+ GB-SCT-0140 ; Muckle Scord ;140; HS ; -1.2951 ; 60.28442 
+ GB-SCT-0145 ; Bealach a’ Chruidh ;145; S ; -5.99621 ; 57.48001 
+ GB-SCT-0145a ; Bealach nam Piob ;145; HS ; -5.13243 ; 58.36146 
+ GB-SCT-0145b ; Bealach Bàn ;145; HS ; -5.27861 ; 58.19529 
+ GB-SCT-0145c ; Bealach Àrd ;145; HS ; -6.26596 ; 55.84004 
+ GB-SCT-0146 ; Moosa Scord ;146; S ; -1.39217 ; 60.58882 
+ GB-SCT-0147 ; Bealach Carach ;147; A861 ; -5.81973 ; 56.80874 
+ GB-SCT-0149 ; Bealach Gaoth' Near ;149; HS ; -6.13772 ; 55.92662 
+ GB-SCT-0153 ; Bealach Salach nan Airm ;153; Minor road ; -5.40986 ; 56.25369 
+ GB-SCT-0155 ; Bealach an Friodhain ;155; S ; -5.68931 ; 56.40424 
+ GB-SCT-0155a ; Bealach an Eisg ;155; HS ; -5.70931 ; 56.13399 
+ GB-SCT-0156 ; Bealach a' Ghlinne ;156; HS ; -5.91629 ; 57.22484 
+ GB-SCT-0159 ; Bealach na Croiche ;159; HS ; -6.36589 ; 57.24899 
+ GB-SCT-0163 ; Bealach Ard ;163; S3 ; -4.53578 ; 56.09249 
+ GB-SCT-0165 ; Bealach Gaoithe ;165; R ; -5.57332 ; 56.27584 
+ GB-SCT-0165a ; Cadha Torasclett ;165; HS ; -6.76914 ; 57.91439 
+ GB-SCT-0165b ; Bealach na Dìollaid ;165; HS ; -7.28678 ; 57.17812 
+ GB-SCT-0165c ; The Gap ;165; HS ; -8.56086 ; 57.8179 
+ GB-SCT-0165d ; Bealach na Feadan ;165; HS ; -6.37061 ; 57.35007 
+ GB-SCT-0165e ; Beul a’ Bhealaich ;165; HS ; -7.45993 ; 56.97924 
+ GB-SCT-0168a ; Little Scord ;168; HS ; -1.29813 ; 60.28126 
+ GB-SCT-0175 ; Am Bealach ;175; HS ; -4.86702 ; 58.49793 
+ GB-SCT-0175a ; Cadha Mór ;175; HS ; -7.48947 ; 56.96884 
+ GB-SCT-0175b ; Sorbie Hass ;175; Minor road ; -3.00598 ; 55.19558 
+ GB-SCT-0175c ; Bealach na Fèithe ;175; HS ; -5.35942 ; 56.71447 
+ GB-SCT-0182 ; An Màm ;182; HS ; -5.14319 ; 56.46536 
+ GB-SCT-0186 ; Wester Scord ;186; HS ; -1.28056 ; 60.38864 
+ GB-SCT-0188 ; Bealach na h-Uamha ;188; S ; -6.81479 ; 58.00166 
+ GB-SCT-0189 ; Bealach na Ciste ;189; A859 ; -6.80062 ; 57.94514 
+ GB-SCT-0189a ; Am Màm ;189; R ; -6.09711 ; 57.18554 
+ GB-SCT-0190 ; Yetts o' Muckhart ;190; A823 ; -3.60362 ; 56.19413 
+ GB-SCT-0195 ; Bealach Garbh ;195; HS ; -5.11587 ; 58.21366 
+ GB-SCT-0195a ; Bealach Càrn Phadruig ;195; HS ; -5.07861 ; 58.31446 
+ GB-SCT-0195b ; Nick o’ the Nawin ;195; HS ; -4.90275 ; 55.18918 
+ GB-SCT-0199 ; Bealach a' Choire ;199; R ; -5.51298 ; 57.32706 
+ GB-SCT-0200 ; Scallafield Scord ;200; HS ; -1.2919 ; 60.30263 
+ GB-SCT-0205 ; Cadh' na Bò ;205; R ; -5.04945 ; 57.97429 
+ GB-SCT-0205a ; Bealach Gaoithe ;205; HS ; -5.81208 ; 56.0721 
+ GB-SCT-0205b ; Bealach a’ Bhearnain ;205; HS ; -6.18139 ; 55.8809 
+ GB-SCT-0205c ; Bealach Bolum ;205; HS ; -7.27651 ; 57.23847 
+ GB-SCT-0206 ; Bealach Bhrathan ;206; R ; -4.51906 ; 57.58406 
+ GB-SCT-0207 ; Bealach an Locha ;207; HS ; -6.253 ; 57.2897 
+ GB-SCT-0208 ; Bealach na Ciste ;208; HS ; -6.92184 ; 57.82938 
+ GB-SCT-0212 ; Uyea Scord ;212; HS ; -1.39565 ; 60.53542 
+ GB-SCT-0213 ; Bealach Brittle ;213; R ; -6.3175 ; 57.22363 
+ GB-SCT-0215 ; Atla Scord ;215; HS ; -1.30702 ; 60.25994 
+ GB-SCT-0215a ; Bealach nan Càrn ;215; R1-2 ; -4.30996 ; 56.21115 
+ GB-SCT-0215b ; Bealach a’ Ghleannain ;215; S ; -5.42593 ; 57.29634 
+ GB-SCT-0215c ; Wrae Hass ;215; S ; -3.00482 ; 55.18578 
+ GB-SCT-0215d ; Bealach na Sealga ;215; HS ; -5.51902 ; 57.66914 
+ GB-SCT-0215e ; Bealach a’ Ghrianain Mòr ;215; HS ; -5.79979 ; 56.09389 
+ GB-SCT-0215f ; Bealach a’ Mhaim ;215; HS ; -7.525 ; 56.95663 
+ GB-SCT-0220 ; Bealach a' Ghlinne ;220; HS ; -5.88408 ; 56.57551 
+ GB-SCT-0226 ; Bealach Mór ;226; HS ; -4.75408 ; 58.4987 
+ GB-SCT-0226a ; Bealach Loch a’ Mhadaidh ;226; HS ; -5.75343 ; 57.78633 
+ GB-SCT-0228 ; Bealach Buidhe ;228; HS ; -6.54332 ; 57.50956 
+ GB-SCT-0230 ; Bealach an Ionalaidh ;230; HS ; -6.94372 ; 57.82996 
+ GB-SCT-0235 ; Bealach na h-Imriche ;235; HS ; -5.89688 ; 56.00898 
+ GB-SCT-0237 ; The Seven Gates ;237; R ; -3.2808 ; 56.32483 
+ GB-SCT-0237a ; Nick of Mochrum ;237; HS ; -4.00238 ; 55.05031 
+ GB-SCT-0238 ; Bealach nan Sac ;238; S ; -5.70403 ; 56.98071 
+ GB-SCT-0238a ; Nick of Orchars ;238; R ; -4.21917 ; 55.01565 
+ GB-SCT-0239 ; Bealach a' Chonnaidh ;239; HS ; -4.78923 ; 58.40008 
+ GB-SCT-0239a ; Bealach Luachrach ;239; R ; -5.60245 ; 57.23731 
+ GB-SCT-0240 ; Pass of Ballater ;240; A93 - B972 ; -3.06339 ; 57.05904 
+ GB-SCT-0243 ; Duke's Pass ;243; A821 ; -4.3899 ; 56.20291 
+ GB-SCT-0243a ; Deep Nick of Dromore ;243; HS ; -4.27406 ; 54.95153 
+ GB-SCT-0245 ; Bealach na h-Imrich ;245; R ; -5.03962 ; 57.08497 
+ GB-SCT-0245a ; Manor Sware ;245; Minor road ; -3.2172 ; 55.64596 
+ GB-SCT-0245b ; Bealach Beag ;245; HS ; -4.71156 ; 58.527377 
+ GB-SCT-0245c ; Fenton Yet ;245; B723 ; -3.26871 ; 55.22719 
+ GB-SCT-0245d ; Bealach a’ Chraois ;245; R ; -5.54186 ; 56.26895 
+ GB-SCT-0245e ; Bealach na Beinne ;245; HS ; -4.37815 ; 58.47145 
+ GB-SCT-0245f ; Bealach Cumhang ;245; HS ; -4.32714 ; 56.19811 
+ GB-SCT-0245g ; Bealach Bàn ;245; HS ; -5.96481 ; 57.28151 
+ GB-SCT-0245h ; Bealach a’ Sgàil ;245; HS ; -6.85139 ; 57.9771 
+ GB-SCT-0245i ; Bealach an t-Suidhe ;245; HS ; -4.3625 ; 56.18897 
+ GB-SCT-0245j ; Nick of Milldown ;245; HS ; -4.14869 ; 55.04166 
+ GB-SCT-0246 ; Bealach na Mòine ;246; HS ; -5.58927 ; 56.06341 
+ GB-SCT-0246a ; Hass ;246; A68 ; -2.49683 ; 55.38324 
+ GB-SCT-0250 ; Bealach Gaoth' Niar ;250; HS ; -6.15214 ; 55.9183 
+ GB-SCT-0250a ; Bealach na Gaoithe ;250; Minor road ; -5.63466 ; 57.5686 
+ GB-SCT-0251 ; Bealach Bharcasaig ;251; HS ; -6.62091 ; 57.37711 
+ GB-SCT-0253 ; Bealach Garbh ;253; HS ; -6.90578 ; 57.83314 
+ GB-SCT-0254 ; Bealach na Creige Duibhe ;254; HS ; -4.62078 ; 58.24993 
+ GB-SCT-0255 ; Bealach na h-Airigh Mhùrain ;255; HS ; -6.33419 ; 57.20381 
+ GB-SCT-0255a ; Early Slack ;255; HS ; -2.99199 ; 55.63368 
+ GB-SCT-0255b ; Bealach na Teangaidh ;255; HS ; -4.79 ; 58.26316 
+ GB-SCT-0255c ; Bealach Beag ;255; HS ; -3.91589 ; 58.25385 
+ GB-SCT-0255d ; Am Bealach ;255; HS ; -3.88197 ; 58.3333 
+ GB-SCT-0256 ; Nick of Trestran ;256; HS ; -4.27676 ; 54.92375 
+ GB-SCT-0257 ; Bealach Leireag ;257; S ; -5.0733 ; 58.20276 
+ GB-SCT-0257a ; Bealach Mór ;257; R ; -6.30241 ; 57.3366 
+ GB-SCT-0257b ; Bealach na h- Imrich ;257; HS ; -4.79643 ; 58.40643 
+ GB-SCT-0257c ; Windygates ;257; A70 ; -3.5871 ; 55.71756 
+ GB-SCT-0258 ; Nick of Knock ;258; HS ; -4.17262 ; 54.95062 
+ GB-SCT-0260 ; Bealach Mór ;260; S ; -5.60206 ; 57.32628 
+ GB-SCT-0262 ; Cadh’ Iosal ;262; HS ; -4.24069 ; 57.84596 
+ GB-SCT-0264 ; Bealach an Easain Duibh ;264; A83 - B828 ; -4.85742 ; 56.2262 
+ GB-SCT-0264a ; Bealach nam Meirleach ;264; R ; -4.72842 ; 58.27909 
+ GB-SCT-0264b ; Bealach Clais a’ Chùirn ;264; R ; -4.35937 ; 57.72334 
+ GB-SCT-0265 ; Eag an Fhir-bhogha ;265; HS ; -5.90975 ; 55.99208 
+ GB-SCT-0267 ; Bealach na Gaoithe ;267; HS ; -5.79198 ; 56.81689 
+ GB-SCT-0267a ; Beul a’ Mhàim ;267; HS ; -5.17523 ; 56.82063 
+ GB-SCT-0269 ; Bealach Breac ;269; HS ; -5.68737 ; 56.85791 
+ GB-SCT-0270 ; Plovers' Gap ;270; HS ; -4.00035 ; 58.19398 
+ GB-SCT-0271 ; Bealach an Dubh-bhràigh ;271; HS ; -6.42195 ; 57.00864 
+ GB-SCT-0275 ; White Hass ;275; HS ; -3.01266 ; 55.20778 
+ GB-SCT-0275a ; Cadha Mòr ;275; S ; -5.40029 ; 57.11645 
+ GB-SCT-0275b ; Bealach nan Craobh ;275; HS ; -6.09412 ; 56.50578 
+ GB-SCT-0275c ; Kirtle Nick ;275; HS ; -3.152794 ; 55.150607 
+ GB-SCT-0277 ; The Hass ;277; S ; -3.74487 ; 55.28984 
+ GB-SCT-0277a ; The Slack ;277; HS ; -3.62049 ; 56.29212 
+ GB-SCT-0279 ; Bealach Coire a' Chuidhe ;279; HS ; -4.95797 ; 58.53891 
+ GB-SCT-0280 ; Bealach nan Coisichean ;280; HS ; -6.29427 ; 57.60485 
+ GB-SCT-0281 ; Bealach Eadar dà Bheinn ;281; HS ; -6.30931 ; 57.23784 
+ GB-SCT-0281a ; Bealach Udal ;281; Minor road ; -5.72287 ; 57.22186 
+ GB-SCT-0282 ; Cave Pass ;282; R ; -3.60701 ; 56.57905 
+ GB-SCT-0282a ; Cadh’ a’ Mheirlich ;282; HS ; -4.63142 ; 57.85716 
+ GB-SCT-0284 ; Bealach na Craoibhe Chaorainn ;284; HS ; -5.36168 ; 56.8826 
+ GB-SCT-0285 ; Màm a’ Phobuill ;285; HS ; -6.12429 ; 57.25693 
+ GB-SCT-0285a ; Nick of Benniguinea ;285; HS ; -4.23486 ; 55.06142 
+ GB-SCT-0285b ; Lairig Inne ;285; HS ; -5.075 ; 56.47246 
+ GB-SCT-0286 ; Coulin Pass ;286; R ; -5.30156 ; 57.49794 
+ GB-SCT-0288 ; Lairig Cheile ;288; A85 ; -4.33499 ; 56.4207 
+ GB-SCT-0291 ; Bealach Uige ;291; HS ; -6.28183 ; 57.59511 
+ GB-SCT-0291a ; The Lairig ;291; R ; -4.85875 ; 56.8619 
+ GB-SCT-0292 ; Bealach Bàn ;292; HS ; -5.78987 ; 56.65334 
+ GB-SCT-0294 ; Bealach Mór ;294; S ; -6.23913 ; 57.37814 
+ GB-SCT-0295 ; Linn Slack ;295; R ; -3.14982 ; 55.30853 
+ GB-SCT-0295a ; Bealach Gaoithe ;295; S ; -4.26718 ; 56.25831 
+ GB-SCT-0295b ; Grieston Nick ;295; HS ; -3.09595 ; 55.60449 
+ GB-SCT-0295c ; Bealach na Brionn Choille ;295; HS ; -5.35096 ; 56.74936 
+ GB-SCT-0295d ; Bealach Conasgach ;295; HS ; -4.33768 ; 56.19199 
+ GB-SCT-0295e ; Nick of Slannyvenach ;295; HS ; -4.38448 ; 55.03011 
+ GB-SCT-0296 ; Bealach Cumhang ;296; HS ; -6.15582 ; 57.43009 
+ GB-SCT-0297 ; Bealach Sheiliosdail ;297; HS ; -7.2853 ; 57.27019 
+ GB-SCT-0299 ; Bealach an Fhuarain ;299; HS ; -4.70414 ; 58.21908 
+ GB-SCT-0301 ; Caol Lairig ;301; R ; -4.81489 ; 56.93741 
+ GB-SCT-0302 ; Duddiestone Hass ;302; S ; -3.90179 ; 55.24336 
+ GB-SCT-0305 ; Bealach Loch Tigh-sealga ;305; HS ; -5.85708 ; 56.03752 
+ GB-SCT-0305a ; Bealach na Croise ;305; HS ; -5.41874 ; 56.22324 
+ GB-SCT-0306 ; Pass of Glencoe ;306; A82 ; -4.92261 ; 56.66205 
+ GB-SCT-0309 ; Bealach Crosgard ;309; HS ; -7.2816 ; 57.247 
+ GB-SCT-0310 ; Lairig Duirinnis ;310; HS ; -5.2102 ; 56.46747 
+ GB-SCT-0313 ; Bealach nan Each ;313; HS ; -6.06354 ; 56.73849 
+ GB-SCT-0313a ; Turf Hass ;313; HS ; -2.96753 ; 55.36523 
+ GB-SCT-0315 ; Nick of the Dead Man’s Banes ;315; R ; -4.24697 ; 54.99278 
+ GB-SCT-0315a ; Mote Hass ;315; R ; -3.88407 ; 55.28754 
+ GB-SCT-0315b ; Windy Gate ;315; R ; -3.49483 ; 56.15231 
+ GB-SCT-0315c ; Billhope Hass ;315; Minor road ; -2.88588 ; 55.27089 
+ GB-SCT-0315d ; Bealach an Doruis ;315; HS ; -4.87432 ; 56.12381 
+ GB-SCT-0315e ; Beul na Bearnadh ;315; HS ; -6.84928 ; 57.87327 
+ GB-SCT-0316 ; Bught Hass ;316; R ; -3.76599 ; 55.34681 
+ GB-SCT-0318 ; Bealach nam Bo ;318; HS ; -4.45362 ; 56.23563 
+ GB-SCT-0319 ; Bealach Gaoith ;319; HS ; -5.14191 ; 56.00896 
+ GB-SCT-0321 ; Bealach Clais nan Ceap ;321; HS ; -4.40656 ; 58.4085 
+ GB-SCT-0323 ; Bealach na Srèine ;323; S ; -5.01978 ; 55.95608 
+ GB-SCT-0325 ; Windy Slack ;325; R ; -2.75898 ; 55.32096 
+ GB-SCT-0325a ; Wigg Hass ;325; R ; -2.67239 ; 55.33778 
+ GB-SCT-0325b ; Kiddam Hass ;325; R ; -3.2599 ; 55.31664 
+ GB-SCT-0325c ; Bealach a’ Chruaidh-ghlinn ;325; HS ; -5.85169 ; 56.04415 
+ GB-SCT-0325d ; Bealach Mòr ;325; HS ; -5.94032 ; 56.34631 
+ GB-SCT-0325e ; Bealach nan Gall ;325; HS ; -5.5531 ; 55.97785 
+ GB-SCT-0325f ; An Cadha ;325; HS ; -4.34449 ; 57.34247 
+ GB-SCT-0326 ; Bealach Choire nam Muc ;326; HS ; -5.34392 ; 56.74931 
+ GB-SCT-0328 ; Bealach an Lochain ;328; S ; -4.9829 ; 56.15725 
+ GB-SCT-0330 ; Bealach Mór ;330; HS ; -6.19768 ; 57.48227 
+ GB-SCT-0333 ; Bealach Dubh ;333; HS ; -4.46562 ; 58.39993 
+ GB-SCT-0335 ; Bealach na Beinne Brice ;335; HS ; -6.24105 ; 57.27542 
+ GB-SCT-0335a ; Bealach Sloc an Eich ;335; S ; -5.82723 ; 56.64836 
+ GB-SCT-0335b ; Cadha Mòr ;335; R ; -4.37642 ; 57.68242 
+ GB-SCT-0335c ; Ewes Doors ;335; S ; -2.98909 ; 55.27803 
+ GB-SCT-0335d ; Bealach na h-Imrich ;335; HS ; -5.02805 ; 58.02361 
+ GB-SCT-0335e ; Thickside Hass ;335; HS ; -3.2395 ; 55.31248 
+ GB-SCT-0335f ; Bealach na h-Earba ;335; HS ; -4.92214 ; 58.29749 
+ GB-SCT-0335g ; Bealach na Gaoith ;335; HS ; -5.58788 ; 55.62625 
+ GB-SCT-0337 ; Bealach na Sguabaich ;337; HS ; -4.89389 ; 57.04532 
+ GB-SCT-0343 ; Nick of the Loup ;343; HS ; -4.42924 ; 55.236 
+ GB-SCT-0343a ; Bealach Fèith nan Laogh ;343; Minor road ; -5.53707 ; 56.73965 
+ GB-SCT-0343b ; Bealach Bhriste Cnàimhe ;343; HS ; -5.98865 ; 55.91646 
+ GB-SCT-0344 ; Bealach Easach ;344; S ; -4.42661 ; 58.19111 
+ GB-SCT-0345 ; Bealach Beag ;345; HS ; -3.84982 ; 56.72568 
+ GB-SCT-0345a ; Nick of the Saddle ;345; HS ; -4.49532 ; 55.05495 
+ GB-SCT-0345b ; Dubh Bhealach ;345; HS ; -5.80237 ; 56.57777 
+ GB-SCT-0345c ; Bealach a’ Choire Dhuibh ;345; HS ; -5.60424 ; 56.83709 
+ GB-SCT-0345d ; Bealach Spin ;345; HS ; -7.31203 ; 57.26127 
+ GB-SCT-0346 ; Bealach a' Mhàim ;346; S ; -6.23029 ; 57.26223 
+ GB-SCT-0346a ; Bealach Ràtagain ;346; Minor road ; -5.47773 ; 57.22046 
+ GB-SCT-0347 ; Windy Gates ;347; R ; -3.04289 ; 56.54259 
+ GB-SCT-0347a ; Peat Hass ;347; R ; -4.28224 ; 55.18974 
+ GB-SCT-0349 ; Bealach a’ Chaòl-reidh ;349; HS ; -6.22657 ; 57.46393 
+ GB-SCT-0350 ; Windy Slack ;350; B7007 ; -3.03645 ; 55.75855 
+ GB-SCT-0351 ; Shurgie Scord ;351; HS ; -1.4349 ; 60.53776 
+ GB-SCT-0355 ; Katie’s Hass ;355; HS ; -3.12521 ; 55.66227 
+ GB-SCT-0355a ; Bealach na Géire ;355; HS ; -5.44262 ; 56.84512 
+ GB-SCT-0355b ; Cadha na Gaoithe ;355; HS ; -5.00772 ; 57.15591 
+ GB-SCT-0358 ; Bealach Coire na Circe ;358; HS ; -6.23755 ; 57.26975 
+ GB-SCT-0361 ; Wet Slack ;361; HS ; -3.29194 ; 55.29374 
+ GB-SCT-0363 ; Bealach Driseach ;363; HS ; -4.43983 ; 56.33257 
+ GB-SCT-0364 ; The Gap ;364; Minor road ; -5.78199 ; 55.30819 
+ GB-SCT-0365 ; Milking Hass ;365; R ; -3.2453 ; 55.32376 
+ GB-SCT-0365a ; Bealach nan Airigh ;365; S ; -5.24016 ; 56.02686 
+ GB-SCT-0365b ; Whitrope Hass ;365; B6399 ; -2.73469 ; 55.30667 
+ GB-SCT-0365c ; Bealach Ràrsaidh ;365; S ; -5.61269 ; 57.15304 
+ GB-SCT-0365d ; Thief’s Slack ;365; HS ; -3.27257 ; 55.30818 
+ GB-SCT-0365e ; Bealach na h-Earbaige ;365; HS ; -4.03387 ; 58.31517 
+ GB-SCT-0370 ; Bealach a' Bhràigh Bhig ;370; S ; -6.38295 ; 57.01317 
+ GB-SCT-0370a ; Bealach a' Phollaidh ;370; HS ; -4.97158 ; 58.28999 
+ GB-SCT-0371 ; Bealach Gaothach ;371; HS ; -4.97394 ; 55.94105 
+ GB-SCT-0372 ; Little Gill Nick ;372; HS ; -3.66731 ; 55.50903 
+ GB-SCT-0373 ; Màm Clach a’ Bhadain ;373; HS ; -6.04314 ; 56.41646 
+ GB-SCT-0374 ; Sunhope Hass ;374; S ; -2.9131 ; 55.28314 
+ GB-SCT-0374a ; Nick of the Mahm ;374; HS ; -4.39346 ; 55.23514 
+ GB-SCT-0374b ; Guile Hass ;374; HS ; -2.89302 ; 55.26188 
+ GB-SCT-0375 ; Bealach na Muic ;375; S ; -4.19706 ; 58.16265 
+ GB-SCT-0375a ; Hawk Hass ;375; R ; -2.80942 ; 55.31564 
+ GB-SCT-0375b ; Hurlburn Swire ;375; R ; -3.6742 ; 55.45651 
+ GB-SCT-0375c ; Nick of Brecbowie ;375; HS ; -4.46668 ; 55.22777 
+ GB-SCT-0375d ; Màm an t-Sìob’ ;375; HS ; -6.00796 ; 55.8939 
+ GB-SCT-0375e ; Nick of Sheuchan ;375; HS ; -4.46339 ; 55.03591 
+ GB-SCT-0375f ; Chapel Pass ;375; HS ; -4.02191 ; 56.39559 
+ GB-SCT-0375g ; Ludsgill Sware ;375; HS ; -2.91162 ; 55.2347 
+ GB-SCT-0378 ; Bealach a' Mhàma ;378; HS ; -5.708666 ; 56.905643 
+ GB-SCT-0380 ; Howgate Mouth ;380; R ; -3.71533 ; 55.59017 
+ GB-SCT-0381 ; Nick of the Liberty ;381; HS ; -4.91192 ; 55.06698 
+ GB-SCT-0382 ; Lairig Arnan ;382; HS ; -4.78511 ; 56.32356 
+ GB-SCT-0382a ; Slack of Dye ;382; HS ; -2.62428 ; 56.97262 
+ GB-SCT-0384 ; Comb Hass ;384; R ; -3.07444 ; 55.33035 
+ GB-SCT-0384a ; The Balloch ;384; HS ; -3.87673 ; 56.18129 
+ GB-SCT-0384b ; Bealach Dubh-lic ;384; HS ; -4.83646 ; 56.19654 
+ GB-SCT-0385 ; Southerly Nick ;385; S ; -2.95327 ; 55.63342 
+ GB-SCT-0385a ; Màm Bhreapadail ;385; S ; -5.92264 ; 56.41822 
+ GB-SCT-0385b ; Cadha Giorraid ;385; S ; -3.99812 ; 57.0494 
+ GB-SCT-0385c ; Bealach an Rathaid ;385; S ; -4.70251 ; 57.49734 
+ GB-SCT-0385d ; Bealach nan Carn ;385; HS ; -5.59877 ; 56.72823 
+ GB-SCT-0385e ; Màm Coire an Easain ;385; HS ; -4.83336 ; 56.60592 
+ GB-SCT-0385f ; Ballyan Hass ;385; HS ; -3.72643 ; 55.30005 
+ GB-SCT-0385g ; Bealach Leathann ;385; HS ; -4.54441 ; 56.75475 
+ GB-SCT-0385h ; Craiglour Hawse ;385; HS ; -4.06903 ; 55.21044 
+ GB-SCT-0385i ; Bealach Corrach ;385; HS ; -5.23676 ; 56.03406 
+ GB-SCT-0387 ; Nick of the Balloch ;387; Minor road ; -4.59953 ; 55.20011 
+ GB-SCT-0389 ; Bye Hass ;389; HS ; -3.02351 ; 55.32518 
+ GB-SCT-0392 ; Bealach Alltan Ruairidh ;392; S ; -5.35534 ; 57.39428 
+ GB-SCT-0394 ; Bealach na Cruinn-leum ;394; HS ; -5.74318 ; 57.20341 
+ GB-SCT-0395 ; Bught Hass ;395; S ; -3.80802 ; 55.36287 
+ GB-SCT-0395a ; Nick of Disgee ;395; HS ; -4.23826 ; 55.23712 
+ GB-SCT-0395b ; Glenwhargen Hass ;395; HS ; -3.932532 ; 55.319629 
+ GB-SCT-0395c ; Bealach na h-Imriche ;395; HS ; -5.06188 ; 55.98979 
+ GB-SCT-0395d ; Bealach a’ Choire ;395; HS ; -4.83042 ; 58.19778 
+ GB-SCT-0395e ; Lairig a’ Chaorainn ;395; HS ; -4.13667 ; 56.28156 
+ GB-SCT-0395f ; Bealach an Easain Uaine ;395; HS ; -4.84698 ; 58.36573 
+ GB-SCT-0396 ; Màm nan Calum ;396; HS ; -5.36499 ; 56.96851 
+ GB-SCT-0398 ; Bealach an Fhiodha ;398; HS ; -5.72088 ; 57.08077 
+ GB-SCT-0399 ; Màm an Trotanaich ;399; S ; -5.94743 ; 56.36171 
+ GB-SCT-0400 ; Bealach Garbh ;400; HS ; -6.78973 ; 57.92706 
+ GB-SCT-0402 ; Bealach a' Ghlas-chnoic ;402; S ; -5.50078 ; 57.44579 
+ GB-SCT-0404 ; Bealach nam Fiann ;404; S ; -4.9489 ; 58.30093 
+ GB-SCT-0405 ; Bidhouse Hass ;405; HS ; -3.60858 ; 55.40256 
+ GB-SCT-0405a ; Red Gate ;405; R ; -3.33005 ; 55.83782 
+ GB-SCT-0405b ; Carcant Nick ;405; B7007 ; -3.03844 ; 55.77648 
+ GB-SCT-0405c ; Bealach na Sgàirn ;405; HS ; -5.83095 ; 56.59177 
+ GB-SCT-0405d ; Bealach a’ Chuirn ;405; HS ; -5.51751 ; 55.88545 
+ GB-SCT-0405e ; Dempster’s Hass ;405; HS ; -3.98773 ; 55.2449 
+ GB-SCT-0408 ; Fionn Bhealach ;408; HS ; -5.21446 ; 55.6961 
+ GB-SCT-0409 ; Bealach Eas nan Cabar ;409; HS ; -4.91166 ; 56.49334 
+ GB-SCT-0412 ; Windy Door Nick ;412; S ; -3.22897 ; 55.88381 
+ GB-SCT-0413 ; Bealach na Sgairde ;413; HS ; -6.12031 ; 57.28715 
+ GB-SCT-0415 ; Eag Mhòr ;415; S ; -3.55109 ; 57.21741 
+ GB-SCT-0415a ; Thief Slack Hass ;415; B7040 ; -3.74625 ; 55.4164 
+ GB-SCT-0415b ; Pipers Hass ;415; HS ; -3.03128 ; 55.5979 
+ GB-SCT-0415c ; Hass of Macrule ;415; HS ; -3.43576 ; 55.44014 
+ GB-SCT-0415d ; Bealach an Tobair ;415; HS ; -5.22479 ; 55.95947 
+ GB-SCT-0415e ; Bealach Coir’ an Fheòir ;415; HS ; -5.65347 ; 56.78934 
+ GB-SCT-0415f ; Bealach Bàn ;415; HS ; -5.62202 ; 56.79958 
+ GB-SCT-0415g ; Drove Hass ;415; HS ; -3.91189 ; 55.43483 
+ GB-SCT-0415h ; Deil’s Barn Door ;415; S ; -3.9114 ; 55.43554 
+ GB-SCT-0415i ; Bealach na Craoibhe ;415; HS ; -4.52513 ; 56.224 
+ GB-SCT-0420 ; Bealach na Lice ;420; S ; -5.45193 ; 57.50061 
+ GB-SCT-0422 ; Sneck of Corinch ;422; S ; -3.04775 ; 56.76679 
+ GB-SCT-0422a ; Màm na Croise ;422; HS ; -6.06419 ; 56.41643 
+ GB-SCT-0423 ; Bealach Loch na Seilg ;423; HS ; -4.78041 ; 58.48343 
+ GB-SCT-0424 ; Màm Bhradhadail ;424; HS ; -5.84773 ; 56.43289 
+ GB-SCT-0425 ; Cowiemuir Hass ;425; S ; -3.39372 ; 55.63978 
+ GB-SCT-0425a ; Mennock Hass ;425; B797 ; -3.78111 ; 55.39131 
+ GB-SCT-0425b ; Bealach na Diollaide ;425; HS ; -4.85459 ; 56.13371 
+ GB-SCT-0425c ; Bealach nan Losgann ;425; HS ; -4.54138 ; 56.70182 
+ GB-SCT-0425d ; Bealach an Fhir-bhogha ;425; HS ; -5.80932 ; 56.39055 
+ GB-SCT-0425e ; Reedies Hass ;425; HS ; -3.21344 ; 55.35981 
+ GB-SCT-0425f ; Bealach Baile na Cùile ;425; HS ; -4.05602 ; 56.40533 
+ GB-SCT-0425g ; Conrick Hass ;425; HS ; -4.03189 ; 55.25743 
+ GB-SCT-0426 ; Bealach na Breun-leitire ;426; HS ; -4.86522 ; 57.29828 
+ GB-SCT-0427 ; Bealach na Croise ;427; HS ; -5.24355 ; 57.69183 
+ GB-SCT-0428 ; Bealach a' Chonnaidh ;428; HS ; -4.39777 ; 56.31857 
+ GB-SCT-0432 ; The Saddle ;432; S ; -5.21159 ; 55.63832 
+ GB-SCT-0435 ; Leithen Door ;435; HS ; -3.11138 ; 55.67008 
+ GB-SCT-0435a ; Smart’s Hass ;435; HS ; -4.00091 ; 55.32119 
+ GB-SCT-0435b ; Nick of the Strand ;435; HS ; -4.48845 ; 55.20945 
+ GB-SCT-0435c ; Windy Swire ;435; HS ; -2.83511 ; 55.29425 
+ GB-SCT-0435d ; Bealach a’ Choire Mhòir ;435; HS ; -5.59788 ; 56.82889 
+ GB-SCT-0435e ; Bealach na h-Imriche ;435; HS ; -4.62227 ; 56.23012 
+ GB-SCT-0435f ; Carcow Hass ;435; HS ; -4.22681 ; 55.32864 
+ GB-SCT-0435g ; Bealach a’ Choire Mholaich ;435; HS ; -4.22955 ; 56.2782 
+ GB-SCT-0435h ; Bealach Beinn an Eoin ;435; HS ; -5.20989 ; 58.0137 
+ GB-SCT-0436 ; Cauldstane Slap ;436; HS ; -3.41219 ; 55.81257 
+ GB-SCT-0438 ; Bealach a' Choire Mhóir ;438; HS ; -5.60003 ; 56.82792 
+ GB-SCT-0438a ; Bealach Beag ;438; HS ; -4.6425 ; 57.63403 
+ GB-SCT-0442 ; Glenbo Hass ;442; HS ; -3.73097 ; 55.33405 
+ GB-SCT-0444 ; Bealach na h-Imrich ;444; HS ; -5.17474 ; 57.6843 
+ GB-SCT-0444a ; Bealach nan Cabrach ;444; HS ; -4.9774 ; 56.36263 
+ GB-SCT-0445 ; Bealach a' Chòmhla ;445; HS ; -5.54858 ; 57.59667 
+ GB-SCT-0445a ; Manor Slack Hass ;445; R1 ; -3.74985 ; 55.40882 
+ GB-SCT-0445b ; Slack of Barna ;445; R ; -2.68015 ; 56.88368 
+ GB-SCT-0445c ; Bealach Caol Creran ;445; HS ; -5.07998 ; 56.60947 
+ GB-SCT-0445d ; Moss Patrick Swire ;445; R ; -2.82952 ; 55.29471 
+ GB-SCT-0445e ; Eag Fionna Mhàm ;445; HS ; -6.13806 ; 56.39537 
+ GB-SCT-0446 ; Bealach na h-Imriche ;446; HS ; -4.45036 ; 56.26754 
+ GB-SCT-0447 ; Bealach Con ;447; HS ; -5.34437 ; 57.27641 
+ GB-SCT-0448 ; Henshaw Mouth ;448; HS ; -3.38305 ; 55.81148 
+ GB-SCT-0450 ; Bealach na Féithe ;450; S ; -4.78246 ; 58.33479 
+ GB-SCT-0451 ; Bealach Gaothach ;451; HS ; -5.56449 ; 55.9822 
+ GB-SCT-0453 ; Nick of the Sware ;453; R ; -4.22508 ; 55.28185 
+ GB-SCT-0454 ; Bealach an Oir ;454; HS ; -6.30387 ; 56.97448 
+ GB-SCT-0455 ; Bealach na Creige Riabhaich ;455; HS ; -4.57201 ; 58.42982 
+ GB-SCT-0455a ; Pass of Druimochter ;455; A9 ; -4.24577 ; 56.85468 
+ GB-SCT-0455b ; Fanna Swire ;455; HS ; -2.67305 ; 55.32536 
+ GB-SCT-0455c ; Bealach Bràigh ;455; HS ; -4.66304 ; 56.19657 
+ GB-SCT-0455d ; Bealach Cruinn a’ Bheinn ;455; HS ; -4.63901 ; 56.20534 
+ GB-SCT-0455e ; Bealach Coire Mhic Gugain ;455; HS ; -5.50231 ; 56.637 
+ GB-SCT-0455f ; Cumhann Bhealach ;455; HS ; -5.20077 ; 56.47755 
+ GB-SCT-0455g ; Priesthope Sware ;455; HS ; -3.03357 ; 55.65243 
+ GB-SCT-0456 ; Bealach na Béiste ;456; HS ; -6.07933 ; 57.23754 
+ GB-SCT-0456a ; Màm an Tiompain ;456; HS ; -5.88877 ; 56.41279 
+ GB-SCT-0458 ; Bealach Beag ;458; HS ; -6.19161 ; 57.49942 
+ GB-SCT-0461 ; Bealach a’ Bhò Chrubaich ;461; HS ; -5.49607 ; 57.08516 
+ GB-SCT-0463 ; Paddock Slack ;463; HS ; -3.08146 ; 55.55333 
+ GB-SCT-0464 ; Màm Choireadail ;464; HS ; -5.90168 ; 56.41046 
+ GB-SCT-0465 ; Bealach Bairc-mheall ;465; HS ; -6.30421 ; 56.99083 
+ GB-SCT-0465a ; Bealach a’ Bhùirich ;465; HS ; -4.95684 ; 58.20257 
+ GB-SCT-0465b ; Bealach Carra ;465; HS ; -5.2079 ; 56.48608 
+ GB-SCT-0465c ; Green Balloch ;465; HS ; -3.7329 ; 56.60806 
+ GB-SCT-0466 ; Bealach Beinn a’ Bhùtha ;466; HS ; -4.8843 ; 58.26771 
+ GB-SCT-0469 ; Bealach a Chùirn ;469; HS ; -5.40823 ; 57.71345 
+ GB-SCT-0469a ; Bealach Luib nam Feadag ;469; HS ; -5.26616 ; 57.35692 
+ GB-SCT-0469b ; Cadh’ a’ Mhoraire ;469; HS ; -5.19799 ; 57.99049 
+ GB-SCT-0471 ; Bealach a’ Chaorainn ;471; S ; -5.3821 ; 56.92648 
+ GB-SCT-0473 ; Bealach Aoidhdailean ;473; S ; -5.50071 ; 57.15038 
+ GB-SCT-0473a ; Mennock Pass ;473; HS ; -3.81848 ; 55.38214 
+ GB-SCT-0474 ; Bealach Coire Sgreamhach ;474; HS ; -5.99223 ; 57.22944 
+ GB-SCT-0474a ; Bealach Cumhann ;474; HS ; -5.0318 ; 56.51044 
+ GB-SCT-0474b ; Bealach Gorm ;474; HS ; -5.20178 ; 57.6919 
+ GB-SCT-0475 ; Màm na Seilg ;475; S ; -5.12714 ; 57.08592 
+ GB-SCT-0475a ; Sneck of Lapshalloch ;475; S ; -3.06078 ; 56.78724 
+ GB-SCT-0475b ; Nick of Rushes ;475; HS ; -4.37141 ; 55.06587 
+ GB-SCT-0476 ; Feith-bhealach ;476; HS ; -7.27913 ; 57.27318 
+ GB-SCT-0476a ; Lairig Ghallabhaich ;476; R ; -4.29607 ; 56.63257 
+ GB-SCT-0477 ; Bealach nan Sgliat ;477; R ; -4.26457 ; 56.28085 
+ GB-SCT-0485 ; Black Sneck ;485; R ; -2.96499 ; 57.2551 
+ GB-SCT-0485a ; Clydes Nick ;485; S ; -3.53187 ; 55.43393 
+ GB-SCT-0485b ; Bealach na Croidhich ;485; HS ; -5.06213 ; 56.09055 
+ GB-SCT-0485c ; Bealach a’ Chàil ;485; HS ; -4.67925 ; 57.23903 
+ GB-SCT-0485d ; Bealach nan Aingidh ;485; HS ; -5.39691 ; 56.71454 
+ GB-SCT-0485e ; Glas Bhealach ;485; HS ; -5.39173 ; 56.82032 
+ GB-SCT-0485f ; Bealach nan Creagan Dubha ;485; S ; -5.62629 ; 57.10334 
+ GB-SCT-0485g ; Màm na Cèire ;485; HS ; -5.73188 ; 56.65121 
+ GB-SCT-0486 ; Holm Nick ;486; R ; -3.49448 ; 55.52353 
+ GB-SCT-0488 ; Bealach a' Choire Bhuidhe ;488; HS ; -5.55024 ; 56.8484 
+ GB-SCT-0488a ; Lairig Gartain ;488; HS ; -4.96251 ; 56.63255 
+ GB-SCT-0489 ; Howgate Nick ;489; S ; -3.15432 ; 55.70967 
+ GB-SCT-0490 ; Bealach Amadal ;490; HS ; -6.25743 ; 57.56918 
+ GB-SCT-0490a ; Bealach Mhèinnidh ;490; S ; -5.42088 ; 57.70842 
+ GB-SCT-0490b ; Lairig Eilde ;490; S ; -4.9889 ; 56.6361 
+ GB-SCT-0490c ; Bealach na Staoineig ;490; HS ; -4.79601 ; 56.7569 
+ GB-SCT-0491 ; Bealach a' Chuirn ;491; HS ; -6.19831 ; 57.51097 
+ GB-SCT-0492 ; Bealach Hartaval ;492; HS ; -6.22137 ; 57.52178 
+ GB-SCT-0493 ; Bealach Mam a’ Bhearna ;493; HS ; -5.45767 ; 56.74216 
+ GB-SCT-0493a ; Bealach Mhinniceig ;493; HS ; -5.44422 ; 57.08942 
+ GB-SCT-0495 ; Bealach nan Càrn ;495; HS ; -4.87653 ; 58.42447 
+ GB-SCT-0495a ; Bealach Choire Shalachain ;495; HS ; -5.57511 ; 56.61783 
+ GB-SCT-0495b ; Màm Suidheig ;495; HS ; -5.60455 ; 57.05539 
+ GB-SCT-0495c ; Little Windgate Hass ;495; HS ; -3.69739 ; 55.41382 
+ GB-SCT-0495d ; Bealach Fir Àshair ;495; HS ; -4.78615 ; 58.29064 
+ GB-SCT-0495e ; Màm Lìrein ;495; HS ; -5.77839 ; 56.44697 
+ GB-SCT-0496 ; Bealach na Craoibhe ;496; S ; -5.38971 ; 57.17161 
+ GB-SCT-0499 ; Bealach nan Sac ;499; HS ; -5.08437 ; 56.07058 
+ GB-SCT-0499a ; Lairig Leacach ;499; R ; -4.82287 ; 56.83654 
+ GB-SCT-0500 ; Bealach a' Bhòta ;500; HS ; -5.74054 ; 56.93011 
+ GB-SCT-0500a ; Eag Bheag ;500; HS ; -3.54622 ; 57.21228 
+ GB-SCT-0501 ; Bealach na h-Oidhche ;501; HS ; -5.58321 ; 57.16694 
+ GB-SCT-0502 ; Daer Hass ;502; HS ; -3.62514 ; 55.29441 
+ GB-SCT-0503 ; Footman Hass ;503; HS ; -2.87371 ; 55.29583 
+ GB-SCT-0505 ; Learg nan Lunn ;505; R ; -4.52476 ; 56.51889 
+ GB-SCT-0505a ; Bealach Trallgil ;505; HS ; -4.88521 ; 58.12897 
+ GB-SCT-0505b ; Bealach a’ Charrain ;505; HS ; -5.44841 ; 56.79177 
+ GB-SCT-0505c ; Bealach Dubh Choire ;505; HS ; -4.06392 ; 56.41144 
+ GB-SCT-0505d ; Bealach a’ Mhaim ;505; HS ; -5.08324 ; 55.98563 
+ GB-SCT-0506 ; Lairig a' Mhuic ;506; HS ; -4.3378 ; 56.63154 
+ GB-SCT-0506a ; Bealach na h-Imrich ;506; HS ; -4.94929 ; 57.75448 
+ GB-SCT-0507 ; Nick of the Lochans ;507; HS ; -4.46507 ; 55.07318 
+ GB-SCT-0508 ; Bealach Bàn ;508; HS ; -5.43809 ; 57.50912 
+ GB-SCT-0508a ; Dìollaid na Maoil Uidhre ;508; HS ; -5.45248 ; 56.65218 
+ GB-SCT-0509 ; Bealach an Fhuarain ;509; HS ; -6.31447 ; 56.97014 
+ GB-SCT-0509a ; Bealach Mosgaraidh ;509; HS ; -6.12151 ; 57.27526 
+ GB-SCT-0509b ; Bealach na Sròine ;509; S ; -5.30989 ; 57.26871 
+ GB-SCT-0510 ; Garbh Bhealach ;510; HS ; -4.4865 ; 56.39706 
+ GB-SCT-0511 ; Eag Odhar ;511; HS ; -4.82632 ; 57.67167 
+ GB-SCT-0512 ; Bealach Mór ;512; S ; -4.60594 ; 57.64818 
+ GB-SCT-0512a ; Cadha an t-Sagairt ;512; HS ; -3.57976 ; 58.22288 
+ GB-SCT-0513 ; Bealach Chaiplin ;513; HS ; -6.25717 ; 57.55976 
+ GB-SCT-0515 ; Bealach an Sgàirne ;515; S ; -5.29154 ; 57.24037 
+ GB-SCT-0515a ; Màm Coire Doimhneid ;515; S ; -5.43478 ; 57.27978 
+ GB-SCT-0515b ; Bealach Scamodale ;515; HS ; -5.49981 ; 56.80777 
+ GB-SCT-0515c ; Bealach a’ Bhaca ;515; HS ; -4.90557 ; 57.37335 
+ GB-SCT-0515d ; Slack of Forbie ;515; HS ; -2.7527 ; 56.87091 
+ GB-SCT-0515e ; Bealach an t-Sithe ;515; HS ; -3.67864 ; 56.74266 
+ GB-SCT-0515f ; Bealach an t-Seolaidh ;515; HS ; -4.14909 ; 56.32039 
+ GB-SCT-0520 ; Bealach Horn ;520; HS ; -4.84324 ; 58.3723 
+ GB-SCT-0524 ; Deil’s Barn Door ;524; S ; -3.58213 ; 55.52007 
+ GB-SCT-0525 ; Deil’s Barn Door ;525; S ; -3.78271 ; 55.36585 
+ GB-SCT-0525a ; Bealach Coire Sgoireadail ;525; S ; -5.34573 ; 57.13411 
+ GB-SCT-0525b ; Màm Unndalain ;525; S ; -5.48618 ; 57.0507 
+ GB-SCT-0525c ; Bealach Easan ;525; HS ; -5.09218 ; 56.62498 
+ GB-SCT-0525d ; Bealach na Lice ;525; HS ; -5.44273 ; 57.51186 
+ GB-SCT-0529 ; Bealach Féith na Gamhna ;529; S ; -4.90428 ; 57.22954 
+ GB-SCT-0530 ; Bealach a Mhòramhain ;530; HS ; -6.25914 ; 57.5778 
+ GB-SCT-0532 ; Bealach nan Corp ;532; HS ; -4.64388 ; 56.30534 
+ GB-SCT-0535 ; Bealach Gaoithe ;535; HS ; -7.26706 ; 57.29278 
+ GB-SCT-0535a ; Bealach nan Rath ;535; HS ; -4.73159 ; 58.30633 
+ GB-SCT-0535b ; Bealach nan Searrach ;535; HS ; -4.26725 ; 56.28755 
+ GB-SCT-0536 ; Bealach Fèith ’n Amean ;536; HS ; -5.43091 ; 56.71206 
+ GB-SCT-0538 ; Bealach na Leacaich ;538; HS ; -6.24411 ; 57.55037 
+ GB-SCT-0545 ; Kirkgrain Hass ;545; HS ; -3.71095 ; 55.32488 
+ GB-SCT-0545a ; Kings Road Nick ;545; R ; -3.11079 ; 55.71651 
+ GB-SCT-0545b ; Bealach Gaoithe ;545; HS ; -4.65302 ; 56.18816 
+ GB-SCT-0546 ; Màm Lorn ;546; HS ; -4.67252 ; 56.50193 
+ GB-SCT-0547 ; Lairig Breisleich ;547; HS ; -4.34594 ; 56.54181 
+ GB-SCT-0548 ; Bealach Easain ;548; HS ; -4.9132 ; 57.02716 
+ GB-SCT-0551 ; An Lairig ;551; S ; -4.49556 ; 56.86032 
+ GB-SCT-0555 ; Lairig an Lochain ;555; Minor road ; -4.29113 ; 56.54536 
+ GB-SCT-0555a ; Bealach nam Bùthan ;555; S ; -4.98831 ; 57.7702 
+ GB-SCT-0555b ; Bealach an Sgùrr ;555; HS ; -4.80894 ; 56.82658 
+ GB-SCT-0555c ; Bealach Gaothach ;555; HS ; -4.98805 ; 56.14769 
+ GB-SCT-0556 ; Cadha Cumhann ;556; HS ; -4.82733 ; 58.35423 
+ GB-SCT-0558 ; Nick of Curleywee ;558; HS ; -4.42698 ; 55.0615 
+ GB-SCT-0559 ; Nick of the Saddle ;559; HS ; -4.33239 ; 54.98013 
+ GB-SCT-0563 ; Bealach Eadar da Shabhal ;563; HS ; -4.79491 ; 58.35262 
+ GB-SCT-0564 ; Bealach Coire Thollaidh ;564; HS ; -5.2394 ; 57.04443 
+ GB-SCT-0565 ; Bealach na Searmoin ;565; R ; -3.73493 ; 56.73853 
+ GB-SCT-0565a ; Bealach na Maoime Bige ;565; HS ; -4.20338 ; 56.71823 
+ GB-SCT-0565b ; Sneck of Inks ;565; HS ; -3.1396 ; 56.82498 
+ GB-SCT-0565c ; Bealach Lochan a’ Bhealaich ;565; HS ; -4.75078 ; 58.31428 
+ GB-SCT-0565d ; Bealach Cumhann ;565; HS ; -4.98428 ; 56.78605 
+ GB-SCT-0567 ; Lairig Noe ;567; HS ; -5.07612 ; 56.44147 
+ GB-SCT-0567a ; Eag a’ Gharbh-choire ;567; HS ; -3.63564 ; 57.16867 
+ GB-SCT-0568 ; Eag a’ Chait ;568; S ; -3.713 ; 57.13804 
+ GB-SCT-0569 ; Bealach a' Chornaidh ;569; HS ; -5.06337 ; 58.20812 
+ GB-SCT-0569a ; Bealach a'Choire Bhain ;569; HS ; -5.60109 ; 56.61058 
+ GB-SCT-0573 ; Bealach Beag-laraich ;573; HS ; -4.19734 ; 56.31258 
+ GB-SCT-0574 ; Bealach an Fharaidh ;574; HS ; -5.32362 ; 55.6364 
+ GB-SCT-0574a ; Màm Uchd ;574; HS ; -5.56724 ; 57.01112 
+ GB-SCT-0575 ; Bealach Gliogarsnaich ;575; S ; -4.20432 ; 56.34134 
+ GB-SCT-0575a ; Bealach na h-Imriche ;575; S ; -4.48164 ; 56.21836 
+ GB-SCT-0575b ; Big Windgate Hass ;575; HS ; -3.71841 ; 55.40278 
+ GB-SCT-0575c ; Màm a’ Choir’ Idhir ;575; HS ; -5.94258 ; 56.42536 
+ GB-SCT-0575d ; Nick of Corners Gale ;575; HS ; -4.43388 ; 55.06281 
+ GB-SCT-0575e ; Lairig Mhultaibh ;575; HS ; -4.33766 ; 56.40265 
+ GB-SCT-0575f ; Bealach a’ Chabair ;575; HS ; -4.74179 ; 56.0869 
+ GB-SCT-0575g ; Bealach a’ Choire Bhuidhe ;575; HS ; -5.47344 ; 57.15474 
+ GB-SCT-0576 ; Bealach Ghlas Leathaid ;576; HS ; -4.63341 ; 56.46121 
+ GB-SCT-0577 ; Snowy Slack ;577; HS ; -2.98221 ; 57.27736 
+ GB-SCT-0579 ; Bealach Fhionnghaill ;579; HS ; -5.04927 ; 56.62628 
+ GB-SCT-0580 ; Bealach nam Mulachag ;580; HS ; -5.70142 ; 57.23866 
+ GB-SCT-0580a ; Cadha Dubh ;580; HS ; -3.22629 ; 57.33026 
+ GB-SCT-0582 ; Màm na Dubharaiche ;582; HS ; -5.39343 ; 57.25208 
+ GB-SCT-0583 ; Bealach a'Mhonmhuir ;583; HS ; -5.51786 ; 56.65776 
+ GB-SCT-0584 ; The Eag ;584; S ; -3.35545 ; 57.17495 
+ GB-SCT-0585 ; Bealach a' Mheim ;585; HS ; -4.65082 ; 56.27286 
+ GB-SCT-0585a ; Cadh’ a’ Bhàillidh ;585; HS ; -4.98731 ; 57.66653 
+ GB-SCT-0585b ; Màm nan Sac ;585; HS ; -4.9067 ; 56.55696 
+ GB-SCT-0585c ; Bealach na Ceud Eilde ;585; HS ; -5.20262 ; 57.36252 
+ GB-SCT-0585d ; Bealach Iosal ;585; S ; -4.20498 ; 56.31436 
+ GB-SCT-0586 ; Bealach a' Choire Ghairbh ;586; S ; -5.45253 ; 57.48181 
+ GB-SCT-0586a ; Bealach Dhruim nam Bò ;586; HS ; -5.52908 ; 57.15742 
+ GB-SCT-0587 ; Bealach Casan ;587; HS ; -5.45537 ; 57.15321 
+ GB-SCT-0592 ; Bealach Car ;592; HS ; -4.15796 ; 56.33382 
+ GB-SCT-0593 ; Bealach a' Choire Odhair ;593; S ; -5.58655 ; 57.08599 
+ GB-SCT-0593a ; Lairig Liaran ;593; HS ; -4.47883 ; 56.513 
+ GB-SCT-0593b ; Snappers Slack ;593; HS ; -3.67092 ; 55.28919 
+ GB-SCT-0594 ; Bealach Mór ;594; HS ; -5.1284 ; 58.1135 
+ GB-SCT-0595 ; Bealach Pollach ;595; R ; -4.46856 ; 56.20478 
+ GB-SCT-0595a ; Bealach a’ Mhaim ;595; S ; -4.19802 ; 56.72334 
+ GB-SCT-0595b ; Bealach na Cruaiche ;595; HS ; -4.81401 ; 56.83751 
+ GB-SCT-0595c ; Bealach Gaoith ;595; HS ; -5.49178 ; 56.79313 
+ GB-SCT-0595d ; Bealach Fraoch ;595; HS ; -4.97215 ; 56.52052 
+ GB-SCT-0595e ; Little Nick ;595; HS ; -3.28563 ; 55.34541 
+ GB-SCT-0596 ; Bealach a' Chòinich ;596; HS ; -5.209 ; 57.1837 
+ GB-SCT-0596a ; Bealach na h-Aon-luirg ;596; HS ; -5.03542 ; 57.16197 
+ GB-SCT-0596b ; Bealach Bhearnais ;596; HS ; -5.23504 ; 57.45299 
+ GB-SCT-0596c ; Bealach na h-Imrich ;596; HS ; -4.99643 ; 57.23688 
+ GB-SCT-0598 ; Bealach Bàn ;598; HS ; -5.5977 ; 57.09512 
+ GB-SCT-0599 ; Bealach nan Arr ;599; HS ; -5.6889 ; 57.43799 
+ GB-SCT-0600 ; Bealach Arnasdail ;600; HS ; -5.55547 ; 57.14959 
+ GB-SCT-0605 ; Bealach na Seann Lairige ;605; R ; -4.34354 ; 56.2848 
+ GB-SCT-0605a ; Door Hass ;605; HS ; -3.21573 ; 55.58557 
+ GB-SCT-0605b ; Bealach an Fhuarain ;605; HS ; -4.93013 ; 57.37865 
+ GB-SCT-0605c ; Nick of the Brushy ;605; HS ; -4.45991 ; 55.05577 
+ GB-SCT-0605d ; Fionn Bhealach ;605; HS ; -4.44418 ; 56.36105 
+ GB-SCT-0608 ; Bealach Choinnich ;608; HS ; -4.89137 ; 58.08733 
+ GB-SCT-0608a ; Bealach Ruadh ;608; HS ; -4.14549 ; 56.36546 
+ GB-SCT-0609 ; Lairig a’ Churain ;609; HS ; -4.50923 ; 56.45937 
+ GB-SCT-0613 ; Lairig Dhoireann ;613; HS ; -4.98838 ; 56.46202 
+ GB-SCT-0615 ; Bealach Coire nan Gall ;615; HS ; -5.59542 ; 56.86021 
+ GB-SCT-0615a ; Bealach an Fhuarain ;615; HS ; -5.40322 ; 57.04994 
+ GB-SCT-0615b ; Bealach a’ Mhadaidh ;615; HS ; -4.90024 ; 58.16947 
+ GB-SCT-0615c ; Bealach na Cloiche ;615; HS ; -4.58818 ; 56.30105 
+ GB-SCT-0619 ; Nick of Clashneach ;619; HS ; -4.33208 ; 54.96545 
+ GB-SCT-0621 ; Bealach an t- Sionnaich ;621; HS ; -4.92248 ; 56.08553 
+ GB-SCT-0625 ; Bealach na h-Uidhe ;625; S ; -4.95392 ; 58.19003 
+ GB-SCT-0625a ; Bealach a’ Choire Bheithich ;625; HS ; -5.17445 ; 57.00509 
+ GB-SCT-0625b ; Garbh Bhealach ;625; HS ; -4.66675 ; 56.33081 
+ GB-SCT-0625c ; Bealach an Dùin ;625; HS ; -4.74521 ; 56.13748 
+ GB-SCT-0625d ; Bealach na Eas Ban ;625; HS ; -5.37297 ; 57.26438 
+ GB-SCT-0627 ; Bealach an Easain ;627; HS ; -4.98109 ; 57.00275 
+ GB-SCT-0627a ; Bealach an Fhir-bhogha ;627; S ; -5.23671 ; 55.62492 
+ GB-SCT-0627b ; Bealach na Bá ;627; Minor road ; -5.70693 ; 57.41773 
+ GB-SCT-0627c ; Nick of Carclach ;627; HS ; -4.49949 ; 55.177 
+ GB-SCT-0627d ; Bealach Clach nam Meirleach ;627; HS ; -5.06872 ; 56.6156 
+ GB-SCT-0631 ; Bealach a’ Mhaim ;631; HS ; -4.50892 ; 56.56329 
+ GB-SCT-0632 ; Làirig Dhochard ;632; S ; -4.95136 ; 56.57062 
+ GB-SCT-0635 ; Bealach a’ Ghlas-choire ;635; HS ; -6.18614 ; 57.23958 
+ GB-SCT-0635a ; Bealach a’ Choire Rùchain ;635; HS ; -4.12144 ; 56.34956 
+ GB-SCT-0636 ; Slacks of Glencarvie ;636; HS ; -3.08124 ; 57.13628 
+ GB-SCT-0637 ; Bealach a’ Chaoruinn ;637; HS ; -5.23146 ; 57.45158 
+ GB-SCT-0638 ; Bealach a' Mhaim ;638; S ; -4.80512 ; 56.2245 
+ GB-SCT-0638a ; Lairig Luaidhe ;638; HS ; -4.38326 ; 56.53342 
+ GB-SCT-0639 ; Bealach a’ Choire Chruaidh ;639; HS ; -5.44263 ; 57.02713 
+ GB-SCT-0643 ; Nick of the Lochans ;643; HS ; -4.20251 ; 55.25048 
+ GB-SCT-0645 ; Bealach Dearg ;645; HS ; -5.19623 ; 56.61514 
+ GB-SCT-0645a ; Bealach Odhar ;645; HS ; -4.91314 ; 57.1195 
+ GB-SCT-0649 ; An Lairig ;649; R ; -3.48473 ; 56.79782 
+ GB-SCT-0650 ; Bealach an Sgriodain ;650; HS ; -5.48724 ; 56.80005 
+ GB-SCT-0650a ; Bealach Carn na h-Urchaire ;650; HS ; -5.02808 ; 57.00608 
+ GB-SCT-0652 ; Bealach Dearg ;652; R ; -3.35502 ; 57.06595 
+ GB-SCT-0653 ; Bealach an Amais ;653; HS ; -5.05173 ; 57.21677 
+ GB-SCT-0654 ; Bealach Cumhann ;654; S ; -4.51535 ; 56.81154 
+ GB-SCT-0655 ; Bealach Beag ;655; HS ; -5.43022 ; 56.7895 
+ GB-SCT-0655a ; Bealach Coire nan Cadhan ;655; HS ; -5.47701 ; 57.46788 
+ GB-SCT-0655b ; Bealach na Moine ;655; HS ; -4.12977 ; 56.34236 
+ GB-SCT-0655c ; Bealach nan Corp ;655; HS ; -4.33055 ; 56.26926 
+ GB-SCT-0656 ; Bealach Buidhe ;656; HS ; -3.37399 ; 56.93284 
+ GB-SCT-0656a ; Eag a’ Mhadaidh Ruaidh ;656; HS ; -5.46866 ; 56.79858 
+ GB-SCT-0659 ; Bealach nan Cabar ;659; HS ; -4.26273 ; 56.31921 
+ GB-SCT-0664 ; Beul a’ Chasain ;664; HS ; -4.486 ; 57.15435 
+ GB-SCT-0665 ; Glas Bhealach ;665; HS ; -5.46019 ; 56.75616 
+ GB-SCT-0665a ; Bealach a’ Chait ;665; HS ; -5.40247 ; 56.90041 
+ GB-SCT-0665b ; Bealach Mòr ;665; HS ; -5.39485 ; 57.49126 
+ GB-SCT-0665c ; Bealach Dubh ;665; HS ; -4.16589 ; 56.34053 
+ GB-SCT-0665d ; Lairig Riarein ;665; HS ; -4.55602 ; 56.44594 
+ GB-SCT-0665e ; Bealach Glas ;665; HS ; -4.25658 ; 56.32562 
+ GB-SCT-0665f ; Cadha Riabhach ;665; HS ; -5.09761 ; 57.21198 
+ GB-SCT-0672 ; Bealach nan Daoine ;672; HS ; -5.50408 ; 56.9792 
+ GB-SCT-0672a ; Cadha Dearg ;672; HS ; -4.89256 ; 57.83141 
+ GB-SCT-0675 ; Bealach a’ Mhargaidh ;675; HS ; -4.82491 ; 56.23167 
+ GB-SCT-0675a ; Bealach Leathan ;675; HS ; -4.99041 ; 56.52394 
+ GB-SCT-0675b ; Bealach an Toiteil ;675; HS ; -5.38846 ; 57.14554 
+ GB-SCT-0675c ; Lairig Shalach ;675; HS ; -3.92953 ; 56.51383 
+ GB-SCT-0675d ; Bealach an t-Sneachda ;675; HS ; -4.44075 ; 56.37135 
+ GB-SCT-0675e ; Bealach Fraoch-choire ;675; HS ; -5.00037 ; 57.23035 
+ GB-SCT-0675f ; Bealach a’ Chàirn Deirg ;675; HS ; -5.4514 ; 57.02944 
+ GB-SCT-0676 ; Bealach Cùl a’ Choire ;676; HS ; -4.25456 ; 56.30159 
+ GB-SCT-0681 ; Cadha na Beucaich ;681; HS ; -4.87091 ; 58.39629 
+ GB-SCT-0681a ; Bealach na Bàn Leacainn ;681; HS ; -4.64192 ; 56.34231 
+ GB-SCT-0681b ; Bealach an Uillt Dhoimhne ;681; HS ; -4.32811 ; 56.75569 
+ GB-SCT-0684 ; Bealach a Choire Odhair ;684; HS ; -5.51005 ; 57.04323 
+ GB-SCT-0686 ; Sneck of the Call ;686; HS ; -3.307 ; 56.83782 
+ GB-SCT-0693 ; Talla Nick ;693; HS ; -3.32631 ; 55.442 
+ GB-SCT-0694 ; Bealach Biudhe ;694; HS ; -5.61001 ; 57.01001 
+ GB-SCT-0695 ; Bealach Buidhe ;695; HS ; -4.87811 ; 56.19954 
+ GB-SCT-0695a ; Hass o’ the Red Roads ;695; HS ; -3.3887 ; 55.40302 
+ GB-SCT-0695b ; An Dìollaid ;695; HS ; -5.61259 ; 57.07847 
+ GB-SCT-0697 ; Bealach Coire Mhàlagain ;697; HS ; -5.40064 ; 57.15726 
+ GB-SCT-0699 ; Bealach Fuar-chathaidh ;699; HS ; -4.8848 ; 56.59511 
+ GB-SCT-0699a ; Bealach Choire nan Saighead ;699; HS ; -4.25932 ; 56.31024 
+ GB-SCT-0700 ; Chalamain Gap ;700; S ; -3.71162 ; 57.1261 
+ GB-SCT-0701 ; Bealach an Fhiona ;701; HS ; -5.66718 ; 56.83932 
+ GB-SCT-0705 ; Cadha Ruadh ;705; HS ; -5.30675 ; 57.34435 
+ GB-SCT-0705a ; Bealach Beinn Leòid ;705; HS ; -4.86812 ; 58.21761 
+ GB-SCT-0705b ; Bealach na Siunnachair ;705; HS ; -4.92904 ; 57.56408 
+ GB-SCT-0705c ; Bealach na Gaoith ;705; HS ; -3.98151 ; 56.46187 
+ GB-SCT-0705d ; Bealach Fhaolain ;705; HS ; -5.04339 ; 56.63656 
+ GB-SCT-0705e ; Sneck of Farchal ;705; HS ; -3.17851 ; 56.848 
+ GB-SCT-0711 ; Bealach Coire Dhorrcail ;711; S ; -5.5716 ; 57.06786 
+ GB-SCT-0713 ; Bealach Ille Coire ;713; HS ; -5.52492 ; 57.03398 
+ GB-SCT-0714 ; Bealach Coire an Dubh-alltan ;714; HS ; -5.46585 ; 56.66588 
+ GB-SCT-0716 ; Bealach Coire Ghàidheil ;716; S ; -5.15516 ; 57.26535 
+ GB-SCT-0720 ; Bealach Duibh Leac ;720; S ; -5.36051 ; 57.14685 
+ GB-SCT-0721 ; Bealach an Dubh Choirein ;721; S ; -4.23127 ; 56.33723 
+ GB-SCT-0723 ; Bealach Choire a' Ghuirein ;723; HS ; -4.99687 ; 57.00959 
+ GB-SCT-0725 ; Màm Bàn ;725; HS ; -4.56607 ; 56.76783 
+ GB-SCT-0725a ; Lairig Mhic Bhaidein ;725; HS ; -4.62795 ; 56.47508 
+ GB-SCT-0726 ; Bealach Choire a' Chait ;726; HS ; -5.12896 ; 57.17945 
+ GB-SCT-0726a ; Bealach Dubh ;726; S ; -4.49067 ; 56.82539 
+ GB-SCT-0728 ; Lairig Torran ;728; HS ; -5.08894 ; 56.41316 
+ GB-SCT-0728a ; Lairig Ianachain ;728; HS ; -5.04029 ; 56.45002 
+ GB-SCT-0729 ; Bealach Fraoch Choire ;729; S ; -5.32331 ; 57.14448 
+ GB-SCT-0730 ; Bealach Odhar ;730; HS ; -5.28016 ; 57.70045 
+ GB-SCT-0733 ; Bealach Coire nan Gall ;733; S ; -5.41414 ; 57.00493 
+ GB-SCT-0735 ; Bealach an Lapain ;735; HS ; -5.29359 ; 57.17812 
+ GB-SCT-0735a ; Bealach a’ Chuirn Ghuirme ;735; S ; -4.59166 ; 57.69705 
+ GB-SCT-0735b ; Bealach Leamhain ;735; S ; -4.48072 ; 56.88727 
+ GB-SCT-0735c ; Bealach an Tuill Ghaineamhaich ;735; HS ; -5.01543 ; 57.35149 
+ GB-SCT-0735d ; Fiar Bhealach ;735; HS ; -5.21217 ; 57.09289 
+ GB-SCT-0740 ; Bealach Coire nan Cearc ;740; HS ; -5.39286 ; 56.90844 
+ GB-SCT-0740a ; Lairig an Laoigh ;740; S ; -3.59677 ; 57.08509 
+ GB-SCT-0741 ; Bealach a’ Choire Chreagaich ;741; HS ; -3.83904 ; 56.93036 
+ GB-SCT-0743 ; Bealach an Fhalaisg Dhuibh ;743; HS ; -5.63352 ; 56.8455 
+ GB-SCT-0745 ; Cadha Riabhach ;745; S ; -5.35876 ; 57.02293 
+ GB-SCT-0745a ; Bealach Buidhe ;745; S ; -4.64206 ; 56.19109 
+ GB-SCT-0748 ; Màm Buidhe ;748; HS ; -4.9578 ; 56.64692 
+ GB-SCT-0749 ; Bealach Coire an Laoigh ;749; HS ; -4.55457 ; 56.30917 
+ GB-SCT-0749a ; Glas Bhealach ;749; HS ; -4.817 ; 56.24214 
+ GB-SCT-0755 ; Cadha na Coin Duibh ;755; R ; -3.86008 ; 57.02649 
+ GB-SCT-0755a ; Bealach Leathann ;755; HS ; -5.40642 ; 56.93396 
+ GB-SCT-0756 ; Cadha Raineach ;756; HS ; -4.95996 ; 57.43679 
+ GB-SCT-0757 ; Bealach an Torc-choire ;757; HS ; -5.55862 ; 57.03116 
+ GB-SCT-0759 ; Bealach Mhic Bheathain ;759; HS ; -5.34943 ; 57.32343 
+ GB-SCT-0765 ; Bealachan Lochain Ghaineamhaich ;765; S ; -5.02741 ; 56.5364 
+ GB-SCT-0765a ; Bealach na Glaic Moire ;765; HS ; -6.22235 ; 57.23394 
+ GB-SCT-0765b ; Cadha nam Bò Ruadha ;765; HS ; -5.36294 ; 57.13592 
+ GB-SCT-0765c ; Bealach nam Botàichean ;765; HS ; -4.86626 ; 57.44601 
+ GB-SCT-0767 ; Corrieyairack Pass ;767; R ; -4.60758 ; 57.05162 
+ GB-SCT-0775 ; Bealach Ban ;775; HS ; -4.9576 ; 57.67263 
+ GB-SCT-0775a ; Bealach an Neid ;775; HS ; -4.48314 ; 56.56971 
+ GB-SCT-0775b ; Bealach Buidhe ;775; HS ; -4.75964 ; 56.39481 
+ GB-SCT-0785 ; Bealach Gaoithe ;785; HS ; -4.93469 ; 57.56619 
+ GB-SCT-0785a ; Bealach Coire a’ Chaorainn ;785; HS ; -5.32979 ; 57.11229 
+ GB-SCT-0790 ; Bealach a' Gharbh-choire ;790; HS ; -6.21646 ; 57.20114 
+ GB-SCT-0795 ; Bealach na Cloiche Duibhe ;795; HS ; -5.0421 ; 57.36583 
+ GB-SCT-0795a ; Bealach na Creige Duibhe ;795; HS ; -4.98486 ; 57.36658 
+ GB-SCT-0797 ; Cadha Mhic Iall Donaich ;797; HS ; -4.96089 ; 57.79068 
+ GB-SCT-0799 ; Bealach a’ Choire Réidhe ;799; S ; -5.30576 ; 57.14268 
+ GB-SCT-0805 ; Cadha Dearg Mòr ;805; HS ; -5.04953 ; 57.67713 
+ GB-SCT-0805a ; Bealach Buidhe ;805; HS ; -4.61943 ; 56.33214 
+ GB-SCT-0805b ; Bealach Creag a’ Bhannaich ;805; HS ; -4.16272 ; 56.58166 
+ GB-SCT-0807 ; Bealach nan Sgòr ;807; HS ; -4.55051 ; 56.77653 
+ GB-SCT-0807a ; The Saddle ;807; S ; -3.62185 ; 57.11051 
+ GB-SCT-0813 ; Bealach an Aoghlain ;813; HS ; -4.68081 ; 56.55429 
+ GB-SCT-0815 ; Bealach Slaidearan ;815; S ; -4.59936 ; 56.48608 
+ GB-SCT-0815a ; Bealach an t-Sealgaire ;815; HS ; -5.32657 ; 57.22965 
+ GB-SCT-0815b ; Cadha na Guite ;815; HS ; -5.04766 ; 57.68816 
+ GB-SCT-0815c ; Bealach Toll an Lochain ;815; HS ; -5.1152 ; 57.69265 
+ GB-SCT-0819 ; Bealach a' Bharnish ;819; HS ; -4.63758 ; 56.94322 
+ GB-SCT-0821 ; Bealach Caol na Droma Mòire ;821; S ; -5.26847 ; 57.13197 
+ GB-SCT-0825 ; Bealach an Lochain ;825; S ; -5.13136 ; 56.42082 
+ GB-SCT-0825a ; Bealach Buidhe ;825; HS ; -5.35269 ; 57.20271 
+ GB-SCT-0825b ; Bealach Toll an Lochain ;825; HS ; -5.07333 ; 57.363 
+ GB-SCT-0825c ; Bealach nam Fiadh ;825; HS ; -4.58541 ; 56.75477 
+ GB-SCT-0825d ; Bealach Bog ;825; HS ; -5.29488 ; 57.33426 
+ GB-SCT-0832 ; Bealach a' Bhásteir ;832; HS ; -6.19862 ; 57.24773 
+ GB-SCT-0834 ; Bealach Breabag ;834; S ; -4.4464 ; 56.7994 
+ GB-SCT-0834a ; Lairig Ghru ;834; S ; -3.69505 ; 57.09133 
+ GB-SCT-0834b ; Lairig Innein ;834; HS ; -4.18676 ; 56.56912 
+ GB-SCT-0835 ; Bealach na Frithe ;835; HS ; -4.50162 ; 56.37411 
+ GB-SCT-0835a ; Bealach Odhar ;835; HS ; -4.92737 ; 56.57431 
+ GB-SCT-0835b ; Bealach nan Daoine ;835; HS ; -5.20731 ; 57.26141 
+ GB-SCT-0837 ; Bealach Beag ;837; HS ; -5.12739 ; 57.29914 
+ GB-SCT-0837a ; Cadha Gobhlach ;837; HS ; -5.25374 ; 57.79398 
+ GB-SCT-0845 ; Bealach na Craoibhe ;845; HS ; -5.34841 ; 57.18538 
+ GB-SCT-0845a ; Cadh’ an Amadain ;845; HS ; -4.94798 ; 57.79169 
+ GB-SCT-0845b ; Uinneag Coire an Lochain ;845; HS ; -4.36929 ; 57.05249 
+ GB-SCT-0846 ; Lairig Charnach ;846; HS ; -3.52919 ; 56.81799 
+ GB-SCT-0847 ; Bealach na h-Eige ;847; HS ; -5.0899 ; 57.3039 
+ GB-SCT-0847a ; Bealach an Fhiodha ;847; HS ; -3.70893 ; 56.83409 
+ GB-SCT-0848 ; Bealach Coire na Banachdich ;848; HS ; -6.23646 ; 57.21539 
+ GB-SCT-0855 ; Bealach na Càrnach ;855; HS ; -5.34847 ; 57.19251 
+ GB-SCT-0855a ; Bealach an Lochain Uaine ;855; HS ; -4.92473 ; 57.79433 
+ GB-SCT-0855b ; Bealach Sneachda ;855; HS ; -4.89175 ; 57.44614 
+ GB-SCT-0857 ; Bealach a’ Chadha Riabhaich ;857; S ; -4.96727 ; 56.75298 
+ GB-SCT-0859 ; Bealach Bholla ;859; HS ; -5.14249 ; 57.35279 
+ GB-SCT-0860 ; Bealach-eadar-dha Beinn ;860; HS ; -4.54029 ; 56.37821 
+ GB-SCT-0865 ; Bealach Tom a’ Chòinnich ;865; HS ; -4.57638 ; 57.68861 
+ GB-SCT-0865a ; Bealach Caol na Droma Bige ;865; S ; -5.25834 ; 57.13025 
+ GB-SCT-0865b ; Bealach Dearg ;865; HS ; -4.95891 ; 57.4434 
+ GB-SCT-0865c ; Bealach Coire Choinnich ;865; HS ; -5.19901 ; 57.45094 
+ GB-SCT-0869 ; Bealach Toll Easa ;869; S ; -5.03569 ; 57.30164 
+ GB-SCT-0869a ; Bealach a’ Choire Bhric ;869; HS ; -5.10281 ; 57.6919 
+ GB-SCT-0871 ; Bealach nan Lice ;871; HS ; -6.20501 ; 57.24753 
+ GB-SCT-0875 ; Diollaid a’ Chàirn ;875; HS ; -4.4768 ; 56.85016 
+ GB-SCT-0877 ; Windy Nick ;877; HS ; -4.60271 ; 56.33266 
+ GB-SCT-0885 ; Bealach Sgùrr an Lochain ;885; S ; -5.29084 ; 57.13784 
+ GB-SCT-0885a ; Bealach na Con Dhu ;885; HS ; -5.19018 ; 57.27641 
+ GB-SCT-0885b ; Aisre Ghobhainn ;885; HS ; -4.48891 ; 56.8449 
+ GB-SCT-0895 ; Eag nam Fear-bogha ;895; HS ; -5.02375 ; 57.70356 
+ GB-SCT-0895a ; Stoineag ;895; HS ; -5.04274 ; 56.53136 
+ GB-SCT-0895b ; Bealach na Caine ;895; HS ; -5.13527 ; 57.69049 
+ GB-SCT-0895c ; Uinneag a’ Ghlas Choire ;895; HS ; -4.56214 ; 56.82212 
+ GB-SCT-0899 ; Bealach Coire Laoghan ;899; HS ; -4.90896 ; 56.5695 
+ GB-SCT-0905 ; Bealach Toll Sgàile ;905; HS ; -4.91765 ; 57.44678 
+ GB-SCT-0917 ; Uinneag Coire a’ Chaorainn ;917; S ; -4.53105 ; 56.97773 
+ GB-SCT-0924 ; Bealach Coire na Ceannain ;924; HS ; -4.85574 ; 56.8367 
+ GB-SCT-0925 ; Bealach Dubh ;925; S ; -4.21977 ; 56.55547 
+ GB-SCT-0925a ; Bealach nan Spàinteach ;925; HS ; -5.33101 ; 57.18085 
+ GB-SCT-0925b ; Bealach na Dheiragain ;925; HS ; -5.18563 ; 57.28607 
+ GB-SCT-0925c ; Bealach a’ Chip ;925; HS ; -5.00495 ; 56.75158 
+ GB-SCT-0935 ; Bealach Coire Easain ;935; HS ; -4.89725 ; 56.80686 
+ GB-SCT-0935a ; Uinneag Mìn Choire ;935; S ; -4.55243 ; 56.97582 
+ GB-SCT-0944 ; Bealach Dearg ;944; HS ; -5.01702 ; 56.63824 
+ GB-SCT-0945 ; The Window ;945; HS ; -4.58963 ; 56.96138 
+ GB-SCT-0958 ; Diollaid Coire Eindart ;958; R ; -3.81628 ; 57.01168 
+ GB-SCT-0959 ; Glas Bhealach ;959; HS ; -5.09468 ; 57.17225 
+ GB-SCT-0960 ; Garbh-bhealach ;960; HS ; -5.07444 ; 57.29206 
+ GB-SCT-0975 ; Bealach Dubh-liath ;975; HS ; -5.1058 ; 57.17377 
+ GB-SCT-0975a ; The Sneck ;975; HS ; -3.45678 ; 57.0916 
+ GB-WLS-0032 ; Bwlch ;32; Minor road ; -4.52613 ; 52.81692 
+ GB-WLS-0058 ; Bwlch ;58; Minor road ; -4.11155 ; 52.6271 
+ GB-WLS-0065 ; Bwlch-cyfyng ;65; B4405 ; -3.96603 ; 52.63932 
+ GB-WLS-0076 ; Bwlch Fm ;76; Minor road ; -4.44464 ; 51.86286 
+ GB-WLS-0091 ; Pass Bye ;91; Minor road ; -4.61776 ; 51.84001 
+ GB-WLS-0107 ; Bwlch-cefn ;107; Minor road ; -4.33849 ; 52.20083 
+ GB-WLS-0112 ; Bwlch ;112; R1 ; -4.045 ; 52.395278 
+ GB-WLS-0138 ; Bwlchyradwy ;138; Minor road ; -4.15466 ; 51.8945 
+ GB-WLS-0145 ; Bwlch-yr-ysgol ;145; Minor road ; -4.00194 ; 52.74995 
+ GB-WLS-0148 ; Bwlchmelyn ;148; Minor road ; -4.53134 ; 52.03235 
+ GB-WLS-0150 ; Bwlchgwynt ;150; Minor road ; -4.50664 ; 51.87649 
+ GB-WLS-0153 ; Adwy-wynt ;153; Minor road ; -3.35602 ; 53.2301 
+ GB-WLS-0155 ; Bwlch-y-maen ;155; B4410 ; -4.02467 ; 52.95727 
+ GB-WLS-0155a ; Bwlch-y-mynydd ;155; Minor road ; -4.5209 ; 52.86441 
+ GB-WLS-0156 ; Bwlch-y-cibau ;156; A490 ; -3.21877 ; 52.748203 
+ GB-WLS-0158 ; Tynbwlch ;158; R1-2 ; -4.12028 ; 52.33855 
+ GB-WLS-0160 ; Bwlchyrhandir ;160; Minor road ; -4.07069 ; 52.33488 
+ GB-WLS-0161 ; Bwlch Gwynt ;161; Minor road ; -4.48894 ; 52.94353 
+ GB-WLS-0162 ; Sychnant Pass ;162; Minor road ; -3.87549 ; 53.27541 
+ GB-WLS-0165 ; Bwlch-gynffyrch ;165; R ; -3.72991 ; 52.64559 
+ GB-WLS-0166 ; Bwlchwern Hir ;166; Minor road ; -3.76965 ; 53.25172 
+ GB-WLS-0166a ; Bwlch-y-cwm ;166; Minor road ; -3.23466 ; 51.54618 
+ GB-WLS-0170 ; Bwlch-derwin ;170; Minor road ; -4.29499 ; 52.9954 
+ GB-WLS-0177 ; Bwlch-y-maen ;177; R ; -3.99652 ; 52.63641 
+ GB-WLS-0178 ; Bwlch ;178; Minor road ; -3.39366 ; 53.28484 
+ GB-WLS-0179 ; Bwlch-y-llan ;179; Minor road ; -3.26858 ; 52.77432 
+ GB-WLS-0181 ; Bwlchyllyn ;181; Minor road ; -3.51606 ; 52.48306 
+ GB-WLS-0190 ; Bwlch ;307; Minor road ; -3.32322 ; 53.20761 
+ GB-WLS-0193 ; Bwlch-heble ;193; A4120 ; -3.94221 ; 52.38096 
+ GB-WLS-0194 ; Bwlchygroes ;194; Minor road ; -4.56501 ; 51.99472 
+ GB-WLS-0197 ; Tynybwlch ;197; R ; -4.04606 ; 52.89322 
+ GB-WLS-0202 ; Bwlch Cae Brith ;202; Minor road ; -4.4757 ; 52.02112 
+ GB-WLS-0205 ; Bwlch ;205; R ; -4.00209 ; 52.56264 
+ GB-WLS-0210 ; Bwlchwernen Fawr ;210; R ; -4.04918 ; 52.18296 
+ GB-WLS-0212 ; Gwern-y-bwlch ;212; S ; -3.703201 ; 52.625106 
+ GB-WLS-0214 ; Bwlchgarth ;214; Minor road ; -3.48576 ; 52.18846 
+ GB-WLS-0215 ; Bwlch-y-dderwen ;215; Minor road ; -3.29927 ; 52.73498 
+ GB-WLS-0217 ; Bwlch-y-gilwen ;217; Minor road ; -3.94467 ; 52.07398 
+ GB-WLS-0220 ; Bwlch-castell ;220; Minor road ; -4.15979 ; 52.21342 
+ GB-WLS-0223 ; Bwlch-tre-banau ;223; Minor road ; -3.86123 ; 52.01727 
+ GB-WLS-0224 ; Bwlch-y-garnedd ;224; Minor road ; -3.25903 ; 52.73582 
+ GB-WLS-0225 ; Tynbwlch ;225; R1-2 ; -3.94343 ; 52.31612 
+ GB-WLS-0227 ; Bwlch-y-rhew ;227; Minor road ; -3.77558 ; 52.04675 
+ GB-WLS-0229 ; Bwlch ;229; A40 ; -3.23796 ; 51.89017 
+ GB-WLS-0230 ; Bwlch ;230; Minor road ; -4.45116 ; 52.00134 
+ GB-WLS-0231 ; Bwlch ;231; Minor road ; -3.77543 ; 51.62699 
+ GB-WLS-0232 ; Bwlch Aeddan ;232; Minor road ; -3.22951 ; 52.68641 
+ GB-WLS-0233 ; Bwlch golau ;233; Minor road ; -3.34992 ; 52.70716 
+ GB-WLS-0235 ; Bwlch-cae-Griffyd ;235; R ; -3.72808 ; 52.67089 
+ GB-WLS-0236 ; Bwlchcefnsarth ;236; A482 ; -3.92123 ; 52.02089 
+ GB-WLS-0239 ; Bwlch-y-ffordd ;239; R ; -3.89714 ; 52.83504 
+ GB-WLS-0241 ; Drws-y-nant-uchaf ;241; R ; -3.70905 ; 52.82138 
+ GB-WLS-0242 ; Bwlch-y-rhiw ;242; Minor road ; -3.12755 ; 52.86877 
+ GB-WLS-0243 ; Bwlch-y-groes ;243; A486 ; -4.36743 ; 52.09134 
+ GB-WLS-0246 ; Bwlch-y-fadfa ;246; B4459 ; -4.28388 ; 52.12107 
+ GB-WLS-0246a ; Bwlch-Dihewid ;246; R ; -4.19677 ; 52.17954 
+ GB-WLS-0251 ; Bwlch y Bedol ;251; S ; -4.22043 ; 52.98294 
+ GB-WLS-0253 ; Bwlchgylfin ;253; B4418 ; -4.15724 ; 53.05804 
+ GB-WLS-0255 ; Bwlch y Moch ;255; S ; -4.14851 ; 53.06396 
+ GB-WLS-0255a ; Bwlch-cwm-Cewydd ;255; R ; -3.67354 ; 52.71703 
+ GB-WLS-0255b ; Bwlch-Cynnant ;255; Minor road ; -3.74741 ; 52.06967 
+ GB-WLS-0255c ; Bwlch-lluan ;255; R ; -3.79306 ; 52.63966 
+ GB-WLS-0255d ; Bwlch-wyniad ;255; B4313 ; -4.86582 ; 51.94797 
+ GB-WLS-0258 ; Bwlch ;258; R ; -3.83922 ; 52.56127 
+ GB-WLS-0259 ; Bwlch-y-ddwyallt ;259; R ; -3.97351 ; 52.47318 
+ GB-WLS-0262 ; Bwlch-y-rhiw ;262; Minor road ; -3.86485 ; 52.09973 
+ GB-WLS-0266 ; Bwlchyddwyallt ;266; R ; -3.8903 ; 52.25131 
+ GB-WLS-0266a ; Tyn-y-bwlch ;266; Minor road ; -3.47978 ; 52.96897 
+ GB-WLS-0272 ; Bwlch-y-pant ;272; Minor road ; -4.75777 ; 51.93063 
+ GB-WLS-0274 ; Bylchau ;274; A483 ; -3.69078 ; 52.07884 
+ GB-WLS-0275 ; Bwlch y Groesen ;275; R ; -3.81981 ; 52.54403 
+ GB-WLS-0275a ; Bwlch-glâs ;275; Minor road ; -3.43883 ; 52.74566 
+ GB-WLS-0276 ; Bwlch y Crogfa ;276; HS ; -3.27989 ; 52.73176 
+ GB-WLS-0276a ; Bwlch-y-Plain ;276; R ; -3.11842 ; 52.37042 
+ GB-WLS-0281 ; Bwlchmawr ;281; Minor road ; -3.619 ; 52.14457 
+ GB-WLS-0282 ; Bwlchyddar ;282; Minor road ; -3.23123 ; 52.79103 
+ GB-WLS-0284 ; Bwlch-glas ;284; HS ; -3.90916 ; 52.46962 
+ GB-WLS-0288 ; Bwlch Caermalwas ;288; B4337 ; -4.09914 ; 52.04446 
+ GB-WLS-0289 ; Bwlch-y-parc ;289; A494 ; -3.24611 ; 53.11474 
+ GB-WLS-0291 ; Bwlch-yr-haiarn ;291; Minor road ; -3.82669 ; 53.11791 
+ GB-WLS-0291a ; Tafarn-y-bwlch ;291; B4329 ; -4.79101 ; 51.96811 
+ GB-WLS-0294 ; Bwlch Llyn Bach ;294; A487 ; -3.8415 ; 52.70836 
+ GB-WLS-0295 ; Bwlch-cae-haidd ;295; Minor road ; -3.39609 ; 52.55825 
+ GB-WLS-0295a ; Bwlch Main ;295; R ; -3.74075 ; 52.66702 
+ GB-WLS-0295b ; Bwlch y Fedwen ;295; A458 ; -3.58166 ; 52.71155 
+ GB-WLS-0295c ; Bwlch y Maen ;295; S ; -3.91388 ; 52.45694 
+ GB-WLS-0295d ; Bwlch-y-Sygyn ;295; S ; -4.08437 ; 53.01215 
+ GB-WLS-0295e ; Bylchau Isa ;295; B5435 ; -3.51986 ; 53.15735 
+ GB-WLS-0297 ; Bwlch ;297; R ; -3.46357 ; 52.30707 
+ GB-WLS-0297a ; Bwlchcrwys ;297; A4120 - Minor road ; -3.89925 ; 52.3808 
+ GB-WLS-0300 ; Tynybwlch ;300; R ; -3.29904 ; 52.79796 
+ GB-WLS-0304 ; Bwlch Glynmynydd ;304; Minor road ; -3.67461 ; 52.57909 
+ GB-WLS-0305 ; Pegwyn-y-bwlch ;305; R ; -3.10242 ; 51.62972 
+ GB-WLS-0306 ; Bwlch ;306; Minor road ; -3.19349 ; 52.96607 
+ GB-WLS-0310 ; Bwlch Goriwared ;310; R ; -3.83357 ; 52.80391 
+ GB-WLS-0310a ; Bwlchgwallter ;310; R ; -3.81194 ; 52.33679 
+ GB-WLS-0315 ; Bwlch Nant-yr-arian ;315; A44 ; -3.88512 ; 52.41451 
+ GB-WLS-0316 ; Bwlch Ungwr ;316; S1-2 ; -4.70937 ; 51.96312 
+ GB-WLS-0318 ; Bwlch Coch ;318; S ; -3.53056 ; 52.27193 
+ GB-WLS-0318a ; Bwlchciliau ;318; R ; -3.53037 ; 52.19037 
+ GB-WLS-0325 ; Bwlch blaen-corn ;325; Minor road ; -3.98614 ; 52.10531 
+ GB-WLS-0325a ; Bwlch Gwyn ;325; R ; -3.604 ; 52.6185 
+ GB-WLS-0328 ; Bwlch Côch ;328; R ; -3.31369 ; 52.99031 
+ GB-WLS-0330 ; Bwlch Siglen ;330; S ; -3.723256 ; 52.708785 
+ GB-WLS-0330a ; Bwlchydonge ;330; Minor road ; -3.15382 ; 52.87691 
+ GB-WLS-0330b ; Bylchau ;330; A544 ; -3.53385 ; 53.15444 
+ GB-WLS-0332 ; Bwlch Gwyn ;332; HS ; -3.84913 ; 52.39328 
+ GB-WLS-0335 ; Bwlchtuathre ;335; R ; -3.63081 ; 52.13051 
+ GB-WLS-0336 ; Bwlch Cwm-trwsgl ;336; S ; -4.15883 ; 53.02474 
+ GB-WLS-0338 ; Bwlch y Llan ;338; S ; -4.04237 ; 52.73852 
+ GB-WLS-0339 ; Bwlch y Garreg ;339; Minor road ; -3.45801 ; 52.55403 
+ GB-WLS-0342 ; Pen-y-bwlch ;342; Minor road ; -4.10637 ; 53.16439 
+ GB-WLS-0344 ; Bwlch-chwyrn ;344; R ; -3.53763 ; 52.18097 
+ GB-WLS-0348 ; Bwlch-llwyn Bank ;348; Minor road ; -3.29884 ; 52.22831 
+ GB-WLS-0349 ; Bwlch yr Eifl ;349; R ; -4.441655 ; 52.980622 
+ GB-WLS-0349a ; Bwlch-y-gaer ;349; R ; -3.88228 ; 53.20461 
+ GB-WLS-0349b ; Bylchau Blaenclydach ;349; Minor road ; -3.73889 ; 51.92541 
+ GB-WLS-0353 ; Bwlchyfan ;353; Minor road ; -3.564 ; 52.48927 
+ GB-WLS-0354 ; Bwlchystyllen ;354; R ; -3.86959 ; 52.45893 
+ GB-WLS-0355 ; Bwlch Cwm-ystradllyn ;355; S ; -4.12274 ; 52.98305 
+ GB-WLS-0358 ; Bwlch ;358; Minor road ; -3.154412 ; 52.868614 
+ GB-WLS-0358a ; Bwlch Penbarras ;358; Minor road ; -3.25484 ; 53.13565 
+ GB-WLS-0360 ; Pass of Llanberis ;360; A4086 ; -4.0207 ; 53.0807 
+ GB-WLS-0361 ; Bwlch Drws Ardudwy ;361; S ; -3.99148 ; 52.83313 
+ GB-WLS-0363 ; Bwlch Oerddrws ;363; A470 ; -3.77564 ; 52.73772 
+ GB-WLS-0365 ; Bwlch ym Mhwll-le ;365; S ; -4.04071 ; 53.19357 
+ GB-WLS-0365a ; Bwlch-y-ffîn ;365; Minor road ; -3.97877 ; 52.11283 
+ GB-WLS-0367 ; Bwlch-mawr ;367; Minor road ; -3.40177 ; 52.29478 
+ GB-WLS-0370 ; Bwlch-y-groes ;370; R ; -4.15787 ; 53.11672 
+ GB-WLS-0373 ; Bwlch y Rhediad ;373; S3-4 ; -3.99101 ; 53.05192 
+ GB-WLS-0375 ; Bwlch Gwyn ;375; S ; -3.84835 ; 52.80088 
+ GB-WLS-0375a ; Bwlch y Battel ;375; S ; -4.03212 ; 53.00209 
+ GB-WLS-0377 ; Bwlch Crug-glâs ;377; S ; -3.24725 ; 53.12695 
+ GB-WLS-0379 ; Bwlch-y-sarnau ;379; Minor road ; -3.426602 ; 52.360783 
+ GB-WLS-0380 ; Bwlch ;380; Minor road ; -3.17829 ; 52.16928 
+ GB-WLS-0381 ; Bwlch Bryn-rhudd ;381; A4067 ; -3.64425 ; 51.86152 
+ GB-WLS-0385 ; Bwlch y Garnedd ;385; R ; -3.65002 ; 52.71325 
+ GB-WLS-0389 ; Bwlch y Gorddinan ;389; A470 ; -3.93908 ; 53.01975 
+ GB-WLS-0395 ; Bwlch Tri Arglwydd ;395; S ; -3.76824 ; 52.67018 
+ GB-WLS-0395a ; Bwlch yr Adwy ;395; R ; -3.88784 ; 52.46389 
+ GB-WLS-0395b ; Waun Bwlch ;395; S ; -3.51598 ; 52.21735 
+ GB-WLS-0401 ; Craig Tan-y-bwlch ;401; S ; -3.89402 ; 53.03157 
+ GB-WLS-0401a ; Horseshoe Pass ;401; A542 ; -3.20583 ; 53.0245 
+ GB-WLS-0404 ; Bwlch-gwynt ;404; B4329 ; -4.80296 ; 51.95481 
+ GB-WLS-0406 ; Bwlch y Groes ;406; Minor road ; -3.27147 ; 53.00033 
+ GB-WLS-0407 ; Bwlch ;407; R ; -3.22429 ; 52.40296 
+ GB-WLS-0407a ; Bwlch-y-fwlet ;407; S ; -3.626498 ; 52.856932 
+ GB-WLS-0407b ; Bwlch ;407; R ; -3.22428 ; 52.40295 
+ GB-WLS-0410 ; Bwlch Gwyn ;410; A543 ; -3.64342 ; 53.07983 
+ GB-WLS-0410a ; Bwlch-y-ddwy-elor ;410; S ; -4.16032 ; 53.03122 
+ GB-WLS-0411 ; Bwlch Bach ;411; R ; -3.643735 ; 52.166473 
+ GB-WLS-0412 ; Bwlch Pennant ;412; S1-2 ; -4.78722 ; 51.95444 
+ GB-WLS-0415 ; Bwlch Greolen ;415; R ; -3.35104 ; 52.79692 
+ GB-WLS-0415a ; Bwlch Cwmmaria ;415; HS ; -4.04127 ; 52.74749 
+ GB-WLS-0415b ; Clwyd Bwlch-y-groes ;415; Minor road ; -3.64181 ; 52.01442 
+ GB-WLS-0416 ; Bwlch-coediog ;416; R ; -3.65012 ; 52.72323 
+ GB-WLS-0421 ; Bwlch y Ddeufaen ;421; R ; -3.92831 ; 53.22815 
+ GB-WLS-0425 ; Blaen-llymwynt Gate ;425; S ; -3.26935 ; 52.39738 
+ GB-WLS-0425a ; Bwlch Cilgwyn ;425; S ; -3.55562 ; 52.39363 
+ GB-WLS-0427 ; Bwlch y Ddeuwynt ;427; HS ; -3.7626 ; 51.84122 
+ GB-WLS-0427a ; Bwlch y Fenni ;427; R ; -3.5292 ; 52.88698 
+ GB-WLS-0429 ; Bwlch Blaen-y-cwm ;429; R ; -3.68155 ; 53.00514 
+ GB-WLS-0430 ; Bwlch y Groes ;430; HS ; -3.8561 ; 53.044843 
+ GB-WLS-0430a ; Pen Bwlch-y-groes ;430; HS ; -3.6156 ; 52.42964 
+ GB-WLS-0435 ; Bwlch Du ;435; R ; -3.36033 ; 52.79283 
+ GB-WLS-0435a ; Bwlch Sycan ;435; HS ; -3.66483 ; 52.74383 
+ GB-WLS-0440 ; Bwlch Tyddiad ;440; S ; -3.99449 ; 52.8509 
+ GB-WLS-0441 ; Bwlch Goleuni ;441; S ; -3.94802 ; 53.10411 
+ GB-WLS-0445 ; Bwlch y Cribwr ;445; S ; -3.60126 ; 52.85942 
+ GB-WLS-0445a ; Bwlch yr Anges ;445; HS ; -3.70064 ; 52.73969 
+ GB-WLS-0446 ; Bwlch Sych ;446; S ; -3.4423 ; 52.79738 
+ GB-WLS-0446a ; Bwlch y Dolydd ;446; R ; -3.28299 ; 52.92481 
+ GB-WLS-0448 ; Bwlch y Main ;448; R ; -3.405053 ; 52.811962 
+ GB-WLS-0449 ; Bwlch y Clawdd ;449; A4061 ; -3.53372 ; 51.6389 
+ GB-WLS-0455 ; Bwlch y Rhosydd ;455; R ; -3.99539 ; 52.99712 
+ GB-WLS-0457 ; Bwlch y Rhiwgyr ;457; S ; -4.03613 ; 52.760375 
+ GB-WLS-0461 ; Bwlch Cerrig Duon ;461; Minor road ; -3.66517 ; 51.88649 
+ GB-WLS-0462 ; Creigiau Bwlch-Hyddgen ;462; R ; -3.82241 ; 52.52821 
+ GB-WLS-0465 ; Bwlch Esgair Gelli ;465; Minor road ; -3.78376 ; 52.20316 
+ GB-WLS-0467 ; Bwlchgarw ;467; S ; -3.597 ; 51.64114 
+ GB-WLS-0467a ; Ffridd y Bwlch ;467; S ; -3.9347 ; 53.01395 
+ GB-WLS-0467b ; Bwlch Maesgwn ;467; S ; -4.1329 ; 53.08075 
+ GB-WLS-0469 ; Bwlch y Greigwen ;469; S ; -3.59186 ; 52.97169 
+ GB-WLS-0475 ; Bwlch Bach a’r Grib ;475; R ; -3.18506 ; 51.96974 
+ GB-WLS-0476 ; Bwlch Graianog ;476; R ; -3.65074 ; 52.96672 
+ GB-WLS-0479 ; Bwlch Nant-gwyn ;479; R ; -3.57524 ; 51.66245 
+ GB-WLS-0483 ; Pen Bwlchycloddiau ;483; Minor road ; -3.684246 ; 52.390903 
+ GB-WLS-0485 ; Bwlch Rhyd y Meirch ;485; R ; -3.79395 ; 52.25031 
+ GB-WLS-0492 ; Bwlch y Cwm ;492; HS ; -3.95043 ; 53.01801 
+ GB-WLS-0495 ; Bwlch Cwm Brwynog ;495; S ; -4.105024 ; 53.080237 
+ GB-WLS-0495a ; Bwlch y Lladron ;495; HS ; -3.52605 ; 51.71858 
+ GB-WLS-0502 ; Bwlch Dros-bern ;502; HS ; -4.19264 ; 53.03359 
+ GB-WLS-0503 ; Bwlch Sirddyn ;503; S ; -3.65435 ; 52.79309 
+ GB-WLS-0504 ; Bwlch y Ci ;504; HS ; -4.13836 ; 53.00782 
+ GB-WLS-0504a ; Bwlchybryngolan ;504; R ; -3.2035 ; 52.28183 
+ GB-WLS-0507 ; Bwlch Cwm Llan ;507; R1 S1-2 ; -4.08221 ; 53.04829 
+ GB-WLS-0508 ; Bwlch Rhiw'r Ychen ;508; HS4 (E) ; -3.976944 ; 53.068056 
+ GB-WLS-0510 ; Bwlch Gwyn ;510; S ; -3.40437 ; 51.83313 
+ GB-WLS-0510a ; Clogwyn Bwlch-y-maen ;510; HS4 (E) ; -3.97726 ; 53.06893 
+ GB-WLS-0515 ; Tarren Bwlch-gwyn ;515; R ; -3.76014 ; 52.5231 
+ GB-WLS-0516 ; Bwlch y Gaseg ;516; HS ; -3.34348 ; 52.95015 
+ GB-WLS-0517 ; Bwlch y Gadair ;517; HS ; -3.64288 ; 52.28514 
+ GB-WLS-0524 ; Bwlch y Ddau Faen ;524; S ; -3.62101 ; 52.21201 
+ GB-WLS-0524a ; Bylchau Rhos-fain ;524; S ; -3.81499 ; 51.84585 
+ GB-WLS-0526 ; Bwlch clorad ;526; HS3-4 ; -3.97135 ; 53.06975 
+ GB-WLS-0527 ; Bwlch yr Afan ;527; A4107 ; -3.562266 ; 51.644865 
+ GB-WLS-0529 ; Bwlch Pen-y-feidiog ;529; Minor road ; -3.807532 ; 52.883342 
+ GB-WLS-0535 ; Bwlch y Fedw ;535; R ; -3.40227 ; 52.91267 
+ GB-WLS-0538 ; Bwlch Cwmdulyn ;538; S ; -4.22306 ; 53.01562 
+ GB-WLS-0540 ; Bwlch y Pentre ;540; HS ; -3.66488 ; 52.99622 
+ GB-WLS-0544 ; Bwlch y Groes ;544; Minor road ; -3.6132 ; 52.7962 
+ GB-WLS-0547 ; Bwlch Meillonen ;547; S ; -4.14747 ; 53.00545 
+ GB-WLS-0550 ; Gospel Pass ;550; Minor road ; -3.11572 ; 52.01011 
+ GB-WLS-0558 ; Bwlch y Pawl ;558; S ; -3.60184 ; 52.82384 
+ GB-WLS-0562 ; Bwlch y Duwynt ;562; R ; -3.59758 ; 51.86427 
+ GB-WLS-0563 ; Bwlch Cynwyd ;563; R ; -3.31731 ; 52.94282 
+ GB-WLS-0565 ; Bwlch Gwylim ;565; HS ; -3.99945 ; 52.8777 
+ GB-WLS-0569 ; Bwlch y Moch ;569; S ; -4.04172 ; 53.07701 
+ GB-WLS-0583 ; Bwlch Stwlan ;583; S ; -3.99587 ; 52.97737 
+ GB-WLS-0590 ; Bwlch Cam ;590; HS ; -3.52317 ; 52.83377 
+ GB-WLS-0590a ; Bwlch y Dwr ;590; HS ; -3.50187 ; 52.85595 
+ GB-WLS-0598 ; Bwlch Cwm Cesig ;598; S ; -4.15351 ; 53.09177 
+ GB-WLS-0599 ; Bwlch ar y Fan ;599; R ; -3.40797 ; 51.87472 
+ GB-WLS-0613 ; Bwlch Bach ;613; S ; -3.068935 ; 51.941378 
+ GB-WLS-0618 ; Bwlch y Fign ;618; HS ; -3.74674 ; 52.75215 
+ GB-WLS-0620 ; Bwlch y Tri Marchog ;620; HS ; -3.93088 ; 53.14531 
+ GB-WLS-0655 ; Bwlch Blaen-Twrch ;655; S ; -3.72131 ; 51.88116 
+ GB-WLS-0710 ; Bwlch Maen Gwynedd ;710; S ; -3.37498 ; 52.8962 
+ GB-WLS-0716 ; Bwlch Giedd ;716; S ; -3.70333 ; 51.87863 
+ GB-WLS-0725 ; Bwlch y Gwyrd ;725; S ; -3.93729 ; 53.20344 
+ GB-WLS-0730 ; Drws Bach ;730; S ; -3.68627 ; 52.77732 
+ GB-WLS-0730a ; Bwlch Tryfan ;730; S ; -4.00101 ; 53.10952 
+ GB-WLS-0733 ; Bwlch Eryl Farchog ;733; S ; -3.95344 ; 53.1511 
+ GB-WLS-0735 ; Bwlch y Marchlyn ;735; S ; -4.06418 ; 53.13305 
+ GB-WLS-0738 ; Bwlch y Brecan ;738; S ; -4.055855 ; 53.13309 
+ GB-WLS-0744 ; Bwlch Ciliau ;744; S (E) S(O - Vélos Interdits 01/05-30/09) ; -4.06146 ; 53.06253 
+ GB-WLS-0785 ; Bwlch y Cywion ;785; S ; -4.05202 ; 53.12753 
+ GB-WLS-0815 ; Bwlch Duwynt ;815; S ; -3.4462 ; 51.87731 
+ GB-WLS-0858 ; Bwlch Coch ;858; S ; -4.05939 ; 53.07554 
+ GB-WLS-0910 ; Bwlch y Ddwy-Glyder ;910; S ; -4.01469 ; 53.10334 
+ GB-WLS-0928 ; Bwlch Cyfryw-drum ;928; S ; -3.97211 ; 53.15477 
+ GB-WLS-0933 ; Bwlch yr Ole Wen ;933; S ; -4.01243 ; 53.14011 
+ GB-WLS-0998 ; Bwlch Glas ;998; S (Vélos interdits 01/05-30/09) ; -4.07963 ; 53.07266 
+ GB-NIR-0220 ; Barnes Gap ;220; Local road ; -7.14467 ; 54.74964 
+ GB-NIR-0275 ; Windy Gap ;275; Local road ; -6.04251 ; 54.32005 
+ GB-NIR-0279 ; Glenshane Pass ;279; A6 ; -6.78862 ; 54.87536 
+ GB-NIR-0338 ; The Gap ;338; Local road ; -6.75611 ; 54.75104 
+ GB-NIR-0405 ; Spelga Pass ;405; Local road ; -6.04224 ; 54.18148 
+ GB-NIR-0450 ; Hare's Gap ;450; S ; -5.97473 ; 54.18989 
+ GB-NIR-0505 ; Windy Gap ;505; S ; -6.09519 ; 54.14786 
+ GB-NIR-0610 ; Cuilcagh Gap ;610; HS ; -7.85639 ; 54.21572 
+ IE-CN-0335 ; Bellavally Gap ;335; R200 ; -7.81765 ; 54.16978 
+ IE-CO-0050 ; Firkeel Gap ;50; R572 ; -10.12187 ; 51.6077 
+ IE-CO-0090 ; Bealbarnish Gap ;90; R575 ; -10.06711 ; 51.61585 
+ IE-CO-0160 ; Barnancleeve ;160; Local road ; -9.52604 ; 51.5582 
+ IE-CO-0185 ; Vaughan Pass ;185; Local road ; -9.44356 ; 51.6662 
+ IE-CO-0201 ; Pass of Keimaneigh ;201; R584 ; -9.30182 ; 51.81444 
+ IE-CO-0210 ; Barnageehy ;210; N71 - Local road ; -9.44806 ; 51.61909 
+ IE-CO-0232 ; Cousane Gap ;232; R585 ; -9.26487 ; 51.75762 
+ IE-CO-0285 ; Healy Pass ;285; R574 ; -9.75673 ; 51.72199 
+ IE-CW-0350 ; Corbut Gap ;350; Local road ; -6.76979 ; 52.65615 
+ IE-CW-0375 ; Cooliagh Gap ;375; R1 ; -6.826986 ; 52.534777 
+ IE-D-0205 ; Barnaslingan ;205; Local road ; -6.17013 ; 53.22039 
+ IE-DL-0108 ; Barnes Gap ;108; N56 ; -7.85905 ; 55.07007 
+ IE-DL-0125 ; Neck of the Ballagh ;125; N56 ; -8.42278 ; 54.73052 
+ IE-DL-0160 ; The Black Gap ;160; R232 ; -7.9318 ; 54.56909 
+ IE-DL-0175 ; Carbat Gap ;175; R252 ; -8.14059 ; 54.87684 
+ IE-DL-0180 ; Barnesmore Gap ;180; N15 - Local road ; -7.92001 ; 54.74482 
+ IE-DL-0246 ; Muckish Gap ;246; R256 ; -8.002758 ; 55.089708 
+ IE-DL-0262 ; Gap of Mamore ;262; Local road ; -7.49783 ; 55.23268 
+ IE-DL-0275a ; Glengesh Pass ;275; R230 ; -8.48748 ; 54.72058 
+ IE-DL-0275b ; Granias Gap ;275; Local road ; -7.32581 ; 55.09503 
+ IE-DL-0498 ; Rocky Gap ;498; HS ; -8.10858 ; 54.98454 
+ IE-DL-0550 ; One Man's Pass ;550; HS ; -8.70234 ; 54.64976 
+ IE-G-0181 ; Mám Gabhna ;181; HS ; -9.640222 ; 53.520712 
+ IE-G-0215 ; Maumcloghaloon ;215; S ; -9.510012 ; 53.51315 
+ IE-G-0255 ; Francis Gap ;255; Local road ; -8.60438 ; 53.12329 
+ IE-G-0265 ; Col of Despondency ;265; HS ; -9.724446 ; 53.562817 
+ IE-G-0317 ; Maumnascalpa ;317; HS ; -9.859154 ; 53.52845 
+ IE-G-0340 ; Maumahoge ;340; HS ; -9.69291 ; 53.5213 
+ IE-G-0419 ; Mám Eidhneach ;419; HS ; -9.82761 ; 53.514 
+ IE-G-0477 ; Maumgeeha ;477; HS ; -9.85043 ; 53.52354 
+ IE-G-0478 ; Maumnageeragh ;478; HS ; -9.83544 ; 53.49595 
+ IE-G-0495 ; Mám Éan ;495; HS ; -9.702788 ; 53.52602 
+ IE-KK-0190 ; Scullogue Gap ;190; R702 ; -6.77613 ; 52.57582 
+ IE-KK-0240 ; Coppanagh Gap ;240; R703 ; -7.02585 ; 52.5475 
+ IE-KY-0055 ; Mám na Gaoithe ;55; Local road ; -10.381353 ; 52.144857 
+ IE-KY-0125 ; Mám an Óraigh ;125; S ; -10.349153 ; 52.14507 
+ IE-KY-0175 ; Maum ;175; Local road ; -10.018157 ; 52.151905 
+ IE-KY-0189 ; Mám Clasach ;189; Local road ; -10.4253 ; 52.14173 
+ IE-KY-0208 ; Coomakesta Pass ;208; N70 ; -10.16661 ; 51.77645 
+ IE-KY-0240 ; Gap of Dunloe ;240; Local road ; -9.644266 ; 51.994367 
+ IE-KY-0240a ; Caha Pass ;240; N71 ; -9.58785 ; 51.79555 
+ IE-KY-0259 ; Ballaghbeama Gap ;259; Local road ; -9.81071 ; 51.94195 
+ IE-KY-0263 ; Moll's Gap ;263; N71 - R568 ; -9.65756 ; 51.93849 
+ IE-KY-0294 ; Maumagarrane ;294; HS ; -10.102899 ; 52.16455 
+ IE-KY-0304 ; Ballaghisheen Pass ;304; Local road ; -9.93358 ; 51.94897 
+ IE-KY-0331 ; Windy Gap ;331; R ; -9.58601 ; 51.93383 
+ IE-KY-0350 ; Windy Gap ;350; S ; -9.93139 ; 52.03222 
+ IE-KY-0390 ; Windy Gap ;390; S ; -10.04471 ; 51.80541 
+ IE-KY-0397 ; Mullaghveal ;397; HS ; -10.25554 ; 52.19059 
+ IE-KY-0456 ; Connor Pass ;456; R560 ; -10.20748 ; 52.18173 
+ IE-KY-0465 ; Windy Gap ;465; HS ; -10.13987 ; 52.17691 
+ IE-LH-0198 ; Windy Gap ;198; Local road ; -6.2742 ; 54.06108 
+ IE-LK-0189 ; Barnagh ;189; N21 ; -9.1337 ; 52.42071 
+ IE-LS-0193 ; Windy Gap ;193; N80 ; -7.12352 ; 52.99571 
+ IE-LS-0435 ; The Cut ;435; Local road ; -7.55707 ; 53.09176 
+ IE-LS-0450 ; Glendine Gap ;450; Local road ; -7.65593 ; 53.04759 
+ IE-MO-0190 ; The Gap ;190; R294 ; -8.94838 ; 54.0912 
+ IE-MO-0197 ; Barnageehy ;197; Local road ; -9.31428 ; 53.95166 
+ IE-MO-0200 ; Barnaderg ;200; Local road ; -9.63236 ; 53.65682 
+ IE-MO-0212 ; Barnacuille ;212; Local road ; -9.82119 ; 54.27337 
+ IE-MO-0315 ; Gap of Glenamadoo ;315; HS ; -9.747342 ; 53.937072 
+ IE-MO-0348 ; Mám Gearr ;348; HS ; -9.626046 ; 54.01626 
+ IE-MO-0355 ; Mame Thomaas ;355; HS ; -9.71371 ; 53.94802 
+ IE-MO-0435 ; Gap of Currafrin ;435; HS ; -9.725723 ; 53.943146 
+ IE-MO-0625 ; Gap of Cushcame ;625; HS ; -9.67813 ; 53.9632 
+ IE-TA-0299 ; Barnagore ;299; R497 ; -8.16246 ; 52.75701 
+ IE-TA-0339 ; The Gap ;339; R668 ; -7.95582 ; 52.24225 
+ IE-TA-0435 ; The Gap ;435; HS ; -7.91859 ; 52.81634 
+ IE-TA-0439 ; Bearna a Bhainbh ;439; HS ; -7.854051 ; 52.237598 
+ IE-TA-0635 ; Gate of Step ;635; HS ; -8.152049 ; 52.369122 
+ IE-WD-0190 ; Bearna a' Fíona ;100; Local road ; -7.841522 ; 52.166889 
+ IE-WD-0323 ; Bearna Sheasca ;323; HS ; -7.587202 ; 52.148447 
+ IE-WD-0333 ; Móin a Mháma ;333; Local road ; -7.605164 ; 52.166047 
+ IE-WD-0363 ; Beárna na gCoileach ;363; HS ; -7.6545 ; 52.233787 
+ IE-WD-0466 ; The Gap ;466; S ; -7.55884 ; 52.27189 
+ IE-WD-0501 ; Bearna Briste ;501; S ; -7.857322 ; 52.223733 
+ IE-WD-0511 ; Barnanmaddra Gap ;511; S ; -7.591496 ; 52.19894 
+ IE-WD-0517 ; Bearna Cloch a' Bhuidéal ;517; S ; -7.897825 ; 52.225954 
+ IE-WD-0656 ; Béal Bhán ;656; S ; -7.593082 ; 52.222309 
+ IE-WW-0140 ; Kilmacrea Pass ;140; Local road ; -6.16953 ; 52.91095 
+ IE-WW-0183 ; Bearna Bán ;183; Local road ; -6.191945 ; 52.972119 
+ IE-WW-0185 ; Kilcavan Gap ;185; R748 - Local road ; -6.47417 ; 52.73833 
+ IE-WW-0245 ; Bearndearg ;245; Local road ; -6.332097 ; 52.90594 
+ IE-WW-0315 ; Barnameelia ;315; Local road ; -6.45881 ; 52.91178 
+ IE-WW-0318 ; Ballygobban Pass ;318; Local road ; -6.44283 ; 52.900325 
+ IE-WW-0319 ; Ballinabarny Gap ;319; Local road ; -6.53234 ; 52.95463 
+ IE-WW-0330 ; Barnacorane ;330; S ; -6.32206 ; 52.89754 
+ IE-WW-0380 ; Three Crosses Pass ;380; Local road ; -6.316915 ; 52.96944 
+ IE-WW-0382 ; Barnaslew ;382; Local road ; -6.372657 ; 52.90141 
+ IE-WW-0450 ; Ballynultagh ;450; Local road ; -6.439406 ; 53.138023 
+ IE-WW-0455 ; Drumgoff Gap ;455; Local road ; -6.383205 ; 52.928608 
+ IE-WW-0475 ; Wicklow Gap ;475; R756 ; -6.3978 ; 53.04187 
+ IE-WW-0478 ; Flag's Pass ;478; S ; -6.34483 ; 52.92193 
+ IE-WW-0485 ; The Stoney Pass ;485; R ; -6.25313 ; 53.10757 
+ IE-WW-0495 ; Sally Gap ;495; R115 - R759 ; -6.31222 ; 53.13778 
+ IE-WW-0495a ; Bearnaveag ;495; R115 ; -6.300645 ; 53.118637 
+ IE-WW-0525 ; Cavanaghs Gap ;525; S ; -6.52523 ; 53.02111 
+ IE-WW-0545 ; Barnalugalish ;545; S2 (S), S2 (W) ; -6.372448 ; 52.923161 
+ IE-WW-0567 ; Lugduff Gap ;567; R1, S2 (N) ; -6.382699 ; 52.98913 
+ IE-WW-0570 ; Cook's Gap ;570; S ; -6.4228 ; 53.01001 
+ IE-WW-0592 ; Lavarnia Gap ;592; HS ; -6.35833 ; 53.11611 
+ IE-WW-0595 ; Billy Birne's Gap ;595; HS ; -6.44361 ; 53.10111 
+ IE-WW-0625 ; Imaal Gap ;625; S ; -6.46611 ; 52.99278 
+ IE-WW-0625a ; Onichabhan Gap ;625; HS ; -6.46222 ; 52.99917 
+ IE-WW-0758 ; Lough Gap ;758; S ; -6.44221 ; 52.96424 
+ IE-WX-0080 ; Darby's Gap ;80; Local road ; -6.53158 ; 52.4708 
+ IE-WX-0230 ; Wicklow Gap ;230; Local road ; -6.35997 ; 52.76477 
+
