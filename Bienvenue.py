@@ -65,7 +65,7 @@ def random_date(start, end):
         
         
         
-if st.button('Généré un utilisateur'):
+if st.button('Générer un utilisateur'):
         st.session_state['data_list'].append(lc.list100cols(id100col=1234,name='Michel Dupond',pseudo='Michel'))
         file=os.listdir('database/basecol/data_website/')
         colAll_list=[]
