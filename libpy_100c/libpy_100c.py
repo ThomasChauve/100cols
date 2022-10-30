@@ -37,6 +37,7 @@ class list100cols:
                 new_pass[6]=date
                 
             npdc=pd.DataFrame([new_pass],columns=['Code', 'Nom', 'Altitude', 'Accès', 'WGS84 Lon D','WGS84 Lat D','Date'])
+            #st.dataframe(npdc)
             #self.cols.loc[int(ii)]=new_pass
             self.cols=pd.concat([self.cols,npdc],axis=0,ignore_index=True)
             txt=new_pass[1]+'est ajouter'
