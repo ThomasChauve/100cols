@@ -3,6 +3,7 @@ import numpy as np
 import pickle
 import plotly.express as px
 import plotly.subplots
+import plotly.graph_objects as go
 
 pd.set_option('display.max_rows', None)
 
@@ -30,12 +31,18 @@ class list_biblio100cols():
             print('Nothing')
         return id
 
-    def plot_map(self,id,ww=1000):
+    def plot_map(self,id,ww=1000,gpx=None):
         
         index=self.database.columns
 
         fig = px.scatter_mapbox(self.database.loc[id], lat=index[5], lon=index[4], hover_name=index[1], hover_data=[index[0], index[2]],
                                 color_discrete_sequence=["blue"], zoom=4,width=0.8*ww,height=0.3*ww)
+        if gpx is not None:
+            index2=gpx.columns
+            fig2 = px.line_mapbox(gpx, lat=index2[1], lon=index2[2], color_discrete_sequence=["red"],width=0.8*ww,height=0.3*ww)
+            fig = go.Figure(data = fig2.data + fig.data)
+            fig.update_mapboxes(center={"lat":gpx['latitude'].mean(),"lon":gpx['longitude'].mean()})
+            fig.update_mapboxes(zoom=9)
+            
         fig.update_layout(mapbox_style="open-street-map")
-        #fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
         return fig
