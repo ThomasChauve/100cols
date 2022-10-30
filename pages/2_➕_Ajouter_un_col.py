@@ -8,6 +8,7 @@ import pickle
 import io
 import os
 import datetime
+import gpxpy
 
 st.set_page_config(page_title="Ajouter un col", page_icon="➕")
 
@@ -26,6 +27,22 @@ def pickle_model(model):
     pickle.dump(model.__dict__, f)
     return f 
 
+def load_gpx(gpxfile):
+    gpx = gpxpy.parse(gpxfile)
+
+    # Convert to a dataframe one point at a time.
+    points = []
+    for segment in gpx.tracks[0].segments:
+        for p in segment.points:
+            points.append({
+                'time': p.time,
+                'latitude': p.latitude,
+                'longitude': p.longitude,
+                'elevation': p.elevation,
+            })
+    df = pd.DataFrame.from_records(points)
+    return df
+
 if len(user_list)!=0:
     with st.sidebar:
         option = st.selectbox('Utilisateur',user_list,index=st.session_state['id_u'],key='u1')
@@ -41,6 +58,8 @@ else:
     st.title('Ajouter un col à '+option)
     file=os.listdir('database/basecol/data_website/')
     op_ly = st.multiselect('Librairie :',file,default='France.csv')
+    uploaded_gpx = st.file_uploader("Charger une trace",type='gpx',accept_multiple_files=False)
+    
     if len(op_ly)!=0:
         colAll_list=[]
         for oo in op_ly:
@@ -69,8 +88,13 @@ else:
 
         if np.sum(id)<5000:
             with st.expander("Montrer sur la carte :"):
-                fig_map=colAll.plot_map(id,ww=width)
+                if uploaded_gpx is not None:
+                    df_gpx=load_gpx(uploaded_gpx)
+                else:
+                    df_gpx=None
+                fig_map=colAll.plot_map(id,ww=width,gpx=df_gpx)
                 st.plotly_chart(fig_map, use_container_width=True, sharing="streamlit")
+                
 
         st.header('Ajouter')
 
