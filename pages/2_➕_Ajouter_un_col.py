@@ -18,6 +18,9 @@ if 'id_u' not in st.session_state:
 if 'data_list' not in st.session_state:
     st.session_state['data_list']=[]
 
+if 'filter_gpx' not in st.session_state:
+    st.session_state['filter_gpx']=False
+
 user_list=[]
 for du in st.session_state['data_list']:
     user_list.append(du.pseudo)
@@ -84,14 +87,29 @@ else:
 
 
         id=colAll.filter_name(f_nom,dep=f_id,alt=aa,print_res=False)
+        if uploaded_gpx is not None:
+            df_gpx=load_gpx(uploaded_gpx)
+        else:
+            df_gpx=None
+        
+        if (np.sum(id)<1000) and (df_gpx is not None):
+            if st.button('Filtrer avec la trace gpx') or st.session_state['filter_gpx']:
+                filter_gpx=True
+                st.session_state['filter_gpx']=True
+                id_nb=np.where(id==True)
+                lim=10**-4
+                gg=np.array(df_gpx)[:,1:3]
+                for i in id_nb[0]:
+                    v=(gg[:,::-1]-np.array(colAll.database.loc[i][4:6]))
+                    nn=np.linalg.norm(np.float32(v),axis=1).min()
+                    if nn > lim:
+                        id[i]=False                    
+
+
         st.dataframe(colAll.database.loc[id])
 
         if np.sum(id)<5000:
             with st.expander("Montrer sur la carte :"):
-                if uploaded_gpx is not None:
-                    df_gpx=load_gpx(uploaded_gpx)
-                else:
-                    df_gpx=None
                 fig_map=colAll.plot_map(id,ww=width,gpx=df_gpx)
                 st.plotly_chart(fig_map, use_container_width=True, sharing="streamlit")
                 
@@ -102,7 +120,6 @@ else:
 
         add_code = st.selectbox('Col à ajouter',colAll.database.loc[id])
 
-
         if st.button('Ajouter'):
             index=list(colAll.database[colAll.database.columns[0]]).index(add_code)
 
@@ -111,3 +128,11 @@ else:
                 st.success(txt, icon="✅")
             else:
                 st.warning(txt, icon="⚠️")
+        if st.session_state['filter_gpx']:
+            if st.button('Ajouter tous les cols'):
+                for i in list(np.where(id)[0]):
+                    txt=st.session_state['data_list'][st.session_state['id_u']].add_pass(colAll.database.loc[i],f_date)
+                    if 'ajouter' in txt:
+                        st.success(txt, icon="✅")
+                    else:
+                        st.warning(txt, icon="⚠️")
