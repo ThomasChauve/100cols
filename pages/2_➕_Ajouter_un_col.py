@@ -92,7 +92,7 @@ else:
         else:
             df_gpx=None
         
-        if (np.sum(id)<1000) and (df_gpx is not None):
+        if (df_gpx is not None):
             if st.button('Filtrer avec la trace gpx') or st.session_state['filter_gpx']:
                 filter_gpx=True
                 st.session_state['filter_gpx']=True
@@ -101,14 +101,12 @@ else:
                 gg=np.array(df_gpx)[:,1:3]
                 my_bar = st.progress(0)
                 k=0
-                st.write(np.sum(id))
                 for i in id_nb[0]:
                     v=(gg[:,::-1]-np.array(colAll.database.loc[i][4:6]))
                     nn=np.linalg.norm(np.float32(v),axis=1).min()
                     if nn > lim:
                         id[i]=False
                     k+=1
-                    st.write(k)
                     my_bar.progress(k/np.sum(id))
 
 
