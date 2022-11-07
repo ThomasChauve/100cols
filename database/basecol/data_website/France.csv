@@ -2470,8 +2470,7 @@
  FR-07-0865 ; Pas del Fuey ;865; D4/CV ; 4.078794 ; 44.501347 
  FR-07-0870 ; Le Col ;865; S1(SE) ; 4.379554 ; 44.919657 
  FR-07-0877 ; Col de la Fayolle ;877; D122/D218/D261 ; 4.443562 ; 44.754883 
- FR-07-0880 ; Col de Hautaizac ;889; R2 S1(S)
-R1-3(S) S3-4 R1(O) ; 4.303116 ; 44.701747 
+ FR-07-0880 ; Col de Hautaizac ;889; R2 S1(S) R1-3(S) S3-4 R1(O) ; 4.303116 ; 44.701747 
  FR-07-0881 ; Col de Clochaux ;875; RF1-2(NO) ; 4.47356 ; 44.798083 
  FR-07-0890 ; Col des Pizes ;890; R1-2(S), R1(O), R2(SO) ; 4.437229 ; 44.881997 
  FR-07-0892 ; Les Coulets ;882; R1-2 ; 4.327702 ; 44.725834 
@@ -3930,8 +3929,7 @@ R1-3(S) S3-4 R1(O) ; 4.303116 ; 44.701747
  FR-26-0186 ; Col de l'Aspre ;186; D117 ; 4.816671 ; 44.239536 
  FR-26-0191 ; Col de Gentil ;191; D74 ; 4.803415 ; 44.613264 
  FR-26-0193 ; Col des Pieux ;195; D59a ; 4.786449 ; 44.326353 
- FR-26-0230 ; Col de Perette ;230; S1-2(SE), S2(S)(N)
-Accès Est privé ; 4.800042 ; 44.610777 
+ FR-26-0230 ; Col de Perette ;230; S1-2(SE), S2(S)(N) Accès Est privé ; 4.800042 ; 44.610777 
  FR-26-0234 ; Col des Deux Serres ;234; D509 ; 4.977445 ; 44.76869 
  FR-26-0248 ; Col de la Grosse Pierre ;248; CV ; 4.945698 ; 44.582685 
  FR-26-0274 ; Pas de Clavel ;274; D571 ; 4.809314 ; 44.389239 
@@ -11350,8 +11348,7 @@ Accès Est privé ; 4.800042 ; 44.610777
  FR-RE-1942 ; Col de Fourche ;1946; RF S (GR R1) ; 55.451287 ; -21.073904 
  FR-RE-1980 ; Col des Bœufs ;1956; R1 (R F 13 du Haut Mafate) ; 55.44861 ; -21.070716 
  FR-RE-2029 ; Ti Col ;2013; S (Sentier du Rampart de Matafe) ; 55.382587 ; -21.062394 
- FR-RE-2082 ; Col du Taïbit ;2081; GR R1/GR R2
-S4 par le Sud (escaliers) ; 55.432778 ; -21.112629 
+ FR-RE-2082 ; Col du Taïbit ;2081; GR R1/GR R2 S4 par le Sud (escaliers) ; 55.432778 ; -21.112629 
  FR-RE-2311 ; Pas de Bellecombe ;2319; S1 S2 ; 55.689199 ; -21.222334 
  FR-RE-2320 ; Col Lacroix ;2320; S1 (FR à 250m) ; 55.673988 ; -21.224909 
  FR-RE-2350 ; Pas des Sables ;2350; RF5 du Volcan goudronnée ; 55.649091 ; -21.231433 
