@@ -107,7 +107,7 @@ else:
                     if nn > lim:
                         id[i]=False
                     k+=1
-                    my_bar.progress(k/np.sum(id))
+                    my_bar.progress(k/(np.sum(id)+1))
 
 
         st.dataframe(colAll.database.loc[id])
