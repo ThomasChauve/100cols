@@ -99,11 +99,13 @@ else:
                 id_nb=np.where(id==True)
                 lim=10**-4
                 gg=np.array(df_gpx)[:,1:3]
-                for i in id_nb[0]:
-                    v=(gg[:,::-1]-np.array(colAll.database.loc[i][4:6]))
+                my_bar = st.progress(0)
+                for i in range(len(id_nb[0]):
+                    v=(gg[:,::-1]-np.array(colAll.database.loc[id_nb[0][i]][4:6]))
                     nn=np.linalg.norm(np.float32(v),axis=1).min()
                     if nn > lim:
-                        id[i]=False                    
+                        id[id_nb[0][i]]=False
+                    my_bar.progress(i + 1)
 
 
         st.dataframe(colAll.database.loc[id])
