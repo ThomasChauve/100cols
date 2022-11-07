@@ -129,21 +129,26 @@ else:
                             if nn > lim:
                                 id[i]=False
                     else:
-                        gcol=np.array(colAll.database)[:,4:6]
-                        xt,xc=np.meshgrid(gg[:,0],gcol[:,0])
-                        res=(xt-xc)**2
-                        del(xt)
-                        del(yt)
-                        gc.collect()
-                        xt,xc=np.meshgrid(gg[:,1],gcol[:,1])
-                        res=(res+(xt-xc)**2)**0.5
-                        del(xt)
-                        del(yt)
-                        gc.collect()
-                        res=np.min(res,axis=-1)
+                        test=True
+                        it=0
+                        
+                        while test:
+                            gcol=np.array(colAll.database)[it:it+1000,4:6]
+                            xt,xc=np.meshgrid(gg[:,0],gcol[:,0])
+                            res=(xt-xc)**2
+                            xt,xc=np.meshgrid(gg[:,1],gcol[:,1])
+                            res=(res+(xt-xc)**2)**0.5
+                            res=np.min(res,axis=-1)
+                            if it==0:
+                                id=res<lim
+                            it+=1000
+                            if i>len(aa):
+                                test=False
+                        
+                        
+                        
                         id=res<lim
-                        del(res)
-                        gc.collect()
+                        
                 st.success('Cols trouvés !')
                 st.session_state['id_f']=id
 
