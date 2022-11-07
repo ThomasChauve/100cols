@@ -101,12 +101,14 @@ else:
                 gg=np.array(df_gpx)[:,1:3]
                 my_bar = st.progress(0)
                 k=0
+                st.write(np.sum(id))
                 for i in id_nb[0]:
                     v=(gg[:,::-1]-np.array(colAll.database.loc[i][4:6]))
                     nn=np.linalg.norm(np.float32(v),axis=1).min()
                     if nn > lim:
                         id[i]=False
-                        k+=1
+                    k+=1
+                    st.write(k)
                     my_bar.progress(k/np.sum(id)*100)
 
 
