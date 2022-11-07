@@ -9,6 +9,7 @@ import datetime
 
 st.set_page_config(page_title="Supprimer un col", page_icon="➖")
 
+st.session_state['d_date']=datetime.date.today()
 st.session_state['filter_gpx']=False
 st.session_state['id_f']=None
 st.session_state['up_gpx']=None

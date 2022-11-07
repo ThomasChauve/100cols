@@ -1,6 +1,5 @@
 import streamlit as st
 from pathlib import Path
-import time
 import numpy as np
 import pickle
 import io
@@ -8,6 +7,7 @@ import datetime
 
 st.set_page_config(page_title="Exporter le rapport", page_icon="📤")
 
+st.session_state['d_date']=datetime.date.today()
 st.session_state['filter_gpx']=False
 st.session_state['id_f']=None
 st.session_state['up_gpx']=None

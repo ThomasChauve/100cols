@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import time
 import numpy as np
 import libpy_100c.libpy_100c as lc
 import libpy_100c.lib_biblio100cols as lb100
@@ -27,6 +26,9 @@ if 'id_f' not in st.session_state:
 
 if 'up_gpx' not in st.session_state:
     st.session_state['up_gpx']=None
+
+if 'd_date' not in st.session_state:
+    st.session_state['d_date']=datetime.date.today()
 
 user_list=[]
 for du in st.session_state['data_list']:
@@ -74,6 +76,7 @@ else:
             st.session_state['filter_gpx']=False
             st.session_state['id_f']=None
             st.session_state['up_gpx']=None
+            st.session_state['d_date']=datetime.date.today()
             uploaded_gpx=None
             st.success('Recherche gpx nettoyée', icon="✅")
             
@@ -145,7 +148,7 @@ else:
                             it+=1000
                             if it>len(np.array(colAll.database)):
                                 test=False
-                                      
+                st.session_state['d_date']=df_gpx.time.loc[0].to_pydatetime().date()                     
                 st.success(str(np.sum(id))+' cols trouvés !')
                 st.session_state['id_f']=id
 
@@ -162,7 +165,7 @@ else:
 
         st.header('Ajouter')
 
-        f_date=st.date_input('Date de monté', label_visibility="visible")
+        f_date=st.date_input('Date de monté',value=st.session_state['d_date'], label_visibility="visible")
 
         add_code = st.selectbox('Col à ajouter',colAll.database.loc[id])
 
