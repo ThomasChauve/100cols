@@ -109,7 +109,7 @@ else:
                         id[i]=False
                     k+=1
                     st.write(k)
-                    my_bar.progress(k/np.sum(id)*100)
+                    my_bar.progress(k/np.sum(id))
 
 
         st.dataframe(colAll.database.loc[id])
