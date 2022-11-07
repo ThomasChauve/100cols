@@ -22,6 +22,7 @@ st.warning("Une fois les modifications réalisées n'oublié pas de télécharge
 
 st.header('Charger les données')
 
+st.session_state['d_date']=datetime.date.today()
 st.session_state['filter_gpx']=False
 st.session_state['id_f']=None
 st.session_state['up_gpx']=None
