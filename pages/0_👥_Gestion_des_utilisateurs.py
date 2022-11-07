@@ -8,6 +8,10 @@ import datetime
 
 st.set_page_config(page_title="Gestion des utilisateurs", page_icon="👥")
 
+st.session_state['filter_gpx']=False
+st.session_state['id_f']=None
+st.session_state['up_gpx']=None
+
 if 'id_u' not in st.session_state:
     st.session_state['id_u'] = 0
 if 'data_list' not in st.session_state:

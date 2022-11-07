@@ -21,6 +21,12 @@ if 'data_list' not in st.session_state:
 if 'filter_gpx' not in st.session_state:
     st.session_state['filter_gpx']=False
 
+if 'id_f' not in st.session_state:
+    st.session_state['id_f']=None
+
+if 'up_gpx' not in st.session_state:
+    st.session_state['up_gpx']=None
+
 user_list=[]
 for du in st.session_state['data_list']:
     user_list.append(du.pseudo)
@@ -46,11 +52,11 @@ def load_gpx(gpxfile):
     df = pd.DataFrame.from_records(points)
     return df
 
+
 if len(user_list)!=0:
     with st.sidebar:
         option = st.selectbox('Utilisateur',user_list,index=st.session_state['id_u'],key='u1')
         st.session_state['id_u']=user_list.index(option)
-
 
 width = 1980
 
@@ -59,8 +65,18 @@ if len(user_list)==0:
     st.warning("Pas d'utilisateur enregistré")
 else:
     st.title('Ajouter un col à '+option)
+    
     file=os.listdir('database/basecol/data_website/')
     op_ly = st.multiselect('Librairie :',file,default='France.csv')
+    
+    if st.button('Clean gpx'):
+            st.session_state['filter_gpx']=False
+            st.session_state['id_f']=None
+            st.session_state['up_gpx']=None
+            uploaded_gpx=None
+            st.success('Recherche gpx nettoyée', icon="✅")
+            
+    
     uploaded_gpx = st.file_uploader("Charger une trace",type='gpx',accept_multiple_files=False)
     
     if len(op_ly)!=0:
@@ -79,35 +95,49 @@ else:
         f_nom=st.text_input('Nom',label_visibility="visible")
         f_alt=st.number_input('Altitude', label_visibility="visible",min_value=int(0))
 
+        
 
         if f_alt==0:
             aa=None
         else:
             aa=f_alt
 
-
-        id=colAll.filter_name(f_nom,dep=f_id,alt=aa,print_res=False)
+        if st.session_state['filter_gpx']:
+            id=st.session_state['id_f']
+        else:
+            id=colAll.filter_name(f_nom,dep=f_id,alt=aa,print_res=False)
+        
         if uploaded_gpx is not None:
             df_gpx=load_gpx(uploaded_gpx)
         else:
             df_gpx=None
-        
+
         if (df_gpx is not None):
-            if st.button('Filtrer avec la trace gpx') or st.session_state['filter_gpx']:
+            if st.button('Filtrer avec la trace gpx'):
                 filter_gpx=True
                 st.session_state['filter_gpx']=True
                 id_nb=np.where(id==True)
                 lim=10**-4
                 gg=np.array(df_gpx)[:,1:3]
-                my_bar = st.progress(0)
-                k=0
-                for i in id_nb[0]:
-                    v=(gg[:,::-1]-np.array(colAll.database.loc[i][4:6]))
-                    nn=np.linalg.norm(np.float32(v),axis=1).min()
-                    if nn > lim:
-                        id[i]=False
-                    k+=1
-                    my_bar.progress(k/len(id_nb[0]))
+                gg=gg[:,::-1]
+                with st.spinner('Recherche col sur la trace ...'):
+                    if np.sum(id)<1000:
+                        for i in id_nb[0]:
+                            v=(gg-np.array(colAll.database.loc[i][4:6]))
+                            nn=np.linalg.norm(np.float32(v),axis=1).min()
+                            if nn > lim:
+                                id[i]=False
+                    else:
+                        gcol=np.array(colAll.database)[:,4:6]
+                        xt,xc=np.meshgrid(gg[:,0],gcol[:,0])
+                        yt,yc=np.meshgrid(gg[:,1],gcol[:,1])
+                        res=np.min(((xt-xc)**2+(yt-yc)**2)**0.5,axis=-1)
+                        id=res<lim
+                    
+                st.success('Cols trouvés !')
+                st.session_state['id_f']=id
+
+
 
 
         st.dataframe(colAll.database.loc[id])
@@ -132,6 +162,7 @@ else:
                 st.success(txt, icon="✅")
             else:
                 st.warning(txt, icon="⚠️")
+
         if st.session_state['filter_gpx']:
             if st.button('Ajouter tous les cols'):
                 for i in list(np.where(id)[0]):
