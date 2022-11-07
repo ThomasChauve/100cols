@@ -130,11 +130,12 @@ else:
                     else:
                         gcol=np.array(colAll.database)[:,4:6]
                         xt,xc=np.meshgrid(gg[:,0],gcol[:,0])
-                        st.write('toto')
-                        #yt,yc=np.meshgrid(gg[:,1],gcol[:,1])
-                        #res=np.min(((xt-xc)**2+(yt-yc)**2)**0.5,axis=-1)
-                        #id=res<lim
-                    
+                        res=(xt-xc)**2
+                        xt,xc=np.meshgrid(gg[:,1],gcol[:,1])
+                        res=(res+(xt-xc)**2)**0.5
+                        res=np.min(res,axis=-1)
+                        id=res<lim
+                        del(res)
                 st.success('Cols trouvés !')
                 st.session_state['id_f']=id
 
