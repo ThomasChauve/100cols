@@ -131,7 +131,6 @@ else:
                     else:
                         test=True
                         it=0
-                        
                         while test:
                             gcol=np.array(colAll.database)[it:it+1000,4:6]
                             xt,xc=np.meshgrid(gg[:,0],gcol[:,0])
@@ -141,14 +140,12 @@ else:
                             res=np.min(res,axis=-1)
                             if it==0:
                                 id=res<lim
+                            else:
+                                id=np.concatenate([id,res<lim])
                             it+=1000
                             if i>len(aa):
                                 test=False
-                        
-                        
-                        
-                        id=res<lim
-                        
+                                      
                 st.success('Cols trouvés !')
                 st.session_state['id_f']=id
 
