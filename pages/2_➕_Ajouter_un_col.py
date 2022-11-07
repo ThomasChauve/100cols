@@ -9,6 +9,7 @@ import io
 import os
 import datetime
 import gpxpy
+import gc
 
 st.set_page_config(page_title="Ajouter un col", page_icon="➕")
 
@@ -133,13 +134,16 @@ else:
                         res=(xt-xc)**2
                         del(xt)
                         del(yt)
+                        gc.collect()
                         xt,xc=np.meshgrid(gg[:,1],gcol[:,1])
                         res=(res+(xt-xc)**2)**0.5
                         del(xt)
                         del(yt)
+                        gc.collect()
                         res=np.min(res,axis=-1)
                         id=res<lim
                         del(res)
+                        gc.collect()
                 st.success('Cols trouvés !')
                 st.session_state['id_f']=id
 
