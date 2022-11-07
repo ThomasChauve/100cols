@@ -75,7 +75,7 @@ class list100cols:
         index=self.cols.columns
 
         fig = px.scatter_mapbox(self.cols, lat=index[5], lon=index[4], hover_name=index[1], hover_data=[index[0], index[2],index[6]],
-                                color_discrete_sequence=["blue"], zoom=4,width=0.8*ww,height=0.3*ww)
+                                color_discrete_sequence=["blue"], zoom=7,width=0.8*ww,height=0.3*ww)
         fig.update_layout(mapbox_style="open-street-map")
         #fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
         return fig
