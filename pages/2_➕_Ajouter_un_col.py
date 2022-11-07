@@ -146,7 +146,7 @@ else:
                             if it>len(np.array(colAll.database)):
                                 test=False
                                       
-                st.success('Cols trouvés !')
+                st.success(str(np.sum(id))+' cols trouvés !')
                 st.session_state['id_f']=id
 
 
