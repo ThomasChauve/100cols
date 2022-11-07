@@ -143,7 +143,7 @@ else:
                             else:
                                 id=np.concatenate([id,res<lim])
                             it+=1000
-                            if i>len(aa):
+                            if it>len(np.array(colAll.database)):
                                 test=False
                                       
                 st.success('Cols trouvés !')
