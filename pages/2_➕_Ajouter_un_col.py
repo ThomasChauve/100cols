@@ -100,7 +100,7 @@ else:
                 lim=10**-4
                 gg=np.array(df_gpx)[:,1:3]
                 my_bar = st.progress(0)
-                for i in range(len(id_nb[0]):
+                for i in range(len(id_nb[0])):
                     v=(gg[:,::-1]-np.array(colAll.database.loc[id_nb[0][i]][4:6]))
                     nn=np.linalg.norm(np.float32(v),axis=1).min()
                     if nn > lim:
