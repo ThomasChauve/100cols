@@ -117,6 +117,11 @@ class list100cols:
         return fig
     
     
+    def export_excel(self,name,idclub,datelim,out):
+        tt=self.cols.copy()
+        tt=tt[tt.Date>=datelim].sort_values(by='Date')
+        tt.to_excel(out+'.xlsx')
+
     def export_pdf(self,name,idclub,datelim,out):
         # Process the pass to send
         # remove unnacessary information

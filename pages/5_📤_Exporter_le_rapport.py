@@ -58,5 +58,7 @@ else:
     if st.button('Générer rapport'):
         st.session_state['data_list'][st.session_state['id_u']].export_pdf(o_nom,o_id,o_date,st.session_state['data_list'][st.session_state['id_u']].pseudo+str(o_date.year))
         st.success('Export réussit !', icon="✅")
-        st.download_button('Télécharger le rapport de '+ st.session_state['data_list'][st.session_state['id_u']].pseudo,send_pdf(st.session_state['data_list'][st.session_state['id_u']].pseudo+str(o_date.year)+'.pdf'),file_name=st.session_state['data_list'][st.session_state['id_u']].pseudo+str(datetime.date.today())+'.pdf',key='er')
-
+        st.download_button('(pdf) Télécharger le rapport de '+ st.session_state['data_list'][st.session_state['id_u']].pseudo,send_pdf(st.session_state['data_list'][st.session_state['id_u']].pseudo+str(o_date.year)+'.pdf'),file_name=st.session_state['data_list'][st.session_state['id_u']].pseudo+str(datetime.date.today())+'.pdf',key='er')
+        # Export using excel file
+        st.session_state['data_list'][st.session_state['id_u']].export_excel(o_nom,o_id,o_date,st.session_state['data_list'][st.session_state['id_u']].pseudo+str(o_date.year))
+        st.download_button('(excel) Télécharger le rapport de '+ st.session_state['data_list'][st.session_state['id_u']].pseudo,send_pdf(st.session_state['data_list'][st.session_state['id_u']].pseudo+str(o_date.year)+'.xlsx'),file_name=st.session_state['data_list'][st.session_state['id_u']].pseudo+str(datetime.date.today())+'.xlsx',key='er2')
