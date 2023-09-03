@@ -121,7 +121,7 @@ else:
                 filter_gpx=True
                 st.session_state['filter_gpx']=True
                 id_nb=np.where(id==True)
-                lim=10**-4
+                lim=2*10**-4
                 gg=np.array(df_gpx)[:,1:3]
                 gg=gg[:,::-1]
                 with st.spinner('Recherche col sur la trace ...'):
