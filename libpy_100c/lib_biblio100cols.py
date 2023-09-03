@@ -11,6 +11,7 @@ class list_biblio100cols():
 
     def __init__(self,filename='database/basecol/data_website/all_col.csv'):
         colFrance=pd.read_csv(filename,delimiter=';')
+        colFrance[colFrance.columns[0]]=colFrance[colFrance.columns[0]].str.replace(' ', '')
         colFrance[colFrance.columns[2]]=np.float64(colFrance[colFrance.columns[2]])
         colFrance[colFrance.columns[4]]=np.float64(colFrance[colFrance.columns[4]])
         colFrance[colFrance.columns[5]]=np.float64(colFrance[colFrance.columns[5]])
