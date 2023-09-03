@@ -43,3 +43,6 @@ else:
 
 if st.button('Remove space in code'):
     st.session_state['data_list'][st.session_state['id_u']].cols.Code=st.session_state['data_list'][st.session_state['id_u']].cols.Code.str.replace(' ', '')
+
+if st.button('Trouver et supprimer les doubles'):
+    st.write('Pas encore implementé !')
