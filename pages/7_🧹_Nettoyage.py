@@ -41,8 +41,13 @@ if len(user_list)==0:
 else:
     st.title("Nettoyage des cols de "+ option)
 
-if st.button('Remove space in code'):
+    st.markdown('- 3 septembre 2023 : Enlever les espaces de Code !')
+
+if st.button('Enlever espace dans Code'):
     st.session_state['data_list'][st.session_state['id_u']].cols.Code=st.session_state['data_list'][st.session_state['id_u']].cols.Code.str.replace(' ', '')
+    st.success('Espace enlevé !', icon="✅")
 
 if st.button('Trouver et supprimer les doubles'):
-    st.write('Pas encore implementé !')
+    bf=len(st.session_state['data_list'][st.session_state['id_u']].cols)
+    st.session_state['data_list'][st.session_state['id_u']].cols.drop_duplicates(subset=['Code', 'style'], keep='first')
+    st.success('Double supprimé :'+bf-len(st.session_state['data_list'][st.session_state['id_u']].cols), icon="✅")
