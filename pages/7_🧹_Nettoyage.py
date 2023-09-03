@@ -49,5 +49,5 @@ if st.button('Enlever espace dans Code'):
 
 if st.button('Trouver et supprimer les doubles'):
     bf=len(st.session_state['data_list'][st.session_state['id_u']].cols)
-    st.session_state['data_list'][st.session_state['id_u']].cols.drop_duplicates(subset=['Code', 'style'], keep='first')
+    st.session_state['data_list'][st.session_state['id_u']].cols.drop_duplicates(subset=['Code'], keep='first')
     st.success('Double supprimé :'+bf-len(st.session_state['data_list'][st.session_state['id_u']].cols), icon="✅")
