@@ -112,9 +112,9 @@ class list100cols:
         tmp_2B=0
         for n in a:
             c=dep.count(n)
-            if n ='2A':
+            if n =='2A':
                 tmp_2A=c
-            elif n = '2B':
+            elif n == '2B':
                 tmp_2B=c
             else:
                 df.loc[i]=[n,c]
