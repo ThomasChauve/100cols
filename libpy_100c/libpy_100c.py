@@ -65,17 +65,8 @@ class list100cols:
                 nn.append('+2000 m')
             else:
                 nn.append('-2000 m')
-
-        try:
-            dty = [dt.year for dt in self.cols.Date.tolist()]
-        except AttributeError as e:
-            print("Error: Unable to access 'year' attribute. Please ensure 'Date' column contains datetime objects.")
-            print(e)  # Print the original error message for further diagnosis
-            # Handle the error gracefully, e.g., by providing a default value or logging the error
-
-        bin_edges = pd.date_range(start=dty.min(), end=dty.max() + pd.Timedelta(days=365), freq='365D', closed='left')
         
-        fig=px.histogram(self.cols,x='Date',pattern_shape=nn, nbins=len(bin_edges)-1, range_x=[bin_edges[0], bin_edges[-1]])
+        fig=px.histogram(self.cols,x='Date',pattern_shape=nn)
         #fig.show()
         return fig
     
