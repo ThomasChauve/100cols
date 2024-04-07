@@ -108,11 +108,20 @@ class list100cols:
         c=[]
         df=pd.DataFrame(columns=['Departement','Nombre de col'])
         i=0
+        tmp_2A=0
+        tmp_2B=0
         for n in a:
             c=dep.count(n)
-            df.loc[i]=[n,c]
-            i=i+1
-            
+            if n ='2A':
+                tmp_2A=c
+            elif n = '2B':
+                tmp_2B=c
+            else:
+                df.loc[i]=[n,c]
+                i=i+1
+        if tmp_2A+tmp_2B != 0:
+            df.loc[i]=[n,tmp_2A+tmp_2B]
+        
         fig = px.bar(df.sort_values(by=['Departement']), x='Departement', y="Nombre de col")
         return fig
     
