@@ -120,7 +120,7 @@ class list100cols:
                 df.loc[i]=[n,c]
                 i=i+1
         if tmp_2A+tmp_2B != 0:
-            df.loc[i]=[20,tmp_2A+tmp_2B]
+            df.loc[i]=['20',tmp_2A+tmp_2B]
         
         fig = px.bar(df.sort_values(by=['Departement']), x='Departement', y="Nombre de col")
         return fig
