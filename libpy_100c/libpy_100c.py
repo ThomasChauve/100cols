@@ -65,7 +65,8 @@ class list100cols:
                 nn.append('+2000 m')
             else:
                 nn.append('-2000 m')
-        
+
+        print(type(self.cols.Date))
         dty = [dt.year for dt in self.cols.Date.to_datetime()]
         bin_edges = pd.date_range(start=dty.min(), end=dty.max() + pd.Timedelta(days=365), freq='365D', closed='left')
         
