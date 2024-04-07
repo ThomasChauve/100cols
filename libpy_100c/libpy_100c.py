@@ -40,7 +40,7 @@ class list100cols:
             #st.dataframe(npdc)
             #self.cols.loc[int(ii)]=new_pass
             self.cols=pd.concat([self.cols,npdc],axis=0,ignore_index=True)
-            txt=new_pass[1]+'est ajouter'
+            txt=new_pass[1]+' est ajouter'
             return txt
             
     def del_pass(self,id):
