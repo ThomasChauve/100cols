@@ -160,7 +160,7 @@ else:
         if np.sum(id)<5000:
             with st.expander("Montrer sur la carte :"):
                 fig_map=colAll.plot_map(id,ww=width,gpx=df_gpx)
-                st.plotly_chart(fig_map, use_container_width=True, sharing="streamlit")
+                st.plotly_chart(fig_map, use_container_width=True)
                 
 
         st.header('Ajouter')
