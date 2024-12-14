@@ -54,15 +54,15 @@ else:
         fig_dep=st.session_state['data_list'][st.session_state['id_u']].plot_dep()
 
 
-        st.plotly_chart(fig_map, use_container_width=True, sharing="streamlit")
+        st.plotly_chart(fig_map, use_container_width=True)
 
         col1, col2 = st.columns(2)
 
         with col1:
-            st.plotly_chart(fig_hist, use_container_width=True, sharing="streamlit")
+            st.plotly_chart(fig_hist, use_container_width=True)
         with col2:
-            st.plotly_chart(fig_cum, use_container_width=True, sharing="streamlit")
+            st.plotly_chart(fig_cum, use_container_width=True)
         with col1:
-            st.plotly_chart(fig_pays, use_container_width=True, sharing="streamlit")
+            st.plotly_chart(fig_pays, use_container_width=True)
         with col2:
-            st.plotly_chart(fig_dep, use_container_width=True, sharing="streamlit")
+            st.plotly_chart(fig_dep, use_container_width=True)
