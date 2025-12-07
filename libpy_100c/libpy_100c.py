@@ -58,17 +58,26 @@ class list100cols:
         return fig
         
     def plot_histogram(self):
-        ps=self.cols['Altitude']>=2000
-        nn=[]
-        for i in ps:
-            if i:
-                nn.append('+2000 m')
-            else:
-                nn.append('-2000 m')
-        
-        fig=px.histogram(self.cols,x='Date',pattern_shape=nn)
-        #fig.show()
-        return fig
+
+        ps = self.cols['Altitude'] >= 2000
+        nn = ['+2000 m' if i else '-2000 m' for i in ps]
+    
+        fig = px.histogram(
+            self.cols,
+            x="Date",
+            pattern_shape=nn,
+        )
+    
+        fig.update_traces(
+            xbins=dict(
+                start=self.cols["Date"].min(),
+                end=self.cols["Date"].max(),
+                size="1Y"
+            )
+        )
+
+    return fig
+
     
     def plot_map(self,ww=1000):
         
