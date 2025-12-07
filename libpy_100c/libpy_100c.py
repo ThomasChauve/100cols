@@ -57,30 +57,47 @@ class list100cols:
         #fig.show()
         return fig
         
-    def plot_histogram(self):
-        # defensive copy
-        df = self.cols.copy()
     
-        # ensure Date is datetime
+    def plot_histogram(self, barmode='stack'):
+        """
+        barmode: 'stack' or 'group'  -> stacking vs side-by-side bars for altitude groups
+        Returns a Plotly figure with exactly one bar per calendar year (Jan 1 -> Dec 31).
+        """
+    
+        # defensive copy and ensure datetime
+        df = self.cols.copy()
         df['Date'] = pd.to_datetime(df['Date'])
     
-        # year bin (Jan 1 -> Dec 31)
-        df['Year'] = df['Date'].dt.year.astype(str)   # string keeps axis tidy
+        # year column (calendar year: Jan 1 -> Dec 31)
+        df['Year'] = df['Date'].dt.year
     
-        # altitude group for pattern/colour
+        # altitude group
         df['alt_group'] = np.where(df['Altitude'] >= 2000, '+2000 m', '-2000 m')
     
-        # histogram per year — use pattern_shape or color depending on what you want visually
-        fig = px.histogram(
-            df,
-            x='Year',                 # one bar per year
-            pattern_shape='alt_group',# or color='alt_group' if you prefer color
-            labels={'Year': 'Year', 'count': 'Count'},
-            category_orders={'Year': sorted(df['Year'].unique(), key=int)}  # ensure chronological order
+        # aggregate counts per year & alt_group
+        counts = (
+            df
+            .groupby(['Year', 'alt_group'])
+            .size()
+            .reset_index(name='count')
+            .sort_values('Year')
         )
     
-        # optional layout tweaks
-        fig.update_layout(bargap=0.15)
+        # make Year a string for nicer categorical axis labels (keeps chronological order)
+        counts['Year'] = counts['Year'].astype(str)
+    
+        # plotting: bar per year, colored by altitude group
+        fig = px.bar(
+            counts,
+            x='Year',
+            y='count',
+            color='alt_group',
+            labels={'count': 'Count', 'Year': 'Year', 'alt_group': 'Altitude'},
+            category_orders={'Year': sorted(counts['Year'].unique(), key=int)}
+        )
+    
+        fig.update_layout(barmode=barmode, bargap=0.15, xaxis_title='Year', yaxis_title='Count')
+    
         return fig
 
     
