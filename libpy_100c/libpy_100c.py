@@ -58,7 +58,6 @@ class list100cols:
         return fig
         
     def plot_histogram(self):
-
         ps = self.cols['Altitude'] >= 2000
         nn = ['+2000 m' if i else '-2000 m' for i in ps]
     
@@ -76,7 +75,7 @@ class list100cols:
             )
         )
 
-    return fig
+        return fig
 
     
     def plot_map(self,ww=1000):
