@@ -58,23 +58,29 @@ class list100cols:
         return fig
         
     def plot_histogram(self):
-        ps = self.cols['Altitude'] >= 2000
-        nn = ['+2000 m' if i else '-2000 m' for i in ps]
+        # defensive copy
+        df = self.cols.copy()
     
+        # ensure Date is datetime
+        df['Date'] = pd.to_datetime(df['Date'])
+    
+        # year bin (Jan 1 -> Dec 31)
+        df['Year'] = df['Date'].dt.year.astype(str)   # string keeps axis tidy
+    
+        # altitude group for pattern/colour
+        df['alt_group'] = np.where(df['Altitude'] >= 2000, '+2000 m', '-2000 m')
+    
+        # histogram per year — use pattern_shape or color depending on what you want visually
         fig = px.histogram(
-            self.cols,
-            x="Date",
-            pattern_shape=nn,
+            df,
+            x='Year',                 # one bar per year
+            pattern_shape='alt_group',# or color='alt_group' if you prefer color
+            labels={'Year': 'Year', 'count': 'Count'},
+            category_orders={'Year': sorted(df['Year'].unique(), key=int)}  # ensure chronological order
         )
     
-        fig.update_traces(
-            xbins=dict(
-                start=self.cols["Date"].min(),
-                end=self.cols["Date"].max(),
-                size="1Y"
-            )
-        )
-
+        # optional layout tweaks
+        fig.update_layout(bargap=0.15)
         return fig
 
     
